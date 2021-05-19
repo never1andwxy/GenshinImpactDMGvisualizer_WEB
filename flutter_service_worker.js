@@ -3,23 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c7e82932ec8662c1fee0bb2f31413425",
-"assets/assets/2020031618522830538.png": "b2ae29ad28899dd0e328d2bcf471d294",
-"assets/assets/2020060220525531988.png": "26df7dfed0366db816715dd7f9a906de",
-"assets/assets/2021010519290354247.png": "f983469684d470be250be8498e777ab2",
-"assets/assets/Character_Ganyu_Portrait.png": "4a18a82fa9021dc7e86a48b2c8658fb9",
-"assets/assets/Icon_Circlet_of_Logos.png": "81d3b09a70bcedc669b143593b885797",
-"assets/assets/Icon_Flower_of_Life.png": "c52f1e5c6b97dfc1a208ee2eae7759ba",
-"assets/assets/Icon_Goblet_of_Eonothem.png": "d0ce90ab349d31b5d8742f2a48aac2fd",
-"assets/assets/Icon_Plume_of_Death.png": "1846a7ba843caf5368380763aac9d090",
-"assets/assets/Icon_Sands_of_Eon.png": "8ae562990de4e122da5c5da057abc8b3",
-"assets/assets/Item_Gladiator_Nostalgia.png": "cf2f1210ba178460be93bd2f73ad5a4f",
-"assets/assets/Item_Maiden's_Distant_Love.png": "b611a36152d1a89abb8217fa821c5777",
-"assets/assets/Item_Royal_Flora.png": "41cc3f3f6b2da1cc3802b1454d865f36",
-"assets/assets/Item_Snowswept_Memory.png": "a0ee2d2b82b06e6e109fa2793e12a53c",
-"assets/assets/Item_Thunderbird's_Mercy.png": "242f458f37e9248c09e79b536705bb07",
-"assets/assets/Item_Thundersoother's_Heart.png": "90d5964f3970a23a09d69d3f8ac0a896",
-"assets/assets/Item_Troupes_Dawnlight.png": "7fc9b4cf77eb493f4329d8653b317542",
+  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "cf9c68ff70981ad439fe4854733964d3",
@@ -27,9 +11,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "34933f3f985f3bde5e8d5d127dc55fd4",
-"/": "34933f3f985f3bde5e8d5d127dc55fd4",
-"main.dart.js": "3d26bbbe1ca989323a6cdc3431441cc5",
+"index.html": "4587db2f5c82f2b1672e812e935cfb01",
+"/": "4587db2f5c82f2b1672e812e935cfb01",
+"main.dart.js": "34b0b21e691da1bf4ff37bedb5ce71c2",
 "manifest.json": "253add2ff1b6b5c38fa07f6bcc0fa359",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
 };
