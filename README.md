@@ -115,8 +115,8 @@ Feedback, Suggestion and Bug report
 
 Before you do bug report. Please check the wiki online for damage calculation. (We didn’t know that the cryo damage plus won’t affect superconduct damage before making the app either)
 
-Buy us half cup of coffee or 50primos
+Buy us a cup of coffee or 150primos
 -----------------------------------
 Thanks for your support.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=67PP6KHPRB35E&lc=US&item_name=half%20cup%20of%20coffee&amount=1%2e00&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=67PP6KHPRB35E&lc=US&item_name=A%20cup%20of%20coffee&amount=2%2e50&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted)
