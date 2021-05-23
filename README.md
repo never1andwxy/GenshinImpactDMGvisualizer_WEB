@@ -5,7 +5,7 @@
 Genshin Damage Calculator & Visualizer
 ====================================================
 
-**[https://genshin.yunlu18.net/](https://genshin.yunlu18.net/){:target="_blank" rel="noopener"}**
+**[https://genshin.yunlu18.net/](https://genshin.yunlu18.net/)**
 ================================================================
 
 About this project
