@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5f66fc775037bfc7a3a77586bb393f43",
+  "assets/AssetManifest.json": "1bddd7e2a566a51fc7a66a4362ec0055",
 "assets/assets/langs/en.json": "2acc71a0b5b130b5d68293dbc893ef85",
 "assets/assets/langs/zh-Hans.json": "e80d884b2a1d5eb2fc5865062765c5f2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -45,6 +45,8 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_The_Stringless.png": "0dd895f344d5c19aa5d4c4ef3e058dbf",
 "assets/images/weapon/Weapon_The_Viridescent_Hunt.png": "65a4d6125959ece649a72d528874da2a",
 "assets/images/weapon/Weapon_Windblume_Ode.png": "c07975c903954937c2e4b94e583abee5",
+"assets/langs/en.json": "2acc71a0b5b130b5d68293dbc893ef85",
+"assets/langs/zh-Hans.json": "e80d884b2a1d5eb2fc5865062765c5f2",
 "assets/NOTICES": "1fc28049d29c53b619063f2dcd372aaf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -79,8 +81,8 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-"index.html": "54734555ca3189857f978fe5d3c498b4",
-"/": "54734555ca3189857f978fe5d3c498b4",
+"index.html": "2500b5b97a219376fede65ffe519ced0",
+"/": "2500b5b97a219376fede65ffe519ced0",
 "main.dart.js": "7c5be66d5296626ad0f0fd7f5c7314d5",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
