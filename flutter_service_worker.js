@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9fa9e1fb1f5102f627bb3bc45f76e76f",
+  "assets/AssetManifest.json": "447fd6b2b11b4a09120d8aecbbf195db",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -20,6 +20,7 @@ const RESOURCES = {
 "assets/images/Icon_Plume_of_Death.png": "1846a7ba843caf5368380763aac9d090",
 "assets/images/Icon_Sands_of_Eon.png": "8ae562990de4e122da5c5da057abc8b3",
 "assets/images/Item_Gladiator_Nostalgia.png": "cf2f1210ba178460be93bd2f73ad5a4f",
+"assets/images/Item_Magnificent_Tsuba.png": "ba570ff6e274b335e57a3146d11b533a",
 "assets/images/Item_Maiden's_Distant_Love.png": "b611a36152d1a89abb8217fa821c5777",
 "assets/images/Item_Reminiscence_of_Shime.png": "4f945edce0982d33c55ebbb34ef54492",
 "assets/images/Item_Royal_Flora.png": "41cc3f3f6b2da1cc3802b1454d865f36",
@@ -27,6 +28,7 @@ const RESOURCES = {
 "assets/images/Item_Thunderbird's_Mercy.png": "242f458f37e9248c09e79b536705bb07",
 "assets/images/Item_Thundersoother's_Heart.png": "90d5964f3970a23a09d69d3f8ac0a896",
 "assets/images/Item_Troupes_Dawnlight.png": "7fc9b4cf77eb493f4329d8653b317542",
+"assets/images/Item_Witch's_Flower_of_Blaze.png": "3c5d2df1beb87d9c66d42bc49f8319ec",
 "assets/images/weapon/Weapon_Alley_Hunter.png": "fdbd85c7223e1ac4d21e03c20b311837",
 "assets/images/weapon/Weapon_Amenoma_Kageuchi.png": "060af4a78e0021cdd7b77393868a05ff",
 "assets/images/weapon/Weapon_Amos.png": "377764f08e63aca76600da29bdd68620",
@@ -56,8 +58,8 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Windblume_Ode.png": "c07975c903954937c2e4b94e583abee5",
 "assets/images/yoimiya.png": "e52a60c7084c8680570d348764c79bb9",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
-"assets/langs/en.json": "d73272e569f65a9e25a848843b05066b",
-"assets/langs/zh-Hans.json": "0013caf09afb140444627bb679441402",
+"assets/langs/en.json": "3e7720e22ed4ac3f18298a78296c9fac",
+"assets/langs/zh-Hans.json": "1ad35617d80f416b56c194e4bfb9d9eb",
 "assets/NOTICES": "c5c93c3c2d4a938b13dd07b78f892785",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -92,9 +94,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-"index.html": "321cc5de019f02f3f7e93cec0fa468d3",
-"/": "321cc5de019f02f3f7e93cec0fa468d3",
-"main.dart.js": "6b4112fba030e8e1fc14c51239d75a9f",
+"index.html": "5630333208b789b567f9b556ea244281",
+"/": "5630333208b789b567f9b556ea244281",
+"main.dart.js": "3059782c894fc752d5f007b89c18c891",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
 };

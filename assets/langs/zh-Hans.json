@@ -50,7 +50,7 @@
     "Increase Normal Attack DMG by 35% (Using sword/claymore/poleram)": "普通攻击伤害 + 35%，(单手剑、双手剑、长柄武器角色)",
     "Character Healing Effectiveness +15%": "角色治疗效果 + 15%",
     "Healing Received +20%": "全队受到治疗效果 + 20%",
-    "Electro DMG Bonus +15%": "雷属性伤害 + 20%",
+    "Electro DMG Bonus +15%": "雷元素伤害 + 20%",
     "Set artifact stats:": "设置圣遗物副属性:",
     "DMG Against Opponents Affected By Electro +35%": "对雷元素附着敌人造成的伤害 + 35%",
     "ATK": "攻击力",
@@ -303,5 +303,14 @@
     "Protector's Virtue": "护国的无垢之心",
     "Protector's Virtue: HP +": "护国的无垢之心:生命值+",
     "% & ATK + ": "% & 攻击力+",
-    "% of Max HP": "% 的最大生命值"
+    "% of Max HP": "% 的最大生命值",
+    "Crimson Witch of Flames":"炽烈的炎之魔女",
+    "Emblem of Severed Fate":"绝缘之旗印",
+    "witch2":"魔女2",
+    "witch4":"魔女4",
+    "Crimson Witch of Flames 2 Set":"魔女2",
+    "Crimson Witch of Flames 4 Set":"魔女4",
+    "Overloaded and Burning Damage":"超载与燃烧伤害",
+    "Vaporize and Melt Damage":"蒸发与融化伤害",
+    "2-Piece Set Bonus +50% of its starting value (Max 3 stacks)":"2件套的效果提高50%（最多叠加3层）"
 }
