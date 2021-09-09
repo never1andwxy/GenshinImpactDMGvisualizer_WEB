@@ -65,8 +65,8 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Windblume_Ode.png": "c07975c903954937c2e4b94e583abee5",
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
-"assets/langs/en.json": "e47805c53bea965f9655f6def19a7415",
-"assets/langs/zh-Hans.json": "18727a9e9e7ae44506389c132bfbe3f0",
+"assets/langs/en.json": "92622d7c83c073e2d54fb7cff82572aa",
+"assets/langs/zh-Hans.json": "4c0733006d9a61412f2758a38aa30c31",
 "assets/NOTICES": "c5c93c3c2d4a938b13dd07b78f892785",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -101,9 +101,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-"index.html": "263d08b5d0c9106978f40eaba1127ddf",
-"/": "263d08b5d0c9106978f40eaba1127ddf",
-"main.dart.js": "b1ada87eb436c17c4824104c2906070e",
+"index.html": "bc34f0f0422e1a24021fe9cab5433cbc",
+"/": "bc34f0f0422e1a24021fe9cab5433cbc",
+"main.dart.js": "c71691867872573bb3ff50af91ab5e22",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
 };
