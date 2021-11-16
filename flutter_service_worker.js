@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "965e408c4e7a5dd269a72ac0ed963ceb",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
 "assets/images/2020031618522830538.png": "b2ae29ad28899dd0e328d2bcf471d294",
 "assets/images/2020060220525531988.png": "26df7dfed0366db816715dd7f9a906de",
@@ -71,10 +71,10 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Windblume_Ode.png": "c07975c903954937c2e4b94e583abee5",
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
-"assets/langs/en.json": "8b73170c66bbc6dcb88a2e5af5680033",
-"assets/langs/ja-JP.json": "01afaf1e11e80bb0903cbfec47755cc5",
-"assets/langs/zh-Hans.json": "4f509e3e2361e7ef4f6fa303e2860dc5",
-"assets/NOTICES": "c5c93c3c2d4a938b13dd07b78f892785",
+"assets/langs/en.json": "80c79c144dace868c2ccc1e46a53a17d",
+"assets/langs/ja-JP.json": "8b1a18ef4a074c185245cc6df8357f0c",
+"assets/langs/zh-Hans.json": "e3934e715f9b3060d32408af27d3555e",
+"assets/NOTICES": "83ead99903989e50d0e7de03f2b677ac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -108,9 +108,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-"index.html": "1ff4e2d47bf4a8a4275db166f6e5ed5c",
-"/": "1ff4e2d47bf4a8a4275db166f6e5ed5c",
-"main.dart.js": "2c886a8815822c6806ef2692452a32a6",
+"index.html": "af45c3e7c31b01cbad235ec3ea1471b5",
+"/": "af45c3e7c31b01cbad235ec3ea1471b5",
+"main.dart.js": "5002ad6b75fa19de08273485c711b627",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
 };
@@ -130,7 +130,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
