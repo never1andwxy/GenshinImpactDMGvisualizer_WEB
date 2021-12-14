@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f3df965ba2122fce1e26c1d82ccd101b",
+  "assets/AssetManifest.json": "862fc1468cf598cf189559a78e04c35a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -43,6 +43,10 @@ const RESOURCES = {
 "assets/images/Item_Witch's_Flower_of_Blaze.png": "3c5d2df1beb87d9c66d42bc49f8319ec",
 "assets/images/itto.png": "a74aced496aa0552ca0fd699725d72f8",
 "assets/images/raiden.png": "f06170bd13dcd9abfe0816500b70129f",
+"assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
+"assets/images/weapon/Icon_Claymore.png": "3d8d3313b91f5d3fe62c7198fe0848fd",
+"assets/images/weapon/Icon_Polearm.png": "cf6fa88a199a72dfa37fcbc54c0f5547",
+"assets/images/weapon/Icon_Sword.png": "487c91af285b1fd941b26a9a4b7b5e8c",
 "assets/images/weapon/ittobis.png": "a21f9c4381baff2a43e2d356de1f71fe",
 "assets/images/weapon/Weapon_Alley_Hunter.png": "fdbd85c7223e1ac4d21e03c20b311837",
 "assets/images/weapon/Weapon_Amenoma_Kageuchi.png": "060af4a78e0021cdd7b77393868a05ff",
@@ -87,9 +91,9 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Wolfs_Gravestone.png": "6f2b2b9b7f2da51a2a0491ad5b593aaf",
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
-"assets/langs/en.json": "cb11901a43f49eba0a60d8ca164a9095",
-"assets/langs/ja-JP.json": "9b55c1bc9c584932b4c2459bd0b4e604",
-"assets/langs/zh-Hans.json": "04e72223ce5fc882d944997b4563e95e",
+"assets/langs/en.json": "5ae5c9b6ca83a3ee0278c79b7505e646",
+"assets/langs/ja-JP.json": "b5685bce7268bc486ad367badee78423",
+"assets/langs/zh-Hans.json": "b657d28c54c26f7c1d7d6d96820977db",
 "assets/NOTICES": "83ead99903989e50d0e7de03f2b677ac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -124,9 +128,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-"index.html": "438c4f8e7259c2468b158c9ff014eab1",
-"/": "438c4f8e7259c2468b158c9ff014eab1",
-"main.dart.js": "74d50312301eff74bb2b4133b3010f3b",
+"index.html": "1fba04ff8aa46aec4224601324359ba0",
+"/": "1fba04ff8aa46aec4224601324359ba0",
+"main.dart.js": "8ec49780ad4f0ab0ff371485804f0d99",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "2eb1a5b579fb01c78898c6f9e521dfba"
 };
