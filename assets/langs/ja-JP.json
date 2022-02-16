@@ -564,6 +564,7 @@
     "Dragon Spine": "ドラゴンスピア",
     "Crescent Pike": "流月の針",
     "White Tassel": "白纓槍",
+<<<<<<< HEAD
     "There is no panel analysis for current charater": "現在このキャラクターのパネル分析がありません",
     "Memory of Dust": "浮世の錠",
     "Skyward Atlas": "天空の巻",
@@ -580,4 +581,7 @@
     "Others": "その他",
     "Official Website": "公式サイト",
     "https://genshincalc.yunlu18.net/": "https://genshincalc.yunlu18.net/jp/index.html"
+=======
+    "There is no panel analysis for current charater": "現在このキャラクターのパネル分析がありません"
+>>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 }
