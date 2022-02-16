@@ -4,11 +4,7 @@
     "ganyu": "ganyu",
     "ayaka": "Kamisato Ayaka",
     "Character": "Character",
-<<<<<<< HEAD
     "character": "Character",
-=======
-    "character": "character",
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
     "Talents": "Talents",
     "Lv": "Lv",
     "level": "level",
@@ -570,7 +566,6 @@
     "Dragon Spine": "Dragon Spine",
     "Crescent Pike": "Crescent Pike",
     "White Tassel": "White Tassel",
-<<<<<<< HEAD
     "There is no panel analysis for current charater": "There is no panel analysis for current charater",
     "Memory of Dust": "Memory of Dust",
     "Skyward Atlas": "Skyward Atlas",
@@ -587,7 +582,4 @@
     "Others": "Others",
     "Official Website": "Official Website",
     "https://genshincalc.yunlu18.net/": "https://genshincalc.yunlu18.net/en/index.html"
-=======
-    "There is no panel analysis for current charater": "There is no panel analysis for current charater"
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 }

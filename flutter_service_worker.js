@@ -3,11 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-<<<<<<< HEAD
   "assets/AssetManifest.json": "5da66f931912a6590d9109937a0e6e52",
-=======
-  "assets/AssetManifest.json": "0a0e6adddaf361ed0462c11d399c6af8",
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -30,10 +26,7 @@ const RESOURCES = {
 "assets/images/eula.png": "4ad9b62208a576735cb911d0a058c265",
 "assets/images/ganyu.png": "a12f04337d6143b3539ea70fbeea6c96",
 "assets/images/hutao.png": "e3fed4c9df8745a0c1fa91e954fde2ad",
-<<<<<<< HEAD
 "assets/images/icon.png": "53856c509adfa6ce004de65819f39f70",
-=======
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/images/Icon_Circlet_of_Logos.png": "81d3b09a70bcedc669b143593b885797",
 "assets/images/Icon_Flower_of_Life.png": "c52f1e5c6b97dfc1a208ee2eae7759ba",
 "assets/images/Icon_Goblet_of_Eonothem.png": "d0ce90ab349d31b5d8742f2a48aac2fd",
@@ -59,10 +52,7 @@ const RESOURCES = {
 "assets/images/itto.png": "a74aced496aa0552ca0fd699725d72f8",
 "assets/images/raiden.png": "f06170bd13dcd9abfe0816500b70129f",
 "assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
-<<<<<<< HEAD
 "assets/images/weapon/Icon_Catalyst.png": "4b3b30059c6cacc8c62676275d26605c",
-=======
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/images/weapon/Icon_Claymore.png": "3d8d3313b91f5d3fe62c7198fe0848fd",
 "assets/images/weapon/Icon_Polearm.png": "cf6fa88a199a72dfa37fcbc54c0f5547",
 "assets/images/weapon/Icon_Sword.png": "487c91af285b1fd941b26a9a4b7b5e8c",
@@ -84,13 +74,9 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Favonius_Lance.png": "29afed7e4be1c310410234d8f933e3ec",
 "assets/images/weapon/Weapon_Favonius_Warbow.png": "82451de6e4a60ec90bc22988064d5875",
 "assets/images/weapon/Weapon_Hamayumi.png": "ff154600ebc973a0e662f189b9e56441",
-<<<<<<< HEAD
 "assets/images/weapon/Weapon_Lost_Prayer_to_the_Sacred_Winds.png": "98f36a14dede85f03db6d35dcfb3bd7d",
 "assets/images/weapon/Weapon_Luxurious_Sea-Lord.png": "27e93a87770ca17166ee8176e46c53d7",
 "assets/images/weapon/Weapon_Memory_of_Dust.png": "6ef83d562dc204d8af55ae2497c3657f",
-=======
-"assets/images/weapon/Weapon_Luxurious_Sea-Lord.png": "27e93a87770ca17166ee8176e46c53d7",
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/images/weapon/Weapon_Messenger.png": "7149cfb69dec4ff8d063c0fa90074c9b",
 "assets/images/weapon/Weapon_Mistsplitter_Reforged.png": "fa0f77070e60908aa3e0d7be58f6068a",
 "assets/images/weapon/Weapon_Polar_Star.png": "ec982cfdaea61726d0eff0765c4e3fa7",
@@ -104,10 +90,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Sacrificial_Bow.png": "a5364ded6b8fa678df8c79bf80ef0423",
 "assets/images/weapon/Weapon_Serpent_Spine.png": "cd649c7857ccb7d6e9ab1308a36a9ea4",
 "assets/images/weapon/Weapon_Sharpshooter_Oath.png": "22fc9c0d9dcce6732e4014d4fc9b0773",
-<<<<<<< HEAD
 "assets/images/weapon/Weapon_Skyward_Atlas.png": "76129a888dee0764044ceb597e4753f3",
-=======
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/images/weapon/Weapon_Skyward_Blade.png": "2f91b1cc9b9c9f698ae63a5e0cc57125",
 "assets/images/weapon/Weapon_Skyward_Harp.png": "c3f2b5cf0cf38e2387fca10bbe0e46a2",
 "assets/images/weapon/Weapon_Skyward_Pride.png": "dd15850e31d8ccaab05e6e6bce8dfb00",
@@ -121,10 +104,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_The_Stringless.png": "0dd895f344d5c19aa5d4c4ef3e058dbf",
 "assets/images/weapon/Weapon_The_Unforged.png": "129bb5a1d9156e65e56dc0acff5bf925",
 "assets/images/weapon/Weapon_The_Viridescent_Hunt.png": "65a4d6125959ece649a72d528874da2a",
-<<<<<<< HEAD
 "assets/images/weapon/Weapon_The_Widsith.png": "add714c7fa5cee23f5970e048447ab86",
-=======
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/images/weapon/Weapon_Thundering_Pulse.png": "9f9e000ea19c89bdf6559580070d5d64",
 "assets/images/weapon/Weapon_Vortex_Vanquisher.png": "20dcf1575e3a9b282320ccbc11ab864e",
 "assets/images/weapon/Weapon_White_Tassel.png": "7e830d95ba7bdb7ead6c513f398fc07b",
@@ -137,29 +117,19 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-<<<<<<< HEAD
 "assets/langs/en.json": "38d3d6e701edf928e5b36d0ce3cb80fa",
 "assets/langs/ja-JP.json": "33bc7198be859517bc27a4df6a7ce806",
 "assets/langs/zh-Hans.json": "75f7a518632b800e8dd0502053e1dc12",
 "assets/NOTICES": "831ac7fb775dc12900c2c9f95183c3e3",
-=======
-"assets/langs/en.json": "c96927e303ded32f762810e4e9651a33",
-"assets/langs/ja-JP.json": "f18e95eb25d51b39a5a4ad719c92b328",
-"assets/langs/zh-Hans.json": "0a7964afb48b5f37185fb132430ffa0e",
-"assets/NOTICES": "83ead99903989e50d0e7de03f2b677ac",
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/en.json": "5bd908341879a431441c8208ae30e4fd",
-<<<<<<< HEAD
 "canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
 "canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
 "canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
-=======
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/android-icon-144x144.png": "fbc822f1cce5183df6d85ed32551d4bf",
 "icons/android-icon-192x192.png": "303282f3a473e8a81202835db40e2866",
@@ -188,15 +158,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-<<<<<<< HEAD
 "index.html": "e6c67b6a331416759af99e2d8aecca0c",
 "/": "e6c67b6a331416759af99e2d8aecca0c",
 "main.dart.js": "e5c81ba82b63bf5d4d7136489931167c",
-=======
-"index.html": "b231c06a22498dd77a5aaf2c83ec3d7a",
-"/": "b231c06a22498dd77a5aaf2c83ec3d7a",
-"main.dart.js": "c6a222512fee8b5b33b98b083aa1420c",
->>>>>>> e77c9f75760a4f017ec45f83ca04bb6b7b5632c0
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "5360cb7282ea1bfa39cd13e5e067617a"
 };
