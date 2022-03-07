@@ -117,32 +117,19 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-<<<<<<< HEAD
 "assets/langs/en.json": "fae484c43f597b827bca6520258bace6",
 "assets/langs/ja-JP.json": "c2835249bd0588c79d24fea6743e608d",
 "assets/langs/zh-Hans.json": "51f10d71dd81c31e9042e2ca97aefae7",
-=======
-"assets/langs/en.json": "38d3d6e701edf928e5b36d0ce3cb80fa",
-"assets/langs/ja-JP.json": "33bc7198be859517bc27a4df6a7ce806",
-"assets/langs/zh-Hans.json": "75f7a518632b800e8dd0502053e1dc12",
->>>>>>> e349cf2c90ea0e148b65405836ea034afd16a2eb
 "assets/NOTICES": "831ac7fb775dc12900c2c9f95183c3e3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/en.json": "5bd908341879a431441c8208ae30e4fd",
-<<<<<<< HEAD
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-=======
-"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
-"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
-"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
-"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
->>>>>>> e349cf2c90ea0e148b65405836ea034afd16a2eb
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/android-icon-144x144.png": "fbc822f1cce5183df6d85ed32551d4bf",
 "icons/android-icon-192x192.png": "303282f3a473e8a81202835db40e2866",
@@ -171,15 +158,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "3edf5e2aa0de5999da10f910e6211d6e",
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
-<<<<<<< HEAD
-"index.html": "7d5539fe6165a648a330bffc7cd11d1b",
-"/": "7d5539fe6165a648a330bffc7cd11d1b",
+"index.html": "b3b658660c47de15746c43d3edafb0ab",
+"/": "b3b658660c47de15746c43d3edafb0ab",
 "main.dart.js": "e1c17455c0835445a24da57b1d09b893",
-=======
-"index.html": "e6c67b6a331416759af99e2d8aecca0c",
-"/": "e6c67b6a331416759af99e2d8aecca0c",
-"main.dart.js": "e5c81ba82b63bf5d4d7136489931167c",
->>>>>>> e349cf2c90ea0e148b65405836ea034afd16a2eb
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
 "version.json": "5360cb7282ea1bfa39cd13e5e067617a"
 };
