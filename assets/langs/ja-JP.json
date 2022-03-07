@@ -579,6 +579,7 @@
     "Tenko Thunderbolt DMG": "天狐雷霆ダメージ",
     "Others": "その他",
     "Official Website": "公式サイト",
+<<<<<<< HEAD
     "https://genshincalc.yunlu18.net/": "https://genshincalc.yunlu18.net/jp/index.html",
     "Recommended Video": "おすすめ動画",
     "Share Build": "シェア",
@@ -593,4 +594,7 @@
     "Tenacity4: ATK +20%": "千岩4: 攻撃力 +20%",
     "Noblesse Oblige 4: ATK +20%": "旧貴族4: 攻撃力 +20%",
     "https://genshincalc.yunlu18.net/build.html?id=": "https://genshincalc.yunlu18.net/jp/build.html?id="
+=======
+    "https://genshincalc.yunlu18.net/": "https://genshincalc.yunlu18.net/jp/index.html"
+>>>>>>> e349cf2c90ea0e148b65405836ea034afd16a2eb
 }
