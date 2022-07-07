@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9d1c8020d8546a85c285fe4041b4451d",
+  "assets/AssetManifest.json": "ad6a7c571d63cfb23b5ce184e8390d2e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -28,10 +28,12 @@ const RESOURCES = {
 "assets/images/ayato_gacha_splash.png": "ccfce868ab7a930170b38b51347043a6",
 "assets/images/Character_Ganyu_Portrait.png": "4a18a82fa9021dc7e86a48b2c8658fb9",
 "assets/images/Character_Raiden_Shogun_Portrait.png": "6ea865d88420471d5bc3f95ad9c7ec5b",
+"assets/images/enka.png": "67b1cefdc5f68bc18bfd61fc41469e62",
 "assets/images/eula.png": "4ad9b62208a576735cb911d0a058c265",
 "assets/images/ganyu.png": "a12f04337d6143b3539ea70fbeea6c96",
 "assets/images/hutao.png": "e3fed4c9df8745a0c1fa91e954fde2ad",
-"assets/images/icon.png": "220da6ecab7a8eedb03825e8bd2f2269",
+"assets/images/icon.png": "67be54a70d583c7fb063f2788e1b0be3",
+"assets/images/icon2t.png": "220da6ecab7a8eedb03825e8bd2f2269",
 "assets/images/Icon_Circlet_of_Logos.png": "81d3b09a70bcedc669b143593b885797",
 "assets/images/Icon_Flower_of_Life.png": "c52f1e5c6b97dfc1a208ee2eae7759ba",
 "assets/images/Icon_Goblet_of_Eonothem.png": "d0ce90ab349d31b5d8742f2a48aac2fd",
@@ -59,7 +61,9 @@ const RESOURCES = {
 "assets/images/Item_Vermillion_Hereafter.png": "61777997c7cf80d70b4595a7951a288c",
 "assets/images/Item_Witch's_Flower_of_Blaze.png": "3c5d2df1beb87d9c66d42bc49f8319ec",
 "assets/images/itto.png": "a74aced496aa0552ca0fd699725d72f8",
-"assets/images/raiden.png": "f06170bd13dcd9abfe0816500b70129f",
+"assets/images/raiden.png": "423cc14f5d7b71b96e2000ab31bdf903",
+"assets/images/tartaglia.png": "79cf8566082d02e193120a958fe5c5ae",
+"assets/images/tartaglia_gacha_splash.png": "eb1d4cf3a80a7b9aaa8be6c7e094f0a0",
 "assets/images/weapon/ayatobis.png": "b9e9da14379a0bb89ef4153b9c8e9fc8",
 "assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
 "assets/images/weapon/Icon_Catalyst.png": "4b3b30059c6cacc8c62676275d26605c",
@@ -118,6 +122,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_The_Widsith.png": "add714c7fa5cee23f5970e048447ab86",
 "assets/images/weapon/Weapon_Thundering_Pulse.png": "3177497f741e47630cea293ab352d2ed",
 "assets/images/weapon/Weapon_Vortex_Vanquisher.png": "20dcf1575e3a9b282320ccbc11ab864e",
+"assets/images/weapon/Weapon_Whiteblind.png": "fa49de51d64871a74f46d8959c0163e9",
 "assets/images/weapon/Weapon_White_Tassel.png": "7e830d95ba7bdb7ead6c513f398fc07b",
 "assets/images/weapon/Weapon_Windblume_Ode.png": "c07975c903954937c2e4b94e583abee5",
 "assets/images/weapon/Weapon_Wolfs_Gravestone.png": "6f2b2b9b7f2da51a2a0491ad5b593aaf",
@@ -135,10 +140,10 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "448d3afbc1af0bb8fedc6436b6fa913e",
-"assets/langs/ja-JP.json": "891b68066616a8645eb8697355220fa5",
-"assets/langs/zh-Hans-CN.json": "63d6d77413f25c91e38b76ec955f5ba7",
-"assets/NOTICES": "a9db03e8e2e4c147f756f1a4c26e14b9",
+"assets/langs/en.json": "40141cd8e1a95e3b7e51c8a6ddbc0fe6",
+"assets/langs/ja-JP.json": "a6dbd68e0de72bda73eee7cc0c658b3e",
+"assets/langs/zh-Hans-CN.json": "34362ce9577e665bb15b64854cf55cc4",
+"assets/NOTICES": "4322feaefd745fc91b7518f6e702564f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -185,11 +190,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "6152321f51ee2424ca0bd044f184aefa",
-"/": "6152321f51ee2424ca0bd044f184aefa",
-"main.dart.js": "57bce0731e7cd6822a5976c91e501535",
+"index.html": "255593fe47cfafa5e4d48fb07f787a62",
+"/": "255593fe47cfafa5e4d48fb07f787a62",
+"main.dart.js": "e581d50c97c97a7bc39f0cd3088364ac",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "528d759c6fc8c05d8bfc7ba34f239531"
+"version.json": "3e769fc309d647c531d6bc327e7c12a4"
 };
 
 // The application shell files that are downloaded before a service worker can
