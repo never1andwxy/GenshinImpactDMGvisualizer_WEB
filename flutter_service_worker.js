@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad6a7c571d63cfb23b5ce184e8390d2e",
+  "assets/AssetManifest.json": "c44288753cd04851fb3395986d25432b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -52,6 +52,7 @@ const RESOURCES = {
 "assets/images/Item_Maiden's_Distant_Love.png": "b611a36152d1a89abb8217fa821c5777",
 "assets/images/Item_Reminiscence_of_Shime.png": "4f945edce0982d33c55ebbb34ef54492",
 "assets/images/Item_Royal_Flora.png": "41cc3f3f6b2da1cc3802b1454d865f36",
+"assets/images/Item_Sea-Dyed_Blossom.png": "020ed5f858db7dc32afd47cf4b2e6d05",
 "assets/images/Item_Snowswept_Memory.png": "a0ee2d2b82b06e6e109fa2793e12a53c",
 "assets/images/Item_Stainless_Bloom.png": "e7df44900851a69e4204d22bbf13080a",
 "assets/images/Item_Summer_Night_Bloom.png": "1369cc09f03f2e5dbce44094f6b6ac0c",
@@ -61,6 +62,8 @@ const RESOURCES = {
 "assets/images/Item_Vermillion_Hereafter.png": "61777997c7cf80d70b4595a7951a288c",
 "assets/images/Item_Witch's_Flower_of_Blaze.png": "3c5d2df1beb87d9c66d42bc49f8319ec",
 "assets/images/itto.png": "a74aced496aa0552ca0fd699725d72f8",
+"assets/images/kokomi.png": "9bfda71bfe1021c11b20293f66b82910",
+"assets/images/kokomi_gacha_splash.png": "d500af3c3674947abb48cf97826fef3d",
 "assets/images/raiden.png": "423cc14f5d7b71b96e2000ab31bdf903",
 "assets/images/tartaglia.png": "79cf8566082d02e193120a958fe5c5ae",
 "assets/images/tartaglia_gacha_splash.png": "eb1d4cf3a80a7b9aaa8be6c7e094f0a0",
@@ -85,6 +88,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Ebony_Bow.png": "5e9fe1938e3330dc203ddbf0feec27b5",
 "assets/images/weapon/Weapon_Elegy_for_the_End.png": "3f8d8a7721021081423d43c1250416b6",
 "assets/images/weapon/Weapon_Engulfing_Lightning.png": "8eba09d307fd9e9df0bfd7f676ac349d",
+"assets/images/weapon/Weapon_Everlasting_Moonglow.png": "d4340cfa3987d8ab512fb0b7c0e2dfb0",
 "assets/images/weapon/Weapon_Favonius_Lance.png": "29afed7e4be1c310410234d8f933e3ec",
 "assets/images/weapon/Weapon_Favonius_Warbow.png": "82451de6e4a60ec90bc22988064d5875",
 "assets/images/weapon/Weapon_Hamayumi.png": "ff154600ebc973a0e662f189b9e56441",
@@ -96,6 +100,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Polar_Star.png": "ec982cfdaea61726d0eff0765c4e3fa7",
 "assets/images/weapon/Weapon_Primordial_Jade_Cutter.png": "6c1b8df0ba68541a098ea7bac20d7c1e",
 "assets/images/weapon/Weapon_Primordial_Jade_Winged_Spear.png": "b4c7041c160ef527eed1637337a87e6b",
+"assets/images/weapon/Weapon_Prototype_Amber.png": "12d128c899f747a93979d7bf6dda4f52",
 "assets/images/weapon/Weapon_Prototype_Crescent.png": "ae6fb6459726630c187b65befa46b0e1",
 "assets/images/weapon/Weapon_Raven_Bow.png": "73f6cff9c22ec49e67eeb3cf48ec2aed",
 "assets/images/weapon/Weapon_Recurve_Bow.png": "474066dfc56a5f959b8a4ca4f61d9164",
@@ -120,6 +125,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_The_Unforged.png": "129bb5a1d9156e65e56dc0acff5bf925",
 "assets/images/weapon/Weapon_The_Viridescent_Hunt.png": "65a4d6125959ece649a72d528874da2a",
 "assets/images/weapon/Weapon_The_Widsith.png": "add714c7fa5cee23f5970e048447ab86",
+"assets/images/weapon/Weapon_Thrilling_Tales_of_Dragon_Slayers.png": "3354d7c4fd53f968fcc707ead9883403",
 "assets/images/weapon/Weapon_Thundering_Pulse.png": "3177497f741e47630cea293ab352d2ed",
 "assets/images/weapon/Weapon_Vortex_Vanquisher.png": "20dcf1575e3a9b282320ccbc11ab864e",
 "assets/images/weapon/Weapon_Whiteblind.png": "fa49de51d64871a74f46d8959c0163e9",
@@ -140,9 +146,9 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "0df371289efbf16d3fc6a739b1b2c18e",
-"assets/langs/ja-JP.json": "5b6649e3493c744abd20c62016772cbe",
-"assets/langs/zh-Hans-CN.json": "39d9a7ee95ff38ed0b1f9874b420c9b2",
+"assets/langs/en.json": "2d7d2ee360bff6ddd264787cc18cf621",
+"assets/langs/ja-JP.json": "60e86e17af0b82375af5c8c510535e0b",
+"assets/langs/zh-Hans-CN.json": "79c439b5ccf6ce3973241ccf5797a2c1",
 "assets/NOTICES": "4322feaefd745fc91b7518f6e702564f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -190,11 +196,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "ddbdd50ee2305a44d9c96affca3d7ffd",
-"/": "ddbdd50ee2305a44d9c96affca3d7ffd",
-"main.dart.js": "da7a9386c6af2d01b7e84317fefa3aff",
+"index.html": "519aa1910d28b34edb64abb2ba4ddd15",
+"/": "519aa1910d28b34edb64abb2ba4ddd15",
+"main.dart.js": "3a0ce43a08ec0ab8824e81eac50989c5",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "3e769fc309d647c531d6bc327e7c12a4"
+"version.json": "15792f456709e83127f4a900cd307dde"
 };
 
 // The application shell files that are downloaded before a service worker can
