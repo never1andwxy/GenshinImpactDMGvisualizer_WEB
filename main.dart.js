@@ -26884,7 +26884,7 @@ if(i==null)throw A.f(A.ob("There was a problem trying to load FontManifest.json"
 for(j=t.a,h=J.iF(i,j),h=new A.dC(h,h.gu(h)),g=t.j;h.E();){f=h.d
 e=J.aO(f)
 d=A.c_(e.h(f,"family"))
-for(f=J.aZ(g.a(e.h(f,"fonts")));f.E();)m.VL(a.Qh(A.c_(J.az(j.a(f.ga0(f)),"asset"))),d)}if(!m.a.L(0,"Roboto"))m.VL("https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf","Roboto")
+for(f=J.aZ(g.a(e.h(f,"fonts")));f.E();)m.VL(a.Qh(A.c_(J.az(j.a(f.ga0(f)),"asset"))),d)}if(!m.a.L(0,"Roboto"))m.VL("/assets/fonts/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf","Roboto")
 case 1:return A.T(q,r)
 case 2:return A.S(o,r)}})
 return A.U($async$Fb,r)},
