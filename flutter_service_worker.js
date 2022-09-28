@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a6a9eed9db45ba7995d5f4b2730fc4e2",
+  "assets/AssetManifest.json": "9cf1a918b288fe2552c0a204197f67da",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -22,6 +22,7 @@ const RESOURCES = {
 "assets/images/appicon/icon1.png": "33eafa78c9ef1062fd6ee4e44f77d78a",
 "assets/images/appicon/icon2.png": "340dd1ca1ff1e5e535d2d66ba49bcc81",
 "assets/images/appicon/icon3.png": "a1bfbe619115370b127c48779defce7d",
+"assets/images/appicon/icon4.png": "1a19ad3824a590d4c68d9dd8db4fa27d",
 "assets/images/Arataki-Itto-Splash-Art.png": "08627048094069db979b72e5fbefd3a6",
 "assets/images/ayaka.png": "eb317ec89688901ecf57a4e30abd08e4",
 "assets/images/ayakalarge.png": "b708736739b1c96ba5bc82d5e4ffc955",
@@ -29,6 +30,10 @@ const RESOURCES = {
 "assets/images/ayato_gacha_splash.png": "ccfce868ab7a930170b38b51347043a6",
 "assets/images/Character_Ganyu_Portrait.png": "4a18a82fa9021dc7e86a48b2c8658fb9",
 "assets/images/Character_Raiden_Shogun_Portrait.png": "6ea865d88420471d5bc3f95ad9c7ec5b",
+"assets/images/cyno.png": "d78efa53d40f33a8b7a9f94e13bb227d",
+"assets/images/cyno_splash.png": "b3d2ea92c9214fab3a8ec99124e31b4d",
+"assets/images/diy.png": "4320359f56418662552bf912b62b01d1",
+"assets/images/diysplash.png": "da1d685c6fe8d5856bd76b9bfae88c98",
 "assets/images/Element_Dendro.png": "ecb92f92da473cc3294f1feaf8c36acb",
 "assets/images/enka.png": "67b1cefdc5f68bc18bfd61fc41469e62",
 "assets/images/eula.png": "4ad9b62208a576735cb911d0a058c265",
@@ -68,18 +73,22 @@ const RESOURCES = {
 "assets/images/itto.png": "a74aced496aa0552ca0fd699725d72f8",
 "assets/images/kokomi.png": "9bfda71bfe1021c11b20293f66b82910",
 "assets/images/kokomi_gacha_splash.png": "d500af3c3674947abb48cf97826fef3d",
+"assets/images/nilou.png": "64ba6e2ee7c79fe75d7d6d666ad6ba8a",
+"assets/images/nilou_splash.png": "1862e7811eec04ec20a3755e734a5349",
 "assets/images/raiden.png": "423cc14f5d7b71b96e2000ab31bdf903",
 "assets/images/tartaglia.png": "79cf8566082d02e193120a958fe5c5ae",
 "assets/images/tartaglia_gacha_splash.png": "eb1d4cf3a80a7b9aaa8be6c7e094f0a0",
 "assets/images/tighnari.png": "9d1c369f71e549ab91ddb31dcaf6b192",
 "assets/images/tighnari_gacha_splash.png": "28a7e5dee3bc565ee17929e4f81e27d6",
 "assets/images/weapon/ayatobis.png": "b9e9da14379a0bb89ef4153b9c8e9fc8",
+"assets/images/weapon/cynobis.png": "f0ea053ca68450b7a49421aa1370ae52",
 "assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
 "assets/images/weapon/Icon_Catalyst.png": "4b3b30059c6cacc8c62676275d26605c",
 "assets/images/weapon/Icon_Claymore.png": "3d8d3313b91f5d3fe62c7198fe0848fd",
 "assets/images/weapon/Icon_Polearm.png": "cf6fa88a199a72dfa37fcbc54c0f5547",
 "assets/images/weapon/Icon_Sword.png": "487c91af285b1fd941b26a9a4b7b5e8c",
 "assets/images/weapon/ittobis.png": "a21f9c4381baff2a43e2d356de1f71fe",
+"assets/images/weapon/niloubis.png": "ae27aa017401a47791277cd3b7632bb3",
 "assets/images/weapon/tighnaribis.png": "ff4a562defd66bb10a2b1c2d2daaa744",
 "assets/images/weapon/Weapon_Alley_Hunter.png": "fdbd85c7223e1ac4d21e03c20b311837",
 "assets/images/weapon/Weapon_Amenoma_Kageuchi.png": "060af4a78e0021cdd7b77393868a05ff",
@@ -98,7 +107,10 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Everlasting_Moonglow.png": "d4340cfa3987d8ab512fb0b7c0e2dfb0",
 "assets/images/weapon/Weapon_Favonius_Lance.png": "29afed7e4be1c310410234d8f933e3ec",
 "assets/images/weapon/Weapon_Favonius_Warbow.png": "82451de6e4a60ec90bc22988064d5875",
+"assets/images/weapon/Weapon_Freedom-Sworn.png": "a71bcf648e499bd454aff28b3b7ce232",
 "assets/images/weapon/Weapon_Hamayumi.png": "ff154600ebc973a0e662f189b9e56441",
+"assets/images/weapon/Weapon_Harbinger_of_Dawn.png": "83becdadf6d91b723d3148cfe81f82e3",
+"assets/images/weapon/Weapon_Iron_Sting.png": "62939657977dcb5793b01336bde160c1",
 "assets/images/weapon/Weapon_Lost_Prayer_to_the_Sacred_Winds.png": "98f36a14dede85f03db6d35dcfb3bd7d",
 "assets/images/weapon/Weapon_Luxurious_Sea-Lord.png": "27e93a87770ca17166ee8176e46c53d7",
 "assets/images/weapon/Weapon_Memory_of_Dust.png": "6ef83d562dc204d8af55ae2497c3657f",
@@ -153,12 +165,10 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "f42cc9ffee24cb56a834faacd5f5343c",
-"assets/langs/ja-JP.json": "60e86e17af0b82375af5c8c510535e0b",
-"assets/langs/ja.json": "41846778f0a783e7d593a5ff00d3cb37",
-"assets/langs/zh-Hans-CN.json": "79c439b5ccf6ce3973241ccf5797a2c1",
-"assets/langs/zh.json": "bd756b90e20c27095b0ee5c591f77eea",
-"assets/NOTICES": "b5814e1be0eccdb90dc91a9feca7a01c",
+"assets/langs/en.json": "241147f9cba4d8bb96507de88ae28f57",
+"assets/langs/ja.json": "8e5a6898ec69844aa87deb9a3d47c187",
+"assets/langs/zh.json": "59dd6b300547ab3e5aecb7c2ed6457e9",
+"assets/NOTICES": "c4ed222b0567ee8ca6c5dbf00dc6b27a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -168,12 +178,13 @@ const RESOURCES = {
 "assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"assets/shaders/ink_sparkle.frag": "21728896253a97482341e92e23c80dea",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/android-chrome-192x192.png": "6deae8dfc340eb0403cd2aeba427e596",
 "icons/android-chrome-512x512.png": "7f3597b64c59e3905c7ca37456885cf0",
 "icons/android-icon-144x144.png": "fbc822f1cce5183df6d85ed32551d4bf",
@@ -205,11 +216,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "04f09082158e419e548a72aac316e4b3",
-"/": "04f09082158e419e548a72aac316e4b3",
-"main.dart.js": "49fe2db400a864c9234e00425660bf81",
+"index.html": "d4f3adfe214d77227a91597a9c896e0a",
+"/": "d4f3adfe214d77227a91597a9c896e0a",
+"main.dart.js": "d6771643a9eaa36d2f6f40cc4d27c680",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "46d2945824e1de46985c3d9a1fc8a7db"
+"version.json": "833a5da23542a93c3677f965e015719f"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -217,7 +228,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -316,9 +326,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
