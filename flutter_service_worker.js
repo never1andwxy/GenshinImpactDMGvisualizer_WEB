@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "a40af27f7a5bb81efc50892d6841e38a",
-"index.html": "e87e33a3c37c28703205d845ccaaa7fc",
-"/": "e87e33a3c37c28703205d845ccaaa7fc",
-"main.dart.js": "de403675d630c6495364e6b311199ca0",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+  "version.json": "33d64de0ef87515252a139d9bc58698f",
+"index.html": "bfa180e73d5631222ee30214ba40365d",
+"/": "bfa180e73d5631222ee30214ba40365d",
+"main.dart.js": "840b13729be7201487fd206364fd557a",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/favicon-16x16.png": "e3b7d86b47fb147ef047de80ac5c710c",
 "icons/favicon.ico": "f75d9c82a0648522553362ef4f699eaa",
@@ -93,11 +93,14 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Elegy_for_the_End.png": "3f8d8a7721021081423d43c1250416b6",
 "assets/images/weapon/Weapon_Serpent_Spine.png": "cd649c7857ccb7d6e9ab1308a36a9ea4",
 "assets/images/weapon/Weapon_Lost_Prayer_to_the_Sacred_Winds.png": "98f36a14dede85f03db6d35dcfb3bd7d",
+"assets/images/weapon/Wandering_Evenstar.png": "e9890e8a73105f872f0ac24fd75bdeed",
 "assets/images/weapon/Weapon_Luxurious_Sea-Lord.png": "27e93a87770ca17166ee8176e46c53d7",
+"assets/images/weapon/Sacrificial_Fragments.png": "9e4b503987914766c17721c66188378e",
 "assets/images/weapon/tighnaribis.png": "ff4a562defd66bb10a2b1c2d2daaa744",
 "assets/images/weapon/Weapon_The_Viridescent_Hunt.png": "65a4d6125959ece649a72d528874da2a",
 "assets/images/weapon/Weapon_Iron_Sting.png": "62939657977dcb5793b01336bde160c1",
 "assets/images/weapon/Weapon_Whiteblind.png": "fa49de51d64871a74f46d8959c0163e9",
+"assets/images/weapon/nahidabis.png": "0a9ca2ba956a9c9cc6453f8664fe38b1",
 "assets/images/weapon/Weapon_Prototype_Amber.png": "12d128c899f747a93979d7bf6dda4f52",
 "assets/images/weapon/Weapon_Harbinger_of_Dawn.png": "83becdadf6d91b723d3148cfe81f82e3",
 "assets/images/weapon/Weapon_Prototype_Crescent.png": "ae6fb6459726630c187b65befa46b0e1",
@@ -106,6 +109,7 @@ const RESOURCES = {
 "assets/images/weapon/Weapon_Everlasting_Moonglow.png": "d4340cfa3987d8ab512fb0b7c0e2dfb0",
 "assets/images/weapon/Icon_Claymore.png": "3d8d3313b91f5d3fe62c7198fe0848fd",
 "assets/images/weapon/Weapon_The_Unforged.png": "129bb5a1d9156e65e56dc0acff5bf925",
+"assets/images/weapon/Magic_Guide.png": "06ca7840676ab00f618b309f8280c0df",
 "assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
 "assets/images/weapon/Weapon_The_Widsith.png": "add714c7fa5cee23f5970e048447ab86",
 "assets/images/weapon/Weapon_Vortex_Vanquisher.png": "20dcf1575e3a9b282320ccbc11ab864e",
@@ -143,6 +147,7 @@ const RESOURCES = {
 "assets/images/kokomi_gacha_splash.png": "d500af3c3674947abb48cf97826fef3d",
 "assets/images/Item_Magnificent_Tsuba.png": "ba570ff6e274b335e57a3146d11b533a",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
+"assets/images/nahida.png": "fb0504e6e6997234f6a0b6ed8b88de70",
 "assets/images/2021010519290354247.png": "f983469684d470be250be8498e777ab2",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
 "assets/images/Item_Flower_of_Accolades.png": "ccb884212f7c4919455660133de82898",
@@ -159,6 +164,7 @@ const RESOURCES = {
 "assets/images/2020031618522830538.png": "b2ae29ad28899dd0e328d2bcf471d294",
 "assets/images/Item_Reminiscence_of_Shime.png": "4f945edce0982d33c55ebbb34ef54492",
 "assets/images/Item_Thundersoother's_Heart.png": "90d5964f3970a23a09d69d3f8ac0a896",
+"assets/images/nahida_gacha_splash.png": "dad42d1251da8cbf823c7ad95b06f662",
 "assets/images/diy.png": "4320359f56418662552bf912b62b01d1",
 "assets/images/icon_white_background.png": "0b492486afa3e127338cee9b96cc5224",
 "assets/images/Item_Flower_of_Creviced_Cliff.png": "1bbf2169879d923325ae69118da9774a",
@@ -200,11 +206,11 @@ const RESOURCES = {
 "assets/images/tartaglia.png": "79cf8566082d02e193120a958fe5c5ae",
 "assets/images/ayaka.png": "eb317ec89688901ecf57a4e30abd08e4",
 "assets/images/Item_Sea-Dyed_Blossom.png": "020ed5f858db7dc32afd47cf4b2e6d05",
-"assets/AssetManifest.json": "8c9a02b7eb91ae3c1dd6c1fcaa657270",
-"assets/NOTICES": "457468d5ca7a4b4fd6ba447241e2de4b",
-"assets/langs/zh.json": "0a9eebc05c243156586c17ffdf56496b",
-"assets/langs/ja.json": "d129556c31322c7ea2b4477aafd104b6",
-"assets/langs/en.json": "c3c2847b81961a6583944820baa47bad",
+"assets/AssetManifest.json": "97c6eee5f9ca5379b1d7ea2ba275781d",
+"assets/NOTICES": "f5d5945ab8e280ac6f2f36fd70d1f444",
+"assets/langs/zh.json": "fd1a747d7d016636705ebafc59c4a18a",
+"assets/langs/ja.json": "097ec0ad63afc41174c467e012e8a01c",
+"assets/langs/en.json": "ef88821ddf8dd6760fd9af75d4dffa57",
 "assets/FontManifest.json": "bb76240d2b9d9fc484bc6a21924e3388",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
@@ -215,12 +221,13 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/en.json": "5f5fda8715e8bf5116f77f469c5cf493",
 "assets/packages/easy_localization/i18n/en-US.json": "5f5fda8715e8bf5116f77f469c5cf493",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
+"assets/shaders/ink_sparkle.frag": "346faf1afc51d0e6bd013040b99545dc",
 "assets/fonts/NotoSansSC-Regular.otf": "e3ae561f7b8052d9aa9f2b0b09c33ea1",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -228,7 +235,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -327,9 +333,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
