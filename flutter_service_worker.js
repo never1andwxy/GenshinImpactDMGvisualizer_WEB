@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0908c7b96d737f6206e7a9988dc97524",
+  "assets/AssetManifest.json": "d166d7b05c698336304871845fa78bce",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -19,6 +19,8 @@ const RESOURCES = {
 "assets/images/2021022415001674243.png": "f228437f3b163282dd4f72e98fcd6dd1",
 "assets/images/2021051011361876265.png": "8655de134863ca662ea1f5ad22263ec6",
 "assets/images/2021080311592610976.png": "a8687f596a66d5f93d00d0f1aa8123c2",
+"assets/images/alhaitham.png": "8b23c38f28e5d8419d9090e40e33e8cd",
+"assets/images/alhatham_078_gacha_splash.png": "c6a4bccdf2078ce5848545aa35163d50",
 "assets/images/appicon/icon1.png": "33eafa78c9ef1062fd6ee4e44f77d78a",
 "assets/images/appicon/icon2.png": "340dd1ca1ff1e5e535d2d66ba49bcc81",
 "assets/images/appicon/icon3.png": "a1bfbe619115370b127c48779defce7d",
@@ -104,6 +106,7 @@ const RESOURCES = {
 "assets/images/weapon/Sacrificial_Fragments.png": "9e4b503987914766c17721c66188378e",
 "assets/images/weapon/tighnaribis.png": "ff4a562defd66bb10a2b1c2d2daaa744",
 "assets/images/weapon/UI_EquipIcon_Catalyst_Alaya.png": "6726007af4211a005fcc2be7a908ed59",
+"assets/images/weapon/UI_EquipIcon_Sword_Ayus.png": "fa370781dea9042fb42c0b6379176981",
 "assets/images/weapon/UI_EquipIcon_Sword_Rockkiller.png": "3976a0c99e46c83374a977ecb48b6133",
 "assets/images/weapon/Wandering_Evenstar.png": "e9890e8a73105f872f0ac24fd75bdeed",
 "assets/images/weapon/Weapon_Alley_Hunter.png": "fdbd85c7223e1ac4d21e03c20b311837",
@@ -181,10 +184,10 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "e633ad4bfc1ebeaf040500eb2f980fdd",
-"assets/langs/ja.json": "7543c67aa690579f2c3809918435035a",
-"assets/langs/zh.json": "86d0c34599f4edfe57333e6b8176b562",
-"assets/NOTICES": "c4ed222b0567ee8ca6c5dbf00dc6b27a",
+"assets/langs/en.json": "8fa64716c6b6d0109f226ddfaa5d2d01",
+"assets/langs/ja.json": "5f6e9b0766c561caa66cc413dc2ec36a",
+"assets/langs/zh.json": "ae7aa515ffbf317c1a884c77ae571b54",
+"assets/NOTICES": "a7fa0d5e798e463e48b5faed40d2f16a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -232,11 +235,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "b0bf7dc0ce1f698be3d5a04efd1afb19",
-"/": "b0bf7dc0ce1f698be3d5a04efd1afb19",
-"main.dart.js": "6a1e66d73013ba7cf2976ffd90b53082",
+"index.html": "734550327ec9ed398aaa2bc747521fa6",
+"/": "734550327ec9ed398aaa2bc747521fa6",
+"main.dart.js": "38b504427022abf748e1be78ea756eee",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "b0fd992768a7159e2645b13c35cecb76"
+"version.json": "98c6f459da2af3853a6b19004ed18e95"
 };
 
 // The application shell files that are downloaded before a service worker can
