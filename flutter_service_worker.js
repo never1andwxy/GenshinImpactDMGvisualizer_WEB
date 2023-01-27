@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d166d7b05c698336304871845fa78bce",
+  "assets/AssetManifest.json": "cf9789ad16e74a560c01b19efc8b1648",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/2020010311352134879.png": "b2ae29ad28899dd0e328d2bcf471d294",
@@ -34,6 +34,8 @@ const RESOURCES = {
 "assets/images/Character_Raiden_Shogun_Portrait.png": "6ea865d88420471d5bc3f95ad9c7ec5b",
 "assets/images/cyno.png": "d78efa53d40f33a8b7a9f94e13bb227d",
 "assets/images/cyno_splash.png": "b3d2ea92c9214fab3a8ec99124e31b4d",
+"assets/images/dehya.png": "d2bfb7fe4e05a4c2b0b0de87ef1bdfe4",
+"assets/images/dehya_079_gacha_splash.png": "ca7e5e6ff04bc60500327f01482662a8",
 "assets/images/diy.png": "4320359f56418662552bf912b62b01d1",
 "assets/images/diysplash.png": "da1d685c6fe8d5856bd76b9bfae88c98",
 "assets/images/Element_Dendro.png": "ecb92f92da473cc3294f1feaf8c36acb",
@@ -94,6 +96,7 @@ const RESOURCES = {
 "assets/images/wanderer_075_icon.png": "30d8d4ed84a33674dcef4fdb29b44f66",
 "assets/images/weapon/ayatobis.png": "b9e9da14379a0bb89ef4153b9c8e9fc8",
 "assets/images/weapon/cynobis.png": "f0ea053ca68450b7a49421aa1370ae52",
+"assets/images/weapon/dehyabis.png": "dd4093bc8b28b75e3745dff107bf7757",
 "assets/images/weapon/Icon_Bow.png": "48e5e93a06ff9f31fccfeeae59e2dbf0",
 "assets/images/weapon/Icon_Catalyst.png": "4b3b30059c6cacc8c62676275d26605c",
 "assets/images/weapon/Icon_Claymore.png": "3d8d3313b91f5d3fe62c7198fe0848fd",
@@ -184,10 +187,10 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "8fa64716c6b6d0109f226ddfaa5d2d01",
-"assets/langs/ja.json": "5f6e9b0766c561caa66cc413dc2ec36a",
-"assets/langs/zh.json": "ae7aa515ffbf317c1a884c77ae571b54",
-"assets/NOTICES": "a7fa0d5e798e463e48b5faed40d2f16a",
+"assets/langs/en.json": "e4ce62f7d6282915cb471ca6af05fd03",
+"assets/langs/ja.json": "2f11f20c5f35736848306ce8efb06c5b",
+"assets/langs/zh.json": "6bfc4c697bfa5db64751d1aa385ece16",
+"assets/NOTICES": "c60dfb851e4a40292ee039f16966c759",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -198,12 +201,7 @@ const RESOURCES = {
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/shaders/ink_sparkle.frag": "21728896253a97482341e92e23c80dea",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/android-chrome-192x192.png": "6deae8dfc340eb0403cd2aeba427e596",
 "icons/android-chrome-512x512.png": "7f3597b64c59e3905c7ca37456885cf0",
 "icons/android-icon-144x144.png": "fbc822f1cce5183df6d85ed32551d4bf",
@@ -235,11 +233,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "4795b72e0c1ec163df4b6eba1aa56f81",
-"/": "4795b72e0c1ec163df4b6eba1aa56f81",
-"main.dart.js": "1580b624ef0e6bd6a2b327adcc22af9c",
+"index.html": "c5a1c9460b0f4232bf65fe850d78bf72",
+"/": "c5a1c9460b0f4232bf65fe850d78bf72",
+"main.dart.js": "8075025f47048d80ec0fc9f3f3af41dd",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "98c6f459da2af3853a6b19004ed18e95"
+"version.json": "91059c24751c2d101268dda6ea4a3e59"
 };
 
 // The application shell files that are downloaded before a service worker can
