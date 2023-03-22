@@ -760,7 +760,7 @@
     "Millennial Movement": "千年の大楽章",
     "Import from uid": "Uidインポート",
     "import": "インポート",
-    "Uid begins with 2 or 5 are not supported.\r\nPlease make sure you have made your profiles public in the game.\r\nOnly characters fully equiped and support by this app will be shown.\r\nOnly characters and artifacts mainsstat and substats will be set.\r\n": "2及び5から始まるUidはサポートしない\r\nプロファイルがゲーム内で公開されているを確認お願い致します\r\nフル装備、かつ本アプリサポートされているキャラクターのみ表示\r\nキャラクター及び聖遺物のメインステータス及びサブステータスのみ設定する\r\n",
+    "Uid begins with 2 or 5 are not supported.\r\nPlease make sure you have made your profiles public in the game.\r\nOnly characters fully equiped and support by this app will be shown.\r\nOnly characters and artifacts mainsstat and substats will be set.\r\n": "2及び5から始まるUidはサポートしない\r\nプロファイルがゲーム内で公開されているを確認お願い致します\r\nフル装備、かつ本アプリサポートされているキャラクターのみ表示\r\n",
     "Click the character icon to set the stats": "アイコンクリックしてインポート",
     "Congratulations! Ad Disabled": "おめでとう!広告が非表示になりました。",
     "Ad Re-enabled": "広告を再開しました。",
@@ -1007,5 +1007,11 @@
     "Save Card": "保存及びシェア",
     "Burning Damage Plus": "燃焼ダメージ追加",
     "Burning": "燃焼",
-    "No buffs have been selected": " その他のバフは追加されていない"
+    "No buffs have been selected": " その他のバフは追加されていない",
+    "Mika(Talent)": "ミカ(天賦)",
+    "Talent Stack": "天賦層数",
+    "Mika(C6)": "ミカ(命の星座6)",
+    "You can use Uid import by downloading any of our App version.\r\n Windows,Android,iOS,macOS available": "この機能利用するにはアプリ版をダウンロードしてください。\r\n Windows,Android,iOS,macOS 版を提供します。",
+    "Delete Panel": "削除する",
+    "Rank": "評価"
 }

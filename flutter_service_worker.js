@@ -188,9 +188,9 @@ const RESOURCES = {
 "assets/images/yoimiya.png": "c3e6e82527f3735354ff445516b33e62",
 "assets/images/yoimiyalarge.png": "bb1781e54e30e8da8e15bdaa8be694a4",
 "assets/images/zhongli.png": "5c08e30e37f435fc7668dc1379ac5e21",
-"assets/langs/en.json": "6f4826b715d898d52ee63b9cbf8a5688",
-"assets/langs/ja.json": "f4efa01b1f03a340465d4916d959fb37",
-"assets/langs/zh.json": "916643a0ac4923bbb019343f80836f6f",
+"assets/langs/en.json": "23c1f2b0ed9a699839ba02cc1bd4f4f8",
+"assets/langs/ja.json": "e23c559c28300d16a01b5507cc31da71",
+"assets/langs/zh.json": "79b6444a0d550eba5d4c45a24d0f02bb",
 "assets/NOTICES": "9aa6b2f0a841495637878b2006f6db7f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -234,11 +234,11 @@ const RESOURCES = {
 "icons/ms-icon-310x310.png": "a12f04337d6143b3539ea70fbeea6c96",
 "icons/ms-icon-70x70.png": "4107a56871634c033816d1dac7a25fb5",
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
-"index.html": "052531f965d0449ffafd8c5ecd95e42c",
-"/": "052531f965d0449ffafd8c5ecd95e42c",
-"main.dart.js": "c12f8f631339629835657e5e671fdb28",
+"index.html": "7779022b612848671d01b6373a5c91e9",
+"/": "7779022b612848671d01b6373a5c91e9",
+"main.dart.js": "211975688bc64d24e58319225c23a265",
 "manifest.json": "00a6620dc8b5a9d24c03ceb1787f805c",
-"version.json": "c241c4c3525c77442ce4fcc394322ce8"
+"version.json": "7a19ec2131d23da568b2bd7c9d7f3889"
 };
 
 // The application shell files that are downloaded before a service worker can
