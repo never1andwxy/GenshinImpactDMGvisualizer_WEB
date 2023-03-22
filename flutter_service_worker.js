@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "c241c4c3525c77442ce4fcc394322ce8",
-"index.html": "127cae63a40f6f5719246b888e2743a5",
-"/": "127cae63a40f6f5719246b888e2743a5",
-"main.dart.js": "e3a9eedae9827c84e3d7f1d09d71328a",
+  "version.json": "7a19ec2131d23da568b2bd7c9d7f3889",
+"index.html": "60ca682407b594831797d1d1eefe17d0",
+"/": "60ca682407b594831797d1d1eefe17d0",
+"main.dart.js": "c8c6e6a059668d87c5e7fab61e5cf7cc",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/favicon-16x16.png": "e3b7d86b47fb147ef047de80ac5c710c",
@@ -225,9 +225,9 @@ const RESOURCES = {
 "assets/images/UI_RelicIcon_15028_4.png": "0bfae72df728f8ee2a7d445c1ba8e6a5",
 "assets/AssetManifest.json": "0688da9ef9ac768f758a3f561f4dc758",
 "assets/NOTICES": "7955f10a6482f50747ed9ea47331ea98",
-"assets/langs/zh.json": "bd2bd8ef6ac13d45dcb2e6747fb7e4e2",
-"assets/langs/ja.json": "1f15a57de550bfd873e6da14a43ac1a1",
-"assets/langs/en.json": "30340a2e1897c0a3ee8eea27480de82a",
+"assets/langs/zh.json": "962291ecd8cc85dfd53ae5512ec35c93",
+"assets/langs/ja.json": "42af273f1ae719e7ba80e4d9e54e3ea0",
+"assets/langs/en.json": "274c4593ca0747a927c0906aa80f8def",
 "assets/FontManifest.json": "bb76240d2b9d9fc484bc6a21924e3388",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",

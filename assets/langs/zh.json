@@ -761,7 +761,7 @@
     "Millennial Movement": "千年的大乐章",
     "Import from uid": "Uid导入",
     "import": "导入",
-    "Uid begins with 2 or 5 are not supported.\r\nPlease make sure you have made your profiles public in the game.\r\nOnly characters fully equiped and support by this app will be shown.\r\nOnly characters and artifacts mainsstat and substats will be set.\r\n": "开始于2或者5的uid暂不支持\r\n请确保你的角色详情在游戏内已公开\r\n只有装备满圣遗物和计算器已实装的角色会显示\r\n只支持设置角色和圣遗物的主副属性\r\n游戏内修改后会有5分钟左右延迟",
+    "Uid begins with 2 or 5 are not supported.\r\nPlease make sure you have made your profiles public in the game.\r\nOnly characters fully equiped and support by this app will be shown.\r\nOnly characters and artifacts mainsstat and substats will be set.\r\n": "开始于2或者5的uid暂不支持\r\n请确保你的角色详情在游戏内已公开\r\n只有装备满圣遗物和计算器已实装的角色会显示\r\n游戏内修改后会有5分钟左右延迟",
     "Click the character icon to set the stats": "点击角色图标设置属性",
     "Congratulations! Ad Disabled": "恭喜!去除广告成功",
     "Ad Re-enabled": "重新开启广告",
@@ -1008,5 +1008,11 @@
     "Save Card": "保存并分享卡片",
     "Burning Damage Plus": "燃烧伤害加成",
     "Burning": "燃烧",
-    "No buffs have been selected": "未选择其他增益选项"
+    "No buffs have been selected": "未选择其他增益选项",
+    "Mika(Talent)": "米卡(天赋)",
+    "Talent Stack": "天赋层数",
+    "Mika(C6)": "米卡(6命)",
+    "You can use Uid import by downloading any of our App version.\r\n Windows,Android,iOS,macOS available": "请下载任意一款APP版以使用本功能\r\n 提供Windows,安卓,iOS,macOS 版本",
+    "Delete Panel": "删除面板",
+    "Rank": "评分"
 }
