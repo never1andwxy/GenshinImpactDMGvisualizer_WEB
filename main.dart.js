@@ -30327,7 +30327,7 @@ i=A.a([],t.u2)
 for(k=t.a,h=J.fH(j,k),h=new A.e2(h,h.gE(h)),g=t._;h.H();){f=h.d
 e=J.b3(f)
 d=A.d0(e.h(f,"family"))
-for(f=J.bg(g.a(e.h(f,"fonts")));f.H();)n.M2(i,a2.J5(A.d0(J.aK(k.a(f.gT(f)),"asset"))),d)}if(!n.a.C(0,"Roboto"))n.M2(i,"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf","Roboto")
+for(f=J.bg(g.a(e.h(f,"fonts")));f.H();)n.M2(i,a2.J5(A.d0(J.aK(k.a(f.gT(f)),"asset"))),d)}if(!n.a.C(0,"Roboto"))n.M2(i,"/assets/fonts/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf","Roboto")
 a=B.k
 a0=n.b
 a1=J
