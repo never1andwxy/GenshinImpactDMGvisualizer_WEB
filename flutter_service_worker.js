@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "fefae2067fbc72a50e6ef3b76d89c602",
-"index.html": "fd71ea73f084b3705327e8a158bd2f25",
-"/": "fd71ea73f084b3705327e8a158bd2f25",
-"main.dart.js": "35a05ba0ace0cbe9635a05cc274da1eb",
+  "adview.html": "ad543eabeccdfd68e5737c3dd36f0da8",
+"version.json": "1e08abec964f98ab179390ebe2e9fe76",
+"index.html": "bc5f316a99f0a7b60879879c96e97a87",
+"/": "bc5f316a99f0a7b60879879c96e97a87",
+"main.dart.js": "05c19624f02e3228b03adc912ea2c1fb",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/favicon-16x16.png": "e3b7d86b47fb147ef047de80ac5c710c",
@@ -234,7 +235,7 @@ const RESOURCES = {
 "assets/images/Item_Sea-Dyed_Blossom.png": "020ed5f858db7dc32afd47cf4b2e6d05",
 "assets/images/UI_RelicIcon_15028_4.png": "0bfae72df728f8ee2a7d445c1ba8e6a5",
 "assets/AssetManifest.json": "f64620f43535c68056acb908949c9deb",
-"assets/NOTICES": "bdd1847ec8896263f75c7c83cb3ddae2",
+"assets/NOTICES": "427c762e8933052deeac40359e5c54e2",
 "assets/langs/zh.json": "d7c720d1710a9d2b976da1cec2cd8afa",
 "assets/langs/ja.json": "7ee554a34017913894a9b93dc790c9f3",
 "assets/langs/en.json": "754af984ef9fa3371f085918cd0773e4",
@@ -248,7 +249,6 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/en.json": "5f5fda8715e8bf5116f77f469c5cf493",
 "assets/packages/easy_localization/i18n/en-US.json": "5f5fda8715e8bf5116f77f469c5cf493",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
-"assets/shaders/ink_sparkle.frag": "346faf1afc51d0e6bd013040b99545dc",
 "assets/fonts/NotoSansSC-Regular.otf": "e3ae561f7b8052d9aa9f2b0b09c33ea1",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
