@@ -1,0 +1,141 @@
+{
+    "id": "13403",
+    "ENname": "Crescent Pike",
+    "CNname": "流月针",
+    "JAname": "流月の針",
+    "imageurl": "images/weapon/13403.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "physical_add_hurt": 0.07507
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "physical_add_hurt": 0.08723133999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "physical_add_hurt": 0.10232041
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "physical_add_hurt": 0.11748455
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "physical_add_hurt": 0.13264868999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "physical_add_hurt": 0.14781283
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "physical_add_hurt": 0.16297696999999997
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "physical_add_hurt": 0.17814111000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "physical_add_hurt": 0.19330525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "physical_add_hurt": 0.20846939
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "physical_add_hurt": 0.22363353
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "physical_add_hurt": 0.23879767
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "physical_add_hurt": 0.25396181
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "physical_add_hurt": 0.26912595
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "physical_add_hurt": 0.28421502
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "physical_add_hurt": 0.29937916
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "physical_add_hurt": 0.3145433
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "physical_add_hurt": 0.32970744
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "physical_add_hurt": 0.34487158
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113403",
+            "name": "Infusion Needle",
+            "upgrade": {
+                "0": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 20% of ATK for 5s.",
+                "1": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 25% of ATK for 5s.",
+                "2": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 30% of ATK for 5s.",
+                "3": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 35% of ATK for 5s.",
+                "4": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 40% of ATK for 5s."
+            }
+        },
+        "chs": {
+            "id": "113403",
+            "name": "注能之针",
+            "upgrade": {
+                "0": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成20%攻击力伤害。",
+                "1": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成25%攻击力伤害。",
+                "2": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成30%攻击力伤害。",
+                "3": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成35%攻击力伤害。",
+                "4": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成40%攻击力伤害。"
+            }
+        },
+        "jp": {
+            "id": "113403",
+            "name": "注入の針",
+            "upgrade": {
+                "0": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の20%の追加ダメージを与える。",
+                "1": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の25%の追加ダメージを与える。",
+                "2": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の30%の追加ダメージを与える。",
+                "3": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の35%の追加ダメージを与える。",
+                "4": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の40%の追加ダメージを与える。"
+            }
+        }
+    }
+}

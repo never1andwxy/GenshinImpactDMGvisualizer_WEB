@@ -1,0 +1,141 @@
+{
+    "id": "15512",
+    "ENname": "The First Great Magic",
+    "CNname": "最初的大魔术",
+    "JAname": "最初の大魔術",
+    "imageurl": "images/weapon/15512.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical_hurt": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical_hurt": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical_hurt": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical_hurt": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical_hurt": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical_hurt": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical_hurt": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical_hurt": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical_hurt": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical_hurt": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical_hurt": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical_hurt": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical_hurt": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical_hurt": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical_hurt": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical_hurt": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical_hurt": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical_hurt": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical_hurt": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115512",
+            "name": "",
+            "upgrade": {
+                "0": "ATK increased by 12%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 8%/16%/40%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 4%/7%/10%.",
+                "1": "ATK increased by 15%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 10%/20%/50%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 6%/9%/12%.",
+                "2": "ATK increased by 18%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 12%/24%/60%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 8%/11%/14%.",
+                "3": "ATK increased by 21%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 14%/28%/70%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 10%/13%/16%.",
+                "4": "ATK increased by 24%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 16%/32%/80%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 12%/15%/18%."
+            }
+        },
+        "chs": {
+            "id": "115512",
+            "name": "伟大者帕西法尔",
+            "upgrade": {
+                "0": "重击造成的伤害提升16%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升16%/32%/48%；处于1/2/3层及以上「演技」效果下时，移动速度提升4%/7%/10%。",
+                "1": "重击造成的伤害提升20%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升20%/40%/60%；处于1/2/3层及以上「演技」效果下时，移动速度提升6%/9%/12%。",
+                "2": "重击造成的伤害提升24%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升24%/48%/72%；处于1/2/3层及以上「演技」效果下时，移动速度提升8%/11%/14%。",
+                "3": "重击造成的伤害提升28%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升28%/56%/84%；处于1/2/3层及以上「演技」效果下时，移动速度提升10%/13%/16%。",
+                "4": "重击造成的伤害提升32%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升32%/64%/96%；处于1/2/3层及以上「演技」效果下时，移动速度提升12%/15%/18%。"
+            }
+        },
+        "jp": {
+            "id": "115512",
+            "name": "",
+            "upgrade": {
+                "0": "攻撃力+12%。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「手法」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「演技」効果を1層獲得する。1/2/3層以上の「手法」効果がある時、攻撃力がそれぞれ+8%/16%/40%。1/2/3層以上の「演技」効果がある時、移動速度がそれぞれ+4%/7%/10%。",
+                "1": "攻撃力+15%。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「手法」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「演技」効果を1層獲得する。1/2/3層以上の「手法」効果がある時、攻撃力がそれぞれ+10%/20%/50%。1/2/3層以上の「演技」効果がある時、移動速度がそれぞれ+6%/9%/12%。",
+                "2": "攻撃力+18%。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「手法」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「演技」効果を1層獲得する。1/2/3層以上の「手法」効果がある時、攻撃力がそれぞれ+12%/24%/60%。1/2/3層以上の「演技」効果がある時、移動速度がそれぞれ+8%/11%/14%。",
+                "3": "攻撃力+21%。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「手法」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「演技」効果を1層獲得する。1/2/3層以上の「手法」効果がある時、攻撃力がそれぞれ+14%/28%/70%。1/2/3層以上の「演技」効果がある時、移動速度がそれぞれ+10%/13%/16%。",
+                "4": "攻撃力+24%。チーム内に装備者と同じ元素タイプのキャラクター（装備者自身を含む）が1名いる毎に、「手法」効果を1層獲得する。異なる元素タイプのキャラクターが1名いる毎に、「演技」効果を1層獲得する。1/2/3層以上の「手法」効果がある時、攻撃力がそれぞれ+16%/32%/80%。1/2/3層以上の「演技」効果がある時、移動速度がそれぞれ+12%/15%/18%。"
+            }
+        }
+    }
+}

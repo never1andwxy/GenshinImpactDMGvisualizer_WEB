@@ -1,0 +1,141 @@
+{
+    "id": "11306",
+    "ENname": "Skyrider Sword",
+    "CNname": "飞天御剑",
+    "JAname": "飛天御剣",
+    "imageurl": "images/weapon/11306.png",
+    "type": "sword",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 37.6075,
+            "charge_efficiency": 0.11333
+        },
+        {
+            "level": "5",
+            "base_attack": 48.137600000000006,
+            "charge_efficiency": 0.13168945999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 60.961757500000004,
+            "charge_efficiency": 0.15446879
+        },
+        {
+            "level": "15",
+            "base_attack": 73.40984,
+            "charge_efficiency": 0.17736145
+        },
+        {
+            "level": "20",
+            "base_attack": 85.5570625,
+            "charge_efficiency": 0.20025410999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 97.4410325,
+            "charge_efficiency": 0.22314677000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 109.0993575,
+            "charge_efficiency": 0.24603942999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 120.5320375,
+            "charge_efficiency": 0.26893209
+        },
+        {
+            "level": "40",
+            "base_attack": 151.27668,
+            "charge_efficiency": 0.29182475
+        },
+        {
+            "level": "45",
+            "base_attack": 142.8708925,
+            "charge_efficiency": 0.31471741000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 192.714675,
+            "charge_efficiency": 0.33761007
+        },
+        {
+            "level": "55",
+            "base_attack": 164.6080275,
+            "charge_efficiency": 0.36050273
+        },
+        {
+            "level": "60",
+            "base_attack": 233.6885575,
+            "charge_efficiency": 0.38339539
+        },
+        {
+            "level": "65",
+            "base_attack": 185.8938725,
+            "charge_efficiency": 0.40628805
+        },
+        {
+            "level": "70",
+            "base_attack": 274.186365,
+            "charge_efficiency": 0.42906738
+        },
+        {
+            "level": "75",
+            "base_attack": 206.76603500000002,
+            "charge_efficiency": 0.45196004
+        },
+        {
+            "level": "80",
+            "base_attack": 314.44570500000003,
+            "charge_efficiency": 0.47485270000000007
+        },
+        {
+            "level": "85",
+            "base_attack": 227.4125525,
+            "charge_efficiency": 0.49774536
+        },
+        {
+            "level": "90",
+            "base_attack": 354.37940000000003,
+            "charge_efficiency": 0.52063802
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111306",
+            "name": "Determination",
+            "upgrade": {
+                "0": "Using an Elemental Burst grants a 12% increase in ATK and Movement SPD for 15s.",
+                "1": "Using an Elemental Burst grants a 15% increase in ATK and Movement SPD for 15s.",
+                "2": "Using an Elemental Burst grants a 18% increase in ATK and Movement SPD for 15s.",
+                "3": "Using an Elemental Burst grants a 21% increase in ATK and Movement SPD for 15s.",
+                "4": "Using an Elemental Burst grants a 24% increase in ATK and Movement SPD for 15s."
+            }
+        },
+        "chs": {
+            "id": "111306",
+            "name": "决心",
+            "upgrade": {
+                "0": "施放元素爆发后，提高12%攻击力和移动速度，持续15秒。",
+                "1": "施放元素爆发后，提高15%攻击力和移动速度，持续15秒。",
+                "2": "施放元素爆发后，提高18%攻击力和移动速度，持续15秒。",
+                "3": "施放元素爆发后，提高21%攻击力和移动速度，持续15秒。",
+                "4": "施放元素爆发后，提高24%攻击力和移动速度，持续15秒。"
+            }
+        },
+        "jp": {
+            "id": "111306",
+            "name": "決心",
+            "upgrade": {
+                "0": "元素爆発を発動した後、攻撃力と移動速度+12%、継続時間15秒。",
+                "1": "元素爆発を発動した後、攻撃力と移動速度+15%、継続時間15秒。",
+                "2": "元素爆発を発動した後、攻撃力と移動速度+18%、継続時間15秒。",
+                "3": "元素爆発を発動した後、攻撃力と移動速度+21%、継続時間15秒。",
+                "4": "元素爆発を発動した後、攻撃力と移動速度+24%、継続時間15秒。"
+            }
+        }
+    }
+}

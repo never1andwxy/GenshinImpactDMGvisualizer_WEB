@@ -1,0 +1,141 @@
+{
+    "id": "11410",
+    "ENname": "The Alley Flash",
+    "CNname": "暗巷闪光",
+    "JAname": "ダークアレイの閃光",
+    "imageurl": "images/weapon/11410.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.0687,
+            "element_mastery": 11.99999
+        },
+        {
+            "level": "5",
+            "base_attack": 61.924393800000004,
+            "element_mastery": 13.943988379999999
+        },
+        {
+            "level": "10",
+            "base_attack": 83.5573698,
+            "element_mastery": 16.35598637
+        },
+        {
+            "level": "15",
+            "base_attack": 105.6861015,
+            "element_mastery": 18.77998435
+        },
+        {
+            "level": "20",
+            "base_attack": 128.2204515,
+            "element_mastery": 21.20398233
+        },
+        {
+            "level": "25",
+            "base_attack": 151.0702824,
+            "element_mastery": 23.62798031
+        },
+        {
+            "level": "30",
+            "base_attack": 174.2355942,
+            "element_mastery": 26.051978289999997
+        },
+        {
+            "level": "35",
+            "base_attack": 197.6262495,
+            "element_mastery": 28.475976270000004
+        },
+        {
+            "level": "40",
+            "base_attack": 247.1422483,
+            "element_mastery": 30.899974250000003
+        },
+        {
+            "level": "45",
+            "base_attack": 244.9934532,
+            "element_mastery": 33.32397223
+        },
+        {
+            "level": "50",
+            "base_attack": 320.87000159999997,
+            "element_mastery": 35.747970210000005
+        },
+        {
+            "level": "55",
+            "base_attack": 293.0366874,
+            "element_mastery": 38.17196819
+        },
+        {
+            "level": "60",
+            "base_attack": 395.0385793,
+            "element_mastery": 40.595966170000004
+        },
+        {
+            "level": "65",
+            "base_attack": 341.5756773,
+            "element_mastery": 43.01996415
+        },
+        {
+            "level": "70",
+            "base_attack": 469.65784399999995,
+            "element_mastery": 45.43196214
+        },
+        {
+            "level": "75",
+            "base_attack": 390.4752168,
+            "element_mastery": 47.85596012
+        },
+        {
+            "level": "80",
+            "base_attack": 544.7376583,
+            "element_mastery": 50.27995810000001
+        },
+        {
+            "level": "85",
+            "base_attack": 439.6902372,
+            "element_mastery": 52.703956080000005
+        },
+        {
+            "level": "90",
+            "base_attack": 620.0329635,
+            "element_mastery": 55.12795406000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111410",
+            "name": "Itinerant Hero",
+            "upgrade": {
+                "0": "Increases DMG dealt by the character equipping this weapon by 12%. Taking DMG disables this effect for 5s.",
+                "1": "Increases DMG dealt by the character equipping this weapon by 15%. Taking DMG disables this effect for 5s.",
+                "2": "Increases DMG dealt by the character equipping this weapon by 18%. Taking DMG disables this effect for 5s.",
+                "3": "Increases DMG dealt by the character equipping this weapon by 21%. Taking DMG disables this effect for 5s.",
+                "4": "Increases DMG dealt by the character equipping this weapon by 24%. Taking DMG disables this effect for 5s."
+            }
+        },
+        "chs": {
+            "id": "111410",
+            "name": "街巷游侠",
+            "upgrade": {
+                "0": "角色造成的伤害提升12%。受到伤害后，该伤害提升效果会失效5秒。",
+                "1": "角色造成的伤害提升15%。受到伤害后，该伤害提升效果会失效5秒。",
+                "2": "角色造成的伤害提升18%。受到伤害后，该伤害提升效果会失效5秒。",
+                "3": "角色造成的伤害提升21%。受到伤害后，该伤害提升效果会失效5秒。",
+                "4": "角色造成的伤害提升24%。受到伤害后，该伤害提升效果会失效5秒。"
+            }
+        },
+        "jp": {
+            "id": "111410",
+            "name": "路地遊侠",
+            "upgrade": {
+                "0": "キャラクターが与えるダメージ+12%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+                "1": "キャラクターが与えるダメージ+15%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+                "2": "キャラクターが与えるダメージ+18%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+                "3": "キャラクターが与えるダメージ+21%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+                "4": "キャラクターが与えるダメージ+24%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。"
+            }
+        }
+    }
+}

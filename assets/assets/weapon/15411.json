@@ -1,0 +1,141 @@
+{
+    "id": "15411",
+    "ENname": "Fading Twilight",
+    "CNname": "落霞",
+    "JAname": "落霞",
+    "imageurl": "images/weapon/15411.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115411",
+            "name": "Radiance of the Deeps",
+            "upgrade": {
+                "0": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 6%/10%/14% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+                "1": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 7.5%/12.5%/17.5% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+                "2": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 9%/15%/21% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+                "3": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 10.5%/17.5%/24.5% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+                "4": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 12%/20%/28% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+            }
+        },
+        "chs": {
+            "id": "115411",
+            "name": "渊中霞彩",
+            "upgrade": {
+                "0": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升6%/10%/14%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+                "1": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升7.5%/12.5%/17.5%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+                "2": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升9%/15%/21%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+                "3": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升10.5%/17.5%/24.5%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+                "4": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升12%/20%/28%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。"
+            }
+        },
+        "jp": {
+            "id": "115411",
+            "name": "淵中霞彩",
+            "upgrade": {
+                "0": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+6%/10%/14%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+                "1": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+7.5%/12.5%/17.5%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+                "2": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+9%/15%/21%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+                "3": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+10.5%/17.5%/24.5%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+                "4": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+12%/20%/28%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。"
+            }
+        }
+    }
+}

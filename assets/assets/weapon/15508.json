@@ -1,0 +1,141 @@
+{
+    "id": "15508",
+    "ENname": "Aqua Simulacra",
+    "CNname": "若水",
+    "JAname": "若水",
+    "imageurl": "images/weapon/15508.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "critical_hurt": 0.192
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "critical_hurt": 0.223104
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "critical_hurt": 0.261696
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "critical_hurt": 0.30047999999999997
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "critical_hurt": 0.339264
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "critical_hurt": 0.37804800000000005
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "critical_hurt": 0.416832
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "critical_hurt": 0.4556160000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "critical_hurt": 0.49440000000000006
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "critical_hurt": 0.533184
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "critical_hurt": 0.571968
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "critical_hurt": 0.6107520000000001
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "critical_hurt": 0.649536
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "critical_hurt": 0.68832
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "critical_hurt": 0.726912
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "critical_hurt": 0.765696
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "critical_hurt": 0.8044800000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "critical_hurt": 0.8432640000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "critical_hurt": 0.882048
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115508",
+            "name": "The Cleansing Form",
+            "upgrade": {
+                "0": "HP is increased by 16%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 20%. This will take effect whether the character is on-field or not.",
+                "1": "HP is increased by 20%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 25%. This will take effect whether the character is on-field or not.",
+                "2": "HP is increased by 24%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 30%. This will take effect whether the character is on-field or not.",
+                "3": "HP is increased by 28%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 35%. This will take effect whether the character is on-field or not.",
+                "4": "HP is increased by 32%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 40%. This will take effect whether the character is on-field or not."
+            }
+        },
+        "chs": {
+            "id": "115508",
+            "name": "洗濯诸类之形",
+            "upgrade": {
+                "0": "生命值提升16%。周围存在敌人时，装备该武器的角色造成的伤害都会提升20%，不论该角色处于场上或是处于队伍后台。",
+                "1": "生命值提升20%。周围存在敌人时，装备该武器的角色造成的伤害都会提升25%，不论该角色处于场上或是处于队伍后台。",
+                "2": "生命值提升24%。周围存在敌人时，装备该武器的角色造成的伤害都会提升30%，不论该角色处于场上或是处于队伍后台。",
+                "3": "生命值提升28%。周围存在敌人时，装备该武器的角色造成的伤害都会提升35%，不论该角色处于场上或是处于队伍后台。",
+                "4": "生命值提升32%。周围存在敌人时，装备该武器的角色造成的伤害都会提升40%，不论该角色处于场上或是处于队伍后台。"
+            }
+        },
+        "jp": {
+            "id": "115508",
+            "name": "濯ぎし諸般の形",
+            "upgrade": {
+                "0": "HP+16%。周囲に敵がいる時、装備キャラクターの与えるダメージ+20%、この効果はキャラクターが待機状態でも発動する。",
+                "1": "HP+20%。周囲に敵がいる時、装備キャラクターの与えるダメージ+25%、この効果はキャラクターが待機状態でも発動する。",
+                "2": "HP+24%。周囲に敵がいる時、装備キャラクターの与えるダメージ+30%、この効果はキャラクターが待機状態でも発動する。",
+                "3": "HP+28%。周囲に敵がいる時、装備キャラクターの与えるダメージ+35%、この効果はキャラクターが待機状態でも発動する。",
+                "4": "HP+32%。周囲に敵がいる時、装備キャラクターの与えるダメージ+40%、この効果はキャラクターが待機状態でも発動する。"
+            }
+        }
+    }
+}

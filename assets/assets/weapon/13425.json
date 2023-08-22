@@ -1,0 +1,141 @@
+{
+    "id": "13425",
+    "ENname": "Rightful Reward",
+    "CNname": "公义的酬报",
+    "JAname": "公義の返報",
+    "imageurl": "images/weapon/13425.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "hp_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "hp_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "hp_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "hp_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "hp_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "hp_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "hp_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "hp_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "hp_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "hp_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "hp_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "hp_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "hp_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "hp_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "hp_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "hp_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "hp_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "hp_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "hp_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113425",
+            "name": "",
+            "upgrade": {
+                "0": "When the wielder is healed, restore 8 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
+                "1": "When the wielder is healed, restore 10 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
+                "2": "When the wielder is healed, restore 12 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
+                "3": "When the wielder is healed, restore 14 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
+                "4": "When the wielder is healed, restore 16 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+            }
+        },
+        "chs": {
+            "id": "113425",
+            "name": "枪尖一点",
+            "upgrade": {
+                "0": "受到治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "1": "受到治疗时，恢复10点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "2": "受到治疗时，恢复12点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "3": "受到治疗时，恢复14点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "4": "受到治疗时，恢复16点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。"
+            }
+        },
+        "jp": {
+            "id": "113425",
+            "name": "",
+            "upgrade": {
+                "0": "治療を受けた時、元素エネルギーを8回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "1": "治療を受けた時、元素エネルギーを10回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "2": "治療を受けた時、元素エネルギーを12回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "3": "治療を受けた時、元素エネルギーを14回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "4": "治療を受けた時、元素エネルギーを16回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}

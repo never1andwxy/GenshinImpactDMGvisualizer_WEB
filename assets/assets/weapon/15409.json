@@ -1,0 +1,141 @@
+{
+    "id": "15409",
+    "ENname": "The Viridescent Hunt",
+    "CNname": "苍翠猎弓",
+    "JAname": "蒼翠の狩猟弓",
+    "imageurl": "images/weapon/15409.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115409",
+            "name": "Verdant Wind",
+            "upgrade": {
+                "0": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 40% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 14s.",
+                "1": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 50% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 13s.",
+                "2": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 60% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 12s.",
+                "3": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 70% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 11s.",
+                "4": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 80% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 10s."
+            }
+        },
+        "chs": {
+            "id": "115409",
+            "name": "苍翠之风",
+            "upgrade": {
+                "0": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成40%攻击的伤害。该效果持续4秒，每14秒至多触发一次。",
+                "1": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成50%攻击的伤害。该效果持续4秒，每13秒至多触发一次。",
+                "2": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成60%攻击的伤害。该效果持续4秒，每12秒至多触发一次。",
+                "3": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成70%攻击的伤害。该效果持续4秒，每11秒至多触发一次。",
+                "4": "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成80%攻击的伤害。该效果持续4秒，每10秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "115409",
+            "name": "蒼翠の風",
+            "upgrade": {
+                "0": "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の40%のダメージを与える。継続時間4秒、14秒毎に1回のみ発動可能。",
+                "1": "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の50%のダメージを与える。継続時間4秒、13秒毎に1回のみ発動可能。",
+                "2": "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の60%のダメージを与える。継続時間4秒、12秒毎に1回のみ発動可能。",
+                "3": "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の70%のダメージを与える。継続時間4秒、11秒毎に1回のみ発動可能。",
+                "4": "通常攻撃と重撃が命中時、50%の確率で風の目を生成し、近くの敵を吸い寄せる。0.5秒毎に敵に攻撃力の80%のダメージを与える。継続時間4秒、10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

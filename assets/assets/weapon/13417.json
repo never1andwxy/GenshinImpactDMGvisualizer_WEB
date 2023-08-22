@@ -1,0 +1,141 @@
+{
+    "id": "13417",
+    "ENname": "Moonpiercer",
+    "CNname": "贯月矢",
+    "JAname": "ムーンピアサー",
+    "imageurl": "images/weapon/13417.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "element_mastery": 24
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "element_mastery": 27.887999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "element_mastery": 32.712
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "element_mastery": 37.56
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "element_mastery": 42.408
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "element_mastery": 47.256
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "element_mastery": 52.104
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "element_mastery": 56.952000000000005
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "element_mastery": 61.800000000000004
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "element_mastery": 66.648
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "element_mastery": 71.49600000000001
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "element_mastery": 76.344
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "element_mastery": 81.19200000000001
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "element_mastery": 86.03999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "element_mastery": 90.864
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "element_mastery": 95.712
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "element_mastery": 100.56
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "element_mastery": 105.40800000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "element_mastery": 110.256
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113417",
+            "name": "Stillwood Moonshadow",
+            "upgrade": {
+                "0": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 16% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
+                "1": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 20% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
+                "2": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 24% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
+                "3": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 28% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
+                "4": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 32% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
+            }
+        },
+        "chs": {
+            "id": "113417",
+            "name": "幽林月影",
+            "upgrade": {
+                "0": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升16%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
+                "1": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升20%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
+                "2": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升24%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
+                "3": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升28%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
+                "4": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升32%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。"
+            }
+        },
+        "jp": {
+            "id": "113417",
+            "name": "幽林の月影",
+            "upgrade": {
+                "0": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+16%、継続時間12秒。この方式で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。",
+                "1": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+20%、継続時間12秒。この方式で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。",
+                "2": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+24%、継続時間12秒。この方式で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。",
+                "3": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+28%、継続時間12秒。この方式で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。",
+                "4": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間存在する「蘇生の葉」を生成する。「蘇生の葉」を拾うと、キャラクターの攻撃力+32%、継続時間12秒。この方式で生成できる「蘇生の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}

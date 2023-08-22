@@ -1,0 +1,141 @@
+{
+    "id": "12401",
+    "ENname": "Favonius Greatsword",
+    "CNname": "西风大剑",
+    "JAname": "西風大剣",
+    "imageurl": "images/weapon/12401.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671,
+            "charge_efficiency": 0.13333
+        },
+        {
+            "level": "5",
+            "base_attack": 53.633632600000006,
+            "charge_efficiency": 0.15492946
+        },
+        {
+            "level": "10",
+            "base_attack": 69.0748622,
+            "charge_efficiency": 0.18172879
+        },
+        {
+            "level": "15",
+            "base_attack": 84.2696892,
+            "charge_efficiency": 0.20866145
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591807,
+            "charge_efficiency": 0.23559411
+        },
+        {
+            "level": "25",
+            "base_attack": 114.0844038,
+            "charge_efficiency": 0.26252677
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642560000003,
+            "charge_efficiency": 0.28945942999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32417900000002,
+            "charge_efficiency": 0.31639209
+        },
+        {
+            "level": "40",
+            "base_attack": 183.67979820000002,
+            "charge_efficiency": 0.34332475
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328320000003,
+            "charge_efficiency": 0.37025741
+        },
+        {
+            "level": "50",
+            "base_attack": 238.344634,
+            "charge_efficiency": 0.39719007
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385060000003,
+            "charge_efficiency": 0.42412273
+        },
+        {
+            "level": "60",
+            "base_attack": 292.62200010000004,
+            "charge_efficiency": 0.45105539
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080154,
+            "charge_efficiency": 0.47798805
+        },
+        {
+            "level": "70",
+            "base_attack": 346.6529636,
+            "charge_efficiency": 0.50478738
+        },
+        {
+            "level": "75",
+            "base_attack": 256.95684470000003,
+            "charge_efficiency": 0.5317200400000001
+        },
+        {
+            "level": "80",
+            "base_attack": 400.6607258,
+            "charge_efficiency": 0.5586527000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 284.88247270000005,
+            "charge_efficiency": 0.58558536
+        },
+        {
+            "level": "90",
+            "base_attack": 454.36316250000004,
+            "charge_efficiency": 0.6125180200000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112401",
+            "name": "Windfall",
+            "upgrade": {
+                "0": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+                "1": "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s.",
+                "2": "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
+                "3": "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s.",
+                "4": "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s."
+            }
+        },
+        "chs": {
+            "id": "112401",
+            "name": "顺风而行",
+            "upgrade": {
+                "0": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+                "1": "攻击造成暴击时，有70%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每10.5秒只能触发一次。",
+                "2": "攻击造成暴击时，有80%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每9秒只能触发一次。",
+                "3": "攻击造成暴击时，有90%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每7.5秒只能触发一次。",
+                "4": "攻击造成暴击时，有100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每6秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112401",
+            "name": "追い風が吹く",
+            "upgrade": {
+                "0": "会心攻撃をした時、60%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。12秒毎に1回のみ発動可能。",
+                "1": "会心攻撃をした時、70%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。10.5秒毎に1回のみ発動可能。",
+                "2": "会心攻撃をした時、80%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。9秒毎に1回のみ発動可能。",
+                "3": "会心攻撃をした時、90%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。7.5秒毎に1回のみ発動可能。",
+                "4": "会心攻撃をした時、100%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。6秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "14410",
+    "ENname": "Wine and Song",
+    "CNname": "暗巷的酒与诗",
+    "JAname": "ダークアレイの酒と詩",
+    "imageurl": "images/weapon/14410.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114410",
+            "name": "Ever-Changing",
+            "upgrade": {
+                "0": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 14% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 20% for 5s.",
+                "1": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 16% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 25% for 5s.",
+                "2": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 18% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 30% for 5s.",
+                "3": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 20% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 35% for 5s.",
+                "4": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 22% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 40% for 5s."
+            }
+        },
+        "chs": {
+            "id": "114410",
+            "name": "变化万端",
+            "upgrade": {
+                "0": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低14%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升20%，持续5秒。",
+                "1": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低16%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升25%，持续5秒。",
+                "2": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低18%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升30%，持续5秒。",
+                "3": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低20%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升35%，持续5秒。",
+                "4": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低22%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升40%，持续5秒。"
+            }
+        },
+        "jp": {
+            "id": "114410",
+            "name": "千変万化",
+            "upgrade": {
+                "0": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-14%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+20%、持続時間5秒。",
+                "1": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-16%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+25%、持続時間5秒。",
+                "2": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-18%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+30%、持続時間5秒。",
+                "3": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-20%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+35%、持続時間5秒。",
+                "4": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-22%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+40%、持続時間5秒。"
+            }
+        }
+    }
+}

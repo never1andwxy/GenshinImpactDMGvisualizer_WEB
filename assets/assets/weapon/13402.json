@@ -1,0 +1,141 @@
+{
+    "id": "13402",
+    "ENname": "Prototype Starglitter",
+    "CNname": "试作星镰",
+    "JAname": "星鎌·試作",
+    "imageurl": "images/weapon/13402.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113402",
+            "name": "Magic Affinity",
+            "upgrade": {
+                "0": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks.",
+                "1": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 10% for 12s. Max 2 stacks.",
+                "2": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 12% for 12s. Max 2 stacks.",
+                "3": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 14% for 12s. Max 2 stacks.",
+                "4": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 16% for 12s. Max 2 stacks."
+            }
+        },
+        "chs": {
+            "id": "113402",
+            "name": "嗜魔",
+            "upgrade": {
+                "0": "施放元素战技后，普通攻击和重击造成的伤害提高8%。该效果持续12秒，最多叠加2层。",
+                "1": "施放元素战技后，普通攻击和重击造成的伤害提高10%。该效果持续12秒，最多叠加2层。",
+                "2": "施放元素战技后，普通攻击和重击造成的伤害提高12%。该效果持续12秒，最多叠加2层。",
+                "3": "施放元素战技后，普通攻击和重击造成的伤害提高14%。该效果持续12秒，最多叠加2层。",
+                "4": "施放元素战技后，普通攻击和重击造成的伤害提高16%。该效果持续12秒，最多叠加2层。"
+            }
+        },
+        "jp": {
+            "id": "113402",
+            "name": "魔力親和",
+            "upgrade": {
+                "0": "元素スキルを発動した後、通常攻撃と重撃のダメージ+8%、継続時間12秒、最大2重まで。",
+                "1": "元素スキルを発動した後、通常攻撃と重撃のダメージ+10%、継続時間12秒、最大2重まで。",
+                "2": "元素スキルを発動した後、通常攻撃と重撃のダメージ+12%、継続時間12秒、最大2重まで。",
+                "3": "元素スキルを発動した後、通常攻撃と重撃のダメージ+14%、継続時間12秒、最大2重まで。",
+                "4": "元素スキルを発動した後、通常攻撃と重撃のダメージ+16%、継続時間12秒、最大2重まで。"
+            }
+        }
+    }
+}

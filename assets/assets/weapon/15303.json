@@ -1,0 +1,141 @@
+{
+    "id": "15303",
+    "ENname": "Recurve Bow",
+    "CNname": "反曲弓",
+    "JAname": "リカーブボウ",
+    "imageurl": "images/weapon/15303.png",
+    "type": "bow",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 37.6075,
+            "hp_percent": 0.10213
+        },
+        {
+            "level": "5",
+            "base_attack": 48.137600000000006,
+            "hp_percent": 0.11867505999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 60.961757500000004,
+            "hp_percent": 0.13920319
+        },
+        {
+            "level": "15",
+            "base_attack": 73.40984,
+            "hp_percent": 0.15983345
+        },
+        {
+            "level": "20",
+            "base_attack": 85.5570625,
+            "hp_percent": 0.18046371
+        },
+        {
+            "level": "25",
+            "base_attack": 97.4410325,
+            "hp_percent": 0.20109397
+        },
+        {
+            "level": "30",
+            "base_attack": 109.0993575,
+            "hp_percent": 0.22172422999999997
+        },
+        {
+            "level": "35",
+            "base_attack": 120.5320375,
+            "hp_percent": 0.24235449
+        },
+        {
+            "level": "40",
+            "base_attack": 151.27668,
+            "hp_percent": 0.26298475
+        },
+        {
+            "level": "45",
+            "base_attack": 142.8708925,
+            "hp_percent": 0.28361501
+        },
+        {
+            "level": "50",
+            "base_attack": 192.714675,
+            "hp_percent": 0.30424527
+        },
+        {
+            "level": "55",
+            "base_attack": 164.6080275,
+            "hp_percent": 0.32487553
+        },
+        {
+            "level": "60",
+            "base_attack": 233.6885575,
+            "hp_percent": 0.34550579
+        },
+        {
+            "level": "65",
+            "base_attack": 185.8938725,
+            "hp_percent": 0.36613605
+        },
+        {
+            "level": "70",
+            "base_attack": 274.186365,
+            "hp_percent": 0.38666418
+        },
+        {
+            "level": "75",
+            "base_attack": 206.76603500000002,
+            "hp_percent": 0.40729444
+        },
+        {
+            "level": "80",
+            "base_attack": 314.44570500000003,
+            "hp_percent": 0.42792470000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 227.4125525,
+            "hp_percent": 0.44855496
+        },
+        {
+            "level": "90",
+            "base_attack": 354.37940000000003,
+            "hp_percent": 0.46918522
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115303",
+            "name": "Cull the Weak",
+            "upgrade": {
+                "0": "Defeating an opponent restores 8% HP.",
+                "1": "Defeating an opponent restores 10% HP.",
+                "2": "Defeating an opponent restores 12% HP.",
+                "3": "Defeating an opponent restores 14% HP.",
+                "4": "Defeating an opponent restores 16% HP."
+            }
+        },
+        "chs": {
+            "id": "115303",
+            "name": "收割",
+            "upgrade": {
+                "0": "击败敌人时，恢复8%生命值。",
+                "1": "击败敌人时，恢复10%生命值。",
+                "2": "击败敌人时，恢复12%生命值。",
+                "3": "击败敌人时，恢复14%生命值。",
+                "4": "击败敌人时，恢复16%生命值。"
+            }
+        },
+        "jp": {
+            "id": "115303",
+            "name": "刈り取る",
+            "upgrade": {
+                "0": "敵を倒したとき、HPを8%回復する。",
+                "1": "敵を倒したとき、HPを10%回復する。",
+                "2": "敵を倒したとき、HPを12%回復する。",
+                "3": "敵を倒したとき、HPを14%回復する。",
+                "4": "敵を倒したとき、HPを16%回復する。"
+            }
+        }
+    }
+}

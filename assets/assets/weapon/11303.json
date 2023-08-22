@@ -1,0 +1,141 @@
+{
+    "id": "11303",
+    "ENname": "Traveler's Handy Sword",
+    "CNname": "旅行剑",
+    "JAname": "旅道の剣",
+    "imageurl": "images/weapon/11303.png",
+    "type": "sword",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "defense_percent": 0.06373
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "defense_percent": 0.07405425999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "defense_percent": 0.08686398999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "defense_percent": 0.09973744999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "defense_percent": 0.11261090999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "defense_percent": 0.12548436999999998
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "defense_percent": 0.13835783
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "defense_percent": 0.15123129
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "defense_percent": 0.16410475
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "defense_percent": 0.17697821
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "defense_percent": 0.18985167
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "defense_percent": 0.20272512999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "defense_percent": 0.21559858999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "defense_percent": 0.22847204999999998
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "defense_percent": 0.24128177999999997
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "defense_percent": 0.25415524
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "defense_percent": 0.2670287
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "defense_percent": 0.27990216
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "defense_percent": 0.29277562
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111303",
+            "name": "Journey",
+            "upgrade": {
+                "0": "Each Elemental Orb or Particle collected restores 1% HP.",
+                "1": "Each Elemental Orb or Particle collected restores 1.25% HP.",
+                "2": "Each Elemental Orb or Particle collected restores 1.5% HP.",
+                "3": "Each Elemental Orb or Particle collected restores 1.75% HP.",
+                "4": "Each Elemental Orb or Particle collected restores 2% HP."
+            }
+        },
+        "chs": {
+            "id": "111303",
+            "name": "旅程",
+            "upgrade": {
+                "0": "获得元素晶球或元素微粒时，恢复1%生命值。",
+                "1": "获得元素晶球或元素微粒时，恢复1.25%生命值。",
+                "2": "获得元素晶球或元素微粒时，恢复1.5%生命值。",
+                "3": "获得元素晶球或元素微粒时，恢复1.75%生命值。",
+                "4": "获得元素晶球或元素微粒时，恢复2%生命值。"
+            }
+        },
+        "jp": {
+            "id": "111303",
+            "name": "旅路",
+            "upgrade": {
+                "0": "元素オーブまたは元素粒子を獲得した時、HPを1%回復する。",
+                "1": "元素オーブまたは元素粒子を獲得した時、HPを1.25%回復する。",
+                "2": "元素オーブまたは元素粒子を獲得した時、HPを1.5%回復する。",
+                "3": "元素オーブまたは元素粒子を獲得した時、HPを1.75%回復する。",
+                "4": "元素オーブまたは元素粒子を獲得した時、HPを2%回復する。"
+            }
+        }
+    }
+}

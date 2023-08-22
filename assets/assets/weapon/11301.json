@@ -1,0 +1,141 @@
+{
+    "id": "11301",
+    "ENname": "Cool Steel",
+    "CNname": "冷刃",
+    "JAname": "冷刃",
+    "imageurl": "images/weapon/11301.png",
+    "type": "sword",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "attack_percent": 0.0766
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "attack_percent": 0.0890092
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "attack_percent": 0.1044058
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "attack_percent": 0.119879
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "attack_percent": 0.1353522
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "attack_percent": 0.1508254
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "attack_percent": 0.1662986
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "attack_percent": 0.1817718
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "attack_percent": 0.197245
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "attack_percent": 0.21271820000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "attack_percent": 0.22819140000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "attack_percent": 0.2436646
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "attack_percent": 0.25913780000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "attack_percent": 0.274611
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "attack_percent": 0.29000760000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "attack_percent": 0.3054808
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "attack_percent": 0.320954
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "attack_percent": 0.33642720000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "attack_percent": 0.35190040000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111301",
+            "name": "Bane of Water and Ice",
+            "upgrade": {
+                "0": "Increases DMG against opponents affected by Hydro or Cryo by 12%.",
+                "1": "Increases DMG against opponents affected by Hydro or Cryo by 15%.",
+                "2": "Increases DMG against opponents affected by Hydro or Cryo by 18%.",
+                "3": "Increases DMG against opponents affected by Hydro or Cryo by 21%.",
+                "4": "Increases DMG against opponents affected by Hydro or Cryo by 24%."
+            }
+        },
+        "chs": {
+            "id": "111301",
+            "name": "止水融冰",
+            "upgrade": {
+                "0": "对处于水元素或冰元素影响下的敌人，造成的伤害提高12%。",
+                "1": "对处于水元素或冰元素影响下的敌人，造成的伤害提高15%。",
+                "2": "对处于水元素或冰元素影响下的敌人，造成的伤害提高18%。",
+                "3": "对处于水元素或冰元素影响下的敌人，造成的伤害提高21%。",
+                "4": "对处于水元素或冰元素影响下的敌人，造成的伤害提高24%。"
+            }
+        },
+        "jp": {
+            "id": "111301",
+            "name": "水と氷の破滅",
+            "upgrade": {
+                "0": "水元素または氷元素の影響を受けた敵に対するダメージ+12%。",
+                "1": "水元素または氷元素の影響を受けた敵に対するダメージ+15%。",
+                "2": "水元素または氷元素の影響を受けた敵に対するダメージ+18%。",
+                "3": "水元素または氷元素の影響を受けた敵に対するダメージ+21%。",
+                "4": "水元素または氷元素の影響を受けた敵に対するダメージ+24%。"
+            }
+        }
+    }
+}

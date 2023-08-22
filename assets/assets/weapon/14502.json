@@ -1,0 +1,141 @@
+{
+    "id": "14502",
+    "ENname": "Lost Prayer to the Sacred Winds",
+    "CNname": "四风原典",
+    "JAname": "四風原典",
+    "imageurl": "images/weapon/14502.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical": 0.072
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical": 0.08366399999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical": 0.09813599999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical": 0.11267999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical": 0.12722399999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical": 0.141768
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical": 0.15631199999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical": 0.170856
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical": 0.1854
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical": 0.19994399999999998
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical": 0.21448799999999998
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical": 0.22903199999999999
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical": 0.243576
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical": 0.25811999999999996
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical": 0.272592
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical": 0.287136
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical": 0.30168
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical": 0.316224
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical": 0.330768
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114502",
+            "name": "Boundless Blessing",
+            "upgrade": {
+                "0": "Increases Movement SPD by 10%. When in battle, gain an 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+                "1": "Increases Movement SPD by 10%. When in battle, earn a 10% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+                "2": "Increases Movement SPD by 10%. When in battle, gain a 12% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+                "3": "Increases Movement SPD by 10%. When in battle, gain a 14% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+                "4": "Increases Movement SPD by 10%. When in battle, gain a 16% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+            }
+        },
+        "chs": {
+            "id": "114502",
+            "name": "无边际的眷顾",
+            "upgrade": {
+                "0": "移动速度提高10%；在场上每4秒获得8%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+                "1": "移动速度提高10%；在场上每4秒获得10%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+                "2": "移动速度提高10%；在场上每4秒获得12%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+                "3": "移动速度提高10%；在场上每4秒获得14%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+                "4": "移动速度提高10%；在场上每4秒获得16%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。"
+            }
+        },
+        "jp": {
+            "id": "114502",
+            "name": "果てしない恵み",
+            "upgrade": {
+                "0": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+8%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+                "1": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+10%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+                "2": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+12%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+                "3": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+14%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+                "4": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+16%、最大4重まで。キャラが退場または戦闘不能まで有効。"
+            }
+        }
+    }
+}

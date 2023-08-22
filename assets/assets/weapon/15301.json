@@ -1,0 +1,141 @@
+{
+    "id": "15301",
+    "ENname": "Raven Bow",
+    "CNname": "鸦羽弓",
+    "JAname": "鴉羽の弓",
+    "imageurl": "images/weapon/15301.png",
+    "type": "bow",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "element_mastery": 20.4
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "element_mastery": 23.704799999999995
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "element_mastery": 27.8052
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "element_mastery": 31.926
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "element_mastery": 36.0468
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "element_mastery": 40.1676
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "element_mastery": 44.288399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "element_mastery": 48.4092
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "element_mastery": 52.53
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "element_mastery": 56.6508
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "element_mastery": 60.7716
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "element_mastery": 64.8924
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "element_mastery": 69.0132
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "element_mastery": 73.134
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "element_mastery": 77.2344
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "element_mastery": 81.3552
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "element_mastery": 85.476
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "element_mastery": 89.5968
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "element_mastery": 93.7176
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115301",
+            "name": "Bane of Flame and Water",
+            "upgrade": {
+                "0": "Increases DMG against opponents affected by Hydro or Pyro by 12%.",
+                "1": "Increases DMG against opponents affected by Hydro or Pyro by 15%.",
+                "2": "Increases DMG against opponents affected by Hydro or Pyro by 18%.",
+                "3": "Increases DMG against opponents affected by Hydro or Pyro by 21%.",
+                "4": "Increases DMG against opponents affected by Hydro or Pyro by 24%."
+            }
+        },
+        "chs": {
+            "id": "115301",
+            "name": "踏火止水",
+            "upgrade": {
+                "0": "对处于水元素或火元素影响下的敌人，造成的伤害提高12%。",
+                "1": "对处于水元素或火元素影响下的敌人，造成的伤害提高15%。",
+                "2": "对处于水元素或火元素影响下的敌人，造成的伤害提高18%。",
+                "3": "对处于水元素或火元素影响下的敌人，造成的伤害提高21%。",
+                "4": "对处于水元素或火元素影响下的敌人，造成的伤害提高24%。"
+            }
+        },
+        "jp": {
+            "id": "115301",
+            "name": "炎と水の破滅",
+            "upgrade": {
+                "0": "水元素または炎元素の影響を受けた敵に対するダメージ+12%。",
+                "1": "水元素または炎元素の影響を受けた敵に対するダメージ+15%。",
+                "2": "水元素または炎元素の影響を受けた敵に対するダメージ+18%。",
+                "3": "水元素または炎元素の影響を受けた敵に対するダメージ+21%。",
+                "4": "水元素または炎元素の影響を受けた敵に対するダメージ+24%。"
+            }
+        }
+    }
+}

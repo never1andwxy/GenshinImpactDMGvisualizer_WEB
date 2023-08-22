@@ -1,0 +1,141 @@
+{
+    "id": "11426",
+    "ENname": "Crossing of Fleuve Cendre",
+    "CNname": "灰河渡手",
+    "JAname": "サーンドルの渡し守",
+    "imageurl": "images/weapon/11426.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111426",
+            "name": "",
+            "upgrade": {
+                "0": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill.",
+                "1": "Increases Elemental Skill CRIT Rate by 10%. Additionally, increases Energy Recharge by 20% for 5s after using an Elemental Skill.",
+                "2": "Increases Elemental Skill CRIT Rate by 12%. Additionally, increases Energy Recharge by 24% for 5s after using an Elemental Skill.",
+                "3": "Increases Elemental Skill CRIT Rate by 14%. Additionally, increases Energy Recharge by 28% for 5s after using an Elemental Skill.",
+                "4": "Increases Elemental Skill CRIT Rate by 16%. Additionally, increases Energy Recharge by 32% for 5s after using an Elemental Skill."
+            }
+        },
+        "chs": {
+            "id": "111426",
+            "name": "铁骨",
+            "upgrade": {
+                "0": "元素战技暴击率提升8%；此外，施放元素战技后的5秒内，元素充能效率提升16%。",
+                "1": "元素战技暴击率提升10%；此外，施放元素战技后的5秒内，元素充能效率提升20%。",
+                "2": "元素战技暴击率提升12%；此外，施放元素战技后的5秒内，元素充能效率提升24%。",
+                "3": "元素战技暴击率提升14%；此外，施放元素战技后的5秒内，元素充能效率提升28%。",
+                "4": "元素战技暴击率提升16%；此外，施放元素战技后的5秒内，元素充能效率提升32%。"
+            }
+        },
+        "jp": {
+            "id": "111426",
+            "name": "",
+            "upgrade": {
+                "0": "元素スキルの会心率+8%。また、元素スキルを発動した後の5秒間、元素チャージ効率+16%。",
+                "1": "元素スキルの会心率+10%。また、元素スキルを発動した後の5秒間、元素チャージ効率+20%。",
+                "2": "元素スキルの会心率+12%。また、元素スキルを発動した後の5秒間、元素チャージ効率+24%。",
+                "3": "元素スキルの会心率+14%。また、元素スキルを発動した後の5秒間、元素チャージ効率+28%。",
+                "4": "元素スキルの会心率+16%。また、元素スキルを発動した後の5秒間、元素チャージ効率+32%。"
+            }
+        }
+    }
+}

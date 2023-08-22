@@ -1,0 +1,141 @@
+{
+    "id": "11501",
+    "ENname": "Aquila Favonia",
+    "CNname": "风鹰剑",
+    "JAname": "風鷹剣",
+    "imageurl": "images/weapon/11501.png",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "physical_add_hurt": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "physical_add_hurt": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "physical_add_hurt": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "physical_add_hurt": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "physical_add_hurt": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "physical_add_hurt": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "physical_add_hurt": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "physical_add_hurt": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "physical_add_hurt": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "physical_add_hurt": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "physical_add_hurt": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "physical_add_hurt": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "physical_add_hurt": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "physical_add_hurt": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "physical_add_hurt": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "physical_add_hurt": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "physical_add_hurt": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "physical_add_hurt": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "physical_add_hurt": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111501",
+            "name": "Falcon's Defiance",
+            "upgrade": {
+                "0": "ATK is increased by 20%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 100% of ATK and dealing 200% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+                "1": "ATK is increased by 25%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 115% of ATK and dealing 230% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+                "2": "ATK is increased by 30%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 130% of ATK and dealing 260% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+                "3": "ATK is increased by 35%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 145% of ATK and dealing 290% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+                "4": "ATK is increased by 40%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 160% of ATK and dealing 320% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
+            }
+        },
+        "chs": {
+            "id": "111501",
+            "name": "西风之鹰的抗争",
+            "upgrade": {
+                "0": "攻击力提高20%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的100%的生命值，并对周围的敌人造成200%攻击力的伤害。该效果每15秒只能触发一次。",
+                "1": "攻击力提高25%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的115%的生命值，并对周围的敌人造成230%攻击力的伤害。该效果每15秒只能触发一次。",
+                "2": "攻击力提高30%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的130%的生命值，并对周围的敌人造成260%攻击力的伤害。该效果每15秒只能触发一次。",
+                "3": "攻击力提高35%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的145%的生命值，并对周围的敌人造成290%攻击力的伤害。该效果每15秒只能触发一次。",
+                "4": "攻击力提高40%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的160%的生命值，并对周围的敌人造成320%攻击力的伤害。该效果每15秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "111501",
+            "name": "西風の鷹の抗い",
+            "upgrade": {
+                "0": "攻撃力+20%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の100%分のHPを回復し、周りの敵に攻撃力の200%のダメージを与える。15秒毎に1回のみ発動可能。",
+                "1": "攻撃力+25%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の115%分のHPを回復し、周りの敵に攻撃力の230%のダメージを与える。15秒毎に1回のみ発動可能。",
+                "2": "攻撃力+30%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の130%分のHPを回復し、周りの敵に攻撃力の260%のダメージを与える。15秒毎に1回のみ発動可能。",
+                "3": "攻撃力+35%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の145%分のHPを回復し、周りの敵に攻撃力の290%のダメージを与える。15秒毎に1回のみ発動可能。",
+                "4": "攻撃力+40%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の160%分のHPを回復し、周りの敵に攻撃力の320%のダメージを与える。15秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

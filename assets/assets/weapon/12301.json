@@ -1,0 +1,141 @@
+{
+    "id": "12301",
+    "ENname": "Ferrous Shadow",
+    "CNname": "铁影阔剑",
+    "JAname": "鉄影段平",
+    "imageurl": "images/weapon/12301.png",
+    "type": "claymore",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "hp_percent": 0.0766
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "hp_percent": 0.0890092
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "hp_percent": 0.1044058
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "hp_percent": 0.119879
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "hp_percent": 0.1353522
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "hp_percent": 0.1508254
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "hp_percent": 0.1662986
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "hp_percent": 0.1817718
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "hp_percent": 0.197245
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "hp_percent": 0.21271820000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "hp_percent": 0.22819140000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "hp_percent": 0.2436646
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "hp_percent": 0.25913780000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "hp_percent": 0.274611
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "hp_percent": 0.29000760000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "hp_percent": 0.3054808
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "hp_percent": 0.320954
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "hp_percent": 0.33642720000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "hp_percent": 0.35190040000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112301",
+            "name": "Unbending",
+            "upgrade": {
+                "0": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt.",
+                "1": "When HP falls below 75%, increases Charged Attack DMG by 35% and Charged Attacks become harder to interrupt.",
+                "2": "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become harder to interrupt.",
+                "3": "When HP falls below 85%, increases Charged Attack DMG by 45% and Charged Attacks become harder to interrupt.",
+                "4": "When HP falls below 90%, increases Charged Attack DMG by 50% and Charged Attacks become harder to interrupt."
+            }
+        },
+        "chs": {
+            "id": "112301",
+            "name": "不屈",
+            "upgrade": {
+                "0": "生命值低于70%时，重击不会轻易被打断，并提高30%重击伤害。",
+                "1": "生命值低于75%时，重击不会轻易被打断，并提高35%重击伤害。",
+                "2": "生命值低于80%时，重击不会轻易被打断，并提高40%重击伤害。",
+                "3": "生命值低于85%时，重击不会轻易被打断，并提高45%重击伤害。",
+                "4": "生命值低于90%时，重击不会轻易被打断，并提高50%重击伤害。"
+            }
+        },
+        "jp": {
+            "id": "112301",
+            "name": "不屈",
+            "upgrade": {
+                "0": "HPが70%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+30%。",
+                "1": "HPが75%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+35%。",
+                "2": "HPが80%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+40%。",
+                "3": "HPが85%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+45%。",
+                "4": "HPが90%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+50%。"
+            }
+        }
+    }
+}

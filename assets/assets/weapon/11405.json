@@ -1,0 +1,141 @@
+{
+    "id": "11405",
+    "ENname": "Lion's Roar",
+    "CNname": "匣里龙吟",
+    "JAname": "匣中龍吟",
+    "imageurl": "images/weapon/11405.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "attack_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "attack_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "attack_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "attack_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "attack_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "attack_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "attack_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "attack_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "attack_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "attack_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "attack_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "attack_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "attack_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "attack_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "attack_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "attack_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "attack_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "attack_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "attack_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111405",
+            "name": "Bane of Fire and Thunder",
+            "upgrade": {
+                "0": "Increases DMG against opponents affected by Pyro or Electro by 20%.",
+                "1": "Increases DMG against opponents affected by Pyro or Electro by 24%.",
+                "2": "Increases DMG against opponents affected by Pyro or Electro by 28%.",
+                "3": "Increases DMG against opponents affected by Pyro or Electro by 32%.",
+                "4": "Increases DMG against opponents affected by Pyro or Electro by 36%."
+            }
+        },
+        "chs": {
+            "id": "111405",
+            "name": "踏火息雷",
+            "upgrade": {
+                "0": "对处于火元素或雷元素影响下的敌人，造成的伤害提高20%。",
+                "1": "对处于火元素或雷元素影响下的敌人，造成的伤害提高24%。",
+                "2": "对处于火元素或雷元素影响下的敌人，造成的伤害提高28%。",
+                "3": "对处于火元素或雷元素影响下的敌人，造成的伤害提高32%。",
+                "4": "对处于火元素或雷元素影响下的敌人，造成的伤害提高36%。"
+            }
+        },
+        "jp": {
+            "id": "111405",
+            "name": "炎と雷の破滅",
+            "upgrade": {
+                "0": "炎元素または雷元素の影響を受けた敵に対するダメージ+20%。",
+                "1": "炎元素または雷元素の影響を受けた敵に対するダメージ+24%。",
+                "2": "炎元素または雷元素の影響を受けた敵に対するダメージ+28%。",
+                "3": "炎元素または雷元素の影響を受けた敵に対するダメージ+32%。",
+                "4": "炎元素または雷元素の影響を受けた敵に対するダメージ+36%。"
+            }
+        }
+    }
+}

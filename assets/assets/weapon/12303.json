@@ -1,0 +1,141 @@
+{
+    "id": "12303",
+    "ENname": "White Iron Greatsword",
+    "CNname": "白铁大剑",
+    "JAname": "白鉄の大剣",
+    "imageurl": "images/weapon/12303.png",
+    "type": "claymore",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "defense_percent": 0.0956
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "defense_percent": 0.1110872
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "defense_percent": 0.1303028
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "defense_percent": 0.149614
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "defense_percent": 0.1689252
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "defense_percent": 0.18823640000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "defense_percent": 0.2075476
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "defense_percent": 0.22685880000000003
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "defense_percent": 0.24617000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "defense_percent": 0.26548120000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "defense_percent": 0.2847924
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "defense_percent": 0.30410360000000003
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "defense_percent": 0.3234148
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "defense_percent": 0.34272600000000003
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "defense_percent": 0.36194160000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "defense_percent": 0.3812528
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "defense_percent": 0.40056400000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "defense_percent": 0.41987520000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "defense_percent": 0.43918640000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112303",
+            "name": "Cull the Weak",
+            "upgrade": {
+                "0": "Defeating an opponent restores 8% HP.",
+                "1": "Defeating an opponent restores 10% HP.",
+                "2": "Defeating an opponent restores 12% HP.",
+                "3": "Defeating an opponent restores 14% HP.",
+                "4": "Defeating an opponent restores 16% HP."
+            }
+        },
+        "chs": {
+            "id": "112303",
+            "name": "收割",
+            "upgrade": {
+                "0": "击败敌人时，恢复8%生命值。",
+                "1": "击败敌人时，恢复10%生命值。",
+                "2": "击败敌人时，恢复12%生命值。",
+                "3": "击败敌人时，恢复14%生命值。",
+                "4": "击败敌人时，恢复16%生命值。"
+            }
+        },
+        "jp": {
+            "id": "112303",
+            "name": "刈り取る",
+            "upgrade": {
+                "0": "敵を倒したとき、HPを8%回復する。",
+                "1": "敵を倒したとき、HPを10%回復する。",
+                "2": "敵を倒したとき、HPを12%回復する。",
+                "3": "敵を倒したとき、HPを14%回復する。",
+                "4": "敵を倒したとき、HPを16%回復する。"
+            }
+        }
+    }
+}

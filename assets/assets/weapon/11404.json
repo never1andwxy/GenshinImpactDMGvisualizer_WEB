@@ -1,0 +1,141 @@
+{
+    "id": "11404",
+    "ENname": "Royal Longsword",
+    "CNname": "宗室长剑",
+    "JAname": "旧貴族長剣",
+    "imageurl": "images/weapon/11404.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "attack_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "attack_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "attack_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "attack_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "attack_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "attack_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "attack_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "attack_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "attack_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "attack_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "attack_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "attack_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "attack_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "attack_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "attack_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "attack_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "attack_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "attack_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "attack_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111404",
+            "name": "Focus",
+            "upgrade": {
+                "0": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "1": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "2": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "3": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "4": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "chs": {
+            "id": "111404",
+            "name": "专注",
+            "upgrade": {
+                "0": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "1": "攻击造成伤害时，暴击率提升10%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "2": "攻击造成伤害时，暴击率提升12%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "3": "攻击造成伤害时，暴击率提升14%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "4": "攻击造成伤害时，暴击率提升16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。"
+            }
+        },
+        "jp": {
+            "id": "111404",
+            "name": "集中",
+            "upgrade": {
+                "0": "攻撃が敵にダメージを与えた時、会心率+8%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "1": "攻撃が敵にダメージを与えた時、会心率+10%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "2": "攻撃が敵にダメージを与えた時、会心率+12%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "3": "攻撃が敵にダメージを与えた時、会心率+14%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "4": "攻撃が敵にダメージを与えた時、会心率+16%、最大5重まで。攻撃会心発生時、効果がクリアされる。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "11417",
+    "ENname": "Sapwood Blade",
+    "CNname": "原木刀",
+    "JAname": "原木刀",
+    "imageurl": "images/weapon/11417.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111417",
+            "name": "Forest Sanctuary",
+            "upgrade": {
+                "0": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "1": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 75 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "2": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 90 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "3": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 105 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "4": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 120 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+            }
+        },
+        "chs": {
+            "id": "111417",
+            "name": "森林的瑞佑",
+            "upgrade": {
+                "0": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升60点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
+                "1": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升75点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
+                "2": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升90点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
+                "3": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升105点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
+                "4": "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升120点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。"
+            }
+        },
+        "jp": {
+            "id": "111417",
+            "name": "フォレストサンクチュアリ",
+            "upgrade": {
+                "0": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+60、継続時間12秒。この方式で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。",
+                "1": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+75、継続時間12秒。この方式で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。",
+                "2": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+90、継続時間12秒。この方式で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。",
+                "3": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+105、継続時間12秒。この方式で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。",
+                "4": "燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、キャラクターの周囲に最大10秒間継続する「唯識の葉」を生成する。「唯識の葉」を拾ったキャラクターは、元素熟知+120、継続時間12秒。この方式で生成できる「唯識の葉」は20秒毎に1つのみ。キャラクターが待機中でも発動できる。「唯識の葉」効果は重ね掛けできない。"
+            }
+        }
+    }
+}

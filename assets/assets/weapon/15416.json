@@ -1,0 +1,141 @@
+{
+    "id": "15416",
+    "ENname": "Mouun's Moon",
+    "CNname": "曚云之月",
+    "JAname": "曚雲の月",
+    "imageurl": "images/weapon/15416.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "attack_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "attack_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "attack_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "attack_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "attack_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "attack_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "attack_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "attack_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "attack_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "attack_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "attack_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "attack_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "attack_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "attack_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "attack_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "attack_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "attack_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "attack_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "attack_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115416",
+            "name": "Watatsumi Wavewalker",
+            "upgrade": {
+                "0": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+                "1": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
+                "2": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
+                "3": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
+                "4": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way."
+            }
+        },
+        "chs": {
+            "id": "115416",
+            "name": "驭浪的海祇民",
+            "upgrade": {
+                "0": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+                "1": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.15%，通过这种方式，元素爆发造成的伤害至多提高50%。",
+                "2": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.18%，通过这种方式，元素爆发造成的伤害至多提高60%。",
+                "3": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.21%，通过这种方式，元素爆发造成的伤害至多提高70%。",
+                "4": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.24%，通过这种方式，元素爆发造成的伤害至多提高80%。"
+            }
+        },
+        "jp": {
+            "id": "115416",
+            "name": "波を統べる海祇の民",
+            "upgrade": {
+                "0": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.12%。この方式でアップできる元素爆発ダメージは最大40%まで。",
+                "1": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.15%。この方式でアップできる元素爆発ダメージは最大50%まで。",
+                "2": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.18%。この方式でアップできる元素爆発ダメージは最大60%まで。",
+                "3": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.21%。この方式でアップできる元素爆発ダメージは最大70%まで。",
+                "4": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.24%。この方式でアップできる元素爆発ダメージは最大80%まで。"
+            }
+        }
+    }
+}

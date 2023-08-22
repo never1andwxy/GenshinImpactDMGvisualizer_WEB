@@ -1,0 +1,141 @@
+{
+    "id": "12410",
+    "ENname": "Lithic Blade",
+    "CNname": "千岩古剑",
+    "JAname": "千岩古剣",
+    "imageurl": "images/weapon/12410.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "attack_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "attack_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "attack_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "attack_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "attack_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "attack_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "attack_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "attack_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "attack_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "attack_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "attack_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "attack_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "attack_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "attack_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "attack_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "attack_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "attack_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "attack_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "attack_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112410",
+            "name": "Lithic Axiom: Unity",
+            "upgrade": {
+                "0": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 7% ATK increase and a 3% CRIT Rate increase. This effect stacks up to 4 times.",
+                "1": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 8% ATK increase and a 4% CRIT Rate increase. This effect stacks up to 4 times.",
+                "2": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 9% ATK increase and a 5% CRIT Rate increase. This effect stacks up to 4 times.",
+                "3": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 10% ATK increase and a 6% CRIT Rate increase. This effect stacks up to 4 times.",
+                "4": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 11% ATK increase and a 7% CRIT Rate increase. This effect stacks up to 4 times."
+            }
+        },
+        "chs": {
+            "id": "112410",
+            "name": "千岩诀·同心",
+            "upgrade": {
+                "0": "队伍中每有一位璃月角色，装备该武器的角色便获得7%攻击力提升与3%暴击率提升。至多获得4层提升效果。",
+                "1": "队伍中每有一位璃月角色，装备该武器的角色便获得8%攻击力提升与4%暴击率提升。至多获得4层提升效果。",
+                "2": "队伍中每有一位璃月角色，装备该武器的角色便获得9%攻击力提升与5%暴击率提升。至多获得4层提升效果。",
+                "3": "队伍中每有一位璃月角色，装备该武器的角色便获得10%攻击力提升与6%暴击率提升。至多获得4层提升效果。",
+                "4": "队伍中每有一位璃月角色，装备该武器的角色便获得11%攻击力提升与7%暴击率提升。至多获得4层提升效果。"
+            }
+        },
+        "jp": {
+            "id": "112410",
+            "name": "千岩訣·同心",
+            "upgrade": {
+                "0": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+7%、会心率+3%。最大4重まで。",
+                "1": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+8%、会心率+4%。最大4重まで。",
+                "2": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+9%、会心率+5%。最大4重まで。",
+                "3": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+10%、会心率+6%。最大4重まで。",
+                "4": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+11%、会心率+7%。最大4重まで。"
+            }
+        }
+    }
+}

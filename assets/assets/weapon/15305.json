@@ -1,0 +1,141 @@
+{
+    "id": "15305",
+    "ENname": "Messenger",
+    "CNname": "信使",
+    "JAname": "文使い",
+    "imageurl": "images/weapon/15305.png",
+    "type": "bow",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "critical_hurt": 0.068
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "critical_hurt": 0.079016
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "critical_hurt": 0.092684
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "critical_hurt": 0.10642
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "critical_hurt": 0.120156
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "critical_hurt": 0.133892
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "critical_hurt": 0.147628
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "critical_hurt": 0.16136400000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "critical_hurt": 0.17510000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "critical_hurt": 0.18883600000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "critical_hurt": 0.20257200000000003
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "critical_hurt": 0.21630800000000003
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "critical_hurt": 0.23004400000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "critical_hurt": 0.24378000000000002
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "critical_hurt": 0.257448
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "critical_hurt": 0.27118400000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "critical_hurt": 0.28492000000000006
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "critical_hurt": 0.29865600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "critical_hurt": 0.31239200000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115305",
+            "name": "Archer's Message",
+            "upgrade": {
+                "0": "Charged Attack hits on weak points deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+                "1": "Charged Attack hits on weak points deal an additional 125% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+                "2": "Charged Attack hits on weak points deal an additional 150% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+                "3": "Charged Attack hits on weak points deal an additional 175% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+                "4": "Charged Attack hits on weak points deal an additional 200% ATK DMG as CRIT DMG. Can only occur once every 10s."
+            }
+        },
+        "chs": {
+            "id": "115305",
+            "name": "飞矢传书",
+            "upgrade": {
+                "0": "重击若命中要害，则额外造成100%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+                "1": "重击若命中要害，则额外造成125%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+                "2": "重击若命中要害，则额外造成150%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+                "3": "重击若命中要害，则额外造成175%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+                "4": "重击若命中要害，则额外造成200%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "115305",
+            "name": "矢文",
+            "upgrade": {
+                "0": "重撃が弱点に命中した場合、追加で攻撃力100%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+                "1": "重撃が弱点に命中した場合、追加で攻撃力125%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+                "2": "重撃が弱点に命中した場合、追加で攻撃力150%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+                "3": "重撃が弱点に命中した場合、追加で攻撃力175%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+                "4": "重撃が弱点に命中した場合、追加で攻撃力200%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

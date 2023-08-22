@@ -1,0 +1,141 @@
+{
+    "id": "11422",
+    "ENname": "Toukabou Shigure",
+    "CNname": "东花坊时雨",
+    "JAname": "東花坊時雨",
+    "imageurl": "images/weapon/11422.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "element_mastery": 36
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "element_mastery": 41.831999999999994
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "element_mastery": 49.068
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "element_mastery": 56.339999999999996
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "element_mastery": 63.611999999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "element_mastery": 70.884
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "element_mastery": 78.15599999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "element_mastery": 85.42800000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "element_mastery": 92.7
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "element_mastery": 99.97200000000001
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "element_mastery": 107.244
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "element_mastery": 114.516
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "element_mastery": 121.788
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "element_mastery": 129.06
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "element_mastery": 136.296
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "element_mastery": 143.568
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "element_mastery": 150.84
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "element_mastery": 158.11200000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "element_mastery": 165.38400000000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111422",
+            "name": "Kaidan: Rainfall Earthbinder",
+            "upgrade": {
+                "0": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16% more DMG to the opponent affected by Cursed Parasol.",
+                "1": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 20% more DMG to the opponent affected by Cursed Parasol.",
+                "2": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 24% more DMG to the opponent affected by Cursed Parasol.",
+                "3": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 28% more DMG to the opponent affected by Cursed Parasol.",
+                "4": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 32% more DMG to the opponent affected by Cursed Parasol."
+            }
+        },
+        "chs": {
+            "id": "111422",
+            "name": "怪谭·时雨心地一本足",
+            "upgrade": {
+                "0": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升16%。",
+                "1": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升20%。",
+                "2": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升24%。",
+                "3": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升28%。",
+                "4": "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升32%。"
+            }
+        },
+        "jp": {
+            "id": "111422",
+            "name": "怪譚·時雨心地一本足",
+            "upgrade": {
+                "0": "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+16%。",
+                "1": "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+20%。",
+                "2": "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+24%。",
+                "3": "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+28%。",
+                "4": "攻撃が敵に命中した後、命中した敵1体に「紙傘の邪気」状態を付与する、継続時間10秒。この効果は15秒毎に1回のみ発動可能。状態継続時間中、該当の敵が倒された場合、この効果のクールタイムはリセットされる。装備したキャラクターは該当状態の敵に与えるダメージ+32%。"
+            }
+        }
+    }
+}

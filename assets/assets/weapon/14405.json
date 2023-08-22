@@ -1,0 +1,141 @@
+{
+    "id": "14405",
+    "ENname": "Solar Pearl",
+    "CNname": "匣里日月",
+    "JAname": "匣中日月",
+    "imageurl": "images/weapon/14405.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114405",
+            "name": "Solar Shine",
+            "upgrade": {
+                "0": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20% for 6s.",
+                "1": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 25% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 25% for 6s.",
+                "2": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 30% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 30% for 6s.",
+                "3": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 35% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 35% for 6s.",
+                "4": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 40% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 40% for 6s."
+            }
+        },
+        "chs": {
+            "id": "114405",
+            "name": "日月辉",
+            "upgrade": {
+                "0": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高20%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高20%。",
+                "1": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高25%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高25%。",
+                "2": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高30%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高30%。",
+                "3": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高35%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高35%。",
+                "4": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高40%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高40%。"
+            }
+        },
+        "jp": {
+            "id": "114405",
+            "name": "日月の輝き",
+            "upgrade": {
+                "0": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+20%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+20%。",
+                "1": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+25%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+25%。",
+                "2": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+30%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+30%。",
+                "3": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+35%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+35%。",
+                "4": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+40%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+40%。"
+            }
+        }
+    }
+}

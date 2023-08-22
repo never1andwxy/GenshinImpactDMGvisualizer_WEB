@@ -1,0 +1,141 @@
+{
+    "id": "11408",
+    "ENname": "Blackcliff Longsword",
+    "CNname": "黑岩长剑",
+    "JAname": "黒岩の長剣",
+    "imageurl": "images/weapon/11408.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "critical_hurt": 0.08
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "critical_hurt": 0.09296
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "critical_hurt": 0.10904
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "critical_hurt": 0.1252
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "critical_hurt": 0.14135999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "critical_hurt": 0.15752000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "critical_hurt": 0.17368
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "critical_hurt": 0.18984
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "critical_hurt": 0.20600000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "critical_hurt": 0.22216000000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "critical_hurt": 0.23832
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "critical_hurt": 0.25448
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "critical_hurt": 0.27064
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "critical_hurt": 0.2868
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "critical_hurt": 0.30288
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "critical_hurt": 0.31904
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "critical_hurt": 0.33520000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "critical_hurt": 0.35136000000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "critical_hurt": 0.36752
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111408",
+            "name": "Press the Advantage",
+            "upgrade": {
+                "0": "After defeating an opponent, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "1": "After defeating an opponent, ATK is increased by 15% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "2": "After defeating an opponent, ATK is increased by 18% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "3": "After defeating an opponent, ATK is increased by 21% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "4": "After defeating an opponent, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "chs": {
+            "id": "111408",
+            "name": "乘胜追击",
+            "upgrade": {
+                "0": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+                "1": "击败敌人后，攻击力提升15%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+                "2": "击败敌人后，攻击力提升18%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+                "3": "击败敌人后，攻击力提升21%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+                "4": "击败敌人后，攻击力提升24%，持续30秒。该效果至多叠加3层，每层持续时间独立。"
+            }
+        },
+        "jp": {
+            "id": "111408",
+            "name": "勝ちに乗じる",
+            "upgrade": {
+                "0": "敵を倒した後、攻撃力+12%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+                "1": "敵を倒した後、攻撃力+15%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+                "2": "敵を倒した後、攻撃力+18%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+                "3": "敵を倒した後、攻撃力+21%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+                "4": "敵を倒した後、攻撃力+24%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。"
+            }
+        }
+    }
+}

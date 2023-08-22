@@ -1,0 +1,141 @@
+{
+    "id": "12416",
+    "ENname": "Akuoumaru",
+    "CNname": "恶王丸",
+    "JAname": "惡王丸",
+    "imageurl": "images/weapon/12416.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "attack_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "attack_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "attack_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "attack_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "attack_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "attack_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "attack_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "attack_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "attack_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "attack_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "attack_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "attack_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "attack_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "attack_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "attack_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "attack_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "attack_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "attack_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "attack_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112416",
+            "name": "Watatsumi Wavewalker",
+            "upgrade": {
+                "0": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+                "1": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
+                "2": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
+                "3": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
+                "4": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way."
+            }
+        },
+        "chs": {
+            "id": "112416",
+            "name": "驭浪的海祇民",
+            "upgrade": {
+                "0": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+                "1": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.15%，通过这种方式，元素爆发造成的伤害至多提高50%。",
+                "2": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.18%，通过这种方式，元素爆发造成的伤害至多提高60%。",
+                "3": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.21%，通过这种方式，元素爆发造成的伤害至多提高70%。",
+                "4": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.24%，通过这种方式，元素爆发造成的伤害至多提高80%。"
+            }
+        },
+        "jp": {
+            "id": "112416",
+            "name": "波を統べる海祇の民",
+            "upgrade": {
+                "0": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.12%。この方式でアップできる元素爆発ダメージは最大40%まで。",
+                "1": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.15%。この方式でアップできる元素爆発ダメージは最大50%まで。",
+                "2": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.18%。この方式でアップできる元素爆発ダメージは最大60%まで。",
+                "3": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.21%。この方式でアップできる元素爆発ダメージは最大70%まで。",
+                "4": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.24%。この方式でアップできる元素爆発ダメージは最大80%まで。"
+            }
+        }
+    }
+}

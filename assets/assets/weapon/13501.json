@@ -1,0 +1,141 @@
+{
+    "id": "13501",
+    "ENname": "Staff of Homa",
+    "CNname": "护摩之杖",
+    "JAname": "護摩の杖",
+    "imageurl": "images/weapon/13501.png",
+    "type": "polearm",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical_hurt": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical_hurt": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical_hurt": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical_hurt": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical_hurt": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical_hurt": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical_hurt": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical_hurt": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical_hurt": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical_hurt": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical_hurt": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical_hurt": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical_hurt": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical_hurt": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical_hurt": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical_hurt": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical_hurt": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical_hurt": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical_hurt": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113501",
+            "name": "Reckless Cinnabar",
+            "upgrade": {
+                "0": "HP increased by 20%. Additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP.",
+                "1": "HP increased by 25%. Additionally, provides an ATK Bonus based on 1% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.2% of Max HP.",
+                "2": "HP increased by 30%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.4% of Max HP.",
+                "3": "HP increased by 35%. Additionally, provides an ATK Bonus based on 1.4% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.6% of Max HP.",
+                "4": "HP increased by 40%. Additionally, provides an ATK Bonus based on 1.6% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.8% of Max HP."
+            }
+        },
+        "chs": {
+            "id": "113501",
+            "name": "无羁的朱赤之蝶",
+            "upgrade": {
+                "0": "生命值提升20%。此外，基于装备该武器的角色生命值上限的0.8%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1%基于生命值上限的攻击力提升。",
+                "1": "生命值提升25%。此外，基于装备该武器的角色生命值上限的1%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1.2%基于生命值上限的攻击力提升。",
+                "2": "生命值提升30%。此外，基于装备该武器的角色生命值上限的1.2%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1.4%基于生命值上限的攻击力提升。",
+                "3": "生命值提升35%。此外，基于装备该武器的角色生命值上限的1.4%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1.6%基于生命值上限的攻击力提升。",
+                "4": "生命值提升40%。此外，基于装备该武器的角色生命值上限的1.6%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1.8%基于生命值上限的攻击力提升。"
+            }
+        },
+        "jp": {
+            "id": "113501",
+            "name": "縛り無き朱色の蝶",
+            "upgrade": {
+                "0": "HP+20%。また、キャラクターのHP上限の0.8%分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の1%分アップする。",
+                "1": "HP+25%。また、キャラクターのHP上限の1%分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の1.2%分アップする。",
+                "2": "HP+30%。また、キャラクターのHP上限の1.2%分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の1.4%分アップする。",
+                "3": "HP+35%。また、キャラクターのHP上限の1.4%分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の1.6%分アップする。",
+                "4": "HP+40%。また、キャラクターのHP上限の1.6%分、攻撃力がアップする。キャラクターのHPが50%未満の時、攻撃力が更にHP上限の1.8%分アップする。"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "11412",
+    "ENname": "Sword of Descension",
+    "CNname": "降临之剑",
+    "JAname": "降臨の剣",
+    "imageurl": "images/weapon/11412.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "attack_percent": 0.0766
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "attack_percent": 0.0890092
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "attack_percent": 0.1044058
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "attack_percent": 0.119879
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "attack_percent": 0.1353522
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "attack_percent": 0.1508254
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "attack_percent": 0.1662986
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "attack_percent": 0.1817718
+        },
+        {
+            "level": "40",
+            "base_attack": 175.67386580000002,
+            "attack_percent": 0.197245
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "attack_percent": 0.21271820000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 229.1027062,
+            "attack_percent": 0.22819140000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "attack_percent": 0.2436646
+        },
+        {
+            "level": "60",
+            "base_attack": 282.1216162,
+            "attack_percent": 0.25913780000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "attack_percent": 0.274611
+        },
+        {
+            "level": "70",
+            "base_attack": 334.9080784,
+            "attack_percent": 0.29000760000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "attack_percent": 0.3054808
+        },
+        {
+            "level": "80",
+            "base_attack": 387.6783167,
+            "attack_percent": 0.320954
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "attack_percent": 0.33642720000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 440.1935998,
+            "attack_percent": 0.35190040000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111412",
+            "name": "Descension",
+            "upgrade": {
+                "0": "Effective only on the following platform:  \"PlayStation Network\" Hitting opponents with Normal and Charged Attacks grants a 50% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by 66."
+            }
+        },
+        "chs": {
+            "id": "111412",
+            "name": "降世",
+            "upgrade": {
+                "0": "仅在以下平台生效： \"PlayStation Network\" 普通攻击与重击命中敌人后有50%概率在小范围内造成200%攻击力的伤害。该效果每10秒只能触发一次；此外，旅行者装备降临之剑时，攻击力提升66点。"
+            }
+        },
+        "jp": {
+            "id": "111412",
+            "name": "降世",
+            "upgrade": {
+                "0": "以下のプラットフォームでのみ有効です。 \"PlayStation Network\" 通常攻撃と重撃が命中時50%の確率で攻撃力の200%の狭範囲ダメージを与える。10秒毎に1回のみ発動可能。旅人が降臨の剣を装備すると、さらに攻撃力+66。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "13415",
+    "ENname": "\"The Catch\"",
+    "CNname": "「渔获」",
+    "JAname": "「漁獲」",
+    "imageurl": "images/weapon/13415.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113415",
+            "name": "Shanty",
+            "upgrade": {
+                "0": "Increases Elemental Burst DMG by 16% and Elemental Burst CRIT Rate by 6%.",
+                "1": "Increases Elemental Burst DMG by 20% and Elemental Burst CRIT Rate by 7.5%.",
+                "2": "Increases Elemental Burst DMG by 24% and Elemental Burst CRIT Rate by 9%.",
+                "3": "Increases Elemental Burst DMG by 28% and Elemental Burst CRIT Rate by 10.5%.",
+                "4": "Increases Elemental Burst DMG by 32% and Elemental Burst CRIT Rate by 12%."
+            }
+        },
+        "chs": {
+            "id": "113415",
+            "name": "船歌",
+            "upgrade": {
+                "0": "元素爆发造成的伤害提升16%，元素爆发的暴击率提升6%。",
+                "1": "元素爆发造成的伤害提升20%，元素爆发的暴击率提升7.5%。",
+                "2": "元素爆发造成的伤害提升24%，元素爆发的暴击率提升9%。",
+                "3": "元素爆发造成的伤害提升28%，元素爆发的暴击率提升10.5%。",
+                "4": "元素爆发造成的伤害提升32%，元素爆发的暴击率提升12%。"
+            }
+        },
+        "jp": {
+            "id": "113415",
+            "name": "舟歌",
+            "upgrade": {
+                "0": "元素爆発ダメージ+16%、元素爆発の会心率+6%。",
+                "1": "元素爆発ダメージ+20%、元素爆発の会心率+7.5%。",
+                "2": "元素爆発ダメージ+24%、元素爆発の会心率+9%。",
+                "3": "元素爆発ダメージ+28%、元素爆発の会心率+10.5%。",
+                "4": "元素爆発ダメージ+32%、元素爆発の会心率+12%。"
+            }
+        }
+    }
+}

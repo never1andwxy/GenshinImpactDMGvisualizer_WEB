@@ -1,0 +1,141 @@
+{
+    "id": "15424",
+    "ENname": "Scion of the Blazing Sun",
+    "CNname": "烈阳之嗣",
+    "JAname": "烈日の後嗣",
+    "imageurl": "images/weapon/15424.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "critical": 0.04
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "critical": 0.04648
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "critical": 0.05452
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "critical": 0.0626
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "critical": 0.07067999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "critical": 0.07876000000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "critical": 0.08684
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "critical": 0.09492
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "critical": 0.10300000000000001
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "critical": 0.11108000000000001
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "critical": 0.11916
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "critical": 0.12724
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "critical": 0.13532
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "critical": 0.1434
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "critical": 0.15144
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "critical": 0.15952
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "critical": 0.16760000000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "critical": 0.17568000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "critical": 0.18376
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115424",
+            "name": "",
+            "upgrade": {
+                "0": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 60% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 28% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+                "1": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 75% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 35% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+                "2": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 90% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 42% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+                "3": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 105% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 49% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+                "4": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 120% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 56% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s."
+            }
+        },
+        "chs": {
+            "id": "115424",
+            "name": "阳炎古道",
+            "upgrade": {
+                "0": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力60%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升28%。阳炎矢每10秒至多触发一次。",
+                "1": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力75%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升35%。阳炎矢每10秒至多触发一次。",
+                "2": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力90%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升42%。阳炎矢每10秒至多触发一次。",
+                "3": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力105%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升49%。阳炎矢每10秒至多触发一次。",
+                "4": "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力120%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升56%。阳炎矢每10秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "115424",
+            "name": "",
+            "upgrade": {
+                "0": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力60%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+28%。陽炎の矢は10秒毎に1回のみ発動可能。",
+                "1": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力75%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+35%。陽炎の矢は10秒毎に1回のみ発動可能。",
+                "2": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力90%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+42%。陽炎の矢は10秒毎に1回のみ発動可能。",
+                "3": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力105%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+49%。陽炎の矢は10秒毎に1回のみ発動可能。",
+                "4": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力120%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+56%。陽炎の矢は10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

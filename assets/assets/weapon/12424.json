@@ -1,0 +1,141 @@
+{
+    "id": "12424",
+    "ENname": "Talking Stick",
+    "CNname": "聊聊棒",
+    "JAname": "話し合い棒",
+    "imageurl": "images/weapon/12424.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "critical": 0.04
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "critical": 0.04648
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "critical": 0.05452
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "critical": 0.0626
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "critical": 0.07067999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "critical": 0.07876000000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "critical": 0.08684
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "critical": 0.09492
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "critical": 0.10300000000000001
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "critical": 0.11108000000000001
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "critical": 0.11916
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "critical": 0.12724
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "critical": 0.13532
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "critical": 0.1434
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "critical": 0.15144
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "critical": 0.15952
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "critical": 0.16760000000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "critical": 0.17568000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "critical": 0.18376
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112424",
+            "name": "",
+            "upgrade": {
+                "0": "ATK will be increased by 16% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 12% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+                "1": "ATK will be increased by 20% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 15% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+                "2": "ATK will be increased by 24% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 18% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+                "3": "ATK will be increased by 28% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 21% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+                "4": "ATK will be increased by 32% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 24% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s."
+            }
+        },
+        "chs": {
+            "id": "112424",
+            "name": "「伶牙俐齿」",
+            "upgrade": {
+                "0": "承受火元素附着后的15秒内，攻击力提升16%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升12%，每12秒至多触发一次。",
+                "1": "承受火元素附着后的15秒内，攻击力提升20%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升15%，每12秒至多触发一次。",
+                "2": "承受火元素附着后的15秒内，攻击力提升24%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升18%，每12秒至多触发一次。",
+                "3": "承受火元素附着后的15秒内，攻击力提升28%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升21%，每12秒至多触发一次。",
+                "4": "承受火元素附着后的15秒内，攻击力提升32%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升24%，每12秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112424",
+            "name": "",
+            "upgrade": {
+                "0": "炎元素を付着させられた後の15秒間、攻撃力+16%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+12%、12秒毎に1回のみ発動可能。",
+                "1": "炎元素を付着させられた後の15秒間、攻撃力+20%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+15%、12秒毎に1回のみ発動可能。",
+                "2": "炎元素を付着させられた後の15秒間、攻撃力+24%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+18%、12秒毎に1回のみ発動可能。",
+                "3": "炎元素を付着させられた後の15秒間、攻撃力+28%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+21%、12秒毎に1回のみ発動可能。",
+                "4": "炎元素を付着させられた後の15秒間、攻撃力+32%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+24%、12秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

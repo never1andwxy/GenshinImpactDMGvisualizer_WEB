@@ -1,0 +1,141 @@
+{
+    "id": "12412",
+    "ENname": "Luxurious Sea-Lord",
+    "CNname": "衔珠海皇",
+    "JAname": "銜玉の海皇",
+    "imageurl": "images/weapon/12412.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671,
+            "attack_percent": 0.12
+        },
+        {
+            "level": "5",
+            "base_attack": 53.633632600000006,
+            "attack_percent": 0.13943999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 69.0748622,
+            "attack_percent": 0.16355999999999998
+        },
+        {
+            "level": "15",
+            "base_attack": 84.2696892,
+            "attack_percent": 0.1878
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591807,
+            "attack_percent": 0.21203999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 114.0844038,
+            "attack_percent": 0.23628
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642560000003,
+            "attack_percent": 0.26052
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32417900000002,
+            "attack_percent": 0.28476
+        },
+        {
+            "level": "40",
+            "base_attack": 183.67979820000002,
+            "attack_percent": 0.309
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328320000003,
+            "attack_percent": 0.33324
+        },
+        {
+            "level": "50",
+            "base_attack": 238.344634,
+            "attack_percent": 0.35748
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385060000003,
+            "attack_percent": 0.38172
+        },
+        {
+            "level": "60",
+            "base_attack": 292.62200010000004,
+            "attack_percent": 0.40596
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080154,
+            "attack_percent": 0.43019999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 346.6529636,
+            "attack_percent": 0.45432
+        },
+        {
+            "level": "75",
+            "base_attack": 256.95684470000003,
+            "attack_percent": 0.47856
+        },
+        {
+            "level": "80",
+            "base_attack": 400.6607258,
+            "attack_percent": 0.5028
+        },
+        {
+            "level": "85",
+            "base_attack": 284.88247270000005,
+            "attack_percent": 0.5270400000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 454.36316250000004,
+            "attack_percent": 0.55128
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112412",
+            "name": "Oceanic Victory",
+            "upgrade": {
+                "0": "Increases Elemental Burst DMG by 12%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 100% ATK as AoE DMG. This effect can occur once every 15s.",
+                "1": "Increases Elemental Burst DMG by 15%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 125% ATK as AoE DMG. This effect can occur once every 15s.",
+                "2": "Increases Elemental Burst DMG by 18%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 150% ATK as AoE DMG. This effect can occur once every 15s.",
+                "3": "Increases Elemental Burst DMG by 21%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 175% ATK as AoE DMG. This effect can occur once every 15s.",
+                "4": "Increases Elemental Burst DMG by 24%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 200% ATK as AoE DMG. This effect can occur once every 15s."
+            }
+        },
+        "chs": {
+            "id": "112412",
+            "name": "海洋的胜利",
+            "upgrade": {
+                "0": "元素爆发造成的伤害提升12%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成100%攻击力的范围伤害。该效果每15秒至多触发一次。",
+                "1": "元素爆发造成的伤害提升15%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成125%攻击力的范围伤害。该效果每15秒至多触发一次。",
+                "2": "元素爆发造成的伤害提升18%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成150%攻击力的范围伤害。该效果每15秒至多触发一次。",
+                "3": "元素爆发造成的伤害提升21%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成175%攻击力的范围伤害。该效果每15秒至多触发一次。",
+                "4": "元素爆发造成的伤害提升24%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成200%攻击力的范围伤害。该效果每15秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112412",
+            "name": "海の勝利",
+            "upgrade": {
+                "0": "元素爆発ダメージ+12%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力100%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+                "1": "元素爆発ダメージ+15%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力125%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+                "2": "元素爆発ダメージ+18%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力150%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+                "3": "元素爆発ダメージ+21%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力175%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+                "4": "元素爆発ダメージ+24%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力200%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

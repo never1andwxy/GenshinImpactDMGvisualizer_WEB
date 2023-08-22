@@ -1,0 +1,141 @@
+{
+    "id": "14511",
+    "ENname": "A Thousand Floating Dreams",
+    "CNname": "千夜浮梦",
+    "JAname": "千夜に浮かぶ夢",
+    "imageurl": "images/weapon/14511.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "element_mastery": 57.6
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "element_mastery": 66.9312
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "element_mastery": 78.50880000000001
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "element_mastery": 90.144
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "element_mastery": 101.7792
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "element_mastery": 113.4144
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "element_mastery": 125.0496
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "element_mastery": 136.68480000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "element_mastery": 148.32000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "element_mastery": 159.95520000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "element_mastery": 171.59040000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "element_mastery": 183.22560000000001
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "element_mastery": 194.8608
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "element_mastery": 206.496
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "element_mastery": 218.0736
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "element_mastery": 229.7088
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "element_mastery": 241.34400000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "element_mastery": 252.97920000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "element_mastery": 264.61440000000005
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114511",
+            "name": "A Thousand Nights' Dawnsong",
+            "upgrade": {
+                "0": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 32. If not, increase the equipping character's DMG Bonus from their Elemental Type by 10%. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 40. Multiple such effects from multiple such weapons can stack.",
+                "1": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 40. If not, increase the equipping character's DMG Bonus from their Elemental Type by 14%. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 42. Multiple such effects from multiple such weapons can stack.",
+                "2": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 48. If not, increase the equipping character's DMG Bonus from their Elemental Type by 18%. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 44. Multiple such effects from multiple such weapons can stack.",
+                "3": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 56. If not, increase the equipping character's DMG Bonus from their Elemental Type by 22%. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 46. Multiple such effects from multiple such weapons can stack.",
+                "4": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 64. If not, increase the equipping character's DMG Bonus from their Elemental Type by 26%. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 48. Multiple such effects from multiple such weapons can stack."
+            }
+        },
+        "chs": {
+            "id": "114511",
+            "name": "千夜的曙歌",
+            "upgrade": {
+                "0": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升32点；不同：装备者元素类型的元素伤害加成提升10%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升40点，多件同名武器产生的此效果可以叠加。",
+                "1": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升40点；不同：装备者元素类型的元素伤害加成提升14%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升42点，多件同名武器产生的此效果可以叠加。",
+                "2": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升48点；不同：装备者元素类型的元素伤害加成提升18%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升44点，多件同名武器产生的此效果可以叠加。",
+                "3": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升56点；不同：装备者元素类型的元素伤害加成提升22%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升46点，多件同名武器产生的此效果可以叠加。",
+                "4": "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升64点；不同：装备者元素类型的元素伤害加成提升26%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升48点，多件同名武器产生的此效果可以叠加。"
+            }
+        },
+        "jp": {
+            "id": "114511",
+            "name": "千夜の暁歌",
+            "upgrade": {
+                "0": "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+32。元素タイプが異なる場合：自身元素タイプの元素ダメージ+10%。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+40、同じ武器によるこの効果は複数重ねることができる。",
+                "1": "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+40。元素タイプが異なる場合：自身元素タイプの元素ダメージ+14%。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+42、同じ武器によるこの効果は複数重ねることができる。",
+                "2": "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+48。元素タイプが異なる場合：自身元素タイプの元素ダメージ+18%。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+44、同じ武器によるこの効果は複数重ねることができる。",
+                "3": "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+56。元素タイプが異なる場合：自身元素タイプの元素ダメージ+22%。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+46、同じ武器によるこの効果は複数重ねることができる。",
+                "4": "チーム内にいる他キャラクターの元素タイプと装備者自身の元素タイプに応じて、自身に異なる強化効果をもたらす。元素タイプが同じ場合：元素熟知+64。元素タイプが異なる場合：自身元素タイプの元素ダメージ+26%。上記の強化効果は1種類につき最大3層まで重ね掛け可能。また、装備者自身を除く、周囲のチーム全員の元素熟知+48、同じ武器によるこの効果は複数重ねることができる。"
+            }
+        }
+    }
+}

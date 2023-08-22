@@ -1,0 +1,141 @@
+{
+    "id": "14406",
+    "ENname": "Prototype Amber",
+    "CNname": "试作金珀",
+    "JAname": "金珀·試作",
+    "imageurl": "images/weapon/14406.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "hp_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "hp_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "hp_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "hp_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "hp_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "hp_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "hp_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "hp_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "hp_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "hp_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "hp_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "hp_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "hp_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "hp_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "hp_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "hp_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "hp_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "hp_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "hp_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114406",
+            "name": "Gilding",
+            "upgrade": {
+                "0": "Using an Elemental Burst regenerates 4 Energy every 2s for 6s. All party members will regenerate 4% HP every 2s for this duration.",
+                "1": "Using an Elemental Burst regenerates 4.5 Energy every 2s for 6s. All party members will regenerate 4.5% HP every 2s for this duration.",
+                "2": "Using an Elemental Burst regenerates 5 Energy every 2s for 6s. All party members will regenerate 5% HP every 2s for this duration.",
+                "3": "Using an Elemental Burst regenerates 5.5 Energy every 2s for 6s. All party members will regenerate 5.5% HP every 2s for this duration.",
+                "4": "Using an Elemental Burst regenerates 6 Energy every 2s for 6s. All party members will regenerate 6% HP every 2s for this duration."
+            }
+        },
+        "chs": {
+            "id": "114406",
+            "name": "炊金",
+            "upgrade": {
+                "0": "施放元素爆发后6秒内，每2秒恢复4点元素能量，队伍中的所有角色每2秒恢复4%生命值。",
+                "1": "施放元素爆发后6秒内，每2秒恢复4.5点元素能量，队伍中的所有角色每2秒恢复4.5%生命值。",
+                "2": "施放元素爆发后6秒内，每2秒恢复5点元素能量，队伍中的所有角色每2秒恢复5%生命值。",
+                "3": "施放元素爆发后6秒内，每2秒恢复5.5点元素能量，队伍中的所有角色每2秒恢复5.5%生命值。",
+                "4": "施放元素爆发后6秒内，每2秒恢复6点元素能量，队伍中的所有角色每2秒恢复6%生命值。"
+            }
+        },
+        "jp": {
+            "id": "114406",
+            "name": "炊金",
+            "upgrade": {
+                "0": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを4回復し、チーム全員のHPを2秒毎に4%回復する。",
+                "1": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを4.5回復し、チーム全員のHPを2秒毎に4.5%回復する。",
+                "2": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを5回復し、チーム全員のHPを2秒毎に5%回復する。",
+                "3": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを5.5回復し、チーム全員のHPを2秒毎に5.5%回復する。",
+                "4": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを6回復し、チーム全員のHPを2秒毎に6%回復する。"
+            }
+        }
+    }
+}

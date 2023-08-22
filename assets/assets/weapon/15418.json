@@ -1,0 +1,141 @@
+{
+    "id": "15418",
+    "ENname": "End of the Line",
+    "CNname": "竭泽",
+    "JAname": "竭沢",
+    "imageurl": "images/weapon/15418.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115418",
+            "name": "Net Snapper",
+            "upgrade": {
+                "0": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+                "1": "Triggers the Flowrider effect after using an Elemental Skill, dealing 100% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+                "2": "Triggers the Flowrider effect after using an Elemental Skill, dealing 120% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+                "3": "Triggers the Flowrider effect after using an Elemental Skill, dealing 140% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+                "4": "Triggers the Flowrider effect after using an Elemental Skill, dealing 160% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+            }
+        },
+        "chs": {
+            "id": "115418",
+            "name": "网破",
+            "upgrade": {
+                "0": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成80%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+                "1": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成100%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+                "2": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成120%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+                "3": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成140%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+                "4": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成160%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。"
+            }
+        },
+        "jp": {
+            "id": "115418",
+            "name": "ネットブレーカー",
+            "upgrade": {
+                "0": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力80%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+                "1": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力100%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+                "2": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力120%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+                "3": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力140%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+                "4": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力160%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "13424",
+    "ENname": "Ballad of the Fjords",
+    "CNname": "峡湾长歌",
+    "JAname": "峡湾高歌",
+    "imageurl": "images/weapon/13424.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113424",
+            "name": "",
+            "upgrade": {
+                "0": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 120.",
+                "1": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 150.",
+                "2": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 180.",
+                "3": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 210.",
+                "4": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 240."
+            }
+        },
+        "chs": {
+            "id": "113424",
+            "name": "冰原的诸多故事",
+            "upgrade": {
+                "0": "队伍中存在至少三种不同元素类型的角色时，元素精通提升120点。",
+                "1": "队伍中存在至少三种不同元素类型的角色时，元素精通提升150点。",
+                "2": "队伍中存在至少三种不同元素类型的角色时，元素精通提升180点。",
+                "3": "队伍中存在至少三种不同元素类型的角色时，元素精通提升210点。",
+                "4": "队伍中存在至少三种不同元素类型的角色时，元素精通提升240点。"
+            }
+        },
+        "jp": {
+            "id": "113424",
+            "name": "",
+            "upgrade": {
+                "0": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+120。",
+                "1": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+150。",
+                "2": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+180。",
+                "3": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+210。",
+                "4": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+240。"
+            }
+        }
+    }
+}

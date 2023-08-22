@@ -1,0 +1,141 @@
+{
+    "id": "15511",
+    "ENname": "Hunter's Path",
+    "CNname": "猎人之径",
+    "JAname": "狩人の道",
+    "imageurl": "images/weapon/15511.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "critical": 0.096
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "critical": 0.111552
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "critical": 0.130848
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "critical": 0.15023999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "critical": 0.169632
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "critical": 0.18902400000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "critical": 0.208416
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "critical": 0.22780800000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "critical": 0.24720000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "critical": 0.266592
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "critical": 0.285984
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "critical": 0.30537600000000004
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "critical": 0.324768
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "critical": 0.34416
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "critical": 0.363456
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "critical": 0.382848
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "critical": 0.40224000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "critical": 0.42163200000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "critical": 0.441024
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115511",
+            "name": "At the End of the Beast-Paths",
+            "upgrade": {
+                "0": "Gain 12% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+                "1": "Gain 15% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 200% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+                "2": "Gain 18% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 240% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+                "3": "Gain 21% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 280% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+                "4": "Gain 24% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 320% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+            }
+        },
+        "chs": {
+            "id": "115511",
+            "name": "兽径的终点",
+            "upgrade": {
+                "0": "获得12%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的160%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+                "1": "获得15%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的200%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+                "2": "获得18%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的240%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+                "3": "获得21%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的280%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+                "4": "获得24%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的320%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。"
+            }
+        },
+        "jp": {
+            "id": "115511",
+            "name": "獣道の終着点",
+            "upgrade": {
+                "0": "全元素ダメージ+12%。重撃が敵に命中すると、重撃ダメージが元素熟知160%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+                "1": "全元素ダメージ+15%。重撃が敵に命中すると、重撃ダメージが元素熟知200%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+                "2": "全元素ダメージ+18%。重撃が敵に命中すると、重撃ダメージが元素熟知240%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+                "3": "全元素ダメージ+21%。重撃が敵に命中すると、重撃ダメージが元素熟知280%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+                "4": "全元素ダメージ+24%。重撃が敵に命中すると、重撃ダメージが元素熟知320%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。"
+            }
+        }
+    }
+}

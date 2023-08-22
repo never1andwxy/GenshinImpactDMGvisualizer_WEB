@@ -1,0 +1,141 @@
+{
+    "id": "15412",
+    "ENname": "Mitternachts Waltz",
+    "CNname": "幽夜华尔兹",
+    "JAname": "幽夜のワルツ",
+    "imageurl": "images/weapon/15412.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "physical_add_hurt": 0.1126
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "physical_add_hurt": 0.1308412
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "physical_add_hurt": 0.1534738
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "physical_add_hurt": 0.17621900000000001
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "physical_add_hurt": 0.1989642
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "physical_add_hurt": 0.22170940000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "physical_add_hurt": 0.2444546
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "physical_add_hurt": 0.26719980000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "physical_add_hurt": 0.289945
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "physical_add_hurt": 0.31269020000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "physical_add_hurt": 0.33543540000000005
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "physical_add_hurt": 0.3581806
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "physical_add_hurt": 0.38092580000000004
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "physical_add_hurt": 0.403671
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "physical_add_hurt": 0.4263036
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "physical_add_hurt": 0.4490488
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "physical_add_hurt": 0.47179400000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "physical_add_hurt": 0.49453920000000007
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "physical_add_hurt": 0.5172844000000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115412",
+            "name": "Evernight Duet",
+            "upgrade": {
+                "0": "Normal Attack hits on opponents increase Elemental Skill DMG by 20% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 20% for 5s.",
+                "1": "Normal Attack hits on opponents increase Elemental Skill DMG by 25% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 25% for 5s.",
+                "2": "Normal Attack hits on opponents increase Elemental Skill DMG by 30% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 30% for 5s.",
+                "3": "Normal Attack hits on opponents increase Elemental Skill DMG by 35% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 35% for 5s.",
+                "4": "Normal Attack hits on opponents increase Elemental Skill DMG by 40% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 40% for 5s."
+            }
+        },
+        "chs": {
+            "id": "115412",
+            "name": "极夜二重奏",
+            "upgrade": {
+                "0": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升20%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升20%。",
+                "1": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升25%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升25%。",
+                "2": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升30%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升30%。",
+                "3": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升35%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升35%。",
+                "4": "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升40%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升40%。"
+            }
+        },
+        "jp": {
+            "id": "115412",
+            "name": "極夜のデュエット",
+            "upgrade": {
+                "0": "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+20%。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+20%。",
+                "1": "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+25%。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+25%。",
+                "2": "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+30%。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+30%。",
+                "3": "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+35%。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+35%。",
+                "4": "通常攻撃が敵に命中した後の5秒間、元素スキルのダメージ+40%。元素スキルが敵に命中した後の5秒間、通常攻撃のダメージ+40%。"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "11101",
+    "ENname": "Dull Blade",
+    "CNname": "无锋剑",
+    "JAname": "無鋒の剣",
+    "imageurl": "images/weapon/11101.png",
+    "type": "sword",
+    "rarity": 1,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 23.245
+        },
+        {
+            "level": "5",
+            "base_attack": 30.288235
+        },
+        {
+            "level": "10",
+            "base_attack": 39.028355000000005
+        },
+        {
+            "level": "15",
+            "base_attack": 47.675495000000005
+        },
+        {
+            "level": "20",
+            "base_attack": 56.252900000000004
+        },
+        {
+            "level": "25",
+            "base_attack": 64.76057
+        },
+        {
+            "level": "30",
+            "base_attack": 73.17526000000001
+        },
+        {
+            "level": "35",
+            "base_attack": 81.54346000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 101.56517000000001
+        },
+        {
+            "level": "45",
+            "base_attack": 98.11714500000001
+        },
+        {
+            "level": "50",
+            "base_attack": 129.62263000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 114.481625
+        },
+        {
+            "level": "60",
+            "base_attack": 157.59413
+        },
+        {
+            "level": "65",
+            "base_attack": 130.68339
+        },
+        {
+            "level": "70",
+            "base_attack": 185.42615999999998
+        },
+        {
+            "level": "75",
+            "base_attack": 146.76893
+        },
+        {
+            "level": "80",
+            "base_attack": 154.788455
+        },
+        {
+            "level": "85",
+            "base_attack": 162.784735
+        },
+        {
+            "level": "90",
+            "base_attack": 170.75777000000002
+        }
+    ],
+    "refinement": {}
+}

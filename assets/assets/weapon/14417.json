@@ -1,0 +1,141 @@
+{
+    "id": "14417",
+    "ENname": "Fruit of Fulfillment",
+    "CNname": "盈满之实",
+    "JAname": "満悦の実",
+    "imageurl": "images/weapon/14417.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114417",
+            "name": "Full Circle",
+            "upgrade": {
+                "0": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 24 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+                "1": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 27 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+                "2": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 30 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+                "3": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 33 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+                "4": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 36 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+            }
+        },
+        "chs": {
+            "id": "114417",
+            "name": "圆满之相",
+            "upgrade": {
+                "0": "触发元素反应后，获得「盈缺」效果：元素精通提升24点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
+                "1": "触发元素反应后，获得「盈缺」效果：元素精通提升27点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
+                "2": "触发元素反应后，获得「盈缺」效果：元素精通提升30点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
+                "3": "触发元素反应后，获得「盈缺」效果：元素精通提升33点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
+                "4": "触发元素反应后，获得「盈缺」效果：元素精通提升36点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。"
+            }
+        },
+        "jp": {
+            "id": "114417",
+            "name": "正円の相",
+            "upgrade": {
+                "0": "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+24、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。",
+                "1": "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+27、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。",
+                "2": "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+30、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。",
+                "3": "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+33、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。",
+                "4": "元素反応を起こすと、「盈虚」効果を獲得する。「盈虚」効果：元素熟知+36、攻撃力-5%。「盈虚」効果は最大5層まで重ね掛けでき、0.3秒毎に最大1層獲得可能。元素反応を起こさないでいると、6秒毎に1層失う。キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}

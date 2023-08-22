@@ -1,0 +1,141 @@
+{
+    "id": "14301",
+    "ENname": "Magic Guide",
+    "CNname": "魔导绪论",
+    "JAname": "魔導緒論",
+    "imageurl": "images/weapon/14301.png",
+    "type": "catalyst",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 37.6075,
+            "element_mastery": 40.8
+        },
+        {
+            "level": "5",
+            "base_attack": 48.137600000000006,
+            "element_mastery": 47.40959999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 60.961757500000004,
+            "element_mastery": 55.6104
+        },
+        {
+            "level": "15",
+            "base_attack": 73.40984,
+            "element_mastery": 63.852
+        },
+        {
+            "level": "20",
+            "base_attack": 85.5570625,
+            "element_mastery": 72.0936
+        },
+        {
+            "level": "25",
+            "base_attack": 97.4410325,
+            "element_mastery": 80.3352
+        },
+        {
+            "level": "30",
+            "base_attack": 109.0993575,
+            "element_mastery": 88.57679999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 120.5320375,
+            "element_mastery": 96.8184
+        },
+        {
+            "level": "40",
+            "base_attack": 151.27668,
+            "element_mastery": 105.06
+        },
+        {
+            "level": "45",
+            "base_attack": 142.8708925,
+            "element_mastery": 113.3016
+        },
+        {
+            "level": "50",
+            "base_attack": 192.714675,
+            "element_mastery": 121.5432
+        },
+        {
+            "level": "55",
+            "base_attack": 164.6080275,
+            "element_mastery": 129.7848
+        },
+        {
+            "level": "60",
+            "base_attack": 233.6885575,
+            "element_mastery": 138.0264
+        },
+        {
+            "level": "65",
+            "base_attack": 185.8938725,
+            "element_mastery": 146.268
+        },
+        {
+            "level": "70",
+            "base_attack": 274.186365,
+            "element_mastery": 154.4688
+        },
+        {
+            "level": "75",
+            "base_attack": 206.76603500000002,
+            "element_mastery": 162.7104
+        },
+        {
+            "level": "80",
+            "base_attack": 314.44570500000003,
+            "element_mastery": 170.952
+        },
+        {
+            "level": "85",
+            "base_attack": 227.4125525,
+            "element_mastery": 179.1936
+        },
+        {
+            "level": "90",
+            "base_attack": 354.37940000000003,
+            "element_mastery": 187.4352
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114301",
+            "name": "Bane of Storm and Tide",
+            "upgrade": {
+                "0": "Increases DMG against opponents affected by Hydro or Electro by 12%.",
+                "1": "Increases DMG against opponents affected by Hydro or Electro by 15%.",
+                "2": "Increases DMG against opponents affected by Hydro or Electro by 18%.",
+                "3": "Increases DMG against opponents affected by Hydro or Electro by 21%.",
+                "4": "Increases DMG against opponents affected by Hydro or Electro by 24%."
+            }
+        },
+        "chs": {
+            "id": "114301",
+            "name": "止水息雷",
+            "upgrade": {
+                "0": "对处于水元素或雷元素影响下的敌人，造成的伤害提高12%。",
+                "1": "对处于水元素或雷元素影响下的敌人，造成的伤害提高15%。",
+                "2": "对处于水元素或雷元素影响下的敌人，造成的伤害提高18%。",
+                "3": "对处于水元素或雷元素影响下的敌人，造成的伤害提高21%。",
+                "4": "对处于水元素或雷元素影响下的敌人，造成的伤害提高24%。"
+            }
+        },
+        "jp": {
+            "id": "114301",
+            "name": "水と雷の破滅",
+            "upgrade": {
+                "0": "水元素または雷元素の影響を受けた敵に対するダメージ+12%。",
+                "1": "水元素または雷元素の影響を受けた敵に対するダメージ+15%。",
+                "2": "水元素または雷元素の影響を受けた敵に対するダメージ+18%。",
+                "3": "水元素または雷元素の影響を受けた敵に対するダメージ+21%。",
+                "4": "水元素または雷元素の影響を受けた敵に対するダメージ+24%。"
+            }
+        }
+    }
+}

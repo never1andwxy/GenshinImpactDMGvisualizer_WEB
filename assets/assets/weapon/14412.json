@@ -1,0 +1,141 @@
+{
+    "id": "14412",
+    "ENname": "Frostbearer",
+    "CNname": "忍冬之果",
+    "JAname": "冬忍びの実",
+    "imageurl": "images/weapon/14412.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "attack_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "attack_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "attack_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "attack_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "attack_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "attack_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "attack_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "attack_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "attack_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "attack_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "attack_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "attack_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "attack_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "attack_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "attack_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "attack_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "attack_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "attack_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "attack_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114412",
+            "name": "Frost Burial",
+            "upgrade": {
+                "0": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s.",
+                "1": "Hitting an opponent with Normal and Charged Attacks has a 70% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 95% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 240% of ATK. Can only occur once every 10s.",
+                "2": "Hitting an opponent with Normal and Charged Attacks has an 80% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 110% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 280% of ATK. Can only occur once every 10s.",
+                "3": "Hitting an opponent with Normal and Charged Attacks has a 90% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 125% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 320% of ATK. Can only occur once every 10s.",
+                "4": "Hitting an opponent with Normal and Charged Attacks has a 100% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 140% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 360% of ATK. Can only occur once every 10s."
+            }
+        },
+        "chs": {
+            "id": "114412",
+            "name": "霜葬",
+            "upgrade": {
+                "0": "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
+                "1": "普通攻击与重击命中敌人时，有70%概率在敌人上方生成恒冰晶核并坠落，造成95%攻击力的范围伤害。若敌人处于冰元素影响下，则造成240%攻击力的伤害。该效果每10秒至多触发一次。",
+                "2": "普通攻击与重击命中敌人时，有80%概率在敌人上方生成恒冰晶核并坠落，造成110%攻击力的范围伤害。若敌人处于冰元素影响下，则造成280%攻击力的伤害。该效果每10秒至多触发一次。",
+                "3": "普通攻击与重击命中敌人时，有90%概率在敌人上方生成恒冰晶核并坠落，造成125%攻击力的范围伤害。若敌人处于冰元素影响下，则造成320%攻击力的伤害。该效果每10秒至多触发一次。",
+                "4": "普通攻击与重击命中敌人时，有100%概率在敌人上方生成恒冰晶核并坠落，造成140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成360%攻击力的伤害。该效果每10秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "114412",
+            "name": "霜の埋葬",
+            "upgrade": {
+                "0": "通常攻撃と重撃が敵に命中した時、60%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の80%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の200%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "1": "通常攻撃と重撃が敵に命中した時、70%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の95%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の240%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "2": "通常攻撃と重撃が敵に命中した時、80%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の110%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の280%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "3": "通常攻撃と重撃が敵に命中した時、90%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の125%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の320%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "4": "通常攻撃と重撃が敵に命中した時、100%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の140%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の360%のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

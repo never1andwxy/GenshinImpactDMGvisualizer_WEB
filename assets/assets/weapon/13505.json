@@ -1,0 +1,141 @@
+{
+    "id": "13505",
+    "ENname": "Primordial Jade Winged-Spear",
+    "CNname": "和璞鸢",
+    "JAname": "和璞鳶",
+    "imageurl": "images/weapon/13505.png",
+    "type": "polearm",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical": 0.048
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical": 0.055776
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical": 0.065424
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical": 0.07511999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical": 0.084816
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical": 0.09451200000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical": 0.104208
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical": 0.11390400000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "critical": 0.12360000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical": 0.133296
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "critical": 0.142992
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical": 0.15268800000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "critical": 0.162384
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical": 0.17208
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "critical": 0.181728
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical": 0.191424
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "critical": 0.20112000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical": 0.21081600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "critical": 0.220512
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113505",
+            "name": "Eagle Spear of Justice",
+            "upgrade": {
+                "0": "On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%.",
+                "1": "On hit, increases ATK by 3.9% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 15%.",
+                "2": "On hit, increases ATK by 4.6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 18%.",
+                "3": "On hit, increases ATK by 5.3% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 21%.",
+                "4": "On hit, increases ATK by 6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 24%."
+            }
+        },
+        "chs": {
+            "id": "113505",
+            "name": "昭理的鸢之枪",
+            "upgrade": {
+                "0": "命中敌人时自身攻击力提高3.2%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升12%。",
+                "1": "命中敌人时自身攻击力提高3.9%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升15%。",
+                "2": "命中敌人时自身攻击力提高4.6%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升18%。",
+                "3": "命中敌人时自身攻击力提高5.3%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升21%。",
+                "4": "命中敌人时自身攻击力提高6%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升24%。"
+            }
+        },
+        "jp": {
+            "id": "113505",
+            "name": "正義を貫く鳶の槍",
+            "upgrade": {
+                "0": "敵に命中した時、自身の攻撃力+3.2%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+12%。",
+                "1": "敵に命中した時、自身の攻撃力+3.9%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+15%。",
+                "2": "敵に命中した時、自身の攻撃力+4.6%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+18%。",
+                "3": "敵に命中した時、自身の攻撃力+5.3%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+21%。",
+                "4": "敵に命中した時、自身の攻撃力+6%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+24%。"
+            }
+        }
+    }
+}

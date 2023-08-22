@@ -1,0 +1,141 @@
+{
+    "id": "11511",
+    "ENname": "Key of Khaj-Nisut",
+    "CNname": "圣显之钥",
+    "JAname": "聖顕の鍵",
+    "imageurl": "images/weapon/11511.png",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "hp_percent": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "hp_percent": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "hp_percent": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "hp_percent": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "hp_percent": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "hp_percent": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "hp_percent": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "hp_percent": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "hp_percent": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "hp_percent": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "hp_percent": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "hp_percent": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "hp_percent": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "hp_percent": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "hp_percent": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "hp_percent": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "hp_percent": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "hp_percent": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "hp_percent": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111511",
+            "name": "Sunken Song of the Sands",
+            "upgrade": {
+                "0": "HP increased by 20%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.12% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.2% of the equipping character's max HP for 20s.",
+                "1": "HP increased by 25%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.15% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.25% of the equipping character's max HP for 20s.",
+                "2": "HP increased by 30%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.18% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.3% of the equipping character's max HP for 20s.",
+                "3": "HP increased by 35%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.21% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.35% of the equipping character's max HP for 20s.",
+                "4": "HP increased by 40%. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by 0.24% of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by 0.4% of the equipping character's max HP for 20s."
+            }
+        },
+        "chs": {
+            "id": "111511",
+            "name": "沉入沙海的史诗",
+            "upgrade": {
+                "0": "生命值提升20%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.12%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.2%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
+                "1": "生命值提升25%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.15%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.25%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
+                "2": "生命值提升30%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.18%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.3%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
+                "3": "生命值提升35%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.21%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.35%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
+                "4": "生命值提升40%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.24%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.4%，为队伍中附近所有角色提供元素精通提升，持续20秒。"
+            }
+        },
+        "jp": {
+            "id": "111511",
+            "name": "砂海に沈みし叙事詩",
+            "upgrade": {
+                "0": "HP+20%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.12%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.2%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。",
+                "1": "HP+25%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.15%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.25%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。",
+                "2": "HP+30%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.18%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.3%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。",
+                "3": "HP+35%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.21%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.35%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。",
+                "4": "HP+40%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.24%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.4%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。"
+            }
+        }
+    }
+}

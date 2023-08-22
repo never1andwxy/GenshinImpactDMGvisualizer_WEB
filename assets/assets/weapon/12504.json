@@ -1,0 +1,141 @@
+{
+    "id": "12504",
+    "ENname": "The Unforged",
+    "CNname": "无工之剑",
+    "JAname": "無工の剣",
+    "imageurl": "images/weapon/12504.png",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "attack_percent": 0.108
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "attack_percent": 0.125496
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "attack_percent": 0.147204
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "attack_percent": 0.16902
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "attack_percent": 0.19083599999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "attack_percent": 0.212652
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "attack_percent": 0.23446799999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "attack_percent": 0.256284
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "attack_percent": 0.2781
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "attack_percent": 0.299916
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "attack_percent": 0.321732
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "attack_percent": 0.343548
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "attack_percent": 0.365364
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "attack_percent": 0.38717999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "attack_percent": 0.408888
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "attack_percent": 0.430704
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "attack_percent": 0.45252000000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "attack_percent": 0.47433600000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "attack_percent": 0.49615200000000004
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112504",
+            "name": "Golden Majesty",
+            "upgrade": {
+                "0": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "1": "Increases Shield Strength by 25%. Scoring hits on opponents increases ATK by 5% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "2": "Increases Shield Strength by 30%. Scoring hits on opponents increases ATK by 6% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "3": "Increases Shield Strength by 35%. Scoring hits on opponents increases ATK by 7% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "4": "Increases Shield Strength by 40%. Scoring hits on opponents increases ATK by 8% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+            }
+        },
+        "chs": {
+            "id": "112504",
+            "name": "金璋皇极",
+            "upgrade": {
+                "0": "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+                "1": "护盾强效提升25%。攻击命中后的8秒内，攻击力提升5%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+                "2": "护盾强效提升30%。攻击命中后的8秒内，攻击力提升6%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+                "3": "护盾强效提升35%。攻击命中后的8秒内，攻击力提升7%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+                "4": "护盾强效提升40%。攻击命中后的8秒内，攻击力提升8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。"
+            }
+        },
+        "jp": {
+            "id": "112504",
+            "name": "金璋君臨",
+            "upgrade": {
+                "0": "シールド強化+20%。攻撃が命中した8秒間、攻撃力+4%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+                "1": "シールド強化+25%。攻撃が命中した8秒間、攻撃力+5%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+                "2": "シールド強化+30%。攻撃が命中した8秒間、攻撃力+6%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+                "3": "シールド強化+35%。攻撃が命中した8秒間、攻撃力+7%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+                "4": "シールド強化+40%。攻撃が命中した8秒間、攻撃力+8%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。"
+            }
+        }
+    }
+}

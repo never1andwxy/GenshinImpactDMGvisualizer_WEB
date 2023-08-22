@@ -1,0 +1,141 @@
+{
+    "id": "13302",
+    "ENname": "Halberd",
+    "CNname": "钺矛",
+    "JAname": "鉾槍",
+    "imageurl": "images/weapon/13302.png",
+    "type": "polearm",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "attack_percent": 0.05107
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "attack_percent": 0.059343339999999994
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "attack_percent": 0.06960841
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "attack_percent": 0.07992455
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "attack_percent": 0.09024068999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "attack_percent": 0.10055683
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "attack_percent": 0.11087296999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "attack_percent": 0.12118911
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "attack_percent": 0.13150525
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "attack_percent": 0.14182139
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "attack_percent": 0.15213753
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "attack_percent": 0.16245367
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "attack_percent": 0.17276981
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "attack_percent": 0.18308595
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "attack_percent": 0.19335101999999998
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "attack_percent": 0.20366715999999999
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "attack_percent": 0.21398330000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "attack_percent": 0.22429944000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "attack_percent": 0.23461558
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113302",
+            "name": "Heavy",
+            "upgrade": {
+                "0": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s.",
+                "1": "Normal Attacks deal an additional 200% ATK as DMG. This effect can only occur once every 10s.",
+                "2": "Normal Attacks deal an additional 240% ATK as DMG. This effect can only occur once every 10s.",
+                "3": "Normal Attacks deal an additional 280% ATK as DMG. This effect can only occur once every 10s.",
+                "4": "Normal Attacks deal an additional 320% ATK as DMG. This effect can only occur once every 10s."
+            }
+        },
+        "chs": {
+            "id": "113302",
+            "name": "沉重",
+            "upgrade": {
+                "0": "对普通攻击命中的敌人造成160%攻击力的额外伤害。该效果每10秒只能触发一次。",
+                "1": "对普通攻击命中的敌人造成200%攻击力的额外伤害。该效果每10秒只能触发一次。",
+                "2": "对普通攻击命中的敌人造成240%攻击力的额外伤害。该效果每10秒只能触发一次。",
+                "3": "对普通攻击命中的敌人造成280%攻击力的额外伤害。该效果每10秒只能触发一次。",
+                "4": "对普通攻击命中的敌人造成320%攻击力的额外伤害。该效果每10秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "113302",
+            "name": "過重",
+            "upgrade": {
+                "0": "通常攻撃が命中した敵1体に攻撃力の160%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+                "1": "通常攻撃が命中した敵に対して攻撃力の200%の追加ダメージを与える。10秒に1回のみ発動可能。",
+                "2": "通常攻撃が命中した敵1体に攻撃力の240%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+                "3": "通常攻撃が命中した敵1体に攻撃力の280%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+                "4": "通常攻撃が命中した敵1体に攻撃力の320%の追加ダメージを与える。10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

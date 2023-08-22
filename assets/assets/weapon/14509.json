@@ -1,0 +1,141 @@
+{
+    "id": "14509",
+    "ENname": "Kagura's Verity",
+    "CNname": "神乐之真意",
+    "JAname": "神楽の真意",
+    "imageurl": "images/weapon/14509.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical_hurt": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical_hurt": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical_hurt": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical_hurt": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical_hurt": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical_hurt": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical_hurt": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical_hurt": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical_hurt": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical_hurt": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical_hurt": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical_hurt": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical_hurt": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical_hurt": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical_hurt": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical_hurt": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical_hurt": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical_hurt": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical_hurt": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114509",
+            "name": "Kagura Dance of the Sacred Sakura",
+            "upgrade": {
+                "0": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 12% for 16s. Max 3 stacks. This character will gain 12% All Elemental DMG Bonus when they possess 3 stacks.",
+                "1": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 15% for 16s. Max 3 stacks. This character will gain 15% All Elemental DMG Bonus when they possess 3 stacks.",
+                "2": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 18% for 16s. Max 3 stacks. This character will gain 18% All Elemental DMG Bonus when they possess 3 stacks.",
+                "3": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 21% for 16s. Max 3 stacks. This character will gain 21% All Elemental DMG Bonus when they possess 3 stacks.",
+                "4": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 24% for 16s. Max 3 stacks. This character will gain 24% All Elemental DMG Bonus when they possess 3 stacks."
+            }
+        },
+        "chs": {
+            "id": "114509",
+            "name": "神樱神游神乐舞",
+            "upgrade": {
+                "0": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高12%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得12%所有元素伤害加成。",
+                "1": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高15%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得15%所有元素伤害加成。",
+                "2": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高18%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得18%所有元素伤害加成。",
+                "3": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高21%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得21%所有元素伤害加成。",
+                "4": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高24%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得24%所有元素伤害加成。"
+            }
+        },
+        "jp": {
+            "id": "114509",
+            "name": "神櫻神遊神楽舞",
+            "upgrade": {
+                "0": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+12%、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+12%。",
+                "1": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+15%、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+15%。",
+                "2": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+18%、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+18%。",
+                "3": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+21%、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+21%。",
+                "4": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+24%、継続時間16秒、最大3層まで。3層の効果を持つ時、該当キャラクターの全元素ダメージ+24%。"
+            }
+        }
+    }
+}

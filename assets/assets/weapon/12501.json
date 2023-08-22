@@ -1,0 +1,141 @@
+{
+    "id": "12501",
+    "ENname": "Skyward Pride",
+    "CNname": "天空之傲",
+    "JAname": "天空の傲",
+    "imageurl": "images/weapon/12501.png",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "charge_efficiency": 0.08
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "charge_efficiency": 0.09296
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "charge_efficiency": 0.10904
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "charge_efficiency": 0.1252
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "charge_efficiency": 0.14135999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "charge_efficiency": 0.15752000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "charge_efficiency": 0.17368
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "charge_efficiency": 0.18984
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "charge_efficiency": 0.20600000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "charge_efficiency": 0.22216000000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "charge_efficiency": 0.23832
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "charge_efficiency": 0.25448
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "charge_efficiency": 0.27064
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "charge_efficiency": 0.2868
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "charge_efficiency": 0.30288
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "charge_efficiency": 0.31904
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "charge_efficiency": 0.33520000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "charge_efficiency": 0.35136000000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "charge_efficiency": 0.36752
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112501",
+            "name": "Sky-ripping Dragon Spine",
+            "upgrade": {
+                "0": "Increases all DMG by 8%. After using an Elemental Burst, a vacuum blade that does 80% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+                "1": "Increases all DMG by 10%. After using an Elemental Burst, a vacuum blade that does 100% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+                "2": "Increases all DMG by 12%. After using an Elemental Burst, a vacuum blade that does 120% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+                "3": "Increases all DMG by 14%. After using an Elemental Burst, a vacuum blade that does 140% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+                "4": "Increases all DMG by 16%. After using an Elemental Burst, a vacuum blade that does 160% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades."
+            }
+        },
+        "chs": {
+            "id": "112501",
+            "name": "斩裂晴空的龙脊",
+            "upgrade": {
+                "0": "造成的伤害提高8%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成80%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+                "1": "造成的伤害提高10%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成100%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+                "2": "造成的伤害提高12%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成120%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+                "3": "造成的伤害提高14%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成140%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+                "4": "造成的伤害提高16%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成160%攻击力的伤害，持续20秒或直至发出8次真空刃。"
+            }
+        },
+        "jp": {
+            "id": "112501",
+            "name": "晴れ空を裂く龍の骨",
+            "upgrade": {
+                "0": "与えるダメージ+8%。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の80%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+                "1": "与えるダメージ+10%。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の100%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+                "2": "与えるダメージ+12%。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の120%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+                "3": "与えるダメージ+14%。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の140%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+                "4": "与えるダメージ+16%。元素爆発を発動した後、通常攻撃と重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の160%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。"
+            }
+        }
+    }
+}

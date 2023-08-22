@@ -1,0 +1,141 @@
+{
+    "id": "11305",
+    "ENname": "Fillet Blade",
+    "CNname": "吃虎鱼刀",
+    "JAname": "チ虎魚の刀",
+    "imageurl": "images/weapon/11305.png",
+    "type": "sword",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "attack_percent": 0.0766
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "attack_percent": 0.0890092
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "attack_percent": 0.1044058
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "attack_percent": 0.119879
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "attack_percent": 0.1353522
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "attack_percent": 0.1508254
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "attack_percent": 0.1662986
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "attack_percent": 0.1817718
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "attack_percent": 0.197245
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "attack_percent": 0.21271820000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "attack_percent": 0.22819140000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "attack_percent": 0.2436646
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "attack_percent": 0.25913780000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "attack_percent": 0.274611
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "attack_percent": 0.29000760000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "attack_percent": 0.3054808
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "attack_percent": 0.320954
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "attack_percent": 0.33642720000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "attack_percent": 0.35190040000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111305",
+            "name": "Gash",
+            "upgrade": {
+                "0": "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s.",
+                "1": "On hit, has a 50% chance to deal 280% ATK DMG to a single opponent. Can only occur once every 14s.",
+                "2": "On hit, has a 50% chance to deal 320% ATK DMG to a single opponent. Can only occur once every 13s.",
+                "3": "On hit, has a 50% chance to deal 360% ATK DMG to a single opponent. Can only occur once every 12s.",
+                "4": "On hit, has a 50% chance to deal 400% ATK DMG to a single target. Can only occur once every 11s."
+            }
+        },
+        "chs": {
+            "id": "111305",
+            "name": "决",
+            "upgrade": {
+                "0": "攻击命中时，有50%的概率对单个敌人造成240%攻击力的伤害。该效果每15秒只能触发一次。",
+                "1": "攻击命中时，有50%的概率对单个敌人造成280%攻击力的伤害。该效果每14秒只能触发一次。",
+                "2": "攻击命中时，有50%的概率对单个敌人造成320%攻击力的伤害。该效果每13秒只能触发一次。",
+                "3": "攻击命中时，有50%的概率对单个敌人造成360%攻击力的伤害。该效果每12秒只能触发一次。",
+                "4": "攻击命中时，有50%的概率对单个敌人造成400%攻击力的伤害。该效果每11秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "111305",
+            "name": "切り捨て",
+            "upgrade": {
+                "0": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の240%のダメージを与える。15秒毎に1回のみ発動可能。",
+                "1": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の280%のダメージを与える。14秒毎に1回のみ発動可能。",
+                "2": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の320%のダメージを与える。13秒毎に1回のみ発動可能。",
+                "3": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の360%のダメージを与える。12秒毎に1回のみ発動可能。",
+                "4": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の400%のダメージを与える。11秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

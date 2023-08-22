@@ -1,0 +1,141 @@
+{
+    "id": "14402",
+    "ENname": "The Widsith",
+    "CNname": "流浪乐章",
+    "JAname": "流浪楽章",
+    "imageurl": "images/weapon/14402.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical_hurt": 0.12
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical_hurt": 0.13943999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical_hurt": 0.16355999999999998
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical_hurt": 0.1878
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical_hurt": 0.21203999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical_hurt": 0.23628
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical_hurt": 0.26052
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical_hurt": 0.28476
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical_hurt": 0.309
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical_hurt": 0.33324
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical_hurt": 0.35748
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical_hurt": 0.38172
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical_hurt": 0.40596
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical_hurt": 0.43019999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical_hurt": 0.45432
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical_hurt": 0.47856
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical_hurt": 0.5028
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical_hurt": 0.5270400000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical_hurt": 0.55128
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114402",
+            "name": "Debut",
+            "upgrade": {
+                "0": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
+                "1": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 75%. Aria: Increases all Elemental DMG by 60%. Interlude: Elemental Mastery is increased by 300.",
+                "2": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 90%. Aria: Increases all Elemental DMG by 72%. Interlude: Elemental Mastery is increased by 360.",
+                "3": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 105%. Aria: Increases all Elemental DMG by 84%. Interlude: Elemental Mastery is increased by 420.",
+                "4": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 120%. Aria: Increases all Elemental DMG by 96%. Interlude: Elemental Mastery is increased by 480."
+            }
+        },
+        "chs": {
+            "id": "114402",
+            "name": "登场乐",
+            "upgrade": {
+                "0": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升60%；咏叹调：全元素伤害提升48%;间奏曲：元素精通提升240。",
+                "1": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升75%；咏叹调：全元素伤害提升60%;间奏曲：元素精通提升300。",
+                "2": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升90%；咏叹调：全元素伤害提升72%;间奏曲：元素精通提升360。",
+                "3": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升105%；咏叹调：全元素伤害提升84%;间奏曲：元素精通提升420。",
+                "4": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升120%；咏叹调：全元素伤害提升96%;间奏曲：元素精通提升480。"
+            }
+        },
+        "jp": {
+            "id": "114402",
+            "name": "序曲",
+            "upgrade": {
+                "0": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+60%。詠唱：全元素ダメージ+48%。間奏曲：元素熟知+240。",
+                "1": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+75%。詠唱：全元素ダメージ+60%。間奏曲：元素熟知+300。",
+                "2": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+90%。詠唱：全元素ダメージ+72%。間奏曲：元素熟知+360。",
+                "3": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+105%。詠唱：全元素ダメージ+84%。間奏曲：元素熟知+420。",
+                "4": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+120%。詠唱：全元素ダメージ+96%。間奏曲：元素熟知+480。"
+            }
+        }
+    }
+}

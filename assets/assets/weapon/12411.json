@@ -1,0 +1,141 @@
+{
+    "id": "12411",
+    "ENname": "Snow-Tombed Starsilver",
+    "CNname": "雪葬的星银",
+    "JAname": "雪葬の星銀",
+    "imageurl": "images/weapon/12411.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "physical_add_hurt": 0.07507
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "physical_add_hurt": 0.08723133999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "physical_add_hurt": 0.10232041
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "physical_add_hurt": 0.11748455
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "physical_add_hurt": 0.13264868999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "physical_add_hurt": 0.14781283
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "physical_add_hurt": 0.16297696999999997
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "physical_add_hurt": 0.17814111000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "physical_add_hurt": 0.19330525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "physical_add_hurt": 0.20846939
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "physical_add_hurt": 0.22363353
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "physical_add_hurt": 0.23879767
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "physical_add_hurt": 0.25396181
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "physical_add_hurt": 0.26912595
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "physical_add_hurt": 0.28421502
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "physical_add_hurt": 0.29937916
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "physical_add_hurt": 0.3145433
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "physical_add_hurt": 0.32970744
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "physical_add_hurt": 0.34487158
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112411",
+            "name": "Frost Burial",
+            "upgrade": {
+                "0": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s.",
+                "1": "Hitting an opponent with Normal and Charged Attacks has a 70% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 95% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 240% of ATK. Can only occur once every 10s.",
+                "2": "Hitting an opponent with Normal and Charged Attacks has an 80% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 110% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 280% of ATK. Can only occur once every 10s.",
+                "3": "Hitting an opponent with Normal and Charged Attacks has a 90% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 125% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 320% of ATK. Can only occur once every 10s.",
+                "4": "Hitting an opponent with Normal and Charged Attacks has a 100% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 140% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 360% of ATK. Can only occur once every 10s."
+            }
+        },
+        "chs": {
+            "id": "112411",
+            "name": "霜葬",
+            "upgrade": {
+                "0": "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
+                "1": "普通攻击与重击命中敌人时，有70%概率在敌人上方生成恒冰晶核并坠落，造成95%攻击力的范围伤害。若敌人处于冰元素影响下，则造成240%攻击力的伤害。该效果每10秒至多触发一次。",
+                "2": "普通攻击与重击命中敌人时，有80%概率在敌人上方生成恒冰晶核并坠落，造成110%攻击力的范围伤害。若敌人处于冰元素影响下，则造成280%攻击力的伤害。该效果每10秒至多触发一次。",
+                "3": "普通攻击与重击命中敌人时，有90%概率在敌人上方生成恒冰晶核并坠落，造成125%攻击力的范围伤害。若敌人处于冰元素影响下，则造成320%攻击力的伤害。该效果每10秒至多触发一次。",
+                "4": "普通攻击与重击命中敌人时，有100%概率在敌人上方生成恒冰晶核并坠落，造成140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成360%攻击力的伤害。该效果每10秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112411",
+            "name": "霜の埋葬",
+            "upgrade": {
+                "0": "通常攻撃と重撃が敵に命中した時、60%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の80%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の200%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "1": "通常攻撃と重撃が敵に命中した時、70%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の95%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の240%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "2": "通常攻撃と重撃が敵に命中した時、80%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の110%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の280%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "3": "通常攻撃と重撃が敵に命中した時、90%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の125%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の320%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+                "4": "通常攻撃と重撃が敵に命中した時、100%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の140%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の360%のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

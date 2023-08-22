@@ -1,0 +1,141 @@
+{
+    "id": "12503",
+    "ENname": "Song of Broken Pines",
+    "CNname": "松籁响起之时",
+    "JAname": "松韻の響く頃",
+    "imageurl": "images/weapon/12503.png",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 49.1377,
+            "physical_add_hurt": 0.045
+        },
+        {
+            "level": "5",
+            "base_attack": 68.35054070000001,
+            "physical_add_hurt": 0.052289999999999996
+        },
+        {
+            "level": "10",
+            "base_attack": 93.1159415,
+            "physical_add_hurt": 0.061335
+        },
+        {
+            "level": "15",
+            "base_attack": 118.6675455,
+            "physical_add_hurt": 0.070425
+        },
+        {
+            "level": "20",
+            "base_attack": 144.9070773,
+            "physical_add_hurt": 0.07951499999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 171.6379861,
+            "physical_add_hurt": 0.088605
+        },
+        {
+            "level": "30",
+            "base_attack": 198.95854730000002,
+            "physical_add_hurt": 0.09769499999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 226.67221010000003,
+            "physical_add_hurt": 0.106785
+        },
+        {
+            "level": "40",
+            "base_attack": 285.92811220000004,
+            "physical_add_hurt": 0.115875
+        },
+        {
+            "level": "45",
+            "base_attack": 283.37711590000004,
+            "physical_add_hurt": 0.124965
+        },
+        {
+            "level": "50",
+            "base_attack": 374.4209458,
+            "physical_add_hurt": 0.134055
+        },
+        {
+            "level": "55",
+            "base_attack": 341.4578773,
+            "physical_add_hurt": 0.143145
+        },
+        {
+            "level": "60",
+            "base_attack": 464.389635,
+            "physical_add_hurt": 0.15223499999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 400.8162189,
+            "physical_add_hurt": 0.161325
+        },
+        {
+            "level": "70",
+            "base_attack": 555.3884913,
+            "physical_add_hurt": 0.17037
+        },
+        {
+            "level": "75",
+            "base_attack": 461.2555899,
+            "physical_add_hurt": 0.17945999999999998
+        },
+        {
+            "level": "80",
+            "base_attack": 647.5175247,
+            "physical_add_hurt": 0.18855000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 522.7759903,
+            "physical_add_hurt": 0.19764
+        },
+        {
+            "level": "90",
+            "base_attack": 740.5801544000001,
+            "physical_add_hurt": 0.20673
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112503",
+            "name": "Rebel's Banner-Hymn",
+            "upgrade": {
+                "0": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 16%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 12% and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "1": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 20%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 15% and increases ATK by 25%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "2": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 24%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 18% and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "3": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 28%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 21% and increases ATK by 35%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "4": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by 32%, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by 24% and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "chs": {
+            "id": "112503",
+            "name": "揭旗的叛逆之歌",
+            "upgrade": {
+                "0": "飘游风中的「千年的大乐章」的一部分。攻击力提高16%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高12%，攻击力提升20%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "1": "飘游风中的「千年的大乐章」的一部分。攻击力提高20%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高15%，攻击力提升25%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "2": "飘游风中的「千年的大乐章」的一部分。攻击力提高24%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高18%，攻击力提升30%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "3": "飘游风中的「千年的大乐章」的一部分。攻击力提高28%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高21%，攻击力提升35%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "4": "飘游风中的「千年的大乐章」的一部分。攻击力提高32%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高24%，攻击力提升40%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。"
+            }
+        },
+        "jp": {
+            "id": "112503",
+            "name": "反抗と旗掲げの歌",
+            "upgrade": {
+                "0": "風と共に流れる「千年の大楽章」の一部。攻撃力+16%。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+12%、攻撃力+20%。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "1": "風と共に流れる「千年の大楽章」の一部。攻撃力+20%。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+15%、攻撃力+25%。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "2": "風と共に流れる「千年の大楽章」の一部。攻撃力+24%。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+18%、攻撃力+30%。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "3": "風と共に流れる「千年の大楽章」の一部。攻撃力+28%。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+21%、攻撃力+35%。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "4": "風と共に流れる「千年の大楽章」の一部。攻撃力+32%。通常攻撃または重撃が敵に命中すると、囁きの欠片を1枚獲得する。この効果は0.3秒毎に1回のみ発動できる。囁きの欠片を4枚集めると、全ての囁きの欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·旗掲げの歌」効果を付与する：通常攻撃速度+24%、攻撃力+40%。発動後の20秒間、囁きの欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
+            }
+        }
+    }
+}

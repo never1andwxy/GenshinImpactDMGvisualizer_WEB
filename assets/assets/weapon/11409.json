@@ -1,0 +1,141 @@
+{
+    "id": "11409",
+    "ENname": "The Black Sword",
+    "CNname": "黑剑",
+    "JAname": "黒剣",
+    "imageurl": "images/weapon/11409.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111409",
+            "name": "Justice",
+            "upgrade": {
+                "0": "Increases DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+                "1": "Increases DMG dealt by Normal and Charged Attacks by 25%. Additionally, regenerates 70% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+                "2": "Increases DMG dealt by Normal and Charged Attacks by 30%. Additionally, regenerates 80% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+                "3": "Increases DMG dealt by Normal and Charged Attacks by 35%. Additionally, regenerates 90% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+                "4": "Increases DMG dealt by Normal and Charged Attacks by 40%. Additionally, regenerates 100% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+            }
+        },
+        "chs": {
+            "id": "111409",
+            "name": "「正义」",
+            "upgrade": {
+                "0": "普通攻击与重击的造成的伤害提升20%；此外，普通攻击与重击暴击时，回复等同于攻击力60%的生命值。该效果每5秒至多发动一次。",
+                "1": "普通攻击与重击的造成的伤害提升25%；此外，普通攻击与重击暴击时，回复等同于攻击力70%的生命值。该效果每5秒至多发动一次。",
+                "2": "普通攻击与重击的造成的伤害提升30%；此外，普通攻击与重击暴击时，回复等同于攻击力80%的生命值。该效果每5秒至多发动一次。",
+                "3": "普通攻击与重击的造成的伤害提升35%；此外，普通攻击与重击暴击时，回复等同于攻击力90%的生命值。该效果每5秒至多发动一次。",
+                "4": "普通攻击与重击的造成的伤害提升40%；此外，普通攻击与重击暴击时，回复等同于攻击力100%的生命值。该效果每5秒至多发动一次。"
+            }
+        },
+        "jp": {
+            "id": "111409",
+            "name": "「正義」",
+            "upgrade": {
+                "0": "通常攻撃と重撃ダメージ+20%。さらに通常攻撃と重撃が会心時、攻撃力の60%分のHPを回復する。5秒に1回のみ発動可能。",
+                "1": "通常攻撃と重撃ダメージ+25%。さらに通常攻撃と重撃が会心時、攻撃力の70%分のHPを回復する。5秒に1回のみ発動可能。",
+                "2": "通常攻撃と重撃ダメージ+30%。さらに通常攻撃と重撃が会心時、攻撃力の80%分のHPを回復する。5秒に1回のみ発動可能。",
+                "3": "通常攻撃と重撃ダメージ+35%。さらに通常攻撃と重撃が会心時、攻撃力の90%分のHPを回復する。5秒に1回のみ発動可能。",
+                "4": "通常攻撃と重撃ダメージ+40%。さらに通常攻撃と重撃が会心時、攻撃力の100%分のHPを回復する。5秒に1回のみ発動可能。"
+            }
+        }
+    }
+}

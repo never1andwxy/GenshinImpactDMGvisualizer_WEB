@@ -1,0 +1,141 @@
+{
+    "id": "15410",
+    "ENname": "Alley Hunter",
+    "CNname": "暗巷猎手",
+    "JAname": "ダークアレイの狩人",
+    "imageurl": "images/weapon/15410.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "attack_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "attack_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "attack_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "attack_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "attack_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "attack_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "attack_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "attack_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "attack_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "attack_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "attack_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "attack_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "attack_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "attack_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "attack_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "attack_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "attack_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "attack_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "attack_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115410",
+            "name": "Oppidan Ambush",
+            "upgrade": {
+                "0": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2% every second up to a max of 20%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 4% per second until it reaches 0%.",
+                "1": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2.5% every second up to a max of 25%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 5% per second until it reaches 0%.",
+                "2": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3% every second up to a max of 30%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 6% per second until it reaches 0%.",
+                "3": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3.5% every second up to a max of 35%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 7% per second until it reaches 0%.",
+                "4": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 4% every second up to a max of 40%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 8% per second until it reaches 0%."
+            }
+        },
+        "chs": {
+            "id": "115410",
+            "name": "街巷伏击",
+            "upgrade": {
+                "0": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2%，最多通过这种方式获得20%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失4%，直到降低至0%。",
+                "1": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2.5%，最多通过这种方式获得25%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失5%，直到降低至0%。",
+                "2": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升3%，最多通过这种方式获得30%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失6%，直到降低至0%。",
+                "3": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升3.5%，最多通过这种方式获得35%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失7%，直到降低至0%。",
+                "4": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升4%，最多通过这种方式获得40%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失8%，直到降低至0%。"
+            }
+        },
+        "jp": {
+            "id": "115410",
+            "name": "路地奇襲",
+            "upgrade": {
+                "0": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+2%。この方式で獲得できるダメージアップ効果は20%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に4%ダウンする。",
+                "1": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+2.5%。この方式で獲得できるダメージアップ効果は25%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に5%ダウンする。",
+                "2": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+3%。この方式で獲得できるダメージアップ効果は30%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に6%ダウンする。",
+                "3": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+3.5%。この方式で獲得できるダメージアップ効果は35%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に7%ダウンする。",
+                "4": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+4%。この方式で獲得できるダメージアップ効果は40%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に8%ダウンする。"
+            }
+        }
+    }
+}

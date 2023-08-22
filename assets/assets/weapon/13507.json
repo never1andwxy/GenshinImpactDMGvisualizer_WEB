@@ -1,0 +1,141 @@
+{
+    "id": "13507",
+    "ENname": "Calamity Queller",
+    "CNname": "息灾",
+    "JAname": "息災",
+    "imageurl": "images/weapon/13507.png",
+    "type": "polearm",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 49.1377,
+            "attack_percent": 0.036
+        },
+        {
+            "level": "5",
+            "base_attack": 68.35054070000001,
+            "attack_percent": 0.041831999999999994
+        },
+        {
+            "level": "10",
+            "base_attack": 93.1159415,
+            "attack_percent": 0.049067999999999994
+        },
+        {
+            "level": "15",
+            "base_attack": 118.6675455,
+            "attack_percent": 0.056339999999999994
+        },
+        {
+            "level": "20",
+            "base_attack": 144.9070773,
+            "attack_percent": 0.06361199999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 171.6379861,
+            "attack_percent": 0.070884
+        },
+        {
+            "level": "30",
+            "base_attack": 198.95854730000002,
+            "attack_percent": 0.07815599999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 226.67221010000003,
+            "attack_percent": 0.085428
+        },
+        {
+            "level": "40",
+            "base_attack": 285.92811220000004,
+            "attack_percent": 0.0927
+        },
+        {
+            "level": "45",
+            "base_attack": 283.37711590000004,
+            "attack_percent": 0.09997199999999999
+        },
+        {
+            "level": "50",
+            "base_attack": 374.4209458,
+            "attack_percent": 0.10724399999999999
+        },
+        {
+            "level": "55",
+            "base_attack": 341.4578773,
+            "attack_percent": 0.11451599999999999
+        },
+        {
+            "level": "60",
+            "base_attack": 464.389635,
+            "attack_percent": 0.121788
+        },
+        {
+            "level": "65",
+            "base_attack": 400.8162189,
+            "attack_percent": 0.12905999999999998
+        },
+        {
+            "level": "70",
+            "base_attack": 555.3884913,
+            "attack_percent": 0.136296
+        },
+        {
+            "level": "75",
+            "base_attack": 461.2555899,
+            "attack_percent": 0.143568
+        },
+        {
+            "level": "80",
+            "base_attack": 647.5175247,
+            "attack_percent": 0.15084
+        },
+        {
+            "level": "85",
+            "base_attack": 522.7759903,
+            "attack_percent": 0.158112
+        },
+        {
+            "level": "90",
+            "base_attack": 740.5801544000001,
+            "attack_percent": 0.165384
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113507",
+            "name": "Extinguishing Precept",
+            "upgrade": {
+                "0": "Gain 12% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 3.2% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+                "1": "Gain 15% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 4% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+                "2": "Gain 18% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 4.8% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+                "3": "Gain 21% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 5.6% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+                "4": "Gain 24% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 6.4% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+            }
+        },
+        "chs": {
+            "id": "113507",
+            "name": "灭却之戒法",
+            "upgrade": {
+                "0": "获得12%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升3.2%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+                "1": "获得15%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升4%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+                "2": "获得18%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升4.8%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+                "3": "获得21%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升5.6%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+                "4": "获得24%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升6.4%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。"
+            }
+        },
+        "jp": {
+            "id": "113507",
+            "name": "滅却の戒法",
+            "upgrade": {
+                "0": "全元素ダメージ+12%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が3.2%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の場合、「円頓」による攻撃力アップ効果は2倍になる。",
+                "1": "全元素ダメージ+15%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が4%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の場合、「円頓」による攻撃力アップ効果は2倍になる。",
+                "2": "全元素ダメージ+18%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が4.8%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の場合、「円頓」による攻撃力アップ効果は2倍になる。",
+                "3": "全元素ダメージ+21%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が5.6%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の場合、「円頓」による攻撃力アップ効果は2倍になる。",
+                "4": "全元素ダメージ+24%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が6.4%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の場合、「円頓」による攻撃力アップ効果は2倍になる。"
+            }
+        }
+    }
+}

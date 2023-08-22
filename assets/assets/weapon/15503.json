@@ -1,0 +1,141 @@
+{
+    "id": "15503",
+    "ENname": "Elegy for the End",
+    "CNname": "终末嗟叹之诗",
+    "JAname": "終焉を嘆く詩",
+    "imageurl": "images/weapon/15503.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "charge_efficiency": 0.12
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "charge_efficiency": 0.13943999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "charge_efficiency": 0.16355999999999998
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "charge_efficiency": 0.1878
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "charge_efficiency": 0.21203999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "charge_efficiency": 0.23628
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "charge_efficiency": 0.26052
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "charge_efficiency": 0.28476
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "charge_efficiency": 0.309
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "charge_efficiency": 0.33324
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "charge_efficiency": 0.35748
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "charge_efficiency": 0.38172
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "charge_efficiency": 0.40596
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "charge_efficiency": 0.43019999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "charge_efficiency": 0.45432
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "charge_efficiency": 0.47856
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "charge_efficiency": 0.5028
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "charge_efficiency": 0.5270400000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "charge_efficiency": 0.55128
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115503",
+            "name": "The Parting Refrain",
+            "upgrade": {
+                "0": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 60. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 100 and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "1": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 75. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 125 and increases ATK by 25%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "2": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 90. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 150 and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "3": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 105. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 175 and increases ATK by 35%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "4": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 120. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 200 and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "chs": {
+            "id": "115503",
+            "name": "别离的思念之歌",
+            "upgrade": {
+                "0": "飘游风中的「千年的大乐章」的一部分。元素精通提高60点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高100点，攻击力提升20%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "1": "飘游风中的「千年的大乐章」的一部分。元素精通提高75点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高125点，攻击力提升25%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "2": "飘游风中的「千年的大乐章」的一部分。元素精通提高90点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高150点，攻击力提升30%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "3": "飘游风中的「千年的大乐章」的一部分。元素精通提高105点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高175点，攻击力提升35%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "4": "飘游风中的「千年的大乐章」的一部分。元素精通提高120点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高200点，攻击力提升40%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。"
+            }
+        },
+        "jp": {
+            "id": "115503",
+            "name": "追憶と別れの歌",
+            "upgrade": {
+                "0": "風と共に流れる「千年の大楽章」の一部。元素熟知+60。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+100、攻撃力+20%。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "1": "風と共に流れる「千年の大楽章」の一部。元素熟知+75。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+125、攻撃力+25%。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "2": "風と共に流れる「千年の大楽章」の一部。元素熟知+90。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+150、攻撃力+30%。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "3": "風と共に流れる「千年の大楽章」の一部。元素熟知+105。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+175、攻撃力+35%。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "4": "風と共に流れる「千年の大楽章」の一部。元素熟知+120。元素スキルまたは元素爆発が敵に命中すると、追憶の欠片を1枚獲得する。この効果は0.2秒毎に一回のみ発動でき、キャラクターが待機中でも発動できる。追憶の欠片を4枚集めると、全ての追憶の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·別れの歌」効果を付与する：元素熟知+200、攻撃力+40%。発動後の20秒間、追憶の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
+            }
+        }
+    }
+}

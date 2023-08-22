@@ -1,0 +1,141 @@
+{
+    "id": "14304",
+    "ENname": "Emerald Orb",
+    "CNname": "翡玉法球",
+    "JAname": "翡玉法珠",
+    "imageurl": "images/weapon/14304.png",
+    "type": "catalyst",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "element_mastery": 20.4
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "element_mastery": 23.704799999999995
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "element_mastery": 27.8052
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "element_mastery": 31.926
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "element_mastery": 36.0468
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "element_mastery": 40.1676
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "element_mastery": 44.288399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "element_mastery": 48.4092
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "element_mastery": 52.53
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "element_mastery": 56.6508
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "element_mastery": 60.7716
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "element_mastery": 64.8924
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "element_mastery": 69.0132
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "element_mastery": 73.134
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "element_mastery": 77.2344
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "element_mastery": 81.3552
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "element_mastery": 85.476
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "element_mastery": 89.5968
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "element_mastery": 93.7176
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114304",
+            "name": "Rapids",
+            "upgrade": {
+                "0": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 20% for 12s.",
+                "1": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 25% for 12s.",
+                "2": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 30% for 12s.",
+                "3": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 35% for 12s.",
+                "4": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 40% for 12s."
+            }
+        },
+        "chs": {
+            "id": "114304",
+            "name": "激流",
+            "upgrade": {
+                "0": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高20%。",
+                "1": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高25%。",
+                "2": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高30%。",
+                "3": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高35%。",
+                "4": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高40%。"
+            }
+        },
+        "jp": {
+            "id": "114304",
+            "name": "激流",
+            "upgrade": {
+                "0": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+20%。",
+                "1": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+25%。",
+                "2": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+30%。",
+                "3": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+35%。",
+                "4": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+40%。"
+            }
+        }
+    }
+}

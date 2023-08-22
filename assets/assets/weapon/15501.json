@@ -1,0 +1,141 @@
+{
+    "id": "15501",
+    "ENname": "Skyward Harp",
+    "CNname": "天空之翼",
+    "JAname": "天空の翼",
+    "imageurl": "images/weapon/15501.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical": 0.048
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical": 0.055776
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical": 0.065424
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical": 0.07511999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical": 0.084816
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical": 0.09451200000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical": 0.104208
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical": 0.11390400000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "critical": 0.12360000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical": 0.133296
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "critical": 0.142992
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical": 0.15268800000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "critical": 0.162384
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical": 0.17208
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "critical": 0.181728
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical": 0.191424
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "critical": 0.20112000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical": 0.21081600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "critical": 0.220512
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115501",
+            "name": "Echoing Ballad",
+            "upgrade": {
+                "0": "Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.",
+                "1": "Increases CRIT DMG by 25%. Hits have a 70% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3.5s.",
+                "2": "Increases CRIT DMG by 30%. Hits have a 80% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3s.",
+                "3": "Increases CRIT DMG by 35%. Hits have a 90% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2.5s.",
+                "4": "Increases CRIT DMG by 40%. Hits have a 100% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2s."
+            }
+        },
+        "chs": {
+            "id": "115501",
+            "name": "回响长天的诗歌",
+            "upgrade": {
+                "0": "暴击伤害提高20%；攻击命中时有60%概率造成125%攻击力的小范围物理伤害，该效果每4秒只能触发一次。",
+                "1": "暴击伤害提高25%；攻击命中时有70%概率造成125%攻击力的小范围物理伤害，该效果每3.5秒只能触发一次。",
+                "2": "暴击伤害提高30%；攻击命中时有80%概率造成125%攻击力的小范围物理伤害，该效果每3秒只能触发一次。",
+                "3": "暴击伤害提高35%；攻击命中时有90%概率造成125%攻击力的小范围物理伤害，该效果每2.5秒只能触发一次。",
+                "4": "暴击伤害提高40%；攻击命中时有100%概率造成125%攻击力的小范围物理伤害，该效果每2秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "115501",
+            "name": "天に響く詩",
+            "upgrade": {
+                "0": "会心ダメージ+20%。攻撃が命中した時、60%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。4秒毎に1回のみ発動可能。",
+                "1": "会心ダメージ+25%。攻撃が命中した時、70%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。3.5秒毎に1回のみ発動可能。",
+                "2": "会心ダメージ+30%。攻撃が命中した時、80%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。3秒毎に1回のみ発動可能。",
+                "3": "会心ダメージ+35%。攻撃が命中した時、90%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。2.5秒毎に1回のみ発動可能。",
+                "4": "会心ダメージ+40%。攻撃が命中した時、100%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。2秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

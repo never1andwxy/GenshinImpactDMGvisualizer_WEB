@@ -1,0 +1,141 @@
+{
+    "id": "14505",
+    "ENname": "Jadefall's Splendor",
+    "CNname": "碧落之珑",
+    "JAname": "碧落の瓏",
+    "imageurl": "images/weapon/14505.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "hp_percent": 0.108
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "hp_percent": 0.125496
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "hp_percent": 0.147204
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "hp_percent": 0.16902
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "hp_percent": 0.19083599999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "hp_percent": 0.212652
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "hp_percent": 0.23446799999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "hp_percent": 0.256284
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "hp_percent": 0.2781
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "hp_percent": 0.299916
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "hp_percent": 0.321732
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "hp_percent": 0.343548
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "hp_percent": 0.365364
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "hp_percent": 0.38717999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "hp_percent": 0.408888
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "hp_percent": 0.430704
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "hp_percent": 0.45252000000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "hp_percent": 0.47433600000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "hp_percent": 0.49615200000000004
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114505",
+            "name": "Primordial Jade Regalia",
+            "upgrade": {
+                "0": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 4.5 Energy every 2.5s, and gain 0.3% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 12%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+                "1": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 5 Energy every 2.5s, and gain 0.5% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 20%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+                "2": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 5.5 Energy every 2.5s, and gain 0.7% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 28%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+                "3": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 6 Energy every 2.5s, and gain 0.9% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 36%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+                "4": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 6.5 Energy every 2.5s, and gain 1.1% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 44%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field."
+            }
+        },
+        "chs": {
+            "id": "114505",
+            "name": "定土玉圭",
+            "upgrade": {
+                "0": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复4.5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.3%，至多提高12%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
+                "1": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.5%，至多提高20%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
+                "2": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复5.5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.7%，至多提高28%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
+                "3": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复6点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.9%，至多提高36%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
+                "4": "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复6.5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高1.1%，至多提高44%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。"
+            }
+        },
+        "jp": {
+            "id": "114505",
+            "name": "定土玉圭",
+            "upgrade": {
+                "0": "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを4.5回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+0.3%、最大+12%まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。",
+                "1": "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを5回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+0.5%、最大+20%まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。",
+                "2": "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを5.5回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+0.7%、最大+28%まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。",
+                "3": "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを6回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+0.9%、最大+36%まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。",
+                "4": "元素爆発を発動、またはシールドを生成した後の3秒間、「定土玉圭」効果を獲得する。2.5秒毎に元素エネルギーを6.5回復し、さらに装備者のHP上限に基づき、1000ごとに自身元素タイプの元素ダメージ+1.1%、最大+44%まで。装備したキャラクターが待機している場合にも、「定土玉圭」効果を発動できる。"
+            }
+        }
+    }
+}

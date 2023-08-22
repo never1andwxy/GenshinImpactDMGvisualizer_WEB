@@ -1,0 +1,141 @@
+{
+    "id": "14512",
+    "ENname": "Tulaytullah's Remembrance",
+    "CNname": "图莱杜拉的回忆",
+    "JAname": "トゥライトゥーラの記憶",
+    "imageurl": "images/weapon/14512.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical_hurt": 0.096
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical_hurt": 0.111552
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical_hurt": 0.130848
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical_hurt": 0.15023999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical_hurt": 0.169632
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical_hurt": 0.18902400000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical_hurt": 0.208416
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical_hurt": 0.22780800000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "critical_hurt": 0.24720000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical_hurt": 0.266592
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "critical_hurt": 0.285984
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical_hurt": 0.30537600000000004
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "critical_hurt": 0.324768
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical_hurt": 0.34416
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "critical_hurt": 0.363456
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical_hurt": 0.382848
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "critical_hurt": 0.40224000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical_hurt": 0.42163200000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "critical_hurt": 0.441024
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114512",
+            "name": "Bygone Azure Teardrop",
+            "upgrade": {
+                "0": "Normal Attack SPD is increased by 10%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 4.8% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 48%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
+                "1": "Normal Attack SPD is increased by 12.5%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 6% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 12%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 60%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
+                "2": "Normal Attack SPD is increased by 15%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 7.2% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 14.4%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 72%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
+                "3": "Normal Attack SPD is increased by 17.5%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 8.4% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 16.8%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 84%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
+                "4": "Normal Attack SPD is increased by 20%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 9.6% every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 19.2%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 96%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs."
+            }
+        },
+        "chs": {
+            "id": "114512",
+            "name": "堙没的蓝宝石泪滴",
+            "upgrade": {
+                "0": "普通攻击速度提升10%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升4.8%；普通攻击命中敌人后，普通攻击造成的伤害提升9.6%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至48%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
+                "1": "普通攻击速度提升12.5%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升6%；普通攻击命中敌人后，普通攻击造成的伤害提升12%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至60%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
+                "2": "普通攻击速度提升15%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升7.2%；普通攻击命中敌人后，普通攻击造成的伤害提升14.4%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至72%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
+                "3": "普通攻击速度提升17.5%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升8.4%；普通攻击命中敌人后，普通攻击造成的伤害提升16.8%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至84%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
+                "4": "普通攻击速度提升20%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升9.6%；普通攻击命中敌人后，普通攻击造成的伤害提升19.2%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至96%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。"
+            }
+        },
+        "jp": {
+            "id": "114512",
+            "name": "埋もれしサファイアの涙",
+            "upgrade": {
+                "0": "通常攻撃の攻撃速度+10%。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+4.8%。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+9.6%、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大48%まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。",
+                "1": "通常攻撃の攻撃速度+12.5%。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+6%。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+12%、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大60%まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。",
+                "2": "通常攻撃の攻撃速度+15%。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+7.2%。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+14.4%、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大72%まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。",
+                "3": "通常攻撃の攻撃速度+17.5%。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+8.4%。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+16.8%、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大84%まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。",
+                "4": "通常攻撃の攻撃速度+20%。元素スキルを発動した後の14秒間、下記の二つの効果を発動する。1秒毎に通常攻撃の与えるダメージ+9.6%。通常攻撃が敵に命中するたびに、通常攻撃の与えるダメージがさらに+19.2%、この効果は0.3秒毎に1回のみ発動可能。効果継続時間中、これらの方法を通じてアップできる通常攻撃のダメージは最大96%まで。キャラクターが退場する時、該当効果が解除される。また、再び元素スキルを発動すると、既存の効果はリセットされる。"
+            }
+        }
+    }
+}

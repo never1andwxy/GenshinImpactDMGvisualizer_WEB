@@ -1,0 +1,141 @@
+{
+    "id": "13511",
+    "ENname": "Staff of the Scarlet Sands",
+    "CNname": "赤沙之杖",
+    "JAname": "赤砂の杖",
+    "imageurl": "images/weapon/13511.png",
+    "type": "polearm",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "critical": 0.096
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "critical": 0.111552
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "critical": 0.130848
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "critical": 0.15023999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "critical": 0.169632
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "critical": 0.18902400000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "critical": 0.208416
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "critical": 0.22780800000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "critical": 0.24720000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "critical": 0.266592
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "critical": 0.285984
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "critical": 0.30537600000000004
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "critical": 0.324768
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "critical": 0.34416
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "critical": 0.363456
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "critical": 0.382848
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "critical": 0.40224000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "critical": 0.42163200000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "critical": 0.441024
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113511",
+            "name": "Heat Haze at Horizon's End",
+            "upgrade": {
+                "0": "The equipping character gains 52% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 28% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+                "1": "The equipping character gains 65% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 35% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+                "2": "The equipping character gains 78% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 42% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+                "3": "The equipping character gains 91% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 49% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+                "4": "The equipping character gains 104% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 56% of their Elemental Mastery as bonus ATK. Max 3 stacks."
+            }
+        },
+        "chs": {
+            "id": "113511",
+            "name": "蜃气尽头的热梦",
+            "upgrade": {
+                "0": "基于装备者元素精通的52%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的28%，获得攻击力加成，该效果至多叠加3层。",
+                "1": "基于装备者元素精通的65%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的35%，获得攻击力加成，该效果至多叠加3层。",
+                "2": "基于装备者元素精通的78%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的42%，获得攻击力加成，该效果至多叠加3层。",
+                "3": "基于装备者元素精通的91%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的49%，获得攻击力加成，该效果至多叠加3层。",
+                "4": "基于装备者元素精通的104%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的56%，获得攻击力加成，该效果至多叠加3层。"
+            }
+        },
+        "jp": {
+            "id": "113511",
+            "name": "蜃気楼の果ての熱夢",
+            "upgrade": {
+                "0": "装備したキャラクターの元素熟知の52%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の28%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+                "1": "装備したキャラクターの元素熟知の65%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の35%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+                "2": "装備したキャラクターの元素熟知の78%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の42%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+                "3": "装備したキャラクターの元素熟知の91%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の49%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+                "4": "装備したキャラクターの元素熟知の104%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の56%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。"
+            }
+        }
+    }
+}

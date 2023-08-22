@@ -1,0 +1,141 @@
+{
+    "id": "14305",
+    "ENname": "Twin Nephrite",
+    "CNname": "甲级宝珏",
+    "JAname": "特級の宝玉",
+    "imageurl": "images/weapon/14305.png",
+    "type": "catalyst",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 39.8751,
+            "critical": 0.034
+        },
+        {
+            "level": "5",
+            "base_attack": 52.8345075,
+            "critical": 0.039508
+        },
+        {
+            "level": "10",
+            "base_attack": 69.1434234,
+            "critical": 0.046342
+        },
+        {
+            "level": "15",
+            "base_attack": 85.53208950000001,
+            "critical": 0.05321
+        },
+        {
+            "level": "20",
+            "base_attack": 101.96063070000001,
+            "critical": 0.060078
+        },
+        {
+            "level": "25",
+            "base_attack": 118.38917190000001,
+            "critical": 0.066946
+        },
+        {
+            "level": "30",
+            "base_attack": 134.8575882,
+            "critical": 0.073814
+        },
+        {
+            "level": "35",
+            "base_attack": 151.28612940000002,
+            "critical": 0.08068200000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 187.21467060000003,
+            "critical": 0.08755000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 184.14321180000002,
+            "critical": 0.09441800000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 239.47175300000004,
+            "critical": 0.10128600000000001
+        },
+        {
+            "level": "55",
+            "base_attack": 216.96041910000002,
+            "critical": 0.10815400000000001
+        },
+        {
+            "level": "60",
+            "base_attack": 291.7490852,
+            "critical": 0.11502200000000001
+        },
+        {
+            "level": "65",
+            "base_attack": 249.6978762,
+            "critical": 0.12189000000000001
+        },
+        {
+            "level": "70",
+            "base_attack": 343.88654230000003,
+            "critical": 0.128724
+        },
+        {
+            "level": "75",
+            "base_attack": 282.4353333,
+            "critical": 0.13559200000000002
+        },
+        {
+            "level": "80",
+            "base_attack": 396.08412430000004,
+            "critical": 0.14246000000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 315.1727904,
+            "critical": 0.14932800000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 448.2215814,
+            "critical": 0.15619600000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114305",
+            "name": "Guerilla Tactics",
+            "upgrade": {
+                "0": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s.",
+                "1": "Defeating an opponent increases Movement SPD and ATK by 14% for 15s.",
+                "2": "Defeating an opponent increases Movement SPD and ATK by 16% for 15s.",
+                "3": "Defeating an opponent increases Movement SPD and ATK by 18% for 15s.",
+                "4": "Defeating an opponent increases Movement SPD and ATK by 20% for 15s."
+            }
+        },
+        "chs": {
+            "id": "114305",
+            "name": "奔袭战术",
+            "upgrade": {
+                "0": "击败敌人后的15秒内，移动速度和攻击力提升12%。",
+                "1": "击败敌人后的15秒内，移动速度和攻击力提升14%。",
+                "2": "击败敌人后的15秒内，移动速度和攻击力提升16%。",
+                "3": "击败敌人后的15秒内，移动速度和攻击力提升18%。",
+                "4": "击败敌人后的15秒内，移动速度和攻击力提升20%。"
+            }
+        },
+        "jp": {
+            "id": "114305",
+            "name": "襲撃戦術",
+            "upgrade": {
+                "0": "敵を倒した後15秒間、移動速度と攻撃力+12%。",
+                "1": "敵を倒した後15秒間、移動速度と攻撃力+14%。",
+                "2": "敵を倒した後15秒間、移動速度と攻撃力+16%。",
+                "3": "敵を倒した後15秒間、移動速度と攻撃力+18%。",
+                "4": "敵を倒した後15秒間、移動速度と攻撃力+20%。"
+            }
+        }
+    }
+}

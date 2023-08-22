@@ -1,0 +1,141 @@
+{
+    "id": "14414",
+    "ENname": "Hakushin Ring",
+    "CNname": "白辰之环",
+    "JAname": "白辰の輪",
+    "imageurl": "images/weapon/14414.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114414",
+            "name": "Sakura Saiguu",
+            "upgrade": {
+                "0": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 10% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+                "1": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 12.5% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+                "2": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 15% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+                "3": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 17.5% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+                "4": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 20% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+            }
+        },
+        "chs": {
+            "id": "114414",
+            "name": "樱之斋宫",
+            "upgrade": {
+                "0": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得10%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+                "1": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得12.5%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+                "2": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得15%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+                "3": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得17.5%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+                "4": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得20%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。"
+            }
+        },
+        "jp": {
+            "id": "114414",
+            "name": "櫻の斎宮",
+            "upgrade": {
+                "0": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+10%、継続時間6秒。この方式で獲得する元素ダメージアップ効果は重ね掛けできない。",
+                "1": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+12.5%、継続時間6秒。この方式で獲得する元素ダメージアップ効果は重ね掛けできない。",
+                "2": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+15%、継続時間6秒。この方式で獲得する元素ダメージアップ効果は重ね掛けできない。",
+                "3": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+17.5%、継続時間6秒。この方式で獲得する元素ダメージアップ効果は重ね掛けできない。",
+                "4": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+20%、継続時間6秒。この方式で獲得する元素ダメージアップ効果は重ね掛けできない。"
+            }
+        }
+    }
+}

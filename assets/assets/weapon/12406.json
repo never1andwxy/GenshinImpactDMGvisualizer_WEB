@@ -1,0 +1,141 @@
+{
+    "id": "12406",
+    "ENname": "Prototype Archaic",
+    "CNname": "试作古华",
+    "JAname": "古華·試作",
+    "imageurl": "images/weapon/12406.png",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "attack_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "attack_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "attack_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "attack_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "attack_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "attack_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "attack_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "attack_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "attack_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "attack_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "attack_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "attack_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "attack_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "attack_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "attack_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "attack_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "attack_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "attack_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "attack_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112406",
+            "name": "Crush",
+            "upgrade": {
+                "0": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+                "1": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 300% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+                "2": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 360% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+                "3": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 420% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+                "4": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 480% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+            }
+        },
+        "chs": {
+            "id": "112406",
+            "name": "粉碎",
+            "upgrade": {
+                "0": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成240%攻击力的额外伤害。该效果每15秒只能触发一次。",
+                "1": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成300%攻击力的额外伤害。该效果每15秒只能触发一次。",
+                "2": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成360%攻击力的额外伤害。该效果每15秒只能触发一次。",
+                "3": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成420%攻击力的额外伤害。该效果每15秒只能触发一次。",
+                "4": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成480%攻击力的额外伤害。该效果每15秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112406",
+            "name": "粉砕",
+            "upgrade": {
+                "0": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の240%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+                "1": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の300%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+                "2": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の360%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+                "3": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の420%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+                "4": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の480%の追加ダメージを与える。15秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

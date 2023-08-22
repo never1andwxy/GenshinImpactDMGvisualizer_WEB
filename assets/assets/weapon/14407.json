@@ -1,0 +1,141 @@
+{
+    "id": "14407",
+    "ENname": "Mappa Mare",
+    "CNname": "万国诸海图谱",
+    "JAname": "万国諸海の図譜",
+    "imageurl": "images/weapon/14407.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "element_mastery": 24
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "element_mastery": 27.887999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "element_mastery": 32.712
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "element_mastery": 37.56
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "element_mastery": 42.408
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "element_mastery": 47.256
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "element_mastery": 52.104
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "element_mastery": 56.952000000000005
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "element_mastery": 61.800000000000004
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "element_mastery": 66.648
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "element_mastery": 71.49600000000001
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "element_mastery": 76.344
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "element_mastery": 81.19200000000001
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "element_mastery": 86.03999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "element_mastery": 90.864
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "element_mastery": 95.712
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "element_mastery": 100.56
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "element_mastery": 105.40800000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "element_mastery": 110.256
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114407",
+            "name": "Infusion Scroll",
+            "upgrade": {
+                "0": "Triggering an Elemental reaction grants a 8% Elemental DMG Bonus for 10s. Max 2 stacks.",
+                "1": "Triggering an Elemental reaction grants a 10% Elemental DMG Bonus for 10s. Max 2 stacks.",
+                "2": "Triggering an Elemental reaction grants a 12% Elemental DMG Bonus for 10s. Max 2 stacks.",
+                "3": "Triggering an Elemental reaction grants a 14% Elemental DMG Bonus for 10s. Max 2 stacks.",
+                "4": "Triggering an Elemental reaction grants a 16% Elemental DMG Bonus for 10s. Max 2 stacks."
+            }
+        },
+        "chs": {
+            "id": "114407",
+            "name": "注能之卷",
+            "upgrade": {
+                "0": "触发元素反应后的10秒内，获得8%元素伤害加成，该效果最多可以叠加2层。",
+                "1": "触发元素反应后的10秒内，获得10%元素伤害加成，该效果最多可以叠加2层。",
+                "2": "触发元素反应后的10秒内，获得12%元素伤害加成，该效果最多可以叠加2层。",
+                "3": "触发元素反应后的10秒内，获得14%元素伤害加成，该效果最多可以叠加2层。",
+                "4": "触发元素反应后的10秒内，获得16%元素伤害加成，该效果最多可以叠加2层。"
+            }
+        },
+        "jp": {
+            "id": "114407",
+            "name": "注入の巻",
+            "upgrade": {
+                "0": "元素反応を起こした後、元素ダメージ+8%、継続時間10秒、最大2重まで。",
+                "1": "元素反応を起こした後、元素ダメージ+10%、継続時間10秒、最大2重まで。",
+                "2": "元素反応を起こした後、元素ダメージ+12%、継続時間10秒、最大2重まで。",
+                "3": "元素反応を起こした後、元素ダメージ+14%、継続時間10秒、最大2重まで。",
+                "4": "元素反応を起こした後、元素ダメージ+16%、継続時間10秒、最大2重まで。"
+            }
+        }
+    }
+}

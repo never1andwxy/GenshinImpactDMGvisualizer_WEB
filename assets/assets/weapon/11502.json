@@ -1,0 +1,141 @@
+{
+    "id": "11502",
+    "ENname": "Skyward Blade",
+    "CNname": "天空之刃",
+    "JAname": "天空の刃",
+    "imageurl": "images/weapon/11502.png",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "charge_efficiency": 0.12
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "charge_efficiency": 0.13943999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "charge_efficiency": 0.16355999999999998
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "charge_efficiency": 0.1878
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "charge_efficiency": 0.21203999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "charge_efficiency": 0.23628
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "charge_efficiency": 0.26052
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "charge_efficiency": 0.28476
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "charge_efficiency": 0.309
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "charge_efficiency": 0.33324
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "charge_efficiency": 0.35748
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "charge_efficiency": 0.38172
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "charge_efficiency": 0.40596
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "charge_efficiency": 0.43019999999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "charge_efficiency": 0.45432
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "charge_efficiency": 0.47856
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "charge_efficiency": 0.5028
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "charge_efficiency": 0.5270400000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "charge_efficiency": 0.55128
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111502",
+            "name": "Sky-Piercing Fang",
+            "upgrade": {
+                "0": "CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 20% of ATK. Skypiercing Might lasts for 12s.",
+                "1": "CRIT Rate increased by 5%, Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 25% of ATK. Skypiercing Might lasts for 12s.",
+                "2": "CRIT Rate increased by 6%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 30% of ATK. Skypiercing Might lasts for 12s.",
+                "3": "CRIT Rate increased by 7%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 35% of ATK. Skypiercing Might lasts for 12s.",
+                "4": "CRIT Rate increased by 8%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 40% of ATK. Skypiercing Might lasts for 12s."
+            }
+        },
+        "chs": {
+            "id": "111502",
+            "name": "穿刺高天的利齿",
+            "upgrade": {
+                "0": "暴击率提升4%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成20%攻击力的伤害，持续12秒。",
+                "1": "暴击率提升5%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成25%攻击力的伤害，持续12秒。",
+                "2": "暴击率提升6%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成30%攻击力的伤害，持续12秒。",
+                "3": "暴击率提升7%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成35%攻击力的伤害，持续12秒。",
+                "4": "暴击率提升8%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成40%攻击力的伤害，持续12秒。"
+            }
+        },
+        "jp": {
+            "id": "111502",
+            "name": "高天を貫く牙",
+            "upgrade": {
+                "0": "会心率+4%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃と重撃が命中する際に、攻撃力の20%の追加ダメージを与える、継続時間12秒。",
+                "1": "会心率+5%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃と重撃が命中する際に、攻撃力の25%の追加ダメージを与える、継続時間12秒。",
+                "2": "会心率+6%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃と重撃が命中する際に、攻撃力の30%の追加ダメージを与える、継続時間12秒。",
+                "3": "会心率+7%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃と重撃が命中する際に、攻撃力の35%の追加ダメージを与える、継続時間12秒。",
+                "4": "会心率+8%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃と重撃が命中する際に、攻撃力の40%の追加ダメージを与える、継続時間12秒。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "15403",
+    "ENname": "Sacrificial Bow",
+    "CNname": "祭礼弓",
+    "JAname": "祭礼の弓",
+    "imageurl": "images/weapon/15403.png",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115403",
+            "name": "Composed",
+            "upgrade": {
+                "0": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+                "1": "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s.",
+                "2": "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
+                "3": "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s.",
+                "4": "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s."
+            }
+        },
+        "chs": {
+            "id": "115403",
+            "name": "气定神闲",
+            "upgrade": {
+                "0": "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
+                "1": "元素战技造成伤害时，有50%的概率重置该技能的冷却时间，该效果每26秒只能触发一次。",
+                "2": "元素战技造成伤害时，有60%的概率重置该技能的冷却时间，该效果每22秒只能触发一次。",
+                "3": "元素战技造成伤害时，有70%的概率重置该技能的冷却时间，该效果每19秒只能触发一次。",
+                "4": "元素战技造成伤害时，有80%的概率重置该技能的冷却时间，该效果每16秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "115403",
+            "name": "落ち着き",
+            "upgrade": {
+                "0": "元素スキルが敵にダメージを与えた時、40%の確率で該当スキルのクールタイムをリセットする。30秒毎に1回のみ発動可能。",
+                "1": "元素スキルが敵にダメージを与えた時、50%の確率で該当スキルのクールタイムをリセットする。26秒毎に1回のみ発動可能。",
+                "2": "元素スキルが敵にダメージを与えた時、60%の確率で該当スキルのクールタイムをリセットする。22秒毎に1回のみ発動可能。",
+                "3": "元素スキルが敵にダメージを与えた時、70%の確率で該当スキルのクールタイムをリセットする。19秒毎に1回のみ発動可能。",
+                "4": "元素スキルが敵にダメージを与えた時、80%の確率で該当スキルのクールタイムをリセットする。16秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

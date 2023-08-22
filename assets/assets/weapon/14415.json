@@ -1,0 +1,141 @@
+{
+    "id": "14415",
+    "ENname": "Oathsworn Eye",
+    "CNname": "证誓之明瞳",
+    "JAname": "誓いの明瞳",
+    "imageurl": "images/weapon/14415.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "attack_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "attack_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "attack_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "attack_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "attack_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "attack_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "attack_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "attack_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "attack_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "attack_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "attack_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "attack_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "attack_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "attack_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "attack_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "attack_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "attack_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "attack_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "attack_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114415",
+            "name": "People of the Faltering Light",
+            "upgrade": {
+                "0": "Increases Energy Recharge by 24% for 10s after using an Elemental Skill.",
+                "1": "Increases Energy Recharge by 30% for 10s after using an Elemental Skill.",
+                "2": "Increases Energy Recharge by 36% for 10s after using an Elemental Skill.",
+                "3": "Increases Energy Recharge by 42% for 10s after using an Elemental Skill.",
+                "4": "Increases Energy Recharge by 48% for 10s after using an Elemental Skill."
+            }
+        },
+        "chs": {
+            "id": "114415",
+            "name": "微光的海渊民",
+            "upgrade": {
+                "0": "施放元素战技后，元素充能效率提升24%，持续10秒。",
+                "1": "施放元素战技后，元素充能效率提升30%，持续10秒。",
+                "2": "施放元素战技后，元素充能效率提升36%，持续10秒。",
+                "3": "施放元素战技后，元素充能效率提升42%，持续10秒。",
+                "4": "施放元素战技后，元素充能效率提升48%，持续10秒。"
+            }
+        },
+        "jp": {
+            "id": "114415",
+            "name": "淡く光りし海淵の民",
+            "upgrade": {
+                "0": "元素スキルを発動すると、元素チャージ効率+24%、継続時間10秒。",
+                "1": "元素スキルを発動すると、元素チャージ効率+30%、継続時間10秒。",
+                "2": "元素スキルを発動すると、元素チャージ効率+36%、継続時間10秒。",
+                "3": "元素スキルを発動すると、元素チャージ効率+42%、継続時間10秒。",
+                "4": "元素スキルを発動すると、元素チャージ効率+48%、継続時間10秒。"
+            }
+        }
+    }
+}

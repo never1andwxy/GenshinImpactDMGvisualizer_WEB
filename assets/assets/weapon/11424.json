@@ -1,0 +1,141 @@
+{
+    "id": "11424",
+    "ENname": "Wolf-Fang",
+    "CNname": "狼牙",
+    "JAname": "狼牙",
+    "imageurl": "images/weapon/11424.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "critical": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "critical": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "critical": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "critical": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "critical": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "critical": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "critical": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "critical": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "critical": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "critical": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "critical": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "critical": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "critical": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "critical": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "critical": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "critical": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "critical": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "critical": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "critical": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111424",
+            "name": "",
+            "upgrade": {
+                "0": "DMG dealt by Elemental Skill and Elemental Burst is increased by 16%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+                "1": "DMG dealt by Elemental Skill and Elemental Burst is increased by 20%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2.5%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2.5%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+                "2": "DMG dealt by Elemental Skill and Elemental Burst is increased by 24%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 3%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 3%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+                "3": "DMG dealt by Elemental Skill and Elemental Burst will be increased by 28%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 3.5%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 3.5%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+                "4": "DMG dealt by Elemental Skill and Elemental Burst is increased by 32%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 4%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 4%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s."
+            }
+        },
+        "chs": {
+            "id": "111424",
+            "name": "苍狼北风",
+            "upgrade": {
+                "0": "元素战技与元素爆发造成的伤害提升16%。元素战技命中敌人时，元素战技的暴击率提升2%；元素爆发命中敌人时，元素爆发的暴击率提升2%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
+                "1": "元素战技与元素爆发造成的伤害提升20%。元素战技命中敌人时，元素战技的暴击率提升2.5%；元素爆发命中敌人时，元素爆发的暴击率提升2.5%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
+                "2": "元素战技与元素爆发造成的伤害提升24%。元素战技命中敌人时，元素战技的暴击率提升3%；元素爆发命中敌人时，元素爆发的暴击率提升3%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
+                "3": "元素战技与元素爆发造成的伤害提升28%。元素战技命中敌人时，元素战技的暴击率提升3.5%；元素爆发命中敌人时，元素爆发的暴击率提升3.5%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
+                "4": "元素战技与元素爆发造成的伤害提升32%。元素战技命中敌人时，元素战技的暴击率提升4%；元素爆发命中敌人时，元素爆发的暴击率提升4%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "111424",
+            "name": "",
+            "upgrade": {
+                "0": "元素スキルと元素爆発のダメージ+16%。元素スキルが敵に命中した時、元素スキルの会心率+2%。元素爆発が敵に命中した時、元素爆発の会心率+2%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
+                "1": "元素スキルと元素爆発のダメージ+20%。元素スキルが敵に命中した時、元素スキルの会心率+2.5%。元素爆発が敵に命中した時、元素爆発の会心率+2.5%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
+                "2": "元素スキルと元素爆発のダメージ+24%。元素スキルが敵に命中した時、元素スキルの会心率+3%。元素爆発が敵に命中した時、元素爆発の会心率+3%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
+                "3": "元素スキルと元素爆発のダメージ+28%。元素スキルが敵に命中した時、元素スキルの会心率+3.5%。元素爆発が敵に命中した時、元素爆発の会心率+3.5%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
+                "4": "元素スキルと元素爆発のダメージ+32%。元素スキルが敵に命中した時、元素スキルの会心率+4%。元素爆発が敵に命中した時、元素爆発の会心率+4%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。"
+            }
+        }
+    }
+}

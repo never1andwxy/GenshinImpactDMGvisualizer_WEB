@@ -1,0 +1,141 @@
+{
+    "id": "13414",
+    "ENname": "Kitain Cross Spear",
+    "CNname": "喜多院十文字",
+    "JAname": "喜多院十文字槍",
+    "imageurl": "images/weapon/13414.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "element_mastery": 24
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "element_mastery": 27.887999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "element_mastery": 32.712
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "element_mastery": 37.56
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "element_mastery": 42.408
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "element_mastery": 47.256
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "element_mastery": 52.104
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "element_mastery": 56.952000000000005
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "element_mastery": 61.800000000000004
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "element_mastery": 66.648
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "element_mastery": 71.49600000000001
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "element_mastery": 76.344
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "element_mastery": 81.19200000000001
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "element_mastery": 86.03999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "element_mastery": 90.864
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "element_mastery": 95.712
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "element_mastery": 100.56
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "element_mastery": 105.40800000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "element_mastery": 110.256
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113414",
+            "name": "Samurai Conduct",
+            "upgrade": {
+                "0": "Increases Elemental Skill DMG by 6%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "1": "Increases Elemental Skill DMG by 7.5%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3.5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "2": "Increases Elemental Skill DMG by 9%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 4 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "3": "Increases Elemental Skill DMG by 10.5%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 4.5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "4": "Increases Elemental Skill DMG by 12%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+            }
+        },
+        "chs": {
+            "id": "113414",
+            "name": "名士振舞",
+            "upgrade": {
+                "0": "元素战技造成的伤害提升6%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+                "1": "元素战技造成的伤害提升7.5%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3.5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+                "2": "元素战技造成的伤害提升9%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复4点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+                "3": "元素战技造成的伤害提升10.5%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复4.5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+                "4": "元素战技造成的伤害提升12%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。"
+            }
+        },
+        "jp": {
+            "id": "113414",
+            "name": "名士の振舞",
+            "upgrade": {
+                "0": "元素スキルのダメージ+6%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを3ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+                "1": "元素スキルのダメージ+7.5%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを3.5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+                "2": "元素スキルのダメージ+9%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを4ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+                "3": "元素スキルのダメージ+10.5%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを4.5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+                "4": "元素スキルのダメージ+12%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}

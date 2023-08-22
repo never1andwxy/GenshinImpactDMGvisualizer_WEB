@@ -1,0 +1,141 @@
+{
+    "id": "11415",
+    "ENname": "Cinnabar Spindle",
+    "CNname": "辰砂之纺锤",
+    "JAname": "シナバースピンドル",
+    "imageurl": "images/weapon/11415.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671,
+            "defense_percent": 0.15013
+        },
+        {
+            "level": "5",
+            "base_attack": 53.633632600000006,
+            "defense_percent": 0.17445106
+        },
+        {
+            "level": "10",
+            "base_attack": 69.0748622,
+            "defense_percent": 0.20462719000000001
+        },
+        {
+            "level": "15",
+            "base_attack": 84.2696892,
+            "defense_percent": 0.23495345
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591807,
+            "defense_percent": 0.26527971
+        },
+        {
+            "level": "25",
+            "base_attack": 114.0844038,
+            "defense_percent": 0.29560597000000005
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642560000003,
+            "defense_percent": 0.32593223
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32417900000002,
+            "defense_percent": 0.35625849000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 183.67979820000002,
+            "defense_percent": 0.3865847500000001
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328320000003,
+            "defense_percent": 0.4169110100000001
+        },
+        {
+            "level": "50",
+            "base_attack": 238.344634,
+            "defense_percent": 0.4472372700000001
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385060000003,
+            "defense_percent": 0.47756353000000007
+        },
+        {
+            "level": "60",
+            "base_attack": 292.62200010000004,
+            "defense_percent": 0.50788979
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080154,
+            "defense_percent": 0.5382160500000001
+        },
+        {
+            "level": "70",
+            "base_attack": 346.6529636,
+            "defense_percent": 0.56839218
+        },
+        {
+            "level": "75",
+            "base_attack": 256.95684470000003,
+            "defense_percent": 0.5987184400000001
+        },
+        {
+            "level": "80",
+            "base_attack": 400.6607258,
+            "defense_percent": 0.6290447000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 284.88247270000005,
+            "defense_percent": 0.6593709600000001
+        },
+        {
+            "level": "90",
+            "base_attack": 454.36316250000004,
+            "defense_percent": 0.6896972200000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111415",
+            "name": "Spotless Heart",
+            "upgrade": {
+                "0": "Elemental Skill DMG is increased by 40% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
+                "1": "Elemental Skill DMG is increased by 50% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
+                "2": "Elemental Skill DMG is increased by 60% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
+                "3": "Elemental Skill DMG is increased by 70% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
+                "4": "Elemental Skill DMG is increased by 80% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
+            }
+        },
+        "chs": {
+            "id": "111415",
+            "name": "无垢之心",
+            "upgrade": {
+                "0": "元素战技造成的伤害值提高，提高数值相当于防御力的40%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
+                "1": "元素战技造成的伤害值提高，提高数值相当于防御力的50%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
+                "2": "元素战技造成的伤害值提高，提高数值相当于防御力的60%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
+                "3": "元素战技造成的伤害值提高，提高数值相当于防御力的70%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
+                "4": "元素战技造成的伤害值提高，提高数值相当于防御力的80%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。"
+            }
+        },
+        "jp": {
+            "id": "111415",
+            "name": "無垢な心",
+            "upgrade": {
+                "0": "元素スキルダメージが防御力40%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。",
+                "1": "元素スキルダメージが防御力50%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。",
+                "2": "元素スキルダメージが防御力60%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。",
+                "3": "元素スキルダメージが防御力70%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。",
+                "4": "元素スキルダメージが防御力80%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。"
+            }
+        }
+    }
+}

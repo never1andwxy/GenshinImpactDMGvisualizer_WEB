@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "40001",
+      "belongTo": "10000037",
+      "source": "selfConstellation",
+      "display": "staticFilterChip",
+      "displayParams": {
+        "message": "Constellation1: Enemy Cryo Res -15%"
+      },
+      "order": 0
+    }
+  ]
+}

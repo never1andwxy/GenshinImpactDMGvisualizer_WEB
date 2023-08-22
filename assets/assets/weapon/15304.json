@@ -1,0 +1,141 @@
+{
+    "id": "15304",
+    "ENname": "Slingshot",
+    "CNname": "弹弓",
+    "JAname": "弾弓",
+    "imageurl": "images/weapon/15304.png",
+    "type": "bow",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 37.6075,
+            "critical": 0.068
+        },
+        {
+            "level": "5",
+            "base_attack": 48.137600000000006,
+            "critical": 0.079016
+        },
+        {
+            "level": "10",
+            "base_attack": 60.961757500000004,
+            "critical": 0.092684
+        },
+        {
+            "level": "15",
+            "base_attack": 73.40984,
+            "critical": 0.10642
+        },
+        {
+            "level": "20",
+            "base_attack": 85.5570625,
+            "critical": 0.120156
+        },
+        {
+            "level": "25",
+            "base_attack": 97.4410325,
+            "critical": 0.133892
+        },
+        {
+            "level": "30",
+            "base_attack": 109.0993575,
+            "critical": 0.147628
+        },
+        {
+            "level": "35",
+            "base_attack": 120.5320375,
+            "critical": 0.16136400000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 151.27668,
+            "critical": 0.17510000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 142.8708925,
+            "critical": 0.18883600000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 192.714675,
+            "critical": 0.20257200000000003
+        },
+        {
+            "level": "55",
+            "base_attack": 164.6080275,
+            "critical": 0.21630800000000003
+        },
+        {
+            "level": "60",
+            "base_attack": 233.6885575,
+            "critical": 0.23004400000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 185.8938725,
+            "critical": 0.24378000000000002
+        },
+        {
+            "level": "70",
+            "base_attack": 274.186365,
+            "critical": 0.257448
+        },
+        {
+            "level": "75",
+            "base_attack": 206.76603500000002,
+            "critical": 0.27118400000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 314.44570500000003,
+            "critical": 0.28492000000000006
+        },
+        {
+            "level": "85",
+            "base_attack": 227.4125525,
+            "critical": 0.29865600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 354.37940000000003,
+            "critical": 0.31239200000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115304",
+            "name": "Slingshot",
+            "upgrade": {
+                "0": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36%. Otherwise, decreases DMG by 10%.",
+                "1": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 42%. Otherwise, decreases DMG by 10%.",
+                "2": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 48%. Otherwise, decreases DMG by 10%.",
+                "3": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 54%. Otherwise, decreases DMG by 10%.",
+                "4": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%."
+            }
+        },
+        "chs": {
+            "id": "115304",
+            "name": "弹弓",
+            "upgrade": {
+                "0": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加36%；否则，造成的伤害下降10%。",
+                "1": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加42%；否则，造成的伤害下降10%。",
+                "2": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加48%；否则，造成的伤害下降10%。",
+                "3": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加54%；否则，造成的伤害下降10%。",
+                "4": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加60%；否则，造成的伤害下降10%。"
+            }
+        },
+        "jp": {
+            "id": "115304",
+            "name": "弾弓",
+            "upgrade": {
+                "0": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+36%。0.3秒以上の場合、与えるダメージ-10%。",
+                "1": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+42%。0.3秒以上の場合、与えるダメージ-10%。",
+                "2": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+48%。0.3秒以上の場合、与えるダメージ-10%。",
+                "3": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+54%。0.3秒以上の場合、与えるダメージ-10%。",
+                "4": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+60%。0.3秒以上の場合、与えるダメージ-10%。"
+            }
+        }
+    }
+}

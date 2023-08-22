@@ -1,0 +1,141 @@
+{
+    "id": "15509",
+    "ENname": "Thundering Pulse",
+    "CNname": "飞雷之弦振",
+    "JAname": "飛雷の鳴弦",
+    "imageurl": "images/weapon/15509.png",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical_hurt": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical_hurt": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical_hurt": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical_hurt": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical_hurt": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical_hurt": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical_hurt": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical_hurt": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical_hurt": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical_hurt": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical_hurt": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical_hurt": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical_hurt": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical_hurt": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical_hurt": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical_hurt": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical_hurt": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical_hurt": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical_hurt": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115509",
+            "name": "Rule by Thunder",
+            "upgrade": {
+                "0": "Increases ATK by 20% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "1": "Increases ATK by 25% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 15/30/50%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "2": "Increases ATK by 30% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 18/36/60%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "3": "Increases ATK by 35% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 21/42/70%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "4": "Increases ATK by 40% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 24/48/80%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+            }
+        },
+        "chs": {
+            "id": "115509",
+            "name": "飞雷御执",
+            "upgrade": {
+                "0": "攻击力提高20%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高12/24/40%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
+                "1": "攻击力提高25%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高15/30/50%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
+                "2": "攻击力提高30%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高18/36/60%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
+                "3": "攻击力提高35%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高21/42/70%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
+                "4": "攻击力提高40%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高24/48/80%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。"
+            }
+        },
+        "jp": {
+            "id": "115509",
+            "name": "飛雷の御執",
+            "upgrade": {
+                "0": "攻撃力+20%、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+12/24/40%。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。",
+                "1": "攻撃力+25%、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+15/30/50%。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。",
+                "2": "攻撃力+30%、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+18/36/60%。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。",
+                "3": "攻撃力+35%、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+21/42/70%。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。",
+                "4": "攻撃力+40%、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+24/48/80%。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。"
+            }
+        }
+    }
+}

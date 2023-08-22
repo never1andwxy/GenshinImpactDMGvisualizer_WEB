@@ -1,0 +1,141 @@
+{
+    "id": "11510",
+    "ENname": "Haran Geppaku Futsu",
+    "CNname": "波乱月白经津",
+    "JAname": "波乱月白経津",
+    "imageurl": "images/weapon/11510.png",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical": 0.072
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical": 0.08366399999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical": 0.09813599999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical": 0.11267999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical": 0.12722399999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical": 0.141768
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical": 0.15631199999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical": 0.170856
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "critical": 0.1854
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical": 0.19994399999999998
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "critical": 0.21448799999999998
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical": 0.22903199999999999
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "critical": 0.243576
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical": 0.25811999999999996
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "critical": 0.272592
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical": 0.287136
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "critical": 0.30168
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical": 0.316224
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "critical": 0.330768
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111510",
+            "name": "Honed Flow",
+            "upgrade": {
+                "0": "Obtain 12% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 20% for 8s.",
+                "1": "Obtain 15% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 25% for 8s.",
+                "2": "Obtain 18% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 30% for 8s.",
+                "3": "Obtain 21% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 35% for 8s.",
+                "4": "Obtain 24% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by 40% for 8s."
+            }
+        },
+        "chs": {
+            "id": "111510",
+            "name": "白刃流转",
+            "upgrade": {
+                "0": "获得12%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升20%普通攻击伤害，持续8秒。",
+                "1": "获得15%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升25%普通攻击伤害，持续8秒。",
+                "2": "获得18%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升30%普通攻击伤害，持续8秒。",
+                "3": "获得21%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升35%普通攻击伤害，持续8秒。",
+                "4": "获得24%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升40%普通攻击伤害，持续8秒。"
+            }
+        },
+        "jp": {
+            "id": "111510",
+            "name": "白刃流転",
+            "upgrade": {
+                "0": "全元素ダメージ+12%。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+20%、継続時間8秒。",
+                "1": "全元素ダメージ+15%。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+25%、継続時間8秒。",
+                "2": "全元素ダメージ+18%。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+30%、継続時間8秒。",
+                "3": "全元素ダメージ+21%。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+35%、継続時間8秒。",
+                "4": "全元素ダメージ+24%。周囲にいるチーム内の他キャラクターが元素スキルを発動すると、装備キャラクターに「波穂」効果を1層与える。獲得できる「波穂」効果は最大2層まで、0.3秒毎に1回のみ獲得できる。装備キャラクターが元素スキルを発動すると、既存の「波穂」効果をすべて消費し、「波乱」効果を獲得する。「波乱」：消費した「波穂」1層につき、通常攻撃ダメージ+40%、継続時間8秒。"
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "id": "14501",
+    "ENname": "Skyward Atlas",
+    "CNname": "天空之卷",
+    "JAname": "天空の巻",
+    "imageurl": "images/weapon/14501.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "attack_percent": 0.072
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "attack_percent": 0.08366399999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "attack_percent": 0.09813599999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "attack_percent": 0.11267999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "attack_percent": 0.12722399999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "attack_percent": 0.141768
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "attack_percent": 0.15631199999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "attack_percent": 0.170856
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "attack_percent": 0.1854
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "attack_percent": 0.19994399999999998
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "attack_percent": 0.21448799999999998
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "attack_percent": 0.22903199999999999
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "attack_percent": 0.243576
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "attack_percent": 0.25811999999999996
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "attack_percent": 0.272592
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "attack_percent": 0.287136
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "attack_percent": 0.30168
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "attack_percent": 0.316224
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "attack_percent": 0.330768
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114501",
+            "name": "Wandering Clouds",
+            "upgrade": {
+                "0": "Increases Elemental DMG Bonus by 12%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 160% ATK DMG. Can only occur once every 30s.",
+                "1": "Increases Elemental DMG Bonus by 15%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 200% ATK DMG. Can only occur once every 30s.",
+                "2": "Increases Elemental DMG Bonus by 18%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 240% ATK DMG. Can only occur once every 30s.",
+                "3": "Increases Elemental DMG Bonus by 21%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 280% ATK DMG. Can only occur once every 30s.",
+                "4": "Increases Elemental DMG Bonus by 24%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 320% ATK DMG. Can only occur once every 30s."
+            }
+        },
+        "chs": {
+            "id": "114501",
+            "name": "浮游四方的灵云",
+            "upgrade": {
+                "0": "元素伤害加成提升12%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于160%攻击力的伤害。该效果每30秒只能触发一次。",
+                "1": "元素伤害加成提升15%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于200%攻击力的伤害。该效果每30秒只能触发一次。",
+                "2": "元素伤害加成提升18%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于240%攻击力的伤害。该效果每30秒只能触发一次。",
+                "3": "元素伤害加成提升21%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于280%攻击力的伤害。该效果每30秒只能触发一次。",
+                "4": "元素伤害加成提升24%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于320%攻击力的伤害。该效果每30秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "114501",
+            "name": "四方浮遊する霊雲",
+            "upgrade": {
+                "0": "元素ダメージ+12%。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の160%相当のダメージを与える。30秒毎に1回のみ発動可能。",
+                "1": "元素ダメージ+15%。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の200%相当のダメージを与える。30秒毎に1回のみ発動可能。",
+                "2": "元素ダメージ+18%。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の240%相当のダメージを与える。30秒毎に1回のみ発動可能。",
+                "3": "元素ダメージ+21%。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の280%相当のダメージを与える。30秒毎に1回のみ発動可能。",
+                "4": "元素ダメージ+24%。通常攻撃が命中した時、50%の確率で高天流雲の好意を獲得し、15秒以内に自分から周囲の敵を攻撃すると、攻撃力の320%相当のダメージを与える。30秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

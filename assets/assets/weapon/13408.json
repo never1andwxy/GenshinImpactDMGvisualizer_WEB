@@ -1,0 +1,141 @@
+{
+    "id": "13408",
+    "ENname": "Royal Spear",
+    "CNname": "宗室猎枪",
+    "JAname": "旧貴族猟槍",
+    "imageurl": "images/weapon/13408.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "attack_percent": 0.06
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "attack_percent": 0.06971999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "attack_percent": 0.08177999999999999
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "attack_percent": 0.0939
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "attack_percent": 0.10601999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "attack_percent": 0.11814
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "attack_percent": 0.13026
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "attack_percent": 0.14238
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "attack_percent": 0.1545
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "attack_percent": 0.16662
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "attack_percent": 0.17874
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "attack_percent": 0.19086
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "attack_percent": 0.20298
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "attack_percent": 0.21509999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "attack_percent": 0.22716
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "attack_percent": 0.23928
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "attack_percent": 0.2514
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "attack_percent": 0.26352000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "attack_percent": 0.27564
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113408",
+            "name": "Focus",
+            "upgrade": {
+                "0": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "1": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "2": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "3": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "4": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "chs": {
+            "id": "113408",
+            "name": "专注",
+            "upgrade": {
+                "0": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "1": "攻击造成伤害时，暴击率提升10%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "2": "攻击造成伤害时，暴击率提升12%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "3": "攻击造成伤害时，暴击率提升14%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+                "4": "攻击造成伤害时，暴击率提升16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。"
+            }
+        },
+        "jp": {
+            "id": "113408",
+            "name": "集中",
+            "upgrade": {
+                "0": "攻撃が敵にダメージを与えた時、会心率+8%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "1": "攻撃が敵にダメージを与えた時、会心率+10%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "2": "攻撃が敵にダメージを与えた時、会心率+12%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "3": "攻撃が敵にダメージを与えた時、会心率+14%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+                "4": "攻撃が敵にダメージを与えた時、会心率+16%、最大5重まで。攻撃会心発生時、効果がクリアされる。"
+            }
+        }
+    }
+}

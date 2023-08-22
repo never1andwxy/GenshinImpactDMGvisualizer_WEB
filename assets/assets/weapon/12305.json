@@ -1,0 +1,141 @@
+{
+    "id": "12305",
+    "ENname": "Debate Club",
+    "CNname": "以理服人",
+    "JAname": "理屈責め",
+    "imageurl": "images/weapon/12305.png",
+    "type": "claymore",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "attack_percent": 0.0766
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "attack_percent": 0.0890092
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "attack_percent": 0.1044058
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "attack_percent": 0.119879
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "attack_percent": 0.1353522
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "attack_percent": 0.1508254
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "attack_percent": 0.1662986
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "attack_percent": 0.1817718
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "attack_percent": 0.197245
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "attack_percent": 0.21271820000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "attack_percent": 0.22819140000000002
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "attack_percent": 0.2436646
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "attack_percent": 0.25913780000000003
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "attack_percent": 0.274611
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "attack_percent": 0.29000760000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "attack_percent": 0.3054808
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "attack_percent": 0.320954
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "attack_percent": 0.33642720000000004
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "attack_percent": 0.35190040000000006
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112305",
+            "name": "Blunt Conclusion",
+            "upgrade": {
+                "0": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 60% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+                "1": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 75% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+                "2": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 90% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+                "3": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 105% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+                "4": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 120% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+            }
+        },
+        "chs": {
+            "id": "112305",
+            "name": "有话直说",
+            "upgrade": {
+                "0": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成60%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+                "1": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成75%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+                "2": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成90%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+                "3": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成105%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+                "4": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成120%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112305",
+            "name": "率直に話を言え",
+            "upgrade": {
+                "0": "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の60%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+                "1": "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の75%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+                "2": "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の90%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+                "3": "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の105%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+                "4": "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の120%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

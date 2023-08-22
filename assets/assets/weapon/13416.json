@@ -1,0 +1,141 @@
+{
+    "id": "13416",
+    "ENname": "Wavebreaker's Fin",
+    "CNname": "断浪长鳍",
+    "JAname": "斬波のひれ長",
+    "imageurl": "images/weapon/13416.png",
+    "type": "polearm",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.0687,
+            "attack_percent": 0.03
+        },
+        {
+            "level": "5",
+            "base_attack": 61.924393800000004,
+            "attack_percent": 0.034859999999999995
+        },
+        {
+            "level": "10",
+            "base_attack": 83.5573698,
+            "attack_percent": 0.040889999999999996
+        },
+        {
+            "level": "15",
+            "base_attack": 105.6861015,
+            "attack_percent": 0.04695
+        },
+        {
+            "level": "20",
+            "base_attack": 128.2204515,
+            "attack_percent": 0.053009999999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 151.0702824,
+            "attack_percent": 0.05907
+        },
+        {
+            "level": "30",
+            "base_attack": 174.2355942,
+            "attack_percent": 0.06513
+        },
+        {
+            "level": "35",
+            "base_attack": 197.6262495,
+            "attack_percent": 0.07119
+        },
+        {
+            "level": "40",
+            "base_attack": 247.1422483,
+            "attack_percent": 0.07725
+        },
+        {
+            "level": "45",
+            "base_attack": 244.9934532,
+            "attack_percent": 0.08331
+        },
+        {
+            "level": "50",
+            "base_attack": 320.87000159999997,
+            "attack_percent": 0.08937
+        },
+        {
+            "level": "55",
+            "base_attack": 293.0366874,
+            "attack_percent": 0.09543
+        },
+        {
+            "level": "60",
+            "base_attack": 395.0385793,
+            "attack_percent": 0.10149
+        },
+        {
+            "level": "65",
+            "base_attack": 341.5756773,
+            "attack_percent": 0.10754999999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 469.65784399999995,
+            "attack_percent": 0.11358
+        },
+        {
+            "level": "75",
+            "base_attack": 390.4752168,
+            "attack_percent": 0.11964
+        },
+        {
+            "level": "80",
+            "base_attack": 544.7376583,
+            "attack_percent": 0.1257
+        },
+        {
+            "level": "85",
+            "base_attack": 439.6902372,
+            "attack_percent": 0.13176000000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 620.0329635,
+            "attack_percent": 0.13782
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113416",
+            "name": "Watatsumi Wavewalker",
+            "upgrade": {
+                "0": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+                "1": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
+                "2": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
+                "3": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
+                "4": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way."
+            }
+        },
+        "chs": {
+            "id": "113416",
+            "name": "驭浪的海祇民",
+            "upgrade": {
+                "0": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+                "1": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.15%，通过这种方式，元素爆发造成的伤害至多提高50%。",
+                "2": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.18%，通过这种方式，元素爆发造成的伤害至多提高60%。",
+                "3": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.21%，通过这种方式，元素爆发造成的伤害至多提高70%。",
+                "4": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.24%，通过这种方式，元素爆发造成的伤害至多提高80%。"
+            }
+        },
+        "jp": {
+            "id": "113416",
+            "name": "波を統べる海祇の民",
+            "upgrade": {
+                "0": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.12%。この方式でアップできる元素爆発ダメージは最大40%まで。",
+                "1": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.15%。この方式でアップできる元素爆発ダメージは最大50%まで。",
+                "2": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.18%。この方式でアップできる元素爆発ダメージは最大60%まで。",
+                "3": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.21%。この方式でアップできる元素爆発ダメージは最大70%まで。",
+                "4": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.24%。この方式でアップできる元素爆発ダメージは最大80%まで。"
+            }
+        }
+    }
+}

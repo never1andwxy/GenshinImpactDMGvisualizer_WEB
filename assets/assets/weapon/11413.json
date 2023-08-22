@@ -1,0 +1,141 @@
+{
+    "id": "11413",
+    "ENname": "Festering Desire",
+    "CNname": "腐殖之剑",
+    "JAname": "腐植の剣",
+    "imageurl": "images/weapon/11413.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "charge_efficiency": 0.1
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "charge_efficiency": 0.1162
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "charge_efficiency": 0.1363
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "charge_efficiency": 0.1565
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "charge_efficiency": 0.1767
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "charge_efficiency": 0.19690000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "charge_efficiency": 0.2171
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "charge_efficiency": 0.23730000000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "charge_efficiency": 0.2575
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "charge_efficiency": 0.2777
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "charge_efficiency": 0.2979
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "charge_efficiency": 0.31810000000000005
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "charge_efficiency": 0.33830000000000005
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "charge_efficiency": 0.35850000000000004
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "charge_efficiency": 0.37860000000000005
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "charge_efficiency": 0.39880000000000004
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "charge_efficiency": 0.41900000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "charge_efficiency": 0.43920000000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "charge_efficiency": 0.45940000000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111413",
+            "name": "Undying Admiration",
+            "upgrade": {
+                "0": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%.",
+                "1": "Increases Elemental Skill DMG by 20% and Elemental Skill CRIT Rate by 7.5%.",
+                "2": "Increases Elemental Skill DMG by 24% and Elemental Skill CRIT Rate by 9%.",
+                "3": "Increases Elemental Skill DMG by 28% and Elemental Skill CRIT Rate by 10.5%.",
+                "4": "Increases Elemental Skill DMG by 32% and Elemental Skill CRIT Rate by 12%."
+            }
+        },
+        "chs": {
+            "id": "111413",
+            "name": "无尽的渴慕",
+            "upgrade": {
+                "0": "元素战技造成的伤害增加16%，元素战技的暴击率提升6%。",
+                "1": "元素战技造成的伤害增加20%，元素战技的暴击率提升7.5%。",
+                "2": "元素战技造成的伤害增加24%，元素战技的暴击率提升9%。",
+                "3": "元素战技造成的伤害增加28%，元素战技的暴击率提升10.5%。",
+                "4": "元素战技造成的伤害增加32%，元素战技的暴击率提升12%。"
+            }
+        },
+        "jp": {
+            "id": "111413",
+            "name": "底なしの渇望",
+            "upgrade": {
+                "0": "元素スキルのダメージ+16%、元素スキルの会心率+6%。",
+                "1": "元素スキルのダメージ+20%、元素スキルの会心率+7.5%。",
+                "2": "元素スキルのダメージ+24%、元素スキルの会心率+9%。",
+                "3": "元素スキルのダメージ+28%、元素スキルの会心率+10.5%。",
+                "4": "元素スキルのダメージ+32%、元素スキルの会心率+12%。"
+            }
+        }
+    }
+}

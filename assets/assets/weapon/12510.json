@@ -1,0 +1,141 @@
+{
+    "id": "12510",
+    "ENname": "Redhorn Stonethresher",
+    "CNname": "赤角石溃杵",
+    "JAname": "赤角石塵滅砕",
+    "imageurl": "images/weapon/12510.png",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "critical_hurt": 0.192
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "critical_hurt": 0.223104
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "critical_hurt": 0.261696
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "critical_hurt": 0.30047999999999997
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "critical_hurt": 0.339264
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "critical_hurt": 0.37804800000000005
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "critical_hurt": 0.416832
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "critical_hurt": 0.4556160000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "critical_hurt": 0.49440000000000006
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "critical_hurt": 0.533184
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "critical_hurt": 0.571968
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "critical_hurt": 0.6107520000000001
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "critical_hurt": 0.649536
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "critical_hurt": 0.68832
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "critical_hurt": 0.726912
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "critical_hurt": 0.765696
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "critical_hurt": 0.8044800000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "critical_hurt": 0.8432640000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "critical_hurt": 0.882048
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112510",
+            "name": "Gokadaiou Otogibanashi",
+            "upgrade": {
+                "0": "DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF.",
+                "1": "DEF is increased by 35%. Normal and Charged Attack DMG is increased by 50% of DEF.",
+                "2": "DEF is increased by 42%. Normal and Charged Attack DMG is increased by 60% of DEF.",
+                "3": "DEF is increased by 49%. Normal and Charged Attack DMG is increased by 70% of DEF.",
+                "4": "DEF is increased by 56%. Normal and Charged Attack DMG is increased by 80% of DEF."
+            }
+        },
+        "chs": {
+            "id": "112510",
+            "name": "御伽大王御伽话",
+            "upgrade": {
+                "0": "防御力提高28%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的40%。",
+                "1": "防御力提高35%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的50%。",
+                "2": "防御力提高42%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的60%。",
+                "3": "防御力提高49%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的70%。",
+                "4": "防御力提高56%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的80%。"
+            }
+        },
+        "jp": {
+            "id": "112510",
+            "name": "御伽大王の御伽話",
+            "upgrade": {
+                "0": "防御力+28%。通常攻撃と重撃ダメージが防御力40%分アップする。",
+                "1": "防御力+35%。通常攻撃と重撃ダメージが防御力50%分アップする。",
+                "2": "防御力+42%。通常攻撃と重撃ダメージが防御力60%分アップする。",
+                "3": "防御力+49%。通常攻撃と重撃ダメージが防御力70%分アップする。",
+                "4": "防御力+56%。通常攻撃と重撃ダメージが防御力80%分アップする。"
+            }
+        }
+    }
+}

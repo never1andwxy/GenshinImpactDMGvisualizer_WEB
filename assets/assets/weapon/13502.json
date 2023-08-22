@@ -1,0 +1,141 @@
+{
+    "id": "13502",
+    "ENname": "Skyward Spine",
+    "CNname": "天空之脊",
+    "JAname": "天空の脊",
+    "imageurl": "images/weapon/13502.png",
+    "type": "polearm",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "charge_efficiency": 0.08
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "charge_efficiency": 0.09296
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "charge_efficiency": 0.10904
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "charge_efficiency": 0.1252
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "charge_efficiency": 0.14135999999999999
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "charge_efficiency": 0.15752000000000002
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "charge_efficiency": 0.17368
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "charge_efficiency": 0.18984
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "charge_efficiency": 0.20600000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "charge_efficiency": 0.22216000000000002
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "charge_efficiency": 0.23832
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "charge_efficiency": 0.25448
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "charge_efficiency": 0.27064
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "charge_efficiency": 0.2868
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "charge_efficiency": 0.30288
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "charge_efficiency": 0.31904
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "charge_efficiency": 0.33520000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "charge_efficiency": 0.35136000000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "charge_efficiency": 0.36752
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113502",
+            "name": "Black Wing",
+            "upgrade": {
+                "0": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                "1": "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                "2": "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                "3": "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                "4": "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+            }
+        },
+        "chs": {
+            "id": "113502",
+            "name": "斫断黑翼的利齿",
+            "upgrade": {
+                "0": "暴击率提升8%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外40%攻击力的伤害。该效果每2秒至多触发一次。",
+                "1": "暴击率提升10%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外55%攻击力的伤害。该效果每2秒至多触发一次。",
+                "2": "暴击率提升12%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外70%攻击力的伤害。该效果每2秒至多触发一次。",
+                "3": "暴击率提升14%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外85%攻击力的伤害。该效果每2秒至多触发一次。",
+                "4": "暴击率提升16%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外100%攻击力的伤害。该效果每2秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "113502",
+            "name": "黒翼を切り裂く鋭牙",
+            "upgrade": {
+                "0": "会心率+8%、通常攻撃速度+12%。通常攻撃と重撃が命中時、50%の確率で真空刃を発動し、攻撃力の40%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+                "1": "会心率+10%、通常攻撃速度+12%。通常攻撃と重撃が命中時、50%の確率で真空刃を発動し、攻撃力の55%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+                "2": "会心率+12%、通常攻撃速度+12%。通常攻撃と重撃が命中時、50%の確率で真空刃を発動し、攻撃力の70%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+                "3": "会心率+14%、通常攻撃速度+12%。通常攻撃と重撃が命中時、50%の確率で真空刃を発動し、攻撃力の85%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+                "4": "会心率+16%、通常攻撃速度+12%。通常攻撃と重撃が命中時、50%の確率で真空刃を発動し、攻撃力の100%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

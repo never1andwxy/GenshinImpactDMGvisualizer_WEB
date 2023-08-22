@@ -1,0 +1,141 @@
+{
+    "id": "15302",
+    "ENname": "Sharpshooter's Oath",
+    "CNname": "神射手之誓",
+    "JAname": "シャープシューターの誓い",
+    "imageurl": "images/weapon/15302.png",
+    "type": "bow",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "critical_hurt": 0.102
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "critical_hurt": 0.11852399999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "critical_hurt": 0.13902599999999998
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "critical_hurt": 0.15963
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "critical_hurt": 0.18023399999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "critical_hurt": 0.200838
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "critical_hurt": 0.22144199999999997
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "critical_hurt": 0.242046
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "critical_hurt": 0.26265
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "critical_hurt": 0.283254
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "critical_hurt": 0.303858
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "critical_hurt": 0.324462
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "critical_hurt": 0.345066
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "critical_hurt": 0.36567
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "critical_hurt": 0.38617199999999996
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "critical_hurt": 0.40677599999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "critical_hurt": 0.42738000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "critical_hurt": 0.447984
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "critical_hurt": 0.468588
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "115302",
+            "name": "Precise",
+            "upgrade": {
+                "0": "Increases DMG against weak spots by 24%.",
+                "1": "Increases DMG against weak spots by 30%.",
+                "2": "Increases DMG against weak spots by 36%.",
+                "3": "Increases DMG against weak spots by 42%.",
+                "4": "Increases DMG against weak spots by 48%."
+            }
+        },
+        "chs": {
+            "id": "115302",
+            "name": "精准",
+            "upgrade": {
+                "0": "针对要害造成的伤害提升24%。",
+                "1": "针对要害造成的伤害提升30%。",
+                "2": "针对要害造成的伤害提升36%。",
+                "3": "针对要害造成的伤害提升42%。",
+                "4": "针对要害造成的伤害提升48%。"
+            }
+        },
+        "jp": {
+            "id": "115302",
+            "name": "精密射撃",
+            "upgrade": {
+                "0": "弱点に対するダメージ+24%。",
+                "1": "弱点に対するダメージ+30%。",
+                "2": "弱点に対するダメージ+36%。",
+                "3": "弱点に対するダメージ+42%。",
+                "4": "弱点に対するダメージ+48%。"
+            }
+        }
+    }
+}

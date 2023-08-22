@@ -1,0 +1,141 @@
+{
+    "id": "12306",
+    "ENname": "Skyrider Greatsword",
+    "CNname": "飞天大御剑",
+    "JAname": "飛天大御剣",
+    "imageurl": "images/weapon/12306.png",
+    "type": "claymore",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7413,
+            "physical_add_hurt": 0.0956
+        },
+        {
+            "level": "5",
+            "base_attack": 50.4799139,
+            "physical_add_hurt": 0.1110872
+        },
+        {
+            "level": "10",
+            "base_attack": 65.0466427,
+            "physical_add_hurt": 0.1303028
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840630000001,
+            "physical_add_hurt": 0.149614
+        },
+        {
+            "level": "20",
+            "base_attack": 93.753946,
+            "physical_add_hurt": 0.1689252
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93326180000001,
+            "physical_add_hurt": 0.18823640000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95761240000002,
+            "physical_add_hurt": 0.2075476
+        },
+        {
+            "level": "35",
+            "base_attack": 135.9044804,
+            "physical_add_hurt": 0.22685880000000003
+        },
+        {
+            "level": "40",
+            "base_attack": 169.2738658,
+            "physical_add_hurt": 0.24617000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702730000001,
+            "physical_add_hurt": 0.26548120000000003
+        },
+        {
+            "level": "50",
+            "base_attack": 216.1027062,
+            "physical_add_hurt": 0.2847924
+        },
+        {
+            "level": "55",
+            "base_attack": 190.8009025,
+            "physical_add_hurt": 0.30410360000000003
+        },
+        {
+            "level": "60",
+            "base_attack": 262.7216162,
+            "physical_add_hurt": 0.3234148
+        },
+        {
+            "level": "65",
+            "base_attack": 217.8035886,
+            "physical_add_hurt": 0.34272600000000003
+        },
+        {
+            "level": "70",
+            "base_attack": 309.0080784,
+            "physical_add_hurt": 0.36194160000000003
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256820000003,
+            "physical_add_hurt": 0.3812528
+        },
+        {
+            "level": "80",
+            "base_attack": 355.2783167,
+            "physical_add_hurt": 0.40056400000000003
+        },
+        {
+            "level": "85",
+            "base_attack": 271.3053239,
+            "physical_add_hurt": 0.41987520000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 401.2935898,
+            "physical_add_hurt": 0.43918640000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112306",
+            "name": "Courage",
+            "upgrade": {
+                "0": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "1": "On hit, Normal or Charged Attacks increase ATK by 7% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "2": "On hit, Normal or Charged Attacks increase ATK by 8% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "3": "On hit, Normal or Charged Attacks increase ATK by 9% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "4": "On hit, Normal or Charged Attacks increase ATK by 10% for 6s. Max 4 stacks. Can occur once every 0.5s."
+            }
+        },
+        "chs": {
+            "id": "112306",
+            "name": "勇气",
+            "upgrade": {
+                "0": "普通攻击和重击命中时，攻击力提高6%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+                "1": "普通攻击和重击命中时，攻击力提高7%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+                "2": "普通攻击和重击命中时，攻击力提高8%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+                "3": "普通攻击和重击命中时，攻击力提高9%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+                "4": "普通攻击和重击命中时，攻击力提高10%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。"
+            }
+        },
+        "jp": {
+            "id": "112306",
+            "name": "勇気",
+            "upgrade": {
+                "0": "通常攻撃と重撃が命中すると、攻撃力+6%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+                "1": "通常攻撃と重撃が命中すると、攻撃力+7%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+                "2": "通常攻撃と重撃が命中すると、攻撃力+8%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+                "3": "通常攻撃と重撃が命中すると、攻撃力+9%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+                "4": "通常攻撃と重撃が命中すると、攻撃力+10%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

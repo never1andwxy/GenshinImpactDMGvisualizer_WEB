@@ -1,0 +1,141 @@
+{
+    "id": "11503",
+    "ENname": "Freedom-Sworn",
+    "CNname": "苍古自由之誓",
+    "JAname": "蒼古なる自由への誓い",
+    "imageurl": "images/weapon/11503.png",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "element_mastery": 43.2
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "element_mastery": 50.1984
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "element_mastery": 58.881600000000006
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "element_mastery": 67.608
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "element_mastery": 76.3344
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "element_mastery": 85.06080000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "element_mastery": 93.7872
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "element_mastery": 102.51360000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 235.19542519999996,
+            "element_mastery": 111.24000000000001
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "element_mastery": 119.96640000000001
+        },
+        {
+            "level": "50",
+            "base_attack": 308.419104,
+            "element_mastery": 128.6928
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "element_mastery": 137.41920000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 382.43182879999995,
+            "element_mastery": 146.1456
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "element_mastery": 154.872
+        },
+        {
+            "level": "70",
+            "base_attack": 456.9876632,
+            "element_mastery": 163.5552
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "element_mastery": 172.2816
+        },
+        {
+            "level": "80",
+            "base_attack": 532.2325536,
+            "element_mastery": 181.00800000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "element_mastery": 189.73440000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 608.0745972,
+            "element_mastery": 198.46080000000003
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111503",
+            "name": "Revolutionary Chorale",
+            "upgrade": {
+                "0": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 10%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 16% and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "1": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 12.5%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 20% and increases ATK by 25%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "2": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 15%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 24% and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "3": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 17.5%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 28% and increases ATK by 35%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "4": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 20%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 32% and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "chs": {
+            "id": "111503",
+            "name": "抗争的践行之歌",
+            "upgrade": {
+                "0": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高10%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高16%，攻击力提升20%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "1": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高12.5%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高20%，攻击力提升25%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "2": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高15%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高24%，攻击力提升30%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "3": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高17.5%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高28%，攻击力提升35%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
+                "4": "飘游风中的「千年的大乐章」的一部分。造成的伤害提高20%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高32%，攻击力提升40%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。"
+            }
+        },
+        "jp": {
+            "id": "111503",
+            "name": "執行と抗争の歌",
+            "upgrade": {
+                "0": "風と共に流れる「千年の大楽章」の一部。与えるダメージ+10%。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+16%、攻撃力+20%。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "1": "風と共に流れる「千年の大楽章」の一部。与えるダメージ+12.5%。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+20%、攻撃力+25%。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "2": "風と共に流れる「千年の大楽章」の一部。与えるダメージ+15%。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+24%、攻撃力+30%。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "3": "風と共に流れる「千年の大楽章」の一部。与えるダメージ+17.5%。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+28%、攻撃力+35%。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。",
+                "4": "風と共に流れる「千年の大楽章」の一部。与えるダメージ+20%。元素反応を起こすと、奮起の欠片を1枚獲得する。この効果は0.5秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。奮起の欠片を2枚集めると、全ての奮起の欠片を消費し、周囲のチーム全員に12秒継続する「千年の大楽章·抗争の歌」効果を付与する：通常攻撃、重撃、落下攻撃のダメージ+32%、攻撃力+40%。発動後20秒の間、奮起の欠片を再度獲得することはできない。「千年の大楽章」のもたらす各効果中、同種類の効果は重ね掛け不可。"
+            }
+        }
+    }
+}

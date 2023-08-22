@@ -1,0 +1,141 @@
+{
+    "id": "11407",
+    "ENname": "Iron Sting",
+    "CNname": "铁蜂刺",
+    "JAname": "鉄蜂の刺し",
+    "imageurl": "images/weapon/11407.png",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "element_mastery": 36
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "element_mastery": 41.831999999999994
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "element_mastery": 49.068
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "element_mastery": 56.339999999999996
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "element_mastery": 63.611999999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "element_mastery": 70.884
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "element_mastery": 78.15599999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "element_mastery": 85.42800000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "element_mastery": 92.7
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "element_mastery": 99.97200000000001
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "element_mastery": 107.244
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "element_mastery": 114.516
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "element_mastery": 121.788
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "element_mastery": 129.06
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "element_mastery": 136.296
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "element_mastery": 143.568
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "element_mastery": 150.84
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "element_mastery": 158.11200000000002
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "element_mastery": 165.38400000000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "111407",
+            "name": "Infusion Stinger",
+            "upgrade": {
+                "0": "Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can occur once every 1s.",
+                "1": "Dealing Elemental DMG increases all DMG by 7.5% for 6s. Max 2 stacks. Can occur once every 1s.",
+                "2": "Dealing Elemental DMG increases all DMG by 9% for 6s. Max 2 stacks. Can occur once every 1s.",
+                "3": "Dealing Elemental DMG increases all DMG by 10.5% for 6s. Max 2 stacks. Can occur once every 1s.",
+                "4": "Dealing Elemental DMG increases all DMG by 12% for 6s. Max 2 stacks. Can occur once every 1s."
+            }
+        },
+        "chs": {
+            "id": "111407",
+            "name": "注能之刺",
+            "upgrade": {
+                "0": "造成元素伤害后的6秒内，角色造成的伤害提高6%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+                "1": "造成元素伤害后的6秒内，角色造成的伤害提高7.5%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+                "2": "造成元素伤害后的6秒内，角色造成的伤害提高9%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+                "3": "造成元素伤害后的6秒内，角色造成的伤害提高10.5%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+                "4": "造成元素伤害后的6秒内，角色造成的伤害提高12%，该效果最多叠加2层。该效果每1秒可以触发一次。"
+            }
+        },
+        "jp": {
+            "id": "111407",
+            "name": "注入の棘",
+            "upgrade": {
+                "0": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+6%、最大2重まで。1秒毎に1回のみ発動可能。",
+                "1": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+7.5%、最大2重まで。1秒毎に1回のみ発動可能。",
+                "2": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+9%、最大2重まで。1秒毎に1回のみ発動可能。",
+                "3": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+10.5%、最大2重まで。1秒毎に1回のみ発動可能。",
+                "4": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+12%、最大2重まで。1秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}
