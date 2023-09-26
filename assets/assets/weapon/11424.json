@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "111424",
-            "name": "",
+            "name": "Northwind Wolf",
             "upgrade": {
                 "0": "DMG dealt by Elemental Skill and Elemental Burst is increased by 16%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
                 "1": "DMG dealt by Elemental Skill and Elemental Burst is increased by 20%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2.5%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2.5%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
@@ -128,9 +128,9 @@
         },
         "jp": {
             "id": "111424",
-            "name": "",
+            "name": "蒼き狼の北風",
             "upgrade": {
-                "0": "元素スキルと元素爆発のダメージ+16%。元素スキルが敵に命中した時、元素スキルの会心率+2%。元素爆発が敵に命中した時、元素爆発の会心率+2%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
+                "0": "",
                 "1": "元素スキルと元素爆発のダメージ+20%。元素スキルが敵に命中した時、元素スキルの会心率+2.5%。元素爆発が敵に命中した時、元素爆発の会心率+2.5%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
                 "2": "元素スキルと元素爆発のダメージ+24%。元素スキルが敵に命中した時、元素スキルの会心率+3%。元素爆発が敵に命中した時、元素爆発の会心率+3%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",
                 "3": "元素スキルと元素爆発のダメージ+28%。元素スキルが敵に命中した時、元素スキルの会心率+3.5%。元素爆発が敵に命中した時、元素爆発の会心率+3.5%。上記二つの効果はそれぞれ、継続時間10秒、最大4層まで重ね掛け可能、0.1秒毎に1回のみ発動できる。",

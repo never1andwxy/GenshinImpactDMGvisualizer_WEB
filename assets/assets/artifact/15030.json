@@ -1,0 +1,75 @@
+{
+    "id": "15030",
+    "ENname": "Vourukasha's Glow",
+    "CNname": "花海甘露之光",
+    "JAname": "花海甘露の光",
+    "imageurl": "images/artifact/15030.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "HP +20%",
+            "DescriptionCN": "生命值提升20%。",
+            "DescriptionJP": "HP+20%。"
+        },
+        "4": {
+            "DescriptionEN": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field.",
+            "DescriptionCN": "元素战技与元素爆发造成的伤害提升10%；装备者受到伤害后的5秒内，上述伤害提升效果提高80%，该提高效果至多叠加5层，每层持续时间独立计算，处于队伍后台时依然能触发该效果。",
+            "DescriptionJP": "元素スキルと元素爆発のダメージ+10%。装備者がダメージを受けた後の5秒間、上記強化効果の効果量+80%、最大5層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。装備したキャラクターが待機している場合にも効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Stamen of Khvarena's Origin",
+            "CNname": "灵光源起之蕊",
+            "JAname": "霊光起源の蕊",
+            "DescriptionEN": "An insignia in the shape of a lovely little flower that was once worn by pilgrims in times long bygone.",
+            "DescriptionCN": "久远的朝圣者曾佩戴的徽记，是一朵华丽的小花。",
+            "DescriptionJP": "遥か昔の巡礼者がつけていた勲章。華麗な小花である。",
+            "imageurl": "images/artifact/15030-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Vibrant Pinion",
+            "CNname": "琦色灵彩之羽",
+            "JAname": "霊彩奇麗の羽",
+            "DescriptionEN": "An exquisite feather-shaped decoration on which the vivid hues of verdant leaves and fragrant flowers shimmer.",
+            "DescriptionCN": "精巧的羽状饰品，闪烁着绿叶与芳花的光泽。",
+            "DescriptionJP": "繊細な作りをした、羽の装飾品。緑の葉っぱとかぐわしい花の光沢が輝いている。",
+            "imageurl": "images/artifact/15030-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Ancient Abscission",
+            "CNname": "久远花落之时",
+            "JAname": "久遠落花の時",
+            "DescriptionEN": "An ancient timepiece upon which the light of Khvarena gleams. It is filled with a pure liquid that appears alive.",
+            "DescriptionCN": "闪烁着灵光的古老时计，其中盛装着似有生命的纯净液体。",
+            "DescriptionJP": "霊光の輝く古い時計。中に入っているのは命があるかのような清潔な液体。",
+            "imageurl": "images/artifact/15030-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Feast of Boundless Joy",
+            "CNname": "无边酣乐之筵",
+            "JAname": "喜楽無限の宴",
+            "DescriptionEN": "An opulent wine goblet that was once filled with nectar and honeydew, but is empty today.",
+            "DescriptionCN": "曾盛装琼浆蜜露的华丽酒杯，如今已空空如也。",
+            "DescriptionJP": "美酒を入れていた華麗な盃。今はもう空っぽだ。",
+            "imageurl": "images/artifact/15030-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Heart of Khvarena's Brilliance",
+            "CNname": "灵光明烁之心",
+            "JAname": "霊光明滅の心",
+            "DescriptionEN": "Intricate and vibrant earrings upon which the luster of a hundred flowers seems to flow.",
+            "DescriptionCN": "精致多彩的耳饰，其上仿佛流露着百种花儿的光泽。",
+            "DescriptionJP": "繊細な作りをした、鮮やかな耳飾り。無数の花が輝きを放っているようだ。",
+            "imageurl": "images/artifact/15030-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

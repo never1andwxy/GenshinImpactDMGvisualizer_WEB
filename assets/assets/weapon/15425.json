@@ -2,7 +2,7 @@
     "id": "15425",
     "ENname": "Song of Stillness",
     "CNname": "静谧之曲",
-    "JAname": "静謐なる曲",
+    "JAname": "静寂の唄",
     "imageurl": "images/weapon/15425.png",
     "type": "bow",
     "rarity": 4,
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "115425",
-            "name": "",
+            "name": "Benthic Pulse",
             "upgrade": {
                 "0": "After the wielder is healed, they will deal 16% more DMG for 8s. This can be triggered even when the character is not on the field.",
                 "1": "After the wielder is healed, they will deal 20% more DMG for 8s. This can be triggered even when the character is not on the field.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "115425",
-            "name": "",
+            "name": "深海の鳴弦",
             "upgrade": {
                 "0": "治療を受けた後、与えるダメージ+16%、継続時間8秒。キャラクターが待機中でも発動できる。",
                 "1": "治療を受けた後、与えるダメージ+20%、継続時間8秒。キャラクターが待機中でも発動できる。",

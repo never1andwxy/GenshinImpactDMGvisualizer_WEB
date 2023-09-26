@@ -106,13 +106,13 @@
     "refinement": {
         "en": {
             "id": "111425",
-            "name": "",
+            "name": "An End Sublime",
             "upgrade": {
-                "0": "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the Bond for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
-                "1": "When using an Elemental Skill, ATK will be increased by 15% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 187.5 ATK will be gained based on 3% of the Bond for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
-                "2": "When using an Elemental Skill, ATK will be increased by 18% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 225 ATK will be gained based on 3.6% of the Bond for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
-                "3": "When using an Elemental Skill, ATK will be increased by 21% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 262.5 ATK will be gained based on 4.2% of the Bond for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
-                "4": "When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the Bond for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained."
+                "0": "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "1": "When using an Elemental Skill, ATK will be increased by 15% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 187.5 ATK will be gained based on 3% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "2": "When using an Elemental Skill, ATK will be increased by 18% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 225 ATK will be gained based on 3.6% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "3": "When using an Elemental Skill, ATK will be increased by 21% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 262.5 ATK will be gained based on 4.2% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "4": "When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained."
             }
         },
         "chs": {
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "111425",
-            "name": "",
+            "name": "最後の崇高",
             "upgrade": {
                 "0": "元素スキルを発動する時、攻撃力+12%、継続時間15秒。さらに、HP上限の25%を基に命の契約を付与、この効果は10秒毎に1回のみ発動可能。命の契約がクリアされた時、クリア時の数値の2.4%を基に攻撃力最大+150、継続時間15秒。命の契約：その値の分だけキャラクターが受ける治療を吸収し、同等の回復量を吸収した後にクリアされる。",
                 "1": "元素スキルを発動する時、攻撃力+15%、継続時間15秒。さらに、HP上限の25%を基に命の契約を付与し、この効果は10秒毎に1回のみ発動可能。命の契約がクリアされた時、クリア時の数値の3%を基に攻撃力最大+187.5、継続時間15秒。命の契約：その値の分だけキャラクターが受ける治療を吸収し、同等の回復量を吸収した後にクリアされる。",

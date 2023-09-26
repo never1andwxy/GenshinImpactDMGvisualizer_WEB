@@ -1,0 +1,141 @@
+{
+    "id": "14513",
+    "ENname": "Cashflow Supervision",
+    "CNname": "金流监督",
+    "JAname": "凛流の監視者",
+    "imageurl": "images/weapon/14513.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical": 0.048
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical": 0.055776
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical": 0.065424
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical": 0.07511999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical": 0.084816
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical": 0.09451200000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical": 0.104208
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical": 0.11390400000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "critical": 0.12360000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical": 0.133296
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "critical": 0.142992
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical": 0.15268800000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "critical": 0.162384
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical": 0.17208
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "critical": 0.181728
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical": 0.191424
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "critical": 0.20112000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical": 0.21081600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "critical": 0.220512
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114513",
+            "name": "Golden Blood-Tide",
+            "upgrade": {
+                "0": "ATK is increased by 16%. When current HP increases or decreases, Normal Attack DMG will be increased by 16% and Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 8%.",
+                "1": "ATK is increased by 20%. When current HP increases or decreases, Normal Attack DMG will be increased by 20% and Charged Attack DMG will be increased by 17.5% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 10%.",
+                "2": "ATK is increased by 24%. When current HP increases or decreases, Normal Attack DMG will be increased by 24% and Charged Attack DMG will be increased by 21% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 12%.",
+                "3": "ATK is increased by 28%. When current HP increases or decreases, Normal Attack DMG will be increased by 28% and Charged Attack DMG will be increased by 24.5% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 14%.",
+                "4": "ATK is increased by 32%. When current HP increases or decreases, Normal Attack DMG will be increased by 32% and Charged Attack DMG will be increased by 28% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 16%."
+            }
+        },
+        "chs": {
+            "id": "114513",
+            "name": "黄金的血潮",
+            "upgrade": {
+                "0": "攻击力提升16%。当前生命值提升或降低时，普通攻击造成的伤害提升16%，重击造成的伤害提升14%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升8%。",
+                "1": "攻击力提升20%。当前生命值提升或降低时，普通攻击造成的伤害提升20%，重击造成的伤害提升17.5%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升10%。",
+                "2": "攻击力提升24%。当前生命值提升或降低时，普通攻击造成的伤害提升24%，重击造成的伤害提升21%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升12%。",
+                "3": "攻击力提升28%。当前生命值提升或降低时，普通攻击造成的伤害提升28%，重击造成的伤害提升24.5%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升14%。",
+                "4": "攻击力提升32%。当前生命值提升或降低时，普通攻击造成的伤害提升32%，重击造成的伤害提升28%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升16%。"
+            }
+        },
+        "jp": {
+            "id": "114513",
+            "name": "黄金の血潮",
+            "upgrade": {
+                "0": "攻撃力+16%。現在のHPが増える、または減る時、通常攻撃ダメージ+16%、重撃ダメージ+14%。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+8%。",
+                "1": "攻撃力+20%。現在のHPが増える、または減る時、通常攻撃ダメージ+20%、重撃ダメージ+17.5%。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+10%。",
+                "2": "攻撃力+24%。現在のHPが増える、または減る時、通常攻撃ダメージ+24%、重撃ダメージ+21%。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+12%。",
+                "3": "攻撃力+28%。現在のHPが増える、または減る時、通常攻撃ダメージ+28%、重撃ダメージ+24.5%。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+14%。",
+                "4": "攻撃力+32%。現在のHPが増える、または減る時、通常攻撃ダメージ+32%、重撃ダメージ+28%。継続時間4秒、最大3層まで。この効果は0.3秒毎に1回のみ発動可能。3層まで重ねた時、攻撃速度+16%。"
+            }
+        }
+    }
+}

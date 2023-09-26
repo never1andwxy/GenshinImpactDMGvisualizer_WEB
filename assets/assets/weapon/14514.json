@@ -1,0 +1,141 @@
+{
+    "id": "14514",
+    "ENname": "Tome of the Eternal Flow",
+    "CNname": "万世流涌大典",
+    "JAname": "久遠流転の大典",
+    "imageurl": "images/weapon/14514.png",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "critical_hurt": 0.192
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "critical_hurt": 0.223104
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "critical_hurt": 0.261696
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "critical_hurt": 0.30047999999999997
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "critical_hurt": 0.339264
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "critical_hurt": 0.37804800000000005
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "critical_hurt": 0.416832
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "critical_hurt": 0.4556160000000001
+        },
+        {
+            "level": "40",
+            "base_attack": 209.81760979999999,
+            "critical_hurt": 0.49440000000000006
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "critical_hurt": 0.533184
+        },
+        {
+            "level": "50",
+            "base_attack": 275.455198,
+            "critical_hurt": 0.571968
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "critical_hurt": 0.6107520000000001
+        },
+        {
+            "level": "60",
+            "base_attack": 341.458801,
+            "critical_hurt": 0.649536
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "critical_hurt": 0.68832
+        },
+        {
+            "level": "70",
+            "base_attack": 407.80576199999996,
+            "critical_hurt": 0.726912
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "critical_hurt": 0.765696
+        },
+        {
+            "level": "80",
+            "base_attack": 474.5517552,
+            "critical_hurt": 0.8044800000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "critical_hurt": 0.8432640000000001
+        },
+        {
+            "level": "90",
+            "base_attack": 541.829758,
+            "critical_hurt": 0.882048
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114514",
+            "name": "Aeon Wave",
+            "upgrade": {
+                "0": "HP is increased by 16%. When current HP increases or decreases, Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 8 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "1": "HP is increased by 20%. When current HP increases or decreases, Charged Attack DMG will be increased by 18% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 9 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "2": "HP is increased by 24%. When current HP increases or decreases, Charged Attack DMG will be increased by 22% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 10 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "3": "HP is increased by 28%. When current HP increases or decreases, Charged Attack DMG will be increased by 26% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 11 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "4": "HP is increased by 32%. When current HP increases or decreases, Charged Attack DMG will be increased by 30% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 12 Energy will be restored. This Energy restoration effect can be triggered once every 12s."
+            }
+        },
+        "chs": {
+            "id": "114514",
+            "name": "万世的浪涛",
+            "upgrade": {
+                "0": "生命值提升16%。当前生命值提升或降低时，重击造成的伤害提升14%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复8点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
+                "1": "生命值提升20%。当前生命值提升或降低时，重击造成的伤害提升18%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复9点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
+                "2": "生命值提升24%。当前生命值提升或降低时，重击造成的伤害提升22%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复10点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
+                "3": "生命值提升28%。当前生命值提升或降低时，重击造成的伤害提升26%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复11点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
+                "4": "生命值提升32%。当前生命值提升或降低时，重击造成的伤害提升30%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复12点元素能量，每12秒至多通过这种方式恢复一次元素能量。"
+            }
+        },
+        "jp": {
+            "id": "114514",
+            "name": "万世の大波",
+            "upgrade": {
+                "0": "HP上限+16%。現在のHPが増える、または減る時、重撃ダメージ+14%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを8ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
+                "1": "HP上限+20%。現在のHPが増える、または減る時、重撃ダメージ+18%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを9ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
+                "2": "HP上限+24%。現在のHPが増える、または減る時、重撃ダメージ+22%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを10ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
+                "3": "HP上限+28%。現在のHPが増える、または減る時、重撃ダメージ+26%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを11ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
+                "4": "HP上限+32%。現在のHPが増える、または減る時、重撃ダメージ+30%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを12ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。"
+            }
+        }
+    }
+}

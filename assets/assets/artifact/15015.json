@@ -1,0 +1,75 @@
+{
+    "id": "15015",
+    "ENname": "Retracing Bolide",
+    "CNname": "逆飞的流星",
+    "JAname": "逆飛びの流星",
+    "imageurl": "images/artifact/15015.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Shield Strength by 35%.",
+            "DescriptionCN": "护盾强效提高35%。",
+            "DescriptionJP": "シールド強化+35%"
+        },
+        "4": {
+            "DescriptionEN": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+            "DescriptionCN": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。",
+            "DescriptionJP": "シールド状態の時、通常攻撃と重撃ダメージ+40%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Summer Night's Bloom",
+            "CNname": "夏祭之花",
+            "JAname": "夏祭りの花",
+            "DescriptionEN": "A man-made flower in eternal bloom. Who knows if there truly is life in there?",
+            "DescriptionCN": "永远盛放的人造之花，其中是否具有生命呢。",
+            "DescriptionJP": "永遠に咲き続ける造花、その中には命が宿っているかな？",
+            "imageurl": "images/artifact/15015-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Summer Night's Finale",
+            "CNname": "夏祭终末",
+            "JAname": "夏祭りの終わり",
+            "DescriptionEN": "A well-crafted wooden dart. It will only stop once it has reached its destination.",
+            "DescriptionCN": "精致的木造飞镖。抵达终点时才会停滞之物。",
+            "DescriptionJP": "精巧な木製ダーツ。終点に着くまでは止まらない物。",
+            "imageurl": "images/artifact/15015-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Summer Night's Moment",
+            "CNname": "夏祭之刻",
+            "JAname": "夏祭りの刻",
+            "DescriptionEN": "A pocketwatch that has stopped at a certain point in time.",
+            "DescriptionCN": "停滞在某一时刻的精致怀钟。",
+            "DescriptionJP": "ある時間に止まった懐中時計。",
+            "imageurl": "images/artifact/15015-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Summer Night's Waterballoon",
+            "CNname": "夏祭水玉",
+            "JAname": "夏祭りの水風船",
+            "DescriptionEN": "Water balloons can be seen everywhere during the summer festival, but none are as finely-wrought as this one.",
+            "DescriptionCN": "夏祭时，盛水气球并不罕见。但如此精致的仅此一个。",
+            "DescriptionJP": "夏祭りでは水風船がよく見られる。しかしこれほど精巧な水風船はこの一個しかない。",
+            "imageurl": "images/artifact/15015-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Summer Night's Mask",
+            "CNname": "夏祭之面",
+            "JAname": "夏祭りの仮面",
+            "DescriptionEN": "A popular mask cast in the image of a deity, as described in the legends.",
+            "DescriptionCN": "依据传说中的神明形象制作的，十分流行的面具。",
+            "DescriptionJP": "伝説の神のイメージを元に作った仮面、とても流行っているもの。",
+            "imageurl": "images/artifact/15015-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "15028",
+    "ENname": "Flower of Paradise Lost",
+    "CNname": "乐园遗落之花",
+    "JAname": "楽園の絶花",
+    "imageurl": "images/artifact/15028.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Mastery by 80.",
+            "DescriptionCN": "元素精通提高80点。",
+            "DescriptionJP": "元素熟知+80。"
+        },
+        "4": {
+            "DescriptionEN": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
+            "DescriptionCN": "装备者绽放、超绽放、烈绽放反应造成的伤害提升40%。此外，装备者触发绽放、超绽放、烈绽放后，上述效果带来的加成提升25%，该效果持续10秒，至多叠加4次，每1秒至多触发一次。装备者处于队伍后台时依然能触发该效果。",
+            "DescriptionJP": "開花、超開花、烈開花反応によるダメージ+40%。また、装備者自身が開花、超開花、烈開花を起こした後、上記強化効果の効果量+25%、継続時間10秒、最大4層まで重ねられ、1秒毎に最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Ay-Khanoum's Myriad",
+            "CNname": "月女的华彩",
+            "JAname": "月娘の華彩",
+            "DescriptionEN": "An amethyst bloom that has been beautifully sculpted in the image of an ancient, extinct flower.",
+            "DescriptionCN": "精雕细琢的紫水晶之花，其形态描摹了一种近乎绝迹的古代花朵。",
+            "DescriptionJP": "精巧に彫られた紫水晶の花。今はもうほとんど絶滅してしまった古代の花を模している。",
+            "imageurl": "images/artifact/15028-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Wilting Feast",
+            "CNname": "谢落的筵席",
+            "JAname": "落謝の宴席",
+            "DescriptionEN": "A feather left behind by a long-extinct bird species. It was inlaid with gold and gems by the ancient adherents of the Goddess of Flowers.",
+            "DescriptionCN": "早已绝迹的鸟类留下的羽毛，被古代花神的信徒镶嵌了亮丽的黄金与宝石。",
+            "DescriptionJP": "遠い昔に絶滅した鳥が残した羽。古代の花神の信者によって、華やかな黄金と宝石があしらわれた。",
+            "imageurl": "images/artifact/15028-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "A Moment Congealed",
+            "CNname": "凝结的时刻",
+            "JAname": "凝結の刹那",
+            "DescriptionEN": "These sands no longer move no matter how you tilt the hourglass, now and forever defying the drift of time itself.",
+            "DescriptionCN": "不再流动的沙漏，无论如何颠倒，都不再回应时间的流动。",
+            "DescriptionJP": "砂が流れなくなった砂時計。いくら逆さまにしても、時間は流れない。",
+            "imageurl": "images/artifact/15028-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Secret-Keeper's Magic Bottle",
+            "CNname": "守秘的魔瓶",
+            "JAname": "守秘の魔瓶",
+            "DescriptionEN": "A small bottle made of purple crystal. An emerald cap keeps it tightly sealed.",
+            "DescriptionCN": "紫色水晶雕成的小瓶，被祖母绿的瓶盖紧紧封装着。",
+            "DescriptionJP": "紫色の水晶から彫られた小さな瓶。エメラルドの蓋によりしっかりと密封されている。",
+            "imageurl": "images/artifact/15028-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Amethyst Crown",
+            "CNname": "紫晶的花冠",
+            "JAname": "紫晶の花冠",
+            "DescriptionEN": "A crown inlaid with amethyst and emerald. It seems to have been the headgear worn by ancient priests of the Goddess of Flowers.",
+            "DescriptionCN": "镶嵌着紫水晶与祖母绿的冠冕，似乎是古代花神祭司的头饰。",
+            "DescriptionJP": "紫水晶とエメラルドが散りばめられている冠。古代の花神の祭司が身につけていた髪飾りのようだ。",
+            "imageurl": "images/artifact/15028-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

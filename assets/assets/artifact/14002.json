@@ -1,0 +1,75 @@
+{
+    "id": "14002",
+    "ENname": "Thundersoother",
+    "CNname": "平息鸣雷的尊者",
+    "JAname": "雷を鎮める尊者",
+    "imageurl": "images/artifact/14002.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Electro RES increased by 40%.",
+            "DescriptionCN": "雷元素抗性提高40%。",
+            "DescriptionJP": "雷元素耐性+40%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases DMG against opponents affected by Electro by 35%.",
+            "DescriptionCN": "对处于雷元素影响下的敌人造成的伤害提升35%。",
+            "DescriptionJP": "雷元素の影響を受けた敵に対するダメージ+35%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Thundersoother's Heart",
+            "CNname": "平雷之心",
+            "JAname": "雷討ちの心",
+            "DescriptionEN": "A flower that blooms even amidst ferocious thunder and lightning. To this day, it still grants courage to travelers in thunderstorms.",
+            "DescriptionCN": "仅于雷霆之怒中傲然盛放的花朵，至今仍能赐予行走在雷雨中的游人勇气。",
+            "DescriptionJP": "雷霆の中に咲き誇る花、今でも雷雨の中を行く人々に勇気を与える。",
+            "imageurl": "images/artifact/14002-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Thundersoother's Plume",
+            "CNname": "平雷之羽",
+            "JAname": "雷討ちの羽根",
+            "DescriptionEN": "The feather of a predatory bird that soars through lightning storms. It was said to have been adopted as an insignia by the legendary hero who pacified thunder and lightning.",
+            "DescriptionCN": "在传说中，挺身平息了雷电的勇武英雄的徽章，是翱翔于狂雷的猛禽之羽。",
+            "DescriptionJP": "伝説によると、雷電を退治した英雄が使用していたバッジ、狂雷の中を飛ぶ猛禽の羽根でできたらしい。",
+            "imageurl": "images/artifact/14002-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Hour of Soothing Thunder",
+            "CNname": "平雷之刻",
+            "JAname": "雷討ちの刻",
+            "DescriptionEN": "A timepiece kept by the hero who conquered thunder and lightning. The tiny shards of Electro crystal within flow back and forth with the passing of time.",
+            "DescriptionCN": "镇服雷电的勇士持有的时计，其中的雷之碎晶随流逝如雷如电的时间泻落。",
+            "DescriptionJP": "雷電を退治した勇士が使用していた時計、中の雷の結晶は雷電のように過ぎていく時間と共に落ちていく。",
+            "imageurl": "images/artifact/14002-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Thundersoother's Goblet",
+            "CNname": "平雷之器",
+            "JAname": "雷討ちの器",
+            "DescriptionEN": "The wine goblet from which the Thundersoother, who defeated the Beast of Thunder, once drank violet lightning.",
+            "DescriptionCN": "平雷勇士的酒盏，据说平息了雷之魔兽的英雄曾用这尊酒盏满盛紫电为饮。",
+            "DescriptionJP": "雷討ちの勇士の盃。雷の魔獣を退治した英雄がこの盃を使って紫電を飲んだらしい。",
+            "imageurl": "images/artifact/14002-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Thundersoother's Diadem",
+            "CNname": "平雷之冠",
+            "JAname": "雷討ちの冠",
+            "DescriptionEN": "The crown given to the Thundersoother for defeating the Beast of Thunder that had been wreaking havoc upon the land.",
+            "DescriptionCN": "平雷勇士的冠冕，是古老的英雄击败了危害大地的雷之魔兽而获得的华冠。",
+            "DescriptionJP": "雷討ちの勇士の冠、古き英雄が大地に害をなす雷の魔獣を倒して獲得した冠である。",
+            "imageurl": "images/artifact/14002-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

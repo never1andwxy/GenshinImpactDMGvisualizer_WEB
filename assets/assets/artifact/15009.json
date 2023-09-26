@@ -1,0 +1,30 @@
+{
+    "id": "15009",
+    "ENname": "Prayers for Illumination",
+    "CNname": "祭火之人",
+    "JAname": "火祭りの人",
+    "imageurl": "images/artifact/15009.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "1": {
+            "DescriptionEN": "Affected by Pyro for 40% less time.",
+            "DescriptionCN": "受到的火元素附着效果的持续时间减少40%。",
+            "DescriptionJP": "キャラが受けた炎元素付着の効果継続時間-40%。"
+        }
+    },
+    "suit": {
+        "dress": {
+            "ENname": "Tiara of Flame",
+            "CNname": "祭火礼冠",
+            "JAname": "火祭りの冠",
+            "DescriptionEN": "A tiara worn by those tasked with offering sacrifices in ancient times. After being subjected to the dancing sacrificial flames year in and year out, it possesses remarkable resistance.",
+            "DescriptionCN": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年受火舌舔舐，具有奇妙的抗性。",
+            "DescriptionJP": "大昔の時代の司祭が使用していた冠。長年火に焼かれていたため、不思議な耐性を持っている。",
+            "imageurl": "images/artifact/15009-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

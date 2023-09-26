@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "111426",
-            "name": "",
+            "name": "Ironbone",
             "upgrade": {
                 "0": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill.",
                 "1": "Increases Elemental Skill CRIT Rate by 10%. Additionally, increases Energy Recharge by 20% for 5s after using an Elemental Skill.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "111426",
-            "name": "",
+            "name": "鉄骨",
             "upgrade": {
                 "0": "元素スキルの会心率+8%。また、元素スキルを発動した後の5秒間、元素チャージ効率+16%。",
                 "1": "元素スキルの会心率+10%。また、元素スキルを発動した後の5秒間、元素チャージ効率+20%。",

@@ -1,0 +1,75 @@
+{
+    "id": "15022",
+    "ENname": "Ocean-Hued Clam",
+    "CNname": "海染砗磲",
+    "JAname": "海染硨磲",
+    "imageurl": "images/artifact/15022.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Healing Bonus +15%.",
+            "DescriptionCN": "治疗加成提高15%。",
+            "DescriptionJP": "与える治療効果+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+            "DescriptionCN": "装备此圣遗物套装的角色对队伍中的角色进行治疗时，将产生持续3秒的海染泡沫，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，海染泡沫将会爆炸，对周围的敌人造成90%累计回复量的伤害（该伤害结算方式同感电、超导等元素反应，但不受元素精通、等级或反应伤害加成效果影响）。每3.5秒至多产生一个海染泡沫；海染泡沫至多记录30000点回复量，含溢出部分的治疗量；自己的队伍中同时至多存在一个海染泡沫。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+            "DescriptionJP": "この聖遺物セットを装備したキャラクターがチーム内のキャラクターに治療を行うと、治療によるHP回復量（HP上限を超えた回復量も含む）を記録する海染の泡を生成する。海染の泡は3秒継続する。継続時間終了時、海染の泡は破裂し、周囲の敵に記録した回復量の90%分のダメージを与える（このダメージは感電や超電導などの元素反応と同じように計算されるが、元素熟知、キャラクターLv、または元素反応のダメージアップ効果の影響は受けない）。海染の泡は3.5秒毎に1回のみ生成可能。海染の泡が記録できる回復量は最大30000までとなり、HP上限超過分の回復量を含む。チーム内で、海染の泡は同時に最大1つまで存在できる。この聖遺物セットを装備したキャラクターは待機中でも、この効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Sea-Dyed Blossom",
+            "CNname": "海染之花",
+            "JAname": "海染の花",
+            "DescriptionEN": "A soft flower that has taken on the many shades of the capricious ocean. It shines with wondrous colors under the moon's silver light.",
+            "DescriptionCN": "染上多变海色的轻柔之花，在月光下闪烁着奇妙的色彩。",
+            "DescriptionJP": "多様に変化する海の色を帯びた、しなやかな花。月明かりに照らされると、不思議な色彩を反射する。",
+            "imageurl": "images/artifact/15022-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Deep Palace's Plume",
+            "CNname": "渊宫之羽",
+            "JAname": "淵宮の羽",
+            "DescriptionEN": "A down feather with the same hue as coral, said to come from a shrine maiden's ceremonial garment.",
+            "DescriptionCN": "与珊瑚同色的柔弱彩羽，据说出自巫女的羽衣。",
+            "DescriptionJP": "珊瑚と同じ色をした脆き彩羽。巫女の羽衣に使われていたらしい。",
+            "imageurl": "images/artifact/15022-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Cowry of Parting",
+            "CNname": "离别之贝",
+            "JAname": "別れの貝",
+            "DescriptionEN": "A clean, flawless seashell that comes from the bottomless ocean.",
+            "DescriptionCN": "明净无垢的贝壳，来自深邃无底的大海。",
+            "DescriptionJP": "底なしの深き海に由来する、透き通った無垢の貝殻。",
+            "imageurl": "images/artifact/15022-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Pearl Cage",
+            "CNname": "真珠之笼",
+            "JAname": "真珠の籠",
+            "DescriptionEN": "The shining pearls that the shrine maidens of Watatsumi Island offer up shine eternally and never dim.",
+            "DescriptionCN": "海祇岛的巫女们所供奉的明珠，始终闪烁着点点光芒，从未黯淡。",
+            "DescriptionJP": "海祇島の巫女たちが祀る真珠。常に微かな光を放っており、その光が弱まることはない。",
+            "imageurl": "images/artifact/15022-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Crown of Watatsumi",
+            "CNname": "海祇之冠",
+            "JAname": "海祇の冠",
+            "DescriptionEN": "An ancient, intricate crown that was once used by a forgotten clergy member. Today, this relic has been enshrined with great ceremony by the people of Watatsumi.",
+            "DescriptionCN": "古老精致的冠冕，由被遗忘的「神人」所拥有。如今被海祇之民精心封存起来。",
+            "DescriptionJP": "忘れ去られた「神人」が所有していた精巧な古の冠。今は海祇の人々によって大切に保管されている。",
+            "imageurl": "images/artifact/15022-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

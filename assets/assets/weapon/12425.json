@@ -2,7 +2,7 @@
     "id": "12425",
     "ENname": "Tidal Shadow",
     "CNname": "浪影阔剑",
-    "JAname": "波影段平",
+    "JAname": "タイダル·シャドー",
     "imageurl": "images/weapon/12425.png",
     "type": "claymore",
     "rarity": 4,
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "112425",
-            "name": "",
+            "name": "White Cruising Wave",
             "upgrade": {
                 "0": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
                 "1": "After the wielder is healed, ATK will be increased by 30% for 8s. This can be triggered even when the character is not on the field.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "112425",
-            "name": "",
+            "name": "巡航の白波",
             "upgrade": {
                 "0": "治療を受けた後、攻撃力+24%、継続時間8秒。キャラクターが待機中でも発動できる。",
                 "1": "治療を受けた後、攻撃力+30%、継続時間8秒。キャラクターが待機中でも発動できる。",

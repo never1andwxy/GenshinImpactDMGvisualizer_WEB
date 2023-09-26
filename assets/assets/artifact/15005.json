@@ -1,0 +1,75 @@
+{
+    "id": "15005",
+    "ENname": "Thundering Fury",
+    "CNname": "如雷的盛怒",
+    "JAname": "雷のような怒り",
+    "imageurl": "images/artifact/15005.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Electro DMG Bonus +15%",
+            "DescriptionCN": "获得15%雷元素伤害加成。",
+            "DescriptionJP": "雷元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+            "DescriptionCN": "超载、感电、超导、超绽放反应造成的伤害提升40%，超激化反应带来的伤害提升提高20%。触发上述元素反应或原激化反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
+            "DescriptionJP": "過負荷、感電、超電導、超開花反応によるダメージ+40%、超激化反応によるダメージアップ効果+20%。上記元素反応または原激化反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Thunderbird's Mercy",
+            "CNname": "雷鸟的怜悯",
+            "JAname": "雷鳥の憐み",
+            "DescriptionEN": "A lightning-infused flower, somehow spared the fate of being trodden underfoot or reduced to ash by the furious purple fire, making it the sole survivor on the day of disaster.",
+            "DescriptionCN": "在劫难之日侥幸免受纷乱的践踏与紫之火的忿恨之摧，于惨象中幸存的雷色之花。",
+            "DescriptionJP": "災難の日に紫炎の怒りから逃れ、災禍の生き残りとなった雷色の花。",
+            "imageurl": "images/artifact/15005-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Survivor of Catastrophe",
+            "CNname": "雷灾的孑遗",
+            "JAname": "雷災の生存者",
+            "DescriptionEN": "A lightning-charged feather that still flickers with the wrath of the Thunderbird's cruel retribution.",
+            "DescriptionCN": "带电的雷之羽，是雷之魔鸟降下残酷的报应。遗落的羽毛仍闪烁着它盛怒的雷光。",
+            "DescriptionJP": "雷の羽根は雷の魔鳥が与えた残酷な罰の証、落ちた羽根にその怒りを表す雷光がちらつく。",
+            "imageurl": "images/artifact/15005-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Hourglass of Thunder",
+            "CNname": "雷霆的时计",
+            "JAname": "雷霆の時計",
+            "DescriptionEN": "The hourglass used to foretell the coming of the Thunderbird by the tribe that worshiped it. It has fallen into eternal silence now that the tribe is no more.",
+            "DescriptionCN": "信奉雷鸟的部族预告天空的雷之主降临的沙漏。因一族的末路陷入了永远的静止。",
+            "DescriptionJP": "雷鳥を信奉する部族が、天空の雷の主の降臨を予告する際に使われた砂時計。一族の終焉によって永遠の静止に陥った。",
+            "imageurl": "images/artifact/15005-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Omen of Thunderstorm",
+            "CNname": "降雷的凶兆",
+            "JAname": "落雷の前兆",
+            "DescriptionEN": "A ceremonial cup that holds the blood of the innocent. It is brimming with the thundering fury of the prayers that echo within.",
+            "DescriptionCN": "注入无辜者鲜血的祝圣的仪式之杯，祈愿雷鸣回荡其中。最终溢满了如雷的盛怒。",
+            "DescriptionJP": "鮮血が注がれた儀式の杯、雷鳴が中に響き渡るように願う。最終的に雷のような怒りが溢れていた。",
+            "imageurl": "images/artifact/15005-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Thunder Summoner's Crown",
+            "CNname": "唤雷的头冠",
+            "JAname": "雷を呼ぶ冠",
+            "DescriptionEN": "A crown once worn by an ancient shaman who worshiped the Thunderbird. The capricious beast remained unmoved by the shaman's devotion.",
+            "DescriptionCN": "古代崇拜雷之魔鸟的萨满曾戴过的头冠，虔诚的信仰却无法打动喜怒无常的魔兽。",
+            "DescriptionJP": "雷の魔鳥を崇拝した古代のシャーマンが被っていた冠。純粋な信仰は気ままに生きる魔獣を感動させることはなかった。",
+            "imageurl": "images/artifact/15005-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

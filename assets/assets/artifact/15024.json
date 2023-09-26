@@ -1,0 +1,75 @@
+{
+    "id": "15024",
+    "ENname": "Echoes of an Offering",
+    "CNname": "来歆余响",
+    "JAname": "来歆の余響",
+    "imageurl": "images/artifact/15024.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
+            "DescriptionCN": "普通攻击命中敌人时，有36%概率触发「幽谷祝祀」：普通攻击造成的伤害提高，伤害提高值为攻击力的70%，该效果将在普通攻击造成伤害后的0.05秒后清除。普通攻击未触发「幽谷祝祀」时，会使下次触发概率提升20%；0.2秒内至多判定1次触发与否。",
+            "DescriptionJP": "通常攻撃が敵に命中すると、36%の確率で「幽谷祭祀」が発動する。「幽谷祭祀」：通常攻撃ダメージが攻撃力70%分アップする。この効果は通常攻撃でダメージを与えた0.05秒後にクリアされる。通常攻撃後に「幽谷祭祀」が発動しなかった場合、次回の発動確率+20%。発動判定は0.2秒毎に1回のみ行われる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Soulscent Bloom",
+            "CNname": "魂香之花",
+            "JAname": "魂香の花",
+            "DescriptionEN": "A jade carved into the shape of a flower. A phantom scent, here one instant and gone the next, swirls around it.",
+            "DescriptionCN": "花型的玉雕。魂香幽幽的气息似有似无地萦绕其中。",
+            "DescriptionJP": "花の形をした宝玉の彫刻。幽幽たる魂の気を纏っている。",
+            "imageurl": "images/artifact/15024-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Jade Leaf",
+            "CNname": "垂玉之叶",
+            "JAname": "垂玉の葉",
+            "DescriptionEN": "A jade ornament shaped like a leaf. It seems to have once had deep meaning between specific friends.",
+            "DescriptionCN": "宛如叶片的玉佩。过去在特定的友人之间，似乎有着特殊的含义。",
+            "DescriptionJP": "葉っぱの形をした玉佩。かつて、ある友人たちの間で特別な意味を持っていたようだ。",
+            "imageurl": "images/artifact/15024-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Symbol of Felicitation",
+            "CNname": "祝祀之凭",
+            "JAname": "祭祀の証",
+            "DescriptionEN": "A circular jade ornament. Legend has it that it was once used somewhere as a symbol for rituals to begin.",
+            "DescriptionCN": "圆形的玉佩。在某个传说中，它是何地之祭祀肇始的凭证。",
+            "DescriptionJP": "円形の玉佩。とある伝説では、儀式を開始する時の証として使われていたという。",
+            "imageurl": "images/artifact/15024-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Chalice of the Font",
+            "CNname": "涌泉之盏",
+            "JAname": "湧水の杯",
+            "DescriptionEN": "This teacup forever overflows with fresh water. Perhaps it was a gift from an adeptus, one of their relics, or just something they left behind.",
+            "DescriptionCN": "能够源源不断涌出清泉的茶盏。或许是仙家的赠礼、遗物或是失物吧。",
+            "DescriptionJP": "水が永遠に湧き出る杯。恐らくは仙人からの贈り物か遺物、もしくは落とし物だろう。",
+            "imageurl": "images/artifact/15024-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Flowing Rings",
+            "CNname": "浮溯之珏",
+            "JAname": "浮流の対玉",
+            "DescriptionEN": "A pair of earrings made from a single piece of jade. It has a most gentle texture.",
+            "DescriptionCN": "由一块美玉制成的对耳环。有着无比温润的感觉。",
+            "DescriptionJP": "美しい玉石をあしらった耳飾り。優しい温もりが紛れもなく感じられる。",
+            "imageurl": "images/artifact/15024-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

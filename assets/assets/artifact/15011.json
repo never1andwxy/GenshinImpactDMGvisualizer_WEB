@@ -1,0 +1,30 @@
+{
+    "id": "15011",
+    "ENname": "Prayers for Wisdom",
+    "CNname": "祭雷之人",
+    "JAname": "雷祭りの人",
+    "imageurl": "images/artifact/15011.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "1": {
+            "DescriptionEN": "Affected by Electro for 40% less time.",
+            "DescriptionCN": "受到的雷元素附着效果的持续时间减少40%。",
+            "DescriptionJP": "受けた雷元素付着の効果継続時間-40%。"
+        }
+    },
+    "suit": {
+        "dress": {
+            "ENname": "Tiara of Thunder",
+            "CNname": "祭雷礼冠",
+            "JAname": "雷祭りの冠",
+            "DescriptionEN": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it harkened to the call of thunder year in and year out, it possesses remarkable resistance.",
+            "DescriptionCN": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年聆听着雷鸣，具有奇妙的抗性。",
+            "DescriptionJP": "大昔の時代の司祭が使用していた冠。長年雷鳴を傾聴していたため、不思議な耐性を持っている。",
+            "imageurl": "images/artifact/15011-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

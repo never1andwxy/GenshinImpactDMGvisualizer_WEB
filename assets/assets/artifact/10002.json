@@ -1,0 +1,75 @@
+{
+    "id": "10002",
+    "ENname": "Brave Heart",
+    "CNname": "勇士之心",
+    "JAname": "勇士の心",
+    "imageurl": "images/artifact/10002.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases DMG by 30% against opponents with more than 50% HP.",
+            "DescriptionCN": "对生命值高于50%的敌人，造成的伤害增加30%。",
+            "DescriptionJP": "HPが50%以上の敵に対するダメージ+30%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Medal of the Brave",
+            "CNname": "勇士的勋章",
+            "JAname": "勇士の勲章",
+            "DescriptionEN": "A simple flower brooch that is a keepsake from someone's first adventure.",
+            "DescriptionCN": "别在胸前的朴实小花，是一次冒险后得到的纪念品。",
+            "DescriptionJP": "胸元につける素朴な小花、冒険の後に入手した記念品である。",
+            "imageurl": "images/artifact/10002-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Prospect of the Brave",
+            "CNname": "勇士的期许",
+            "JAname": "勇士の期待",
+            "DescriptionEN": "A shimmering feather from a songbird that brings a nudge of courage to its wearer.",
+            "DescriptionCN": "明亮的鸣禽翎羽。能带来小小的勇气。",
+            "DescriptionJP": "明るいスズメの羽根。小さな勇気をもたらしてくれる。",
+            "imageurl": "images/artifact/10002-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Fortitude of the Brave",
+            "CNname": "勇士的坚毅",
+            "JAname": "勇士の毅然",
+            "DescriptionEN": "A dated miniature hourglass that serves no practical purpose. It seems as elusive as time itself.",
+            "DescriptionCN": "老旧的微型沙漏，不具有实用性。与岁月一样不可捉摸。",
+            "DescriptionJP": "古くて小さな砂時計、実用性がない。時の流れのように不思議である。",
+            "imageurl": "images/artifact/10002-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Outset of the Brave",
+            "CNname": "勇士的壮行",
+            "JAname": "勇士の壮行",
+            "DescriptionEN": "A crude wooden vessel filled only with memories.",
+            "DescriptionCN": "木制的粗糙容器，其中空洞洞地盛满了回忆。",
+            "DescriptionJP": "雑な木製の容器、中には思い出がたくさんある。",
+            "imageurl": "images/artifact/10002-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Crown of the Brave",
+            "CNname": "勇士的冠冕",
+            "JAname": "勇士の冠",
+            "DescriptionEN": "A rough-and-ready laurel wreath that seems as precious as a king's golden crown.",
+            "DescriptionCN": "粗略编成的草环。对一些人而言，就像王者的金冠一样贵重吧。",
+            "DescriptionJP": "粗雑に編まれた草の冠。一部の人にとって、この冠は金の冠ように貴重だろう。",
+            "imageurl": "images/artifact/10002-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

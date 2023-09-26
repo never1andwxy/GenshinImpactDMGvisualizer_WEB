@@ -1,0 +1,76 @@
+{
+    "id": "10011",
+    "ENname": "Lucky Dog",
+    "CNname": "幸运儿",
+    "JAname": "幸運",
+    "imageurl": "images/artifact/10011.png",
+    "level": [
+        1,
+        2,
+        3
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "DEF increased by 100.",
+            "DescriptionCN": "防御力提高100点。",
+            "DescriptionJP": "防御力+100。"
+        },
+        "4": {
+            "DescriptionEN": "Picking up Mora restores 300 HP.",
+            "DescriptionCN": "拾取摩拉时，恢复300点生命值。",
+            "DescriptionJP": "モラを拾得すると、HPを300回復する。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Lucky Dog's Clover",
+            "CNname": "幸运儿绿花",
+            "JAname": "幸運のクローバー",
+            "DescriptionEN": "A four-leaf clover that grows in the wild. It was picked because it is said to bring good luck.",
+            "DescriptionCN": "无忧无虑地生长在原野里的四叶绿花，被采是因为能带来幸运之说。",
+            "DescriptionJP": "気ままに成長した四つ葉のクローバーは幸運の象徴である。",
+            "imageurl": "images/artifact/10011-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Lucky Dog's Eagle Feather",
+            "CNname": "幸运儿鹰羽",
+            "JAname": "幸運の鷹の羽根",
+            "DescriptionEN": "A monster once cornered an adventurer, but was then picked off by a hunting eagle... That eagle dropped this feather, which now carries some of the adventurer's good luck.",
+            "DescriptionCN": "挡在面前的魔物却被捕食的鹰隼盯上，偶尔能带来这种程度运气的翎羽。",
+            "DescriptionJP": "襲ってくる魔物は鷹の捕食対象になった…そういう幸運をもたらす羽根である。",
+            "imageurl": "images/artifact/10011-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Lucky Dog's Hourglass",
+            "CNname": "幸运儿沙漏",
+            "JAname": "幸運の砂時計",
+            "DescriptionEN": "A broken hourglass from which all the sand has escaped. But it's fine, because the passage of time means nothing to someone without a single worry in the whole world.",
+            "DescriptionCN": "因为破洞而空空如也的沙漏。时光流逝对无忧无虑的人没有意义。",
+            "DescriptionJP": "穴が開いて中身が空っぽになった砂時計。時間の流れは気ままに生きる人にとって何の意味もない。",
+            "imageurl": "images/artifact/10011-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Lucky Dog's Goblet",
+            "CNname": "幸运儿之杯",
+            "JAname": "幸運のコップ",
+            "DescriptionEN": "An exquisite metallic vessel that was once used to knock out a thief.",
+            "DescriptionCN": "精致的金属器皿，曾经被用来打趴了夜盗。",
+            "DescriptionJP": "繊細な作りをした金属容器、泥棒退治に使われたこともあるとか。",
+            "imageurl": "images/artifact/10011-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Lucky Dog's Silver Circlet",
+            "CNname": "幸运儿银冠",
+            "JAname": "幸運の冠",
+            "DescriptionEN": "Its former owner once fell into a cave and found the treasure trove of an exiled royal. This is a souvenir from that incident.",
+            "DescriptionCN": "原本坠入落穴，却是被驱逐的旧宗族藏宝的地窖。是那次经历的纪念品。",
+            "DescriptionJP": "穴に落ちたと思ったら、貴族の宝庫を発見した。これはまさにその記念品である。",
+            "imageurl": "images/artifact/10011-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

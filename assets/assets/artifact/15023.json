@@ -1,0 +1,75 @@
+{
+    "id": "15023",
+    "ENname": "Vermillion Hereafter",
+    "CNname": "辰砂往生录",
+    "JAname": "辰砂往生録",
+    "imageurl": "images/artifact/15023.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+            "DescriptionCN": "施放元素爆发后，将产生持续16秒的「潜光」效果：攻击力提升8%；并在角色的生命值降低时，攻击力进一步提升10%，至多通过这种方式提升4次，每0.8秒至多触发一次。「潜光」效果将在角色退场时消失；持续期间再次施放元素爆发，将移除原有的「潜光」。",
+            "DescriptionJP": "元素爆発を発動すると、継続時間16秒の「潜光」効果が発動する。「潜光」：攻撃力+8%、キャラクターがHPを失うたびに攻撃力がさらに10%アップする。HPの損失による攻撃力アップ効果は0.8秒毎に1回のみ発動でき、最大4回重ね掛けできる。「潜光」効果はキャラクターが戦闘不能、または退場する時に解除される。「潜光」効果の継続時間中に再び元素爆発を発動すると、既存の「潜光」効果が先にクリアされる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Flowering Life",
+            "CNname": "生灵之华",
+            "JAname": "生霊の華",
+            "DescriptionEN": "An ancient memento. It still looks as alive as the being that preserved it several centuries ago.",
+            "DescriptionCN": "古老的纪念物，恰如数百年前将它保存的生灵一般鲜活。",
+            "DescriptionJP": "いにしえの時を思い起こす品。まるで数百年前に保存された生霊のごとく生気を放っている。",
+            "imageurl": "images/artifact/15023-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Feather of Nascent Light",
+            "CNname": "潜光片羽",
+            "JAname": "潜光の羽",
+            "DescriptionEN": "A dimly lustrous pinion steeped in strong memories.",
+            "DescriptionCN": "一片光泽暗淡的翎羽，凝聚着浓重的记忆。",
+            "DescriptionJP": "薄暗い質感を持った羽。重々しい記憶を秘めている。",
+            "imageurl": "images/artifact/15023-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Solar Relic",
+            "CNname": "阳辔之遗",
+            "JAname": "陽轡の遺品",
+            "DescriptionEN": "An ancient timepiece with a mighty solid look. Its luster is produced by sand crystal.",
+            "DescriptionCN": "外观坚实的古代时计，有着晶砂的光泽。",
+            "DescriptionJP": "頑丈な見た目をした古代の時計。晶砂の光沢が特徴的。",
+            "imageurl": "images/artifact/15023-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Moment of the Pact",
+            "CNname": "结契之刻",
+            "JAname": "契約の時",
+            "DescriptionEN": "An old cup made of sand crystal. Its luster is somehow undimmed by age.",
+            "DescriptionCN": "古老的晶砂之杯，似乎未尝被岁月磨洗暗淡。",
+            "DescriptionJP": "いにしえの晶砂の杯。歳月の侵食を受けてもなお、まだ色褪せてはいないようだ。",
+            "imageurl": "images/artifact/15023-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Thundering Poise",
+            "CNname": "虺雷之姿",
+            "JAname": "虺雷の姿",
+            "DescriptionEN": "This mask is said to have been made by the mountain people for a Yaksha. It is of simple make, but its surface still shines brightly nonetheless.",
+            "DescriptionCN": "据称是山民为夜叉所打造的头冠，外观古朴，但其表面光亮不失润泽。",
+            "DescriptionJP": "山民が夜叉のために作ったと言われる冠。古朴な見た目だが、光沢があり艶やかである。",
+            "imageurl": "images/artifact/15023-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

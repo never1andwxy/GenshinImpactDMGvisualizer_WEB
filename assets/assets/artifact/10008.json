@@ -1,0 +1,75 @@
+{
+    "id": "10008",
+    "ENname": "Gambler",
+    "CNname": "赌徒",
+    "JAname": "博徒",
+    "imageurl": "images/artifact/10008.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Skill DMG by 20%.",
+            "DescriptionCN": "元素战技造成的伤害提升20%。",
+            "DescriptionJP": "元素スキルのダメージ+20%。"
+        },
+        "4": {
+            "DescriptionEN": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+            "DescriptionCN": "击败敌人时，有100%概率清除元素战技的冷却时间。该效果每15秒至多触发一次。",
+            "DescriptionJP": "敵を倒した時、100%の確率で元素スキルのクールタイムをリセットする。15秒に1回のみ発動可能。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Gambler's Brooch",
+            "CNname": "赌徒的胸花",
+            "JAname": "博徒の花飾り",
+            "DescriptionEN": "A big, luxurious flower that can hide loaded dice.",
+            "DescriptionCN": "华丽的大花朵，其中能藏得下自己事前准备好的骰子。",
+            "DescriptionJP": "大きくて華麗な花。事前に用意したサイコロを隠すことができる。",
+            "imageurl": "images/artifact/10008-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Gambler's Feather Accessory",
+            "CNname": "赌徒的羽饰",
+            "JAname": "博徒の羽飾り",
+            "DescriptionEN": "The tail feather of a large bird. Perfect for discretely concealing a trump card.",
+            "DescriptionCN": "大型鸟的尾羽，其中能藏得下能改天逆命的牌。",
+            "DescriptionJP": "大型鳥の羽根、運命を変えられるカードを隠すことができる。",
+            "imageurl": "images/artifact/10008-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Gambler's Pocket Watch",
+            "CNname": "赌徒的怀表",
+            "JAname": "博徒の懐中時計",
+            "DescriptionEN": "A shattered pocket watch that once took a lethal hit for its owner.",
+            "DescriptionCN": "破碎的怀表，曾经为它的主人挡下了致命的攻击。",
+            "DescriptionJP": "壊れた懐中時計、かつて致命的な攻撃から持ち主を救ったことがある。",
+            "imageurl": "images/artifact/10008-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Gambler's Dice Cup",
+            "CNname": "赌徒的骰盅",
+            "JAname": "博徒のツボ",
+            "DescriptionEN": "This vessel was specially made for a single purpose. It has absolutely no secret compartments built into it.",
+            "DescriptionCN": "是特制的、用于单一用途的容器，但其中并没有欺诈用的机关。",
+            "DescriptionJP": "特製品。単一用途の容器だが、詐欺用のからくりはない。",
+            "imageurl": "images/artifact/10008-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Gambler's Earrings",
+            "CNname": "赌徒的耳环",
+            "JAname": "博徒のピアス",
+            "DescriptionEN": "A pair of blue earrings that, when worn, calm the mind and encourage a rational assessment of risks.",
+            "DescriptionCN": "能让人冷静评估局势与风险，避免危机的翠蓝耳环。",
+            "DescriptionJP": "この青のイヤリングをつけると冷静に状況とリスクを分析し、危機を避けられるようになる。",
+            "imageurl": "images/artifact/10008-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

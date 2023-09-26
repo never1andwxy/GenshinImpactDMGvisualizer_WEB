@@ -1,0 +1,75 @@
+{
+    "id": "15018",
+    "ENname": "Pale Flame",
+    "CNname": "苍白之火",
+    "JAname": "蒼白の炎",
+    "imageurl": "images/artifact/15018.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Physical DMG is increased by 25%.",
+            "DescriptionCN": "造成的物理伤害提高25%。",
+            "DescriptionJP": "物理ダメージ+25%。"
+        },
+        "4": {
+            "DescriptionEN": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+            "DescriptionCN": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。",
+            "DescriptionJP": "元素スキルが敵に命中すると、攻撃力+9%。持続時間7秒、最大2重まで、0.3秒毎に1回のみ発動可能。2重まで重ねると、2セットの効果が2倍になる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Stainless Bloom",
+            "CNname": "无垢之花",
+            "JAname": "無垢の花",
+            "DescriptionEN": "A hard, blue artificial flower. Its petals shall never wither, nor shall its colors fade.",
+            "DescriptionCN": "湛蓝而坚硬，永不凋败、永不褪色的人造花朵。",
+            "DescriptionJP": "決して枯れず色褪せない、青くて硬い造花。",
+            "imageurl": "images/artifact/15018-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Wise Doctor's Pinion",
+            "CNname": "贤医之羽",
+            "JAname": "良医の羽",
+            "DescriptionEN": "An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature.",
+            "DescriptionCN": "边缘无比锐利的不祥翎羽，或许象征着异类的不羁。",
+            "DescriptionJP": "非常に鋭いふちを持つ不吉な羽。異類の不羈を象徴しているのかもしれない。",
+            "imageurl": "images/artifact/15018-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Moment of Cessation",
+            "CNname": "停摆之刻",
+            "JAname": "停頓の時",
+            "DescriptionEN": "A pocket watch with a cover that cannot be opened. Yet it ticks and tocks away, following the inexorable flow of time.",
+            "DescriptionCN": "壳罩无法打开的怀表，会坚定地随着时光流逝而嘀嗒作响。",
+            "DescriptionJP": "ふたが開かない懐中時計。時間の経過と同時に、しっかりカチカチと音を立てる。",
+            "imageurl": "images/artifact/15018-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Surpassing Cup",
+            "CNname": "超越之盏",
+            "JAname": "超越の盃",
+            "DescriptionEN": "An intricately-made cup. Its appearance betrays nothing of its age to an observer.",
+            "DescriptionCN": "从外观无从断定经历了多少岁月的精致杯盏。",
+            "DescriptionJP": "何年もの歳月を経たか見た目からは全く見当がつかない精巧な盃。",
+            "imageurl": "images/artifact/15018-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Mocking Mask",
+            "CNname": "嗤笑之面",
+            "JAname": "嗤笑の面",
+            "DescriptionEN": "A mask that covers the face, hiding one's expression from others.",
+            "DescriptionCN": "能将面目遮蔽，让人无从判断表情的面具。",
+            "DescriptionJP": "誰にも表情がわからないように顔を隠すことができるマスク。",
+            "imageurl": "images/artifact/15018-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

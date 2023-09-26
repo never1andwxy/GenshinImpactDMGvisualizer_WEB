@@ -1,0 +1,75 @@
+{
+    "id": "15031",
+    "ENname": "Marechaussee Hunter",
+    "CNname": "逐影猎人",
+    "JAname": "ファントムハンター",
+    "imageurl": "images/artifact/15031.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Normal and Charged Attack DMG +15%",
+            "DescriptionCN": "普通攻击与重击造成的伤害提高15%。",
+            "DescriptionJP": "通常攻撃と重擊ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When current HP increases or decreases, CRIT Rate will be increased by 11% for 5s. Max 3 stacks.",
+            "DescriptionCN": "当前生命值提升或降低时，暴击率提升12%，该效果持续5秒，至多叠加3次。",
+            "DescriptionJP": "現在のHPが増える、または減る時、会心率+11%、継続時間5秒、最大3層まで重ね掛け可能。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "",
+            "CNname": "猎人的胸花",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "老旧的勋章，在过去曾被用来配发给在战斗中做出了杰出贡献的人。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15031-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "",
+            "CNname": "杰作的序曲",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "用于调整旧式机关发条力矩的便携工具。如今失去了实用价值。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15031-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "",
+            "CNname": "裁判的时刻",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "制式的怀表，走时精准度并不算高。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15031-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "",
+            "CNname": "遗忘的容器",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "容纳烈酒的便携金属容器，适合放在大衣口袋中随时使用。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15031-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "",
+            "CNname": "老兵的容颜",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "老旧的面具，能够一定程度上替代因伤害而损毁的面容。依据伤残的面积、使用者的性别，有不同的设计。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15031-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "15010",
+    "ENname": "Prayers for Destiny",
+    "CNname": "祭水之人",
+    "JAname": "水祭りの人",
+    "imageurl": "images/artifact/15010.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "1": {
+            "DescriptionEN": "Affected by Hydro for 40% less time.",
+            "DescriptionCN": "受到的水元素附着效果的持续时间减少40%。",
+            "DescriptionJP": "受けた水元素付着の効果継続時間-40%。"
+        }
+    },
+    "suit": {
+        "dress": {
+            "ENname": "Tiara of Torrents",
+            "CNname": "祭水礼冠",
+            "JAname": "水祭りの冠",
+            "DescriptionEN": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it was submerged in water year in and year out, it possesses remarkable resistance.",
+            "DescriptionCN": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年浸没在水中，具有奇妙的抗性。",
+            "DescriptionJP": "大昔の時代の司祭が使用していた冠。長年水に浸かっていたため、不思議な耐性を持っている。",
+            "imageurl": "images/artifact/15010-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "15019",
+    "ENname": "Shimenawa's Reminiscence",
+    "CNname": "追忆之注连",
+    "JAname": "追憶のしめ縄",
+    "imageurl": "images/artifact/15019.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+            "DescriptionCN": "施放元素战技时，如果角色的元素能量高于或等于15点，则会流失15点元素能量，使接下来的10秒内，普通攻击、重击、下落攻击造成的伤害提高50%，持续期间内该效果不会再次触发。",
+            "DescriptionJP": "元素スキルを発動した時、キャラクターの元素エネルギーが15以上の場合、元素エネルギーを15消費し、次の10秒間通常攻撃、重撃、落下攻撃ダメージ+50%。継続時間中この効果は再発動できない。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Entangling Bloom",
+            "CNname": "羁缠之花",
+            "JAname": "羈絆の花",
+            "DescriptionEN": "A lovely amulet made from twisted paper cord. It is said to hold the power to make wishes come true.",
+            "DescriptionCN": "精美的水引御守，据说能够封存实现愿望的力量。",
+            "DescriptionJP": "精巧な水引お守り。願いを叶える力を秘めているとの噂。",
+            "imageurl": "images/artifact/15019-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Shaft of Remembrance",
+            "CNname": "思忆之矢",
+            "JAname": "憶念の矢",
+            "DescriptionEN": "A demon-slaying arrow of a rather ancient make. It seems to have been preserved with great care by someone, even until the present day.",
+            "DescriptionCN": "样式有点古旧的破魔矢，似乎一直被某人精心保存着。",
+            "DescriptionJP": "少し古い仕様の破魔矢。何者かによって大切に保管されているようだ。",
+            "imageurl": "images/artifact/15019-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Morning Dew's Moment",
+            "CNname": "朝露之时",
+            "JAname": "朝露の時",
+            "DescriptionEN": "A bronze pocket watch adorned with twisted paper cord and a bell. Its hands are forever frozen at the dawn of a certain autumn day.",
+            "DescriptionCN": "以水引和铃铛装饰的青铜怀表，时间永远停在了某个秋日的黎明。",
+            "DescriptionJP": "水引と鈴で装飾された銅の懐中時計。時は、ある秋の夜明けに永遠に止まっているようだ。",
+            "imageurl": "images/artifact/15019-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Hopeful Heart",
+            "CNname": "祈望之心",
+            "JAname": "祈望の心",
+            "DescriptionEN": "A special fortune-telling cylindrical object. The mechanism at the bottom allows one to easily remove all unwanted wish sticks.",
+            "DescriptionCN": "特制的占卜签筒，底部的机关能让人轻易抽掉不想要的愿签。",
+            "DescriptionJP": "特製のおみくじ筒。底面には、望ましくないくじを簡単に取り除くことができるからくりが組み込まれている。",
+            "imageurl": "images/artifact/15019-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Capricious Visage",
+            "CNname": "无常之面",
+            "JAname": "無常の面",
+            "DescriptionEN": "A well-preserved ceremonial fox mask. A small, enigmatic smile ever graces its lips.",
+            "DescriptionCN": "保存良好的祭礼狐面，永远带着一副神秘的浅笑。",
+            "DescriptionJP": "丁寧に保存された儀式用の狐面。常に奇怪な微笑みを浮かべている。",
+            "imageurl": "images/artifact/15019-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "10009",
+    "ENname": "The Exile",
+    "CNname": "流放者",
+    "JAname": "亡命者",
+    "imageurl": "images/artifact/10009.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Energy Recharge +20%",
+            "DescriptionCN": "元素充能效率提高20%。",
+            "DescriptionJP": "元素チャージ効率+20%。"
+        },
+        "4": {
+            "DescriptionEN": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+            "DescriptionCN": "施放元素爆发后，每2秒为队伍中所有角色（不包括自己）恢复2点元素能量。该效果持续6秒，无法叠加。",
+            "DescriptionJP": "元素爆発を発動すると、2秒毎にチーム全員（自分を除く）の元素エネルギーを2回復する、継続時間6秒。重ね掛け不可。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Exile's Flower",
+            "CNname": "流放者之花",
+            "JAname": "亡命者の花",
+            "DescriptionEN": "A withered flower worn on the shirt. Its former owner insisted on wearing it even in exile, so it must mean something.",
+            "DescriptionCN": "带在身上的黯淡的花。是流放之身也要带着，一定有重要的意义吧。",
+            "DescriptionJP": "薄暗い花、たとえ亡命の身になっても手放すことはないから、きっとなにか意味はあるのであろう。",
+            "imageurl": "images/artifact/10009-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Exile's Feather",
+            "CNname": "流放者之羽",
+            "JAname": "亡命者の羽根",
+            "DescriptionEN": "Not an actual accessory per se. Just a random bird feather that was found somewhere in the wilderness by the exile.",
+            "DescriptionCN": "并不是刻意的装饰物，只是在荒野流浪中偶然沾上的不知名的鸟羽。",
+            "DescriptionJP": "装飾物ではなく、亡命の旅の途中で偶然手に入れた羽根である。",
+            "imageurl": "images/artifact/10009-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Exile's Pocket Watch",
+            "CNname": "流放者怀表",
+            "JAname": "亡命者の懐中時計",
+            "DescriptionEN": "Even after the crystal watch face was shattered and the hands lost, its former owner kept it until the end.",
+            "DescriptionCN": "水晶制成的表镜已经破碎，连表针也全数脱落，但仍然不愿丢弃。",
+            "DescriptionJP": "水晶でできた風防は砕け、針も全部なくなったが。それでも捨てられない。",
+            "imageurl": "images/artifact/10009-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Exile's Goblet",
+            "CNname": "流放者之杯",
+            "JAname": "亡命者のコップ",
+            "DescriptionEN": "A dull goblet made of a heavy metal. It was once inlaid with gemstones, but they have since been stripped off.",
+            "DescriptionCN": "黯淡的重金属制成的杯形器皿，可以看出外壁上原本镶有宝石，又被挖掉了。",
+            "DescriptionJP": "薄暗い重金属でできたコップ。外側には宝石の装飾があったが、今はもうなくなった。",
+            "imageurl": "images/artifact/10009-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Exile's Circlet",
+            "CNname": "流放者头冠",
+            "JAname": "亡命者の冠",
+            "DescriptionEN": "A prestigious circlet. However, the royal insignia has been scratched out, and it is no longer the symbol of distinguished status that it once was.",
+            "DescriptionCN": "尊贵的头冠，昭示身份的徽记被用刀划破，原本的显贵身份已被废黜。",
+            "DescriptionJP": "高貴だった冠。本来高貴な身分が廃却されたように、身分を象徴する部分が刀によって壊された。",
+            "imageurl": "images/artifact/10009-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "15001",
+    "ENname": "Gladiator's Finale",
+    "CNname": "角斗士的终幕礼",
+    "JAname": "剣闘士のフィナーレ",
+    "imageurl": "images/artifact/15001.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+            "DescriptionCN": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。",
+            "DescriptionJP": "該当聖遺物セットを装備したキャラが片手剣、両手剣、長柄武器キャラの場合、通常攻撃ダメージ+35%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Gladiator's Nostalgia",
+            "CNname": "角斗士的留恋",
+            "JAname": "剣闘士の未練",
+            "DescriptionEN": "No one knows why the legendary gladiator wore this flower on his chest. It was the brutal warrior's only weakness.",
+            "DescriptionCN": "无人知晓传奇的斗士为何始终将这朵小花戴在胸口，这是残酷的战士身上唯一的弱点。",
+            "DescriptionJP": "伝説の剣闘士がなぜこの花を胸につけたか誰も知らない。これは残酷な戦士にある唯一の弱点だ。",
+            "imageurl": "images/artifact/15001-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Gladiator's Destiny",
+            "CNname": "角斗士的归宿",
+            "JAname": "剣闘士の帰着",
+            "DescriptionEN": "A feather of dreams that soars free like an eagle. At the end of the gladiator's legendary life, this parting gift was left upon his chest by a bird that knew true freedom.",
+            "DescriptionCN": "如隼般自在的梦想之羽。在传奇生涯的终点，无羁的飞鸟在他的心口覆上了这根羽毛。",
+            "DescriptionJP": "ハヤブサのように飛ぶ夢の羽根、自由の鳥は彼の心にこの羽根を落とした。",
+            "imageurl": "images/artifact/15001-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Gladiator's Longing",
+            "CNname": "角斗士的希冀",
+            "JAname": "剣闘士の希望",
+            "DescriptionEN": "A timepiece that recorded the gladiator's days in the bloodstained Colosseum. To him, it counted down the days on his long road to freedom.",
+            "DescriptionCN": "记录了角斗士血染剧场的年月的时计。之于其人，则象征着去往终获自由之日的道路。",
+            "DescriptionJP": "剣闘士が闘技場で鮮血を浴びた年月を記録した時計。本人にとって、それは自由への道の象徴でもある。",
+            "imageurl": "images/artifact/15001-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Gladiator's Intoxication",
+            "CNname": "角斗士的酣醉",
+            "JAname": "剣闘士の酩酊",
+            "DescriptionEN": "The golden cup a champion gladiator drank from in ancient times. It brimmed with his glory for years until the fateful day of his fall.",
+            "DescriptionCN": "古代的角斗士痛饮胜利之酒的金杯。直到他倒下的那一刻，酒杯被他自己的岁月灌满。",
+            "DescriptionJP": "古代の剣闘士が勝利の酒を楽しむ金の盃。盃には彼の歳月に満ちていて、彼が倒れる最後の時まで。",
+            "imageurl": "images/artifact/15001-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Gladiator's Triumphus",
+            "CNname": "角斗士的凯旋",
+            "JAname": "剣闘士の凱旋",
+            "DescriptionEN": "The helmet of a legendary gladiator from ancient times, who would proudly stretch out his bloodied arms to welcome the thunderous applause of his audience.",
+            "DescriptionCN": "古代传奇角斗士的头盔，曾沾染了无数敌手的鲜血，也曾骄傲地接受无数观众的欢呼。",
+            "DescriptionJP": "古代伝説の剣闘士の兜。数え切れないほど敵の鮮血と観客の歓声を浴びている。",
+            "imageurl": "images/artifact/15001-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

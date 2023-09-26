@@ -1,0 +1,76 @@
+{
+    "id": "10010",
+    "ENname": "Adventurer",
+    "CNname": "冒险家",
+    "JAname": "冒険者",
+    "imageurl": "images/artifact/10010.png",
+    "level": [
+        1,
+        2,
+        3
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Max HP increased by 1000.",
+            "DescriptionCN": "生命值上限提高1000点。",
+            "DescriptionJP": "HP上限+1000。"
+        },
+        "4": {
+            "DescriptionEN": "Opening a chest regenerates 30% Max HP over 5s.",
+            "DescriptionCN": "开启各类宝箱后的5秒内，持续恢复30%生命值。",
+            "DescriptionJP": "宝箱を開けた後5秒間、HPの30%を徐々に回復する。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Adventurer's Flower",
+            "CNname": "冒险家之花",
+            "JAname": "冒険者の花",
+            "DescriptionEN": "A resilient flower that survived the harsh environment of an ancient city. It is now proudly worn like a medal.",
+            "DescriptionCN": "从深邃的古都寻得的绝境求生的小花，被当做骄傲的勋章佩在胸前。",
+            "DescriptionJP": "深き古都の絶境で手に入れた花、自慢の勲章として胸元につけられた。",
+            "imageurl": "images/artifact/10010-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Adventurer's Tail Feather",
+            "CNname": "冒险家尾羽",
+            "JAname": "冒険者の羽根",
+            "DescriptionEN": "The feather of an exotic bird rarely seen on this continent.",
+            "DescriptionCN": "异国的奇妙鸟类的羽毛，在这片大陆上非常罕见。",
+            "DescriptionJP": "異国の不思議な鳥から取った羽根、この大陸では非常に珍しい。",
+            "imageurl": "images/artifact/10010-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Adventurer's Pocket Watch",
+            "CNname": "冒险家怀表",
+            "JAname": "冒険者の懐中時計",
+            "DescriptionEN": "It's easy to lose track of time when you're adventuring where the sun doesn't shine, whether that's the depths of the abyss or the ruins of a lost city.",
+            "DescriptionCN": "常在不见天日的巨渊还是失落的古都流连的冒险家，会经常忘记时间。",
+            "DescriptionJP": "太陽が見えない深淵や失われた古都で探検する冒険者はよく時間を忘れてしまう。",
+            "imageurl": "images/artifact/10010-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Adventurer's Golden Goblet",
+            "CNname": "冒险家金杯",
+            "JAname": "冒険者の金杯",
+            "DescriptionEN": "The spoils of one of an adventurer's many expeditions. Though a little damaged, it is still an excellent find.",
+            "DescriptionCN": "冒险家某次出征的战利品，虽然有缺口，仍然是值得骄傲的猎获。",
+            "DescriptionJP": "冒険の戦利品だと思われる。欠けはあるが、それでも自慢できるものだ。",
+            "imageurl": "images/artifact/10010-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Adventurer's Bandana",
+            "CNname": "冒险家头带",
+            "JAname": "冒険者のバンダナ",
+            "DescriptionEN": "A cloth garment worn at the forehead. Though soaked in sweat and covered in dust, it still beams with an adventurer's pride.",
+            "DescriptionCN": "束在额前的饰带，吸满了汗液、覆盖着尘土。但脏污难以遮掩冒险家的骄傲。",
+            "DescriptionJP": "汗と塵がたくさんついたバンダナは汚れているが、それでも冒険者の自慢である。",
+            "imageurl": "images/artifact/10010-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

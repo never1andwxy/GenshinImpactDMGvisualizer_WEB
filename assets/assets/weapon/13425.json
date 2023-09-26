@@ -2,9 +2,9 @@
     "id": "13425",
     "ENname": "Rightful Reward",
     "CNname": "公义的酬报",
-    "JAname": "公義の返報",
+    "JAname": "正義の報酬",
     "imageurl": "images/weapon/13425.png",
-    "type": "polearm",
+    "type": "pole",
     "rarity": 4,
     "leveldata": [
         {
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "113425",
-            "name": "",
+            "name": "Tip of the Spear",
             "upgrade": {
                 "0": "When the wielder is healed, restore 8 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
                 "1": "When the wielder is healed, restore 10 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "113425",
-            "name": "",
+            "name": "槍の穂先",
             "upgrade": {
                 "0": "治療を受けた時、元素エネルギーを8回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
                 "1": "治療を受けた時、元素エネルギーを10回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",

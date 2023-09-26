@@ -1,0 +1,75 @@
+{
+    "id": "15020",
+    "ENname": "Emblem of Severed Fate",
+    "CNname": "绝缘之旗印",
+    "JAname": "絶縁の旗印",
+    "imageurl": "images/artifact/15020.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Energy Recharge +20%",
+            "DescriptionCN": "元素充能效率提高20%。",
+            "DescriptionJP": "元素チャージ効率+20%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+            "DescriptionCN": "基于元素充能效率的25%，提高元素爆发造成的伤害。至多通过这种方式获得75%提升。",
+            "DescriptionJP": "元素チャージ効率の25%を基準に、元素爆発ダメージがアップする。この方式でアップできるダメージは最大75%まで。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Magnificent Tsuba",
+            "CNname": "明威之镡",
+            "JAname": "威厳の鍔",
+            "DescriptionEN": "Legends hold that this ornate hand guard was once fitted upon a sword gifted to the oni who betrayed the Shogun.",
+            "DescriptionCN": "传说中背叛了将军的鬼人，曾经获赐的刀上的华美宝镡。",
+            "DescriptionJP": "将軍を裏切った鬼人が、かつて授かった美しい鍔。",
+            "imageurl": "images/artifact/15020-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Sundered Feather",
+            "CNname": "切落之羽",
+            "JAname": "切落の羽",
+            "DescriptionEN": "This was once the black feather of a certain tengu warrior, and was the treasured souvenir of an ancient swordsman.",
+            "DescriptionCN": "原本属于某名天狗的黑羽，是过去的剑豪珍惜的纪念品。",
+            "DescriptionJP": "ある天狗の所有物であった黒羽。昔の剣豪が秘蔵していた記念品。",
+            "imageurl": "images/artifact/15020-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Storm Cage",
+            "CNname": "雷云之笼",
+            "JAname": "雷雲の印籠",
+            "DescriptionEN": "An exquisite seal cage patterned with pansies painted upon a black backdrop, decorated with shining inlaid seashells and intricate gold-work.",
+            "DescriptionCN": "黑地堇漆的考究印笼，其上装饰着发亮的螺钿与精致的金具。",
+            "DescriptionJP": "黒色の細緻な印籠。光り輝く螺鈿と精巧な金物が装飾されている。",
+            "imageurl": "images/artifact/15020-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Scarlet Vessel",
+            "CNname": "绯花之壶",
+            "JAname": "緋花の壺",
+            "DescriptionEN": "An intricately-designed wine vessel that a world-famous martial artist once drank from.",
+            "DescriptionCN": "精致的酒壶，曾经是名震天下的武人载酒的容器。",
+            "DescriptionJP": "精巧な酒壺。かつて、名が轟く武人の酒用の器だった。",
+            "imageurl": "images/artifact/15020-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Ornate Kabuto",
+            "CNname": "华饰之兜",
+            "JAname": "華飾の兜",
+            "DescriptionEN": "A sturdy and hard helmet worn as armor by a noble samurai.",
+            "DescriptionCN": "坚实牢固的兜盔，是身份尊贵的武人的护身之物。",
+            "DescriptionJP": "高貴な武士が着用していた、頑丈で硬い兜。",
+            "imageurl": "images/artifact/15020-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

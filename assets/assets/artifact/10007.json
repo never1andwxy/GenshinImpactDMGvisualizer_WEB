@@ -1,0 +1,75 @@
+{
+    "id": "10007",
+    "ENname": "Instructor",
+    "CNname": "教官",
+    "JAname": "教官",
+    "imageurl": "images/artifact/10007.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Mastery by 80.",
+            "DescriptionCN": "元素精通提高80点。",
+            "DescriptionJP": "元素熟知+80。"
+        },
+        "4": {
+            "DescriptionEN": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.",
+            "DescriptionCN": "触发元素反应后，队伍中所有角色的元素精通提高120点，持续8秒。",
+            "DescriptionJP": "元素反応を引き起こした後、チーム全員の元素熟知+120、継続時間8秒。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Instructor's Brooch",
+            "CNname": "教官的胸花",
+            "JAname": "教官の花飾り",
+            "DescriptionEN": "Whenever the instructor wore this brooch, it meant there would be no training sessions that day.",
+            "DescriptionCN": "教官的胸口别着这种花的时候，意味着今日不练兵。",
+            "DescriptionJP": "胸にこの花を付ける時は、今日は訓練しないという意味だ。",
+            "imageurl": "images/artifact/10007-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Instructor's Feather Accessory",
+            "CNname": "教官的羽饰",
+            "JAname": "教官の羽飾り",
+            "DescriptionEN": "Any instructor who has mastered the art of de-escalation knows to keep this accessory firmly in their grasp at all times.",
+            "DescriptionCN": "熟知如何化解攻击力道的教官，不会让这种羽饰被劲风吹掉。",
+            "DescriptionJP": "攻撃の力を和らげる方法を熟知している教官は、羽飾りが風に飛ばされないようにすることができる。",
+            "imageurl": "images/artifact/10007-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Instructor's Pocket Watch",
+            "CNname": "教官的怀表",
+            "JAname": "教官の懐中時計",
+            "DescriptionEN": "A stopwatch used not for general timekeeping but to measure the duration of a training session.",
+            "DescriptionCN": "不能用来看时间的怀表，是完全奉献给训练的计时工具。",
+            "DescriptionJP": "正しい時間の確認に使えない懐中時計だが、訓練の時間なら測ることができる。",
+            "imageurl": "images/artifact/10007-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Instructor's Tea Cup",
+            "CNname": "教官的茶杯",
+            "JAname": "教官のティーカップ",
+            "DescriptionEN": "It may seem like an ordinary tea cup to most. But to students, it is the symbol of the instructor's authority.",
+            "DescriptionCN": "虽然在外人看来只是普通的茶杯，但在学员眼里可是教官权力的象征。",
+            "DescriptionJP": "普通のティーカップだが、生徒からするとそれは教官の権力を象徴するものである。",
+            "imageurl": "images/artifact/10007-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Instructor's Cap",
+            "CNname": "教官的帽子",
+            "JAname": "教官の帽子",
+            "DescriptionEN": "A standard-issue honorary instructor's cap, only granted to those who turn down a promotion.",
+            "DescriptionCN": "制式的教官帽子。是拒绝了晋升的军官才能获得的殊荣。",
+            "DescriptionJP": "制式化された教官帽子。昇級を拒んだ軍官のみが得られる栄誉。",
+            "imageurl": "images/artifact/10007-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

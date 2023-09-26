@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "115424",
-            "name": "",
+            "name": "The Way of Sunfire",
             "upgrade": {
                 "0": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 60% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 28% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
                 "1": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 75% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 35% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "115424",
-            "name": "",
+            "name": "陽炎古道",
             "upgrade": {
                 "0": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力60%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+28%。陽炎の矢は10秒毎に1回のみ発動可能。",
                 "1": "重撃が敵に命中した後、命中した敵に陽炎の矢を降らせ、攻撃力75%分のダメージを与える。陽炎の矢によるダメージを受けた敵に10秒継続する灼心状態を与える。灼心状態にある敵に対して、装備者の重撃が与えるダメージ+35%。陽炎の矢は10秒毎に1回のみ発動可能。",

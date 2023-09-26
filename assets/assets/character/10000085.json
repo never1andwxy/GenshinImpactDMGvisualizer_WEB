@@ -4,7 +4,7 @@
     "CNname": "菲米尼",
     "JAname": "フレミネ",
     "imageurl": "images/character/10000085.png",
-    "imagelargeurl": "images/character/10000085-large.png",
+    "imagelargeurl": "images/character/10000085-large.webp",
     "element": "ice",
     "weapon": "claymore",
     "rarity": 4,
@@ -132,7 +132,7 @@
             "id": "0",
             "ENname": "Normal Attack: Flowing Eddies",
             "CNname": "普通攻击·洑流剑",
-            "JAname": "通常攻撃·潜流剣",
+            "JAname": "通常攻撃·潜流の剣",
             "imageurl": "images/talent/10000085-0.png",
             "DescriptionEN": "Normal Attack Performs up to 4 consecutive strikes.  Charged Attack Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.   Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
             "DescriptionCN": "普通攻击 进行至多四段的连续攻击。  重击 持续消耗体力，旋转大剑攻击周围的敌人。 停止旋转时，会进行一次格外有力的挥砍。  下落攻击 从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
@@ -1334,11 +1334,11 @@
             "id": "1",
             "ENname": "Pressurized Floe",
             "CNname": "浮冰增压",
-            "JAname": "浮氷昇圧",
+            "JAname": "プレッシャー·フロウ",
             "imageurl": "images/talent/10000085-1.png",
             "DescriptionEN": "Does an upward thrust that will deal Cryo DMG and cause Freminet to enter Pers Timer for 10s. While Pers Timer is active, his Elemental Skill will turn into Shattering Pressure.  Shattering Pressure Executes different sorts of attacks based on the Pressure level of Pers Timer, and then cancels Pers Timer. ·Level 0: Unleashes a vertical cut that will deal Cryo DMG. ·Levels 1 to 3: Unleashes a vertical cut alongside Pers, dealing Cryo DMG and Physical DMG. DMG dealt scales based on Pressure level. ·Level 4: Borrows the power of a fully-pressurized Pers to deal Physical DMG. Meanwhile, Normal Attack: Flowing Eddies will be replaced by Shattering Pressure.  Pers Timer When Freminet uses Normal Attacks, he will also unleash waves of frost that deal Cryo DMG and increase Pers' Pressure level. The accompanying Cryo DMG dealt this way is considered Elemental Skill DMG.  Arkhe: Pneuma At certain intervals, after using the upward thrust, a Spiritbreath Thorn in the form of another upward thrust will be created, dealing Pneuma-aligned Cryo DMG.  To immobilize one's opponent without taking their life can also be considered something of a \"survival\" strategy that one may choose. \"Pers... I leave the rest to you.\"",
             "DescriptionCN": "进行上挑攻击，造成冰元素伤害，并进入持续10秒的佩伊刻计状态。 处于佩伊刻计状态下时，元素战技将转为高压粉碎。  高压粉碎 依据佩伊刻计的压力阶级进行不同的攻击，并移除佩伊刻计状态： ·零阶时：进行纵斩，造成冰元素伤害； ·一阶至三阶时：进行纵斩并协同佩伊，造成冰元素伤害与物理伤害。伤害依据压力阶级有所不同； ·四阶时：借助充满压力的佩伊的力量，造成物理伤害。此时「普通攻击·洑流剑」将被替换为高压粉碎。  佩伊刻计 菲米尼进行普通攻击时，将同时释放霜寒造成冰元素伤害，并为佩伊刻计提升压力阶级。 同时造成的冰元素伤害视为元素战技伤害。  始基力：芒性 每隔一段时间，进行上挑攻击后，将形成进行挑击的灵息之刺，造成具有芒性的冰元素伤害。  阻滞对手的行动，而非夺去对手的性命。从某种意义上来说，这也是为了「生存」而选择的战略。 「佩伊…接下来就拜托你了。」",
-            "DescriptionJP": "斬り上げ攻撃を繰り出し、氷元素ダメージを与え、継続時間10秒のペールスカウント状態に入る。 ペールスカウント状態時、元素スキルは高圧粉砕へと変わる。  高圧粉砕 ペールスカウントの圧力ランクに応じて異なる攻撃を行い、ペールスカウント状態を解除する。 ·ランク0：縦斬りを繰り出し、氷元素ダメージを与える。 ·ランク1~3：縦斬りを繰り出し、ペールスと協同攻撃を行い、氷元素ダメージと物理ダメージを与える。ダメージは圧力ランクに応じて変化する。 ·ランク4：圧力で満たされたペールスの力を借り、物理ダメージを与える。この時、「通常攻撃·潜流剣」は高圧粉砕に切り替わる。  ペールスカウント フレミネが通常攻撃を行う際に霜寒を放ち、氷元素ダメージを与え、ペールスカウントの圧力ランクを上昇させる。 なお、与える氷元素ダメージは元素スキルダメージと見なされる。  始源の力：プネウマ 斬り上げ攻撃を発動した後、斬り上げ攻撃を行う霊息の棘が生成され、プネウマを帯びた氷元素ダメージを与える、一定間隔ごとに発動が可能。  相手の命を奪うのではなく、相手の行動を阻止する。これはある意味において、「生存」のために選んだ戦略でもある。 「ペールス…次は頼んだ。」",
+            "DescriptionJP": "斬り上げ攻撃を繰り出し、氷元素ダメージを与え、継続時間10秒のペールスタイマー状態に入る。 ペールスタイマー状態時、元素スキルは高圧粉砕へと変わる。  高圧粉砕 ペールスタイマーの圧力ランクに応じて異なる攻撃を行い、ペールスタイマー状態を解除する。 ·ランク0：縦斬りを繰り出し、氷元素ダメージを与える。 ·ランク1~3：縦斬りを繰り出し、ペールスと協同攻撃を行い、氷元素ダメージと物理ダメージを与える。ダメージは圧力ランクに応じて変化する。 ·ランク4：圧力で満たされたペールスの力を借り、物理ダメージを与える。この時、「通常攻撃·潜流の剣」は高圧粉砕に切り替わる。  ペールスタイマー フレミネが通常攻撃を行う際に霜寒を放ち、氷元素ダメージを与え、ペールスタイマーの圧力ランクを上昇させる。 なお、与える氷元素ダメージは元素スキルダメージと見なされる。  始源の力：プネウマ 斬り上げ攻撃を発動した後、斬り上げ攻撃を行う霊息の棘が生成され、プネウマを帯びた氷元素ダメージを与える、一定間隔ごとに発動が可能。  相手の命を奪うのではなく、相手の行動を阻止する。これはある意味において、「生存」のために選んだ戦略でもある。 「ペールス…次は頼んだ。」",
             "cooldown": 10,
             "cost": 0,
             "type": "combat",
@@ -2540,7 +2540,7 @@
             "imageurl": "images/talent/10000085-3.png",
             "DescriptionEN": "Unleashes a wave of untouchable cold, dealing AoE Cryo DMG, resetting the CD of the Elemental Skill \"Pressurized Floe,\" and causing Freminet to enter the Subnautical Hunter mode for 10s.  While in Subnautical Hunter mode, his interruption resistance will increase, and Pressurized Floe will obtain the following buffs: ·CD decreased by 70%. ·Normal Attacks will give Pers 1 additional Pressure stack, and the frost released by his Normal Attacks deal 200% of their original DMG.  This effect will be canceled when Freminet leaves the field.  \"Now... I have no need of any extraneous noise.\"",
             "DescriptionCN": "释放不可触及的寒气，造成冰元素范围伤害，重置元素战技「浮冰增压」的冷却时间，并进入持续10秒的潜猎模式。  处于潜猎模式状态下时，菲米尼的抗打断能力提升，元素战技「浮冰增压」获得如下强化： ·冷却时间缩短70%； ·进行普通攻击时额外提升一阶佩伊刻计的压力阶级，并使普通攻击释放的霜寒造成的伤害为原本的200%。  效果将在菲米尼退场时解除。  「现在…不需要什么多余的杂音了。」",
-            "DescriptionJP": "触れることのできない寒気を放ち、氷元素範囲ダメージを与え、元素スキル「浮氷昇圧」のクールタイムをリセットし、継続時間10秒の潜猟モードに入る。  潜猟モード状態時、フレミネの中断耐性がアップし、元素スキル「浮氷昇圧」は以下の強化効果を獲得する。 ·クールタイム-70%。 ·通常攻撃を行う時、追加でペールスカウントの圧力ランクを1ランクアップさせ、通常攻撃による霜寒の与えるダメージが元の200%分となる。  この効果はフレミネが退場する時に解除される。  「今は…余計な雑音なんて必要ない。」",
+            "DescriptionJP": "触れることのできない寒気を放ち、氷元素範囲ダメージを与え、元素スキル「プレッシャー·フロウ」のクールタイムをリセットし、継続時間10秒の潜猟モードに入る。  潜猟モード状態時、フレミネの中断耐性がアップし、元素スキル「プレッシャー·フロウ」は以下の強化効果を獲得する。 ·クールタイム-70%。 ·通常攻撃を行う時、追加でペールスタイマーの圧力ランクを1ランクアップさせ、通常攻撃による霜寒の与えるダメージが元の200%分となる。  この効果はフレミネが退場する時に解除される。  「今は…余計な雑音なんて必要ない。」",
             "cooldown": 15,
             "cost": 60,
             "type": "combat",
@@ -3738,11 +3738,11 @@
             "id": "4",
             "ENname": "Saturation Deep Dive",
             "CNname": "饱和深潜",
-            "JAname": "飽和深潜",
+            "JAname": "飽和潜水",
             "imageurl": "images/talent/10000085-4.png",
             "DescriptionEN": "When using Pressurized Floe: Shattering Pressure, if Pers Timer has less than 4 levels of Pressure, the CD of Pressurized Floe will be decreased by 1s.",
             "DescriptionCN": "施放浮冰增压·高压粉碎时，如果佩伊刻计的压力阶级小于四阶，浮冰增压的冷却时间缩短1秒。",
-            "DescriptionJP": "浮氷昇圧·高圧粉砕を発動する時、ペールスカウントの圧力ランクが4未満の場合、浮氷昇圧のクールタイム-1秒。",
+            "DescriptionJP": "プレッシャー·フロウ·高圧粉砕を発動する時、ペールスタイマーの圧力ランクが4未満の場合、プレッシャー·フロウのクールタイム-1秒。",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
@@ -3758,7 +3758,7 @@
             "imageurl": "images/talent/10000085-5.png",
             "DescriptionEN": "When Freminet triggers Shatter against opponents, the DMG dealt by Pressurized Floe: Shattering Pressure will be increased by 40% for 5s.",
             "DescriptionCN": "菲米尼对敌人触发碎冰反应后，会使浮冰增压·高压粉碎造成的伤害提高40%，持续5秒。",
-            "DescriptionJP": "フレミネが敵に氷砕き反応を起こした後、浮氷昇圧·高圧粉砕の与えるダメージ+40%、継続時間5秒。",
+            "DescriptionJP": "フレミネが敵に氷砕き反応を起こした後、プレッシャー·フロウ·高圧粉砕の与えるダメージ+40%、継続時間5秒。",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
@@ -3770,7 +3770,7 @@
             "id": "6",
             "ENname": "Deepwater Navigation",
             "CNname": "深水引航",
-            "JAname": "深水引航",
+            "JAname": "深海ナビゲート",
             "imageurl": "images/talent/10000085-6.png",
             "DescriptionEN": "Decreases underwater stamina consumption for your own party members by 35%. Not stackable with Passive Talents that provide the exact same effects.",
             "DescriptionCN": "队伍中自己的角色水中耐力消耗降低35%。 无法与效果完全相同的固有天赋叠加。",
@@ -3788,11 +3788,11 @@
             "level": 1,
             "ENname": "Dreams of the Foamy Deep",
             "CNname": "深水与泡沫之梦",
-            "JAname": "深水と泡沫の夢",
+            "JAname": "深海と泡沫の夢",
             "imageurl": "images/constellation/10000085-c1.png",
             "DescriptionEN": "The CRIT Rate of Pressurized Floe: Shattering Pressure will be increased by 15%.",
             "DescriptionCN": "浮冰增压·高压粉碎的暴击率提高15%。",
-            "DescriptionJP": "浮氷昇圧·高圧粉砕の会心率+15%。"
+            "DescriptionJP": "プレッシャー·フロウ·高圧粉砕の会心率+15%。"
         },
         {
             "level": 2,
@@ -3802,47 +3802,47 @@
             "imageurl": "images/constellation/10000085-c2.png",
             "DescriptionEN": "Unleashing Pressurized Floe: Shattering Pressure will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy.",
             "DescriptionCN": "施放浮冰增压·高压粉碎将为菲米尼恢复2点元素能量。如果施放的是四阶压力的高压粉碎，则转为恢复3点。",
-            "DescriptionJP": "浮氷昇圧·高圧粉砕を発動すると、フレミネの元素エネルギーが2回復する。ランク4の高圧粉砕を発動すると、元素エネルギーの回復量が3に変わる。"
+            "DescriptionJP": "プレッシャー·フロウ·高圧粉砕を発動すると、フレミネの元素エネルギーが2回復する。ランク4の高圧粉砕を発動すると、元素エネルギーの回復量が3に変わる。"
         },
         {
             "level": 3,
             "ENname": "Song of the Eddies and Bleached Sands",
             "CNname": "洑流与白砂之歌",
-            "JAname": "潜流と白砂の歌",
+            "JAname": "潜流と白い砂の歌",
             "imageurl": "images/constellation/10000085-c3.png",
             "DescriptionEN": "Increases the Level of Normal Attack: Flowing Eddies by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "普通攻击·洑流剑的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "通常攻撃·潜流剣のスキルLv.+3。 最大Lv.15まで。"
+            "DescriptionJP": "通常攻撃·潜流の剣のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 4,
             "ENname": "Dance of the Snowy Moon and Flute",
             "CNname": "雪月与芦笛之舞",
-            "JAname": "雪月と葦笛の舞",
+            "JAname": "雪の月とあし笛の舞",
             "imageurl": "images/constellation/10000085-c4.png",
-            "DescriptionEN": "When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
+            "DescriptionEN": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
             "DescriptionCN": "菲米尼对敌人触发冰冻、碎冰、超导反应后，攻击力提升9%。该效果持续6秒，至多叠加2次，每0.3秒至多触发一次。",
-            "DescriptionJP": "フレミネが敵に凍結、氷砕き、超電導反応を起こした時、攻撃力+9%、継続時間6秒、最大2重まで。この効果は0.3秒毎に1回のみ発動可能。"
+            "DescriptionJP": "フレミネが敵に凍結、氷砕き、超電導反応を起こした後、攻撃力+9%、継続時間6秒、最大2重まで。この効果は0.3秒毎に1回のみ発動可能。"
         },
         {
             "level": 5,
             "ENname": "Nights of Hearth and Happiness",
             "CNname": "炉火与欢笑之夜",
-            "JAname": "炉火と歓笑の夜",
+            "JAname": "暖炉と談笑の夜",
             "imageurl": "images/constellation/10000085-c5.png",
             "DescriptionEN": "Increases the Level of Pressurized Floe by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "浮冰增压的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "浮氷昇圧のスキルLv.+3。 最大Lv.15まで。"
+            "DescriptionJP": "プレッシャー·フロウのスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 6,
             "ENname": "Moment of Waking and Resolve",
             "CNname": "梦晓与决意之刻",
-            "JAname": "暁夢と決意の刻",
+            "JAname": "目覚めと決意の刻",
             "imageurl": "images/constellation/10000085-c6.png",
-            "DescriptionEN": "When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
+            "DescriptionEN": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
             "DescriptionCN": "菲米尼对敌人触发冰冻、碎冰、超导反应后，暴击伤害提升12%。该效果持续6秒，至多叠加3次，每0.3秒至多触发一次。",
-            "DescriptionJP": "フレミネが敵に凍結、氷砕き、超電導反応を起こした時、会心ダメージ+12%、継続時間6秒、最大3重まで。この効果は0.3秒毎に1回のみ発動可能。"
+            "DescriptionJP": "フレミネが敵に凍結、氷砕き、超電導反応を起こした後、会心ダメージ+12%、継続時間6秒、最大3重まで。この効果は0.3秒毎に1回のみ発動可能。"
         }
     ]
 }

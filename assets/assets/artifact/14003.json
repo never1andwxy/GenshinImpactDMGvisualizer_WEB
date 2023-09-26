@@ -1,0 +1,75 @@
+{
+    "id": "14003",
+    "ENname": "Lavawalker",
+    "CNname": "渡过烈火的贤人",
+    "JAname": "烈火を渡る賢者",
+    "imageurl": "images/artifact/14003.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Pyro RES increased by 40%.",
+            "DescriptionCN": "火元素抗性提高40%。",
+            "DescriptionJP": "炎元素耐性+40%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases DMG against opponents affected by Pyro by 35%.",
+            "DescriptionCN": "对处于火元素影响下的敌人造成的伤害提升35%。",
+            "DescriptionJP": "炎元素の影響を受けた敵に対するダメージ+35%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Lavawalker's Resolution",
+            "CNname": "渡火者的决绝",
+            "JAname": "火渡りの堅実",
+            "DescriptionEN": "A flower that blooms amidst burning flames. It is said that long ago, a sage once wore it as he walked into a sea of fire.",
+            "DescriptionCN": "在烈焰的簇拥下盛开的花朵，传说古代智者佩着它走进了火海。",
+            "DescriptionJP": "烈火の中で咲く花、古代の知者はそれをつけて火の海に入ったらしい。",
+            "imageurl": "images/artifact/14003-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Lavawalker's Salvation",
+            "CNname": "渡火者的解脱",
+            "JAname": "火渡りの解放",
+            "DescriptionEN": "The feather of a proud phoenix. You can almost hear the sound of its wings flapping in the scorching flames.",
+            "DescriptionCN": "浴火的孤高之鸟的羽毛，似乎能从中听到野火里的振翅之声。",
+            "DescriptionJP": "火を浴びる孤高な鳥の羽根、炎の中で羽ばたく音が聞こえる。",
+            "imageurl": "images/artifact/14003-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Lavawalker's Torment",
+            "CNname": "渡火者的煎熬",
+            "JAname": "火渡りの苦しみ",
+            "DescriptionEN": "Burning sand flows within this hourglass. Despite the intense heat, the sand leave no mark upon the vessel that houses it.",
+            "DescriptionCN": "流淌着闪烁热砂的沙漏。流沙匆匆而去，从不留下任何烙印。",
+            "DescriptionJP": "光る熱砂が流れる砂時計。砂は流れていき、何の烙印も残さない。",
+            "imageurl": "images/artifact/14003-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Lavawalker's Epiphany",
+            "CNname": "渡火者的醒悟",
+            "JAname": "火渡りの悟り",
+            "DescriptionEN": "A legendary goblet that can withstand extremely high temperatures. It still retains a degree of warmth even though it is now empty.",
+            "DescriptionCN": "传说中是能耐流火高热的杯盏，如今其中空无一物仅有余温。",
+            "DescriptionJP": "流火の高熱を耐えるコップ、何が入っていなくてもその熱さを感じられる。",
+            "imageurl": "images/artifact/14003-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Lavawalker's Wisdom",
+            "CNname": "渡火者的智慧",
+            "JAname": "火渡りの知恵",
+            "DescriptionEN": "The circlet of a sage who traversed a sea of fire. It once shone brightly from their ancient silhouette as they stood strong amidst the flames.",
+            "DescriptionCN": "渡过火海的智者之冠，曾经映照着在热浪中挺立的古老身影。",
+            "DescriptionJP": "火の海を渡った賢者の冠、熱い浪の中に立つ古い姿を映したものである。",
+            "imageurl": "images/artifact/14003-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

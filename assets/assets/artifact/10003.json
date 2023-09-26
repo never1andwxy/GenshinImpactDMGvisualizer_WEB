@@ -1,0 +1,75 @@
+{
+    "id": "10003",
+    "ENname": "Defender's Will",
+    "CNname": "守护之心",
+    "JAname": "守護の心",
+    "imageurl": "images/artifact/10003.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "DEF +30%",
+            "DescriptionCN": "防御力提高30%。",
+            "DescriptionJP": "防御力+30%。"
+        },
+        "4": {
+            "DescriptionEN": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
+            "DescriptionCN": "队伍里每有不同一种元素类型的自己的角色，自身获得30%相应的元素抗性。",
+            "DescriptionJP": "チーム内の自身のキャラクターの元素タイプ1種類につき、自身にその元素の耐性+30%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Guardian's Flower",
+            "CNname": "守护之花",
+            "JAname": "守護の花",
+            "DescriptionEN": "An iris that was cherished by the guardian. Unfortunately, the chance never came for it to be given to whom the guardian loved.",
+            "DescriptionCN": "守护者珍视的鸢尾花。并没有机会送给倾心的人。",
+            "DescriptionJP": "守護者が大事にしていた菖蒲。しかし愛しい人に贈る日を迎えられなかった。",
+            "imageurl": "images/artifact/10003-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Guardian's Sigil",
+            "CNname": "守护徽印",
+            "JAname": "守護の印",
+            "DescriptionEN": "A feather-shaped brooch that symbolizes someone’s yearning to defend others like a shield.",
+            "DescriptionCN": "象征着某人「渴望成为坚盾」的羽形别针。",
+            "DescriptionJP": "ある人の「堅い盾になりたい」という意志を象徴する羽根型の安全ピン。",
+            "imageurl": "images/artifact/10003-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Guardian's Clock",
+            "CNname": "守护座钟",
+            "JAname": "守護の置き時計",
+            "DescriptionEN": "A small timekeeping gadget. On moonless nights, it was the only way its former owner could know the time.",
+            "DescriptionCN": "展示当前时间的小道具，在没有月亮的黑夜里是唯一的时间参照。",
+            "DescriptionJP": "時間を示す道具。月のない暗い夜に唯一時間を教えてくれるもの。",
+            "imageurl": "images/artifact/10003-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Guardian's Vessel",
+            "CNname": "守护之皿",
+            "JAname": "守護の瓶",
+            "DescriptionEN": "A metal vessel that can be filled with a drink to dispel the loneliness of the long watch.",
+            "DescriptionCN": "金属的容器。可以用来装某种能排遣漫长守望带来的孤独的液体。",
+            "DescriptionJP": "金属の容器。長い夜の孤独を解消してくれるある液体が入れられる。",
+            "imageurl": "images/artifact/10003-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Guardian's Band",
+            "CNname": "守护束带",
+            "JAname": "守護の帯",
+            "DescriptionEN": "A fabric band dyed indigo by the darkness of night. Can also double as a bandage in the event of an emergency.",
+            "DescriptionCN": "被夜色染得靛青的织物。能在紧急时充当绷带。",
+            "DescriptionJP": "夜色に染まった藍色の織物。緊急時に包帯として使える。",
+            "imageurl": "images/artifact/10003-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "15029",
+    "ENname": "Nymph's Dream",
+    "CNname": "水仙之梦",
+    "JAname": "水仙の夢",
+    "imageurl": "images/artifact/15029.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Hydro DMG Bonus +15%",
+            "DescriptionCN": "获得15%水元素伤害加成。",
+            "DescriptionJP": "水元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently.",
+            "DescriptionCN": "普通攻击、重击、下落攻击、元素战技或元素爆发命中敌人后，将产生1层持续8秒的「镜中水仙」效果。处于1/2/3层及以上「镜中水仙」效果下时，攻击力将提高7%/16%/25%，水元素伤害加成提升4%/9%/15%。由普通攻击、重击、下落攻击、元素战技或元素爆发产生的「镜中水仙」将分别独立存在。",
+            "DescriptionJP": "通常攻撃、重撃、落下攻撃、元素スキル、または元素爆発が敵に命中すると、8秒間継続する「鏡中の水仙」効果を1層獲得する。1/2/3層以上の「鏡中の水仙」効果を持つ時、それぞれ攻撃力+7%/16%/25%、水元素ダメージ+4%/9%/15%。通常攻撃、重撃、落下攻撃、元素スキル、元素爆発による「鏡中の水仙」効果はそれぞれ独立してカウントされる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Odyssean Flower",
+            "CNname": "旅途中的鲜花",
+            "JAname": "旅中の花",
+            "DescriptionEN": "The story must end, and even fresh flowers will wither. But the flower within one's dreams will always remain in full and fragrant bloom.",
+            "DescriptionCN": "故事一定会结束，鲜花也终究会凋落。但梦中描绘的花朵永远都会饱满而充满芬芳吧。",
+            "DescriptionJP": "物語はいつか必ず終わりを告げ、花もやがては散り衰える。しかし、夢で描いた花ならば、永遠に香り高く咲いてくれることだろう。",
+            "imageurl": "images/artifact/15029-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Wicked Mage's Plumule",
+            "CNname": "坏巫师的羽杖",
+            "JAname": "悪しき魔法使いの羽杖",
+            "DescriptionEN": "This was once a decorative feather in someone's hat. Being dark green, it is quite eye-catching indeed.",
+            "DescriptionCN": "原本在礼帽上的装饰鸟羽。墨绿的颜色想必相当吸引眼球吧。",
+            "DescriptionJP": "ドレスハットに飾ってあった鳥の羽。濃い緑色は、さぞ目を惹くものだっただろう。",
+            "imageurl": "images/artifact/15029-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Nymph's Constancy",
+            "CNname": "水仙的时时刻刻",
+            "JAname": "水仙の一瞬一瞬",
+            "DescriptionEN": "A pocket watch that has long stopped working. It seems to have borne witness to many a passing year as its hands spun in vain.",
+            "DescriptionCN": "早已停止运转的怀表，似乎在徒劳的旋转中见证过许多的年月。",
+            "DescriptionJP": "とうの昔に止まった懐中時計。虚しく回転しながら、長い歳月を眺めてきたらしい。",
+            "imageurl": "images/artifact/15029-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Heroes' Tea Party",
+            "CNname": "勇者们的茶会",
+            "JAname": "勇者たちのお茶会",
+            "DescriptionEN": "A lovely teacup. Perhaps it was once used by people enjoying a leisurely afternoon together.",
+            "DescriptionCN": "精致的茶杯。或许曾与他人共同度过悠闲的午后时光吧。",
+            "DescriptionJP": "精巧なティーカップ。誰かと一緒にのんびりとした午後のひと時を過ごしたのだろう。",
+            "imageurl": "images/artifact/15029-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Fell Dragon's Monocle",
+            "CNname": "恶龙的单片镜",
+            "JAname": "悪龍の片眼鏡",
+            "DescriptionEN": "An exquisitely-made monocle. Ancient anecdotes say that one might be able to see the future through it.",
+            "DescriptionCN": "精致的单片眼镜。依照古老的轶事传闻，透过它或许能瞥见未来的光景吧。",
+            "DescriptionJP": "精巧な片眼鏡。古い噂によると、これを使えば未来の光景が見えるらしい。",
+            "imageurl": "images/artifact/15029-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

@@ -2,7 +2,7 @@
     "id": "12424",
     "ENname": "Talking Stick",
     "CNname": "聊聊棒",
-    "JAname": "話し合い棒",
+    "JAname": "話死合い棒",
     "imageurl": "images/weapon/12424.png",
     "type": "claymore",
     "rarity": 4,
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "112424",
-            "name": "",
+            "name": "\"The Silver Tongue\"",
             "upgrade": {
                 "0": "ATK will be increased by 16% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 12% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
                 "1": "ATK will be increased by 20% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 15% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "112424",
-            "name": "",
+            "name": "「口八丁」",
             "upgrade": {
                 "0": "炎元素を付着させられた後の15秒間、攻撃力+16%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+12%、12秒毎に1回のみ発動可能。",
                 "1": "炎元素を付着させられた後の15秒間、攻撃力+20%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+15%、12秒毎に1回のみ発動可能。",

@@ -2,9 +2,9 @@
     "id": "13424",
     "ENname": "Ballad of the Fjords",
     "CNname": "峡湾长歌",
-    "JAname": "峡湾高歌",
+    "JAname": "フィヨルドの歌",
     "imageurl": "images/weapon/13424.png",
-    "type": "polearm",
+    "type": "pole",
     "rarity": 4,
     "leveldata": [
         {
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": "113424",
-            "name": "",
+            "name": "Tales of the Tundra",
             "upgrade": {
                 "0": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 120.",
                 "1": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 150.",
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "113424",
-            "name": "",
+            "name": "氷原にある数々の物語",
             "upgrade": {
                 "0": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+120。",
                 "1": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+150。",

@@ -1,0 +1,75 @@
+{
+    "id": "14004",
+    "ENname": "Maiden Beloved",
+    "CNname": "被怜爱的少女",
+    "JAname": "愛される少女",
+    "imageurl": "images/artifact/14004.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Character Healing Effectiveness +15%",
+            "DescriptionCN": "角色造成的治疗效果提升15%。",
+            "DescriptionJP": "与える治療効果+15%。"
+        },
+        "4": {
+            "DescriptionEN": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+            "DescriptionCN": "施放元素战技或元素爆发后的10秒内，队伍中所有角色受治疗效果加成提高20%。",
+            "DescriptionJP": "元素スキルまたは元素爆発を発動した後10秒間、チーム全員の受ける治療効果+20%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Maiden's Distant Love",
+            "CNname": "远方的少女之心",
+            "JAname": "彼方にある少女の心",
+            "DescriptionEN": "A fragrant flower that will bloom for all eternity and never wither.",
+            "DescriptionCN": "永远娇嫩的鲜花，历经长久时光仍不枯萎地散发着芬芳。",
+            "DescriptionJP": "永遠に咲く花、長い時を経ても枯れずに香りを放ち続ける。",
+            "imageurl": "images/artifact/14004-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Maiden's Heart-stricken Infatuation",
+            "CNname": "少女飘摇的思念",
+            "JAname": "少女の揺らぐ思い",
+            "DescriptionEN": "A feathered accessory that carries the longing for a certain someone, like a migratory bird on the wind.",
+            "DescriptionCN": "寄托谁人的思念的羽饰，就如与风一同去往远方的候鸟。",
+            "DescriptionJP": "誰かの思いを乗せた羽根飾り、まるで風と共に遠くへ去った渡り鳥のようだ。",
+            "imageurl": "images/artifact/14004-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Maiden's Passing Youth",
+            "CNname": "少女苦短的良辰",
+            "JAname": "少女の短い華年",
+            "DescriptionEN": "The hands of time will never come to an end, but the same cannot not be said for those cherished years of the young maiden's life when she was doted upon.",
+            "DescriptionCN": "指针的旋转不会有尽头，但少女受人宠爱的岁月则相反。",
+            "DescriptionJP": "時計の針に終点はないが、少女の愛される歳月はそうではない。",
+            "imageurl": "images/artifact/14004-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Maiden's Fleeting Leisure",
+            "CNname": "少女片刻的闲暇",
+            "JAname": "少女の暫く息抜き",
+            "DescriptionEN": "A vessel made with sweet black tea in mind rather than bitter liquor.",
+            "DescriptionCN": "属于红茶而不属于烈酒，属于芳甜而不属于苦涩的杯皿。",
+            "DescriptionJP": "酒ではなく紅茶の容器。中は苦い味ではなく甘い味である。",
+            "imageurl": "images/artifact/14004-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Maiden's Fading Beauty",
+            "CNname": "少女易逝的芳颜",
+            "JAname": "少女の儚き顔",
+            "DescriptionEN": "A meticulously well-maintained woman's hat that keeps wrinkles safely out of sight.",
+            "DescriptionCN": "精心保养的女士帽，即使是眼角的皱纹也可以完美遮盖。",
+            "DescriptionJP": "丁寧に手入れされた帽子、目じりの皺をも完璧に隠せる。",
+            "imageurl": "images/artifact/14004-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

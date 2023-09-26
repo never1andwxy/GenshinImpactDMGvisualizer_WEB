@@ -1,0 +1,75 @@
+{
+    "id": "15002",
+    "ENname": "Viridescent Venerer",
+    "CNname": "翠绿之影",
+    "JAname": "翠緑の影",
+    "imageurl": "images/artifact/15002.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Anemo DMG Bonus +15%",
+            "DescriptionCN": "获得15%风元素伤害加成。",
+            "DescriptionJP": "風元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+            "DescriptionCN": "扩散反应造成的伤害提升60%。根据扩散的元素类型，降低受到影响的敌人40%的对应元素抗性，持续10秒。",
+            "DescriptionJP": "拡散反応によるダメージ+60%。拡散された元素タイプを基準に、影響を受けた敵の元素耐性-40%、継続時間10秒。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "In Remembrance of Viridescent Fields",
+            "CNname": "野花记忆的绿野",
+            "JAname": "野花の記憶の草原",
+            "DescriptionEN": "A wild flower that was once a ubiquitous sight in its homeland. It was picked by a hunter who wore it on their chest.",
+            "DescriptionCN": "曾经遍布某地的野花。离开了大地，被猎人佩在胸前。",
+            "DescriptionJP": "かつてある場所に咲いた野花、大地を離れ、狩人の胸につけられた。",
+            "imageurl": "images/artifact/15002-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Viridescent Arrow Feather",
+            "CNname": "猎人青翠的箭羽",
+            "JAname": "狩人の青緑色の矢羽",
+            "DescriptionEN": "The fletching of an arrow that once pierced right through its prey, but somehow still remains spotless.",
+            "DescriptionCN": "曾经一瞬贯穿猎物的箭矢的尾羽。如今依旧平整光洁。",
+            "DescriptionJP": "一瞬で獲物を貫通した矢羽、今でも綺麗に整えられている。",
+            "imageurl": "images/artifact/15002-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Viridescent Venerer's Determination",
+            "CNname": "翠绿猎人的笃定",
+            "JAname": "緑の狩人の決心",
+            "DescriptionEN": "A wondrous instrument that a hunter once wore. It forever points towards their prey.",
+            "DescriptionCN": "猎人曾经随身携带的奇妙仪器，永远指向自己的猎物。",
+            "DescriptionJP": "狩人が持ち歩いていた奇妙な機械、永遠に獲物を指す。",
+            "imageurl": "images/artifact/15002-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Viridescent Venerer's Vessel",
+            "CNname": "翠绿猎人的容器",
+            "JAname": "緑の狩人の容器",
+            "DescriptionEN": "A water pouch used by the Viridescent Venerer. Its capacity is much greater than one would expect.",
+            "DescriptionCN": "绿野猎人曾用过的水囊，里面的空间远比想象的更大。",
+            "DescriptionJP": "緑の狩人が使用していた革水筒、中の空間は想像よりもずっと大きい。",
+            "imageurl": "images/artifact/15002-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Viridescent Venerer's Diadem",
+            "CNname": "翠绿的猎人之冠",
+            "JAname": "緑の狩人の冠",
+            "DescriptionEN": "A proud crown that once belonged to the Viridescent Venerer. It is as lush and green as the breezes of the wild.",
+            "DescriptionCN": "曾属于绿野猎人的骄傲头冠，如同原野之风一般青翠。",
+            "DescriptionJP": "かつて緑の狩人が使用していた自慢の冠、野原の風のような青緑色が特徴。",
+            "imageurl": "images/artifact/15002-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "14001",
+    "ENname": "Blizzard Strayer",
+    "CNname": "冰风迷途的勇士",
+    "JAname": "氷風を彷徨う勇士",
+    "imageurl": "images/artifact/14001.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Cryo DMG Bonus +15%",
+            "DescriptionCN": "获得15%冰元素伤害加成。",
+            "DescriptionJP": "氷元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+            "DescriptionCN": "攻击处于冰元素影响下的敌人时，暴击率提高20%；若敌人处于冻结状态下，则暴击率额外提高20%。",
+            "DescriptionJP": "氷元素の影響を受けている敵を攻撃した場合、会心率+20%。敵が凍結状態の場合、会心率は更に+20%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Snowswept Memory",
+            "CNname": "历经风雪的思念",
+            "JAname": "吹雪の中の思い",
+            "DescriptionEN": "A long-extinct flower, covered in beads of frost, that once grew on the glaciers. There was a time when even the proudest and most arrogant warriors bowed before it.",
+            "DescriptionCN": "早已绝迹的冰川之花，霜结着点点冰露。孤高的勇士也曾为这朵鲜花折腰。",
+            "DescriptionJP": "絶滅した氷河の花、上には凍った露がある。孤高な勇士もかつてこの花のために身を屈したらしい。",
+            "imageurl": "images/artifact/14001-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Icebreaker's Resolve",
+            "CNname": "摧冰而行的执望",
+            "JAname": "氷を砕く執念",
+            "DescriptionEN": "A feather that exudes a chilly aura. One can almost feel the turbulent winds that brought it here, wailing over snow-covered plains and between frosty peaks.",
+            "DescriptionCN": "散布寒冬的鸟羽，仿佛能感受到猛禽在雪原与冰峰之上呼号翱翔的振翅之风。",
+            "DescriptionJP": "極寒の冬を放つ鳥の羽。この猛禽が、雪原と氷峰の上で羽根を羽ばたかせた風を感じ取れるようだ。",
+            "imageurl": "images/artifact/14001-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Frozen Homeland's Demise",
+            "CNname": "冰雪故园的终期",
+            "JAname": "雪覆う故郷の最後",
+            "DescriptionEN": "A timepiece from a nation of old that waited for their warriors' return. What flows inside is not sand, but bits of ice that never melt.",
+            "DescriptionCN": "等待勇士归来的故国人民所用的时计。其中流淌的并不是沙，而是不化的冰屑。",
+            "DescriptionJP": "勇士の帰りを待つ故郷の人々が使っていた時計。その中を流れるのは砂ではなく、溶けない氷の屑のである。",
+            "imageurl": "images/artifact/14001-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Frost-Weaved Dignity",
+            "CNname": "遍结寒霜的傲骨",
+            "JAname": "霜を纏った気骨",
+            "DescriptionEN": "A cup carved out of ice that is as chilly and biting as winter. Its former master would drink an unfreezable liquor from it.",
+            "DescriptionCN": "用寒冰雕制成的杯盏，如冬天一般坚利。曾经的主人从中啜饮过不冻之酒。",
+            "DescriptionJP": "寒氷でできたコップ、冬のように堅い。かつての持ち主はそれで不凍の酒を飲んだらしい。",
+            "imageurl": "images/artifact/14001-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Broken Rime's Echo",
+            "CNname": "破冰踏雪的回音",
+            "JAname": "氷雪を踏む音",
+            "DescriptionEN": "The crown of an ancient hero who dreamt of conquering the cold. It is proof of its former master's bravery in facing the bone-chilling cold of winter.",
+            "DescriptionCN": "梦想征服冰雪的古代英雄冠冕，是驱使它的故主直面刻骨寒冬的勇气之证。",
+            "DescriptionJP": "氷雪を征服すると夢見る古代英雄の冠、寒い冬に直面しても怯まない勇気の証。",
+            "imageurl": "images/artifact/14001-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

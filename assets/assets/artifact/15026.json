@@ -1,0 +1,75 @@
+{
+    "id": "15026",
+    "ENname": "Gilded Dreams",
+    "CNname": "饰金之梦",
+    "JAname": "金メッキの夢",
+    "imageurl": "images/artifact/15026.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Mastery by 80.",
+            "DescriptionCN": "元素精通提高80点。",
+            "DescriptionJP": "元素熟知+80。"
+        },
+        "4": {
+            "DescriptionEN": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+            "DescriptionCN": "触发元素反应后的8秒内，会根据队伍内其他角色的元素类型，使装备者获得强化：队伍中每存在1个和装备者同类元素的角色，攻击力提升14%；每存在1个和装备者不同元素类型的角色，元素精通提升50点。上述每类效果至多计算3个角色。该效果每8秒至多触发一次。装备者处于队伍后台时，依然能触发该效果。",
+            "DescriptionJP": "元素反応を起こした後の8秒間、装備キャラクターは、チーム内自身以外のキャラクターの元素タイプに応じて強化効果を獲得する。チームに装備キャラクターと同じ元素タイプのキャラクターが1名存在する毎に攻撃力+14%、異なる元素タイプのキャラクターが1名存在する毎に元素熟知+50。上記効果は、それぞれ最大でキャラクター3名までカウントされる。この効果は8秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Dreaming Steelbloom",
+            "CNname": "梦中的铁花",
+            "JAname": "夢境の鉄花",
+            "DescriptionEN": "A flower bud made of hammered dark gold. Its crimson core is wrapped by petals that shall never open.",
+            "DescriptionCN": "暗金打造的蓓蕾，再无机会开放的花瓣包裹着赤红的花芯。",
+            "DescriptionJP": "色みの暗い金で仕上げられたつぼみ。決して開くことのない花びらは、深紅の芯を包んでいる。",
+            "imageurl": "images/artifact/15026-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Feather of Judgment",
+            "CNname": "裁断的翎羽",
+            "JAname": "裁断の羽根",
+            "DescriptionEN": "This special feather was once used to weigh the hearts of the guilty, but it has since lost its original function.",
+            "DescriptionCN": "曾用来衡量罪人心脏重量的特制翎羽，如今失去了原本的功能。",
+            "DescriptionJP": "かつて罪人の心臓の重さを量るために使われた特製の羽根。今はもう、元の機能を失っている。",
+            "imageurl": "images/artifact/15026-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "The Sunken Years",
+            "CNname": "沉金的岁月",
+            "JAname": "深金の歳月",
+            "DescriptionEN": "This dark-golden sundial seems to tell the ancient tale of the desert.",
+            "DescriptionCN": "暗金光泽的古老日晷，似乎在诉说着沙漠的旧日。",
+            "DescriptionJP": "濃い金の光沢を放つ、いにしえの日時計。かつての砂漠を物語っているかのようだ。",
+            "imageurl": "images/artifact/15026-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Honeyed Final Feast",
+            "CNname": "如蜜的终宴",
+            "JAname": "甘露の終宴",
+            "DescriptionEN": "A wine cup that was once used at a grand and ancient feast. It has now lost much of that luster.",
+            "DescriptionCN": "曾在古老盛大的宴会上使用的酒杯，褪去了往日华丽的颜色。",
+            "DescriptionJP": "古代の盛大な宴会で使われた杯。かつての輝きは今や、跡形もない。",
+            "imageurl": "images/artifact/15026-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Shadow of the Sand King",
+            "CNname": "沙王的投影",
+            "JAname": "砂王の投影",
+            "DescriptionEN": "This gold-inlaid headband was once used by desert priests in the days of old. They were made in imitation of one worn by a legendary ruler of the desert peoples.",
+            "DescriptionCN": "旧日沙漠祭司的镶金头巾，其形制乃是为了效仿传说中的沙民之王。",
+            "DescriptionJP": "その昔、砂漠の祭司が使っていた金メッキの頭巾。伝説の、砂の民の王が身に着けていた頭巾の形を模している。",
+            "imageurl": "images/artifact/15026-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

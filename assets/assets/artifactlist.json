@@ -1,0 +1,427 @@
+{
+    "data": [
+        {
+            "id": "10001",
+            "ENname": "Resolution of Sojourner",
+            "CNname": "行者之心",
+            "JAname": "旅人の心",
+            "imageurl": "images/artifact/10001.png",
+            "spoiler": false,
+            "order": 10
+        },
+        {
+            "id": "10002",
+            "ENname": "Brave Heart",
+            "CNname": "勇士之心",
+            "JAname": "勇士の心",
+            "imageurl": "images/artifact/10002.png",
+            "spoiler": false,
+            "order": 16
+        },
+        {
+            "id": "10003",
+            "ENname": "Defender's Will",
+            "CNname": "守护之心",
+            "JAname": "守護の心",
+            "imageurl": "images/artifact/10003.png",
+            "spoiler": false,
+            "order": 15
+        },
+        {
+            "id": "10004",
+            "ENname": "Tiny Miracle",
+            "CNname": "奇迹",
+            "JAname": "奇跡",
+            "imageurl": "images/artifact/10004.png",
+            "spoiler": false,
+            "order": 11
+        },
+        {
+            "id": "10005",
+            "ENname": "Berserker",
+            "CNname": "战狂",
+            "JAname": "狂戦士",
+            "imageurl": "images/artifact/10005.png",
+            "spoiler": false,
+            "order": 12
+        },
+        {
+            "id": "10006",
+            "ENname": "Martial Artist",
+            "CNname": "武人",
+            "JAname": "武人",
+            "imageurl": "images/artifact/10006.png",
+            "spoiler": false,
+            "order": 17
+        },
+        {
+            "id": "10007",
+            "ENname": "Instructor",
+            "CNname": "教官",
+            "JAname": "教官",
+            "imageurl": "images/artifact/10007.png",
+            "spoiler": false,
+            "order": 13
+        },
+        {
+            "id": "10008",
+            "ENname": "Gambler",
+            "CNname": "赌徒",
+            "JAname": "博徒",
+            "imageurl": "images/artifact/10008.png",
+            "spoiler": false,
+            "order": 18
+        },
+        {
+            "id": "10009",
+            "ENname": "The Exile",
+            "CNname": "流放者",
+            "JAname": "亡命者",
+            "imageurl": "images/artifact/10009.png",
+            "spoiler": false,
+            "order": 14
+        },
+        {
+            "id": "10010",
+            "ENname": "Adventurer",
+            "CNname": "冒险家",
+            "JAname": "冒険者",
+            "imageurl": "images/artifact/10010.png",
+            "spoiler": false,
+            "order": 1
+        },
+        {
+            "id": "10011",
+            "ENname": "Lucky Dog",
+            "CNname": "幸运儿",
+            "JAname": "幸運",
+            "imageurl": "images/artifact/10011.png",
+            "spoiler": false,
+            "order": 2
+        },
+        {
+            "id": "10012",
+            "ENname": "Scholar",
+            "CNname": "学士",
+            "JAname": "学者",
+            "imageurl": "images/artifact/10012.png",
+            "spoiler": false,
+            "order": 19
+        },
+        {
+            "id": "10013",
+            "ENname": "Traveling Doctor",
+            "CNname": "游医",
+            "JAname": "医者",
+            "imageurl": "images/artifact/10013.png",
+            "spoiler": false,
+            "order": 3
+        },
+        {
+            "id": "14001",
+            "ENname": "Blizzard Strayer",
+            "CNname": "冰风迷途的勇士",
+            "JAname": "氷風を彷徨う勇士",
+            "imageurl": "images/artifact/14001.png",
+            "spoiler": false,
+            "order": 38
+        },
+        {
+            "id": "14002",
+            "ENname": "Thundersoother",
+            "CNname": "平息鸣雷的尊者",
+            "JAname": "雷を鎮める尊者",
+            "imageurl": "images/artifact/14002.png",
+            "spoiler": false,
+            "order": 39
+        },
+        {
+            "id": "14003",
+            "ENname": "Lavawalker",
+            "CNname": "渡过烈火的贤人",
+            "JAname": "烈火を渡る賢者",
+            "imageurl": "images/artifact/14003.png",
+            "spoiler": false,
+            "order": 40
+        },
+        {
+            "id": "14004",
+            "ENname": "Maiden Beloved",
+            "CNname": "被怜爱的少女",
+            "JAname": "愛される少女",
+            "imageurl": "images/artifact/14004.png",
+            "spoiler": false,
+            "order": 41
+        },
+        {
+            "id": "15001",
+            "ENname": "Gladiator's Finale",
+            "CNname": "角斗士的终幕礼",
+            "JAname": "剣闘士のフィナーレ",
+            "imageurl": "images/artifact/15001.png",
+            "spoiler": false,
+            "order": 42
+        },
+        {
+            "id": "15002",
+            "ENname": "Viridescent Venerer",
+            "CNname": "翠绿之影",
+            "JAname": "翠緑の影",
+            "imageurl": "images/artifact/15002.png",
+            "spoiler": false,
+            "order": 43
+        },
+        {
+            "id": "15003",
+            "ENname": "Wanderer's Troupe",
+            "CNname": "流浪大地的乐团",
+            "JAname": "大地を流浪する楽団",
+            "imageurl": "images/artifact/15003.png",
+            "spoiler": false,
+            "order": 44
+        },
+        {
+            "id": "15005",
+            "ENname": "Thundering Fury",
+            "CNname": "如雷的盛怒",
+            "JAname": "雷のような怒り",
+            "imageurl": "images/artifact/15005.png",
+            "spoiler": false,
+            "order": 45
+        },
+        {
+            "id": "15006",
+            "ENname": "Crimson Witch of Flames",
+            "CNname": "炽烈的炎之魔女",
+            "JAname": "燃え盛る炎の魔女",
+            "imageurl": "images/artifact/15006.png",
+            "spoiler": false,
+            "order": 46
+        },
+        {
+            "id": "15007",
+            "ENname": "Noblesse Oblige",
+            "CNname": "昔日宗室之仪",
+            "JAname": "旧貴族のしつけ",
+            "imageurl": "images/artifact/15007.png",
+            "spoiler": false,
+            "order": 47
+        },
+        {
+            "id": "15008",
+            "ENname": "Bloodstained Chivalry",
+            "CNname": "染血的骑士道",
+            "JAname": "血染めの騎士道",
+            "imageurl": "images/artifact/15008.png",
+            "spoiler": false,
+            "order": 48
+        },
+        {
+            "id": "15009",
+            "ENname": "Prayers for Illumination",
+            "CNname": "祭火之人",
+            "JAname": "火祭りの人",
+            "imageurl": "images/artifact/15009.png",
+            "spoiler": false,
+            "order": 20
+        },
+        {
+            "id": "15010",
+            "ENname": "Prayers for Destiny",
+            "CNname": "祭水之人",
+            "JAname": "水祭りの人",
+            "imageurl": "images/artifact/15010.png",
+            "spoiler": false,
+            "order": 21
+        },
+        {
+            "id": "15011",
+            "ENname": "Prayers for Wisdom",
+            "CNname": "祭雷之人",
+            "JAname": "雷祭りの人",
+            "imageurl": "images/artifact/15011.png",
+            "spoiler": false,
+            "order": 22
+        },
+        {
+            "id": "15013",
+            "ENname": "Prayers to Springtime",
+            "CNname": "祭冰之人",
+            "JAname": "氷祭りの人",
+            "imageurl": "images/artifact/15013.png",
+            "spoiler": false,
+            "order": 23
+        },
+        {
+            "id": "15014",
+            "ENname": "Archaic Petra",
+            "CNname": "悠古的磐岩",
+            "JAname": "悠久の磐岩",
+            "imageurl": "images/artifact/15014.png",
+            "spoiler": false,
+            "order": 49
+        },
+        {
+            "id": "15015",
+            "ENname": "Retracing Bolide",
+            "CNname": "逆飞的流星",
+            "JAname": "逆飛びの流星",
+            "imageurl": "images/artifact/15015.png",
+            "spoiler": false,
+            "order": 50
+        },
+        {
+            "id": "15016",
+            "ENname": "Heart of Depth",
+            "CNname": "沉沦之心",
+            "JAname": "沈淪の心",
+            "imageurl": "images/artifact/15016.png",
+            "spoiler": false,
+            "order": 51
+        },
+        {
+            "id": "15017",
+            "ENname": "Tenacity of the Millelith",
+            "CNname": "千岩牢固",
+            "JAname": "千岩牢固",
+            "imageurl": "images/artifact/15017.png",
+            "spoiler": false,
+            "order": 52
+        },
+        {
+            "id": "15018",
+            "ENname": "Pale Flame",
+            "CNname": "苍白之火",
+            "JAname": "蒼白の炎",
+            "imageurl": "images/artifact/15018.png",
+            "spoiler": false,
+            "order": 53
+        },
+        {
+            "id": "15019",
+            "ENname": "Shimenawa's Reminiscence",
+            "CNname": "追忆之注连",
+            "JAname": "追憶のしめ縄",
+            "imageurl": "images/artifact/15019.png",
+            "spoiler": false,
+            "order": 70
+        },
+        {
+            "id": "15020",
+            "ENname": "Emblem of Severed Fate",
+            "CNname": "绝缘之旗印",
+            "JAname": "絶縁の旗印",
+            "imageurl": "images/artifact/15020.png",
+            "spoiler": false,
+            "order": 71
+        },
+        {
+            "id": "15021",
+            "ENname": "Husk of Opulent Dreams",
+            "CNname": "华馆梦醒形骸记",
+            "JAname": "華館夢醒形骸記",
+            "imageurl": "images/artifact/15021.png",
+            "spoiler": false,
+            "order": 74
+        },
+        {
+            "id": "15022",
+            "ENname": "Ocean-Hued Clam",
+            "CNname": "海染砗磲",
+            "JAname": "海染硨磲",
+            "imageurl": "images/artifact/15022.png",
+            "spoiler": false,
+            "order": 75
+        },
+        {
+            "id": "15023",
+            "ENname": "Vermillion Hereafter",
+            "CNname": "辰砂往生录",
+            "JAname": "辰砂往生録",
+            "imageurl": "images/artifact/15023.png",
+            "spoiler": false,
+            "order": 78
+        },
+        {
+            "id": "15024",
+            "ENname": "Echoes of an Offering",
+            "CNname": "来歆余响",
+            "JAname": "来歆の余響",
+            "imageurl": "images/artifact/15024.png",
+            "spoiler": false,
+            "order": 79
+        },
+        {
+            "id": "15025",
+            "ENname": "Deepwood Memories",
+            "CNname": "深林的记忆",
+            "JAname": "深林の記憶",
+            "imageurl": "images/artifact/15025.png",
+            "spoiler": false,
+            "order": 82
+        },
+        {
+            "id": "15026",
+            "ENname": "Gilded Dreams",
+            "CNname": "饰金之梦",
+            "JAname": "金メッキの夢",
+            "imageurl": "images/artifact/15026.png",
+            "spoiler": false,
+            "order": 83
+        },
+        {
+            "id": "15027",
+            "ENname": "Desert Pavilion Chronicle",
+            "CNname": "沙上楼阁史话",
+            "JAname": "砂上の楼閣の史話",
+            "imageurl": "images/artifact/15027.png",
+            "spoiler": false,
+            "order": 86
+        },
+        {
+            "id": "15028",
+            "ENname": "Flower of Paradise Lost",
+            "CNname": "乐园遗落之花",
+            "JAname": "楽園の絶花",
+            "imageurl": "images/artifact/15028.png",
+            "spoiler": false,
+            "order": 87
+        },
+        {
+            "id": "15029",
+            "ENname": "Nymph's Dream",
+            "CNname": "水仙之梦",
+            "JAname": "水仙の夢",
+            "imageurl": "images/artifact/15029.png",
+            "spoiler": false,
+            "order": 90
+        },
+        {
+            "id": "15030",
+            "ENname": "Vourukasha's Glow",
+            "CNname": "花海甘露之光",
+            "JAname": "花海甘露の光",
+            "imageurl": "images/artifact/15030.png",
+            "spoiler": false,
+            "order": 91
+        },
+        {
+            "id": "15031",
+            "ENname": "Marechaussee Hunter",
+            "CNname": "逐影猎人",
+            "JAname": "ファントムハンター",
+            "imageurl": "images/artifact/15031.png",
+            "spoiler": false,
+            "order": 94
+        },
+        {
+            "id": "15032",
+            "ENname": "Golden Troupe",
+            "CNname": "黄金剧团",
+            "JAname": "黄金劇団JP0B",
+            "imageurl": "images/artifact/15032.png",
+            "spoiler": false,
+            "order": 95
+        }
+    ]
+}

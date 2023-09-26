@@ -1,0 +1,75 @@
+{
+    "id": "10005",
+    "ENname": "Berserker",
+    "CNname": "战狂",
+    "JAname": "狂戦士",
+    "imageurl": "images/artifact/10005.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "CRIT Rate +12%",
+            "DescriptionCN": "暴击率提高12%。",
+            "DescriptionJP": "会心率+12%。"
+        },
+        "4": {
+            "DescriptionEN": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
+            "DescriptionCN": "生命值低于70%时，暴击率额外提升24%。",
+            "DescriptionJP": "HPが70%以下になると、会心率+24%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Berserker's Rose",
+            "CNname": "战狂的蔷薇",
+            "JAname": "狂戦士の薔薇",
+            "DescriptionEN": "An exquisite flower that has been dyed red. It represents the qualities of the Berserker.",
+            "DescriptionCN": "被染红的精致花朵，与狂战士的气质微妙地相符。",
+            "DescriptionJP": "赤く染まった綺麗な花、狂戦士の気質と微妙に釣り合う。",
+            "imageurl": "images/artifact/10005-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Berserker's Indigo Feather",
+            "CNname": "战狂的翎羽",
+            "JAname": "狂戦士の羽根",
+            "DescriptionEN": "An indigo feather from a legendary raven, part of which has been dyed crimson red.",
+            "DescriptionCN": "原本传说中报丧之鸟的黯蓝尾羽，一部分被染成了红色。",
+            "DescriptionJP": "伝説の死を告げる鳥の勝色の尾羽、今は一部が赤く染まっている。",
+            "imageurl": "images/artifact/10005-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Berserker's Timepiece",
+            "CNname": "战狂的时计",
+            "JAname": "狂戦士の時計",
+            "DescriptionEN": "An instrument with an eternal flow that continues mercilessly within, reminding the Berserker of the limited time he has left — both on the battlefield as well as in the world.",
+            "DescriptionCN": "永远无情流动着的器物。提醒着狂战士自己在战场上的时限，和在人世间的时限。",
+            "DescriptionJP": "永遠に無情に流れ続ける砂時計。狂戦士に戦場にいられる時間と余命の時間を教える。",
+            "imageurl": "images/artifact/10005-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Berserker's Bone Goblet",
+            "CNname": "战狂的骨杯",
+            "JAname": "狂戦士のコップ",
+            "DescriptionEN": "A goblet made from the bone of an unknown beast. It was taken as a trophy after some deadly encounter.",
+            "DescriptionCN": "用不知名的巨大兽类的骨头制成的杯。是某次厮杀后得到的猎获。",
+            "DescriptionJP": "ある種の巨大獣の骨でできたコップ。ある死闘の後の獲物。",
+            "imageurl": "images/artifact/10005-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Berserker's Battle Mask",
+            "CNname": "战狂的鬼面",
+            "JAname": "狂戦士の仮面",
+            "DescriptionEN": "A hideous iron mask that has been left half-shattered from vicious battles.",
+            "DescriptionCN": "在不顾生死的厮杀中一半破碎的骇人铁面具。",
+            "DescriptionJP": "生死を問わない激戦で、半分に割れた怖気の鉄仮面。",
+            "imageurl": "images/artifact/10005-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

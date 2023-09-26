@@ -1,0 +1,75 @@
+{
+    "id": "15017",
+    "ENname": "Tenacity of the Millelith",
+    "CNname": "千岩牢固",
+    "JAname": "千岩牢固",
+    "imageurl": "images/artifact/15017.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "HP +20%",
+            "DescriptionCN": "生命值提升20%。",
+            "DescriptionJP": "HP+20%。"
+        },
+        "4": {
+            "DescriptionEN": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+            "DescriptionCN": "元素战技命中敌人后，使队伍中附近的所有角色攻击力提升20%，护盾强效提升30%，持续3秒。该效果每0.5秒至多触发一次。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+            "DescriptionJP": "元素スキルが敵に命中すると、周囲のチーム全員の攻撃力+20%、シールド強化+30%、持続時間3秒。この効果は0.5秒毎に1回のみ発動可能。この聖遺物セットを装備したキャラクターが待機している場合にも効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Flower of Accolades",
+            "CNname": "勋绩之花",
+            "JAname": "偉勲の花",
+            "DescriptionEN": "A flower made from gold leaf. It represents the glories and honors attained by its wearer.",
+            "DescriptionCN": "以金箔制成的精致花朵，象征了其主人所获得的功勋与荣誉。",
+            "DescriptionJP": "金箔で作られた精巧な花。所有主の功績と栄誉を象徴している。",
+            "imageurl": "images/artifact/15017-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Ceremonial War-Plume",
+            "CNname": "昭武翎羽",
+            "JAname": "昭武の羽根",
+            "DescriptionEN": "A falcon feather worn on ceremonial occasions. It displays the dignity and resolve of Liyue Harbor to the outside world.",
+            "DescriptionCN": "在仪仗场合佩戴的鹰翎，用以向外人显明璃月港的威严与决心。",
+            "DescriptionJP": "式典の際に着用し、外国からの訪問者に威厳を示す羽毛。",
+            "imageurl": "images/artifact/15017-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Orichalceous Time-Dial",
+            "CNname": "金铜时晷",
+            "JAname": "金銅の日時計",
+            "DescriptionEN": "A simple device for telling time. This was once standard-issue for the Millelith during times of war.",
+            "DescriptionCN": "外观朴素的计时道具，在战乱的时代，一度是千岩军的制式装备。",
+            "DescriptionJP": "素朴な見た目の計時器。戦争の時代、千岩軍の標準装備だった。",
+            "imageurl": "images/artifact/15017-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Noble's Pledging Vessel",
+            "CNname": "盟誓金爵",
+            "JAname": "誓いの金杯",
+            "DescriptionEN": "A golden cup used by the Millelith to take their oaths. Still bears the lovely scent of wine.",
+            "DescriptionCN": "千岩军用以盟誓的金爵，依旧残留着丝丝酒香。",
+            "DescriptionJP": "千岩軍が誓いの時に使う黄金の杯。酒の香が少し残っている。",
+            "imageurl": "images/artifact/15017-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "General's Ancient Helm",
+            "CNname": "将帅兜鍪",
+            "JAname": "将帥の兜",
+            "DescriptionEN": "A splendorous helmet from ages past. Clean the dust away and it will look brand-new once more.",
+            "DescriptionCN": "年代久远的华丽头盔，洗净尘沙后依旧明亮如新。",
+            "DescriptionJP": "古きから伝わる華麗な兜。埃を拭き取ると新品同様に明るく光る。",
+            "imageurl": "images/artifact/15017-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

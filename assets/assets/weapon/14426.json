@@ -1,0 +1,141 @@
+{
+    "id": "14426",
+    "ENname": "Ballad of the Boundless Blue",
+    "CNname": "无垠蔚蓝之歌",
+    "JAname": "果てなき紺碧の唄",
+    "imageurl": "images/weapon/14426.png",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349,
+            "charge_efficiency": 0.06667
+        },
+        {
+            "level": "5",
+            "base_attack": 59.1733197,
+            "charge_efficiency": 0.07747053999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282000000001,
+            "charge_efficiency": 0.09087121
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53472970000001,
+            "charge_efficiency": 0.10433854999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 118.5653139,
+            "charge_efficiency": 0.11780588999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271028,
+            "charge_efficiency": 0.13127323
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638313,
+            "charge_efficiency": 0.14474056999999999
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53176450000004,
+            "charge_efficiency": 0.15820791
+        },
+        {
+            "level": "40",
+            "base_attack": 225.98716750000003,
+            "charge_efficiency": 0.17167525
+        },
+        {
+            "level": "45",
+            "base_attack": 220.7300403,
+            "charge_efficiency": 0.18514259
+        },
+        {
+            "level": "50",
+            "base_attack": 293.3603829,
+            "charge_efficiency": 0.19860993
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446040000005,
+            "charge_efficiency": 0.21207726999999998
+        },
+        {
+            "level": "60",
+            "base_attack": 360.89600770000004,
+            "charge_efficiency": 0.22554460999999998
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0012899,
+            "charge_efficiency": 0.23901194999999997
+        },
+        {
+            "level": "70",
+            "base_attack": 428.6940419,
+            "charge_efficiency": 0.25241262
+        },
+        {
+            "level": "75",
+            "base_attack": 345.9867939,
+            "charge_efficiency": 0.26587995999999997
+        },
+        {
+            "level": "80",
+            "base_attack": 496.7232808,
+            "charge_efficiency": 0.2793473
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10350260000007,
+            "charge_efficiency": 0.29281464
+        },
+        {
+            "level": "90",
+            "base_attack": 564.7837344,
+            "charge_efficiency": 0.30628198
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "114426",
+            "name": "Azure Skies",
+            "upgrade": {
+                "0": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 8% and Charged Attack DMG will be increased by 6%. Max 3 stacks. Can occur once every 0.3s.",
+                "1": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 10% and Charged Attack DMG will be increased by 7.5%. Max 3 stacks. Can occur once every 0.3s.",
+                "2": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 12% and Charged Attack DMG will be increased by 9%. Max 3 stacks. Can occur once every 0.3s.",
+                "3": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 14% and Charged Attack DMG will be increased by 10.5%. Max 3 stacks. Can occur once every 0.3s.",
+                "4": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 16% and Charged Attack DMG will be increased by 12%. Max 3 stacks. Can occur once every 0.3s."
+            }
+        },
+        "chs": {
+            "id": "114426",
+            "name": "蔚蓝深空",
+            "upgrade": {
+                "0": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升8%，重击造成的伤害提升6%。该效果至多叠加3次，每0.3秒至多触发一次。",
+                "1": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升10%，重击造成的伤害提升7.5%。该效果至多叠加3次，每0.3秒至多触发一次。",
+                "2": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升12%，重击造成的伤害提升9%。该效果至多叠加3次，每0.3秒至多触发一次。",
+                "3": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升14%，重击造成的伤害提升10.5%。该效果至多叠加3次，每0.3秒至多触发一次。",
+                "4": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升16%，重击造成的伤害提升12%。该效果至多叠加3次，每0.3秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": "114426",
+            "name": "紺碧の空",
+            "upgrade": {
+                "0": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+8%、重撃のダメージ+6%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+                "1": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+10%、重撃のダメージ+7.5%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+                "2": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+12%、重撃のダメージ+9%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+                "3": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+14%、重撃のダメージ+10.5%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+                "4": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+16%、重撃のダメージ+12%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "15021",
+    "ENname": "Husk of Opulent Dreams",
+    "CNname": "华馆梦醒形骸记",
+    "JAname": "華館夢醒形骸記",
+    "imageurl": "images/artifact/15021.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "DEF +30%",
+            "DescriptionCN": "防御力提高30%。",
+            "DescriptionJP": "防御力+30%。"
+        },
+        "4": {
+            "DescriptionEN": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+            "DescriptionCN": "装备此圣遗物套装的角色在以下情况下，将获得「问答」效果：在场上用岩元素攻击命中敌人后获得一层，每0.3秒至多触发一次；在队伍后台中，每3秒获得一层。问答至多叠加4层，每层能提供6%防御力与6%岩元素伤害加成。每6秒，若未获得问答效果，将损失一层。",
+            "DescriptionJP": "この聖遺物セットを装備したキャラクターは、以下の状況において「問答」効果を獲得する。「問答」効果：フィールド上で岩元素攻撃を敵に命中した後に1層獲得、0.3秒毎に1層のみ獲得できる。待機中の場合は、3秒毎に自動で1層獲得する。重ね掛けできる「問答」は最大4層までとなり、1層につき防御力+6%、岩元素ダメージ+6%。6秒毎に「問答」効果を獲得していない場合は、1層失う。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Bloom Times",
+            "CNname": "荣花之期",
+            "JAname": "栄花の期",
+            "DescriptionEN": "A small golden ornament with six petals that shall never wilt. It symbolizes the transience of mortal glories.",
+            "DescriptionCN": "六瓣花形状的小型金饰，以永不凋零之姿，阅遍俗世易逝的荣华。",
+            "DescriptionJP": "六枚の花びらを模した小さな金の飾り。枯れることのないその姿は、世の儚い栄華を知り尽くしているようだ。",
+            "imageurl": "images/artifact/15021-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Plume of Luxury",
+            "CNname": "华馆之羽",
+            "JAname": "華館の羽",
+            "DescriptionEN": "A feather-shaped token that was brought forth from a secluded hall. The compassion of its creator led to it being left within that mansion along with a certain slumbering form.",
+            "DescriptionCN": "于避世之幽馆中一同带出的箭羽状的凭证，因创造者的怜悯之情，而与某具沉睡之躯一同置于馆中。",
+            "DescriptionJP": "俗世間より切り離されし館から持ち出された矢羽状の物証。作り手の憐憫により、眠りについたある亡き骸と共に館へと置かれた。",
+            "imageurl": "images/artifact/15021-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Song of Life",
+            "CNname": "众生之谣",
+            "JAname": "衆生の歌",
+            "DescriptionEN": "As far as Inazuma is concerned, this is some small object from overseas. The heart of this mechanism has been removed, and its hands no longer turn.",
+            "DescriptionCN": "于稻妻而言乃是舶来品的小物件。名为机芯的零件已被卸下，指针也不再转动。",
+            "DescriptionJP": "稲妻にとって舶来の小物。芯部は既に取り外されており、針も回っていない。",
+            "imageurl": "images/artifact/15021-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Calabash of Awakening",
+            "CNname": "梦醒之瓢",
+            "JAname": "夢醒の瓢箪",
+            "DescriptionEN": "A gourd that has been adorned with powdered gold and black paint. Its original color can no longer be discerned, but its main use seems to be as a performance prop.",
+            "DescriptionCN": "以黑漆与金粉装饰过的葫芦，已看不出本来的颜色，好像主要作用是演出的道具。",
+            "DescriptionJP": "黒漆と金粉で彩られたひょうたん。本来どのような色だったのかは、もはや知るすべはない。主に演劇の小道具として使われていたようだ。",
+            "imageurl": "images/artifact/15021-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Skeletal Hat",
+            "CNname": "形骸之笠",
+            "JAname": "形骸の笠",
+            "DescriptionEN": "A hat that once shielded a wanderer from sun and rain. It eventually became a convenient tool with which faces might be hidden and expressions obscured.",
+            "DescriptionCN": "流浪者在旅途中遮光避雨的斗笠，但后来却成为了遮挡面目、隐藏表情的便利道具。",
+            "DescriptionJP": "かつて放浪者を日の光や雨から守った笠。後に顔や表情を隠すのに役立つ道具となった。",
+            "imageurl": "images/artifact/15021-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

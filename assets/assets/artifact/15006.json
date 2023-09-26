@@ -1,0 +1,75 @@
+{
+    "id": "15006",
+    "ENname": "Crimson Witch of Flames",
+    "CNname": "炽烈的炎之魔女",
+    "JAname": "燃え盛る炎の魔女",
+    "imageurl": "images/artifact/15006.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Pyro DMG Bonus +15%",
+            "DescriptionCN": "获得15%火元素伤害加成。",
+            "DescriptionJP": "炎元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+            "DescriptionCN": "超载、燃烧、烈绽放反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，2件套的效果提高50%，该效果最多叠加3次。",
+            "DescriptionJP": "過負荷、燃焼、烈開花反応によるダメージ+40%。蒸発、溶解反応による加算効果+15%。元素スキルを発動した10秒間、2セットの効果+50%、最大3重まで。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Witch's Flower of Blaze",
+            "CNname": "魔女的炎之花",
+            "JAname": "魔女の炎の花",
+            "DescriptionEN": "A flower touched by the witch who once dreamt of burning away all the demons in the world. The anonymous flames affectionately caress the hands of those who touch it.",
+            "DescriptionCN": "曾经梦想烧尽世间魔物的魔女触碰过的花朵。无名的火舌温暖地舔舐触碰它的人。",
+            "DescriptionJP": "かつて、世の魔物を全て燃やそうと夢見た炎の魔女が触れた花。触ると、名も無き炎の暖かさに優しく包まれる。",
+            "imageurl": "images/artifact/15006-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Witch's Ever-Burning Plume",
+            "CNname": "魔女常燃之羽",
+            "JAname": "魔女の炎の羽根",
+            "DescriptionEN": "A bird feather touched by the witch who once dreamt of burning away all the demons in the world. Its eternal flame burns hot.",
+            "DescriptionCN": "曾经梦想烧尽世间魔物的魔女触碰过的鸟羽，在恒常的燃烧中挥发着烈焰的温度。",
+            "DescriptionJP": "かつて世の魔物を全て燃やそうと夢見た炎の魔女が触れた鳥の羽根、常に烈炎と同じ温度を保っている。",
+            "imageurl": "images/artifact/15006-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Witch's End Time",
+            "CNname": "魔女破灭之时",
+            "JAname": "魔女の破滅の時",
+            "DescriptionEN": "A timepiece worn by the witch who dreamt of burning away all the demons in the world. The years the witch dedicated to the flames flow within.",
+            "DescriptionCN": "曾经梦想烧尽世间魔物的魔女佩戴的时计。其中流淌着的是魔女献给火焰的岁月。",
+            "DescriptionJP": "かつて世の魔物を全て燃やそうと夢見た炎の魔女が使用していた時計、中に流れているのは魔女が炎に捧げた歳月である。",
+            "imageurl": "images/artifact/15006-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Witch's Heart Flames",
+            "CNname": "魔女的心之火",
+            "JAname": "魔女の心の炎",
+            "DescriptionEN": "A flame-spitting urn left behind by the Crimson Witch of Flames, who once dreamt of burning away all the demons in the world. The fire in the urn burns eternally, as did its former master.",
+            "DescriptionCN": "曾经梦想烧尽世间魔物的炎之魔女留下的流火之甕。瓶中火永不熄灭，一如其人。",
+            "DescriptionJP": "かつて世の魔物を全て燃やそうと夢見た炎の魔女が残した流火の甕。中の炎は消えない、まるで魔女その人のようだ。",
+            "imageurl": "images/artifact/15006-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Witch's Scorching Hat",
+            "CNname": "焦灼的魔女帽",
+            "JAname": "焦げた魔女の帽子",
+            "DescriptionEN": "A hat once worn by the witch who dreamt of burning away all of the demons in the world. The large brim blocked her sight.",
+            "DescriptionCN": "曾经梦想烧尽世间魔物的炎之魔女曾经戴过的帽子。宽大的帽檐能遮挡她的视线。",
+            "DescriptionJP": "かつて世の魔物を全て燃やそうと夢見た炎の魔女が被っていた帽子、広いツバは彼女の視線を隠した。",
+            "imageurl": "images/artifact/15006-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

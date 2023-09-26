@@ -1,0 +1,75 @@
+{
+    "id": "15025",
+    "ENname": "Deepwood Memories",
+    "CNname": "深林的记忆",
+    "JAname": "深林の記憶",
+    "imageurl": "images/artifact/15025.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Dendro DMG Bonus +15%.",
+            "DescriptionCN": "获得15%草元素伤害加成。",
+            "DescriptionJP": "草元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+            "DescriptionCN": "元素战技或元素爆发命中敌人后，使命中目标的草元素抗性降低30%，持续8秒。装备者处于队伍后台时，依然能触发该效果。",
+            "DescriptionJP": "元素スキルまたは元素爆発が敵に命中すると、その敵の草元素耐性-30%、継続時間8秒。装備したキャラクターが待機している場合にも効果を発動できる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Labyrinth Wayfarer",
+            "CNname": "迷宫的游人",
+            "JAname": "迷宮の遊客",
+            "DescriptionEN": "This lovely gold-plated flower was plucked from the crown of the ruler of the forest.",
+            "DescriptionCN": "从森林王的宝冠上摘下的饰金之花。",
+            "DescriptionJP": "森林王の冠から取れた、装飾用の金の花。",
+            "imageurl": "images/artifact/15025-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Scholar of Vines",
+            "CNname": "翠蔓的智者",
+            "JAname": "翠蔓の知者",
+            "DescriptionEN": "An emerald leaf as fluffy as a feather. Plucked from the raiment of a forest scholar.",
+            "DescriptionCN": "飘逸如羽的翠色叶片，取自林中智者的衣衫。",
+            "DescriptionJP": "羽毛のように軽やかな翠色の葉っぱ。森の知者の衣服から摘み取られたものである。",
+            "imageurl": "images/artifact/15025-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "A Time of Insight",
+            "CNname": "贤智的定期",
+            "JAname": "賢知の定期",
+            "DescriptionEN": "Such timepieces are used by those who dedicate themselves to the way of the wise. These timepieces do not contain lifeless sand, but instead play host to tiny mustard seeds.",
+            "DescriptionCN": "投身贤睿之道者所用的时计，其中盛装的并非无生命的砂砾，而是细小的芥子。",
+            "DescriptionJP": "賢知の道を歩む者が使う時計。中に入っているのは生命無き砂ではなく、小さなカラシナの種だ。",
+            "imageurl": "images/artifact/15025-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Lamp of the Lost",
+            "CNname": "迷误者之灯",
+            "JAname": "迷い人の灯",
+            "DescriptionEN": "This was originally an oil lamp in the style of the desert realm, but has since sprouted fluorescent green leaves.",
+            "DescriptionCN": "本是沙漠形制的油灯，但其上生出了苍翠荧光的绿叶。",
+            "DescriptionJP": "元々は砂漠風のランプであったが、濃緑色の光を放つ葉っぱが生えてきた。",
+            "imageurl": "images/artifact/15025-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Laurel Coronet",
+            "CNname": "月桂的宝冠",
+            "JAname": "月桂の宝冠",
+            "DescriptionEN": "This crown was bestowed by the deity with dominion over plants and trees. It was an heirloom of the royal house of the labyrinth. It was, at last, made the inheritance of the king's attendant.",
+            "DescriptionCN": "草木的主神赠送的冠冕，曾在迷宫的王之间代代相传，最终由王的侍者继承。",
+            "DescriptionJP": "草木を支配する神より授かりし王冠。かつては迷宮の王の間で代々受け継がれていたが、最後は王の侍従の手に渡った。",
+            "imageurl": "images/artifact/15025-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

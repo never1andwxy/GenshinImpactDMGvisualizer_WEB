@@ -1,0 +1,75 @@
+{
+    "id": "15003",
+    "ENname": "Wanderer's Troupe",
+    "CNname": "流浪大地的乐团",
+    "JAname": "大地を流浪する楽団",
+    "imageurl": "images/artifact/15003.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Mastery by 80.",
+            "DescriptionCN": "元素精通提高80点。",
+            "DescriptionJP": "元素熟知+80。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+            "DescriptionCN": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。",
+            "DescriptionJP": "該当聖遺物セットを装備したキャラが法器、弓キャラの場合、キャラの重撃ダメージ+35%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Troupe's Dawnlight",
+            "CNname": "乐团的晨光",
+            "JAname": "楽団の朝の光",
+            "DescriptionEN": "A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing.",
+            "DescriptionCN": "小小的花形徽章。侧耳细听的话，仿佛能听到悠扬的笛声和清新的歌唱声。",
+            "DescriptionJP": "小さい花の形をしたバッジ。耳をすませば、笛の音や歌声を聞こえるかもしれない。",
+            "imageurl": "images/artifact/15003-bracer.png",
+            "maxLevel": 13
+        },
+        "necklace": {
+            "ENname": "Bard's Arrow Feather",
+            "CNname": "琴师的箭羽",
+            "JAname": "琴師の矢羽",
+            "DescriptionEN": "An azure arrow fletching that has neither faded nor splintered with the passage of time. The sound of running water seems to linger around it.",
+            "DescriptionCN": "青蓝色的箭羽，并未在漫长岁月中褪色破碎。似乎带来了落珠流水的琴声。",
+            "DescriptionJP": "青藍色の矢羽、長い年月の中で少しも色褪せない。水の流れのような琴の音さえ聞こえるようだ。",
+            "imageurl": "images/artifact/15003-necklace.png",
+            "maxLevel": 13
+        },
+        "shoes": {
+            "ENname": "Concert's Final Hour",
+            "CNname": "终幕的时计",
+            "JAname": "フィナーレの時計",
+            "DescriptionEN": "An hourglass used to keep time during a band performance. It once made a crisp sound, but their performance has since ended.",
+            "DescriptionCN": "为乐团的演奏计时的沙漏，曾发出利落的声响。如今他们的表演已经落幕。",
+            "DescriptionJP": "楽団の演奏に使用されていた砂時計、きちんとした音を出していたが、彼らのパフォーマンスはとうに幕を閉じた。",
+            "imageurl": "images/artifact/15003-shoes.png",
+            "maxLevel": 13
+        },
+        "ring": {
+            "ENname": "Wanderer's String-Kettle",
+            "CNname": "吟游者之壶",
+            "JAname": "吟遊者の水筒",
+            "DescriptionEN": "An ancient, strangely-shaped canteen. The interior is fitted with harp strings, which play a wondrous tune as the water flows out.",
+            "DescriptionCN": "外形奇妙的古代水壶，内侧安装着琴弦，随流水而奏出无旋律的奇妙乐声。",
+            "DescriptionJP": "変わった形をした水筒、内側に弦があって、水の流れと共に旋律のない音楽を奏でる。",
+            "imageurl": "images/artifact/15003-ring.png",
+            "maxLevel": 13
+        },
+        "dress": {
+            "ENname": "Conductor's Top Hat",
+            "CNname": "指挥的礼帽",
+            "JAname": "指揮者のハット",
+            "DescriptionEN": "A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within.",
+            "DescriptionCN": "尽管饱经风霜，但依旧光彩照人的礼帽。其中似乎回荡着古老悠扬的乐声。",
+            "DescriptionJP": "長い年月を経ても、輝きを失わない礼帽。古く抑揚のある音楽さえ聞こえてくるようだ。",
+            "imageurl": "images/artifact/15003-dress.png",
+            "maxLevel": 13
+        }
+    }
+}

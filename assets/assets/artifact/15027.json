@@ -1,0 +1,75 @@
+{
+    "id": "15027",
+    "ENname": "Desert Pavilion Chronicle",
+    "CNname": "沙上楼阁史话",
+    "JAname": "砂上の楼閣の史話",
+    "imageurl": "images/artifact/15027.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Anemo DMG Bonus +15%",
+            "DescriptionCN": "获得15%风元素伤害加成。",
+            "DescriptionJP": "風元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
+            "DescriptionCN": "重击命中敌人后，该角色的普通攻击速度提升10%，普通攻击、重击与下落攻击造成的伤害提升40%，持续15秒。",
+            "DescriptionJP": "重撃が敵に命中すると、該当キャラクターの通常攻撃の攻撃速度+10%、通常攻撃、重撃および落下攻撃ダメージ+40%、継続時間15秒。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "The First Days of the City of Kings",
+            "CNname": "众王之都的开端",
+            "JAname": "諸王の都の始まり",
+            "DescriptionEN": "An artificial flower that shimmers with a strange light. If you incline your ear to it, you can vaguely hear charming laughter issuing from within.",
+            "DescriptionCN": "闪烁着奇异光彩的人造之花，侧耳倾听，似有巧笑之声隐隐传来。",
+            "DescriptionJP": "奇妙な輝きを放つ人造の花。耳をすますと、巧笑がかすかに聞こえてくるようだ。",
+            "imageurl": "images/artifact/15027-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "End of the Golden Realm",
+            "CNname": "黄金邦国的结末",
+            "JAname": "黄金の邦国の結末",
+            "DescriptionEN": "A crystal-clear artificial feather that is one of the legacies of an ancient human realm. The cries of soaring eagles are also sealed within.",
+            "DescriptionCN": "晶莹剔透的人造之羽，古老人类邦国的遗物之一，飞鹰的啸鸣似乎也被封存其中。",
+            "DescriptionJP": "透き通った人造の羽。古代の人間の邦国における遺物の一つである。鷹の鳴き声もその中に封じられているようだ。",
+            "imageurl": "images/artifact/15027-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Timepiece of the Lost Path",
+            "CNname": "失落迷途的机芯",
+            "JAname": "没落迷途のコア",
+            "DescriptionEN": "An ancient mechanical clock. The Jinni fragments continue to emit light at its center and vibrate ever so slightly, as if to say something...",
+            "DescriptionCN": "一台古老的机芯，镇灵的碎片在其中央熠熠生光，隐隐振动，似乎在诉说着什么…",
+            "DescriptionJP": "古代のコア。その中央にはジンニーの欠片が輝き、微かに振動している。それはまるで何かを語っているようだ…",
+            "imageurl": "images/artifact/15027-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Defender of the Enchanting Dream",
+            "CNname": "迷醉长梦的守护",
+            "JAname": "迷酔の長夢の守護",
+            "DescriptionEN": "An ancient golden cup that is both marvelously and luxuriously wrought. Murmurings can be heard within its empty innards.",
+            "DescriptionCN": "一尊古老的金杯，形制奇妙华丽，空空如也的腹内回响着呢喃之声。",
+            "DescriptionJP": "古代の金の盃。その形は奇妙でありながら華やかなもの。空っぽのその中には、囁くような声が響いている。",
+            "imageurl": "images/artifact/15027-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Legacy of the Desert High-Born",
+            "CNname": "流沙贵嗣的遗宝",
+            "JAname": "流砂の嗣君の遺宝",
+            "DescriptionEN": "Earrings made from amber gold that shines with a strange light.",
+            "DescriptionCN": "琥珀金打造的耳饰，其上镶嵌着宝石，闪烁着奇妙的光芒。",
+            "DescriptionJP": "琥珀金で作られた耳飾り。不思議な輝きを放つ宝石が嵌め込まれている。",
+            "imageurl": "images/artifact/15027-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

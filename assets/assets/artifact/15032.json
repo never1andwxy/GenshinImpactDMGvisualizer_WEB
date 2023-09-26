@@ -1,0 +1,75 @@
+{
+    "id": "15032",
+    "ENname": "Golden Troupe",
+    "CNname": "黄金剧团",
+    "JAname": "黄金劇団JP0B",
+    "imageurl": "images/artifact/15032.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Increases Elemental Skill DMG by 20%.",
+            "DescriptionCN": "元素战技造成的伤害提升20%。",
+            "DescriptionJP": "元素スキルのダメージ+20%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Elemental Skill DMG by 20%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 20%. This effect will be cleared 2s after taking the field.",
+            "DescriptionCN": "元素战技造成的伤害提升25%；此外，处于队伍后台时，元素战技造成的伤害还将进一步提升25%，该效果将在登场后2秒移除。",
+            "DescriptionJP": "元素スキルのダメージ+20%。また、装備者が待機中の場合、元素スキルのダメージがさらに+20%。この効果は登場してから2秒後に解除される。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "",
+            "CNname": "黄金乐曲的变奏",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "由砗磲、贝母和金箔精心制成的花朵，正骄傲的盛放着。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15032-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "",
+            "CNname": "黄金飞鸟的落羽",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "黄金与白银掐丝打造的鸟羽，其上一颗蓝宝石晶莹剔透。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15032-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "",
+            "CNname": "黄金时代的先声",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "黄金与白银镶嵌而成的美妙日晷，似乎晷盘之上时间早已停止了流动。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15032-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "",
+            "CNname": "黄金之夜的喧嚣",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "形制古老的银瓮，曾经满盛着红宝石般的美酒，如今其中却是苦涩的海水。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15032-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "",
+            "CNname": "黄金剧团的奖赏",
+            "JAname": "",
+            "DescriptionEN": "TBC",
+            "DescriptionCN": "形制古老的王冠，相比起君主的头饰，不如说更像是舞台道具。",
+            "DescriptionJP": "未定",
+            "imageurl": "images/artifact/15032-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

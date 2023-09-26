@@ -1,0 +1,75 @@
+{
+    "id": "10006",
+    "ENname": "Martial Artist",
+    "CNname": "武人",
+    "JAname": "武人",
+    "imageurl": "images/artifact/10006.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Normal and Charged Attack DMG +15%",
+            "DescriptionCN": "普通攻击与重击造成的伤害提高15%。",
+            "DescriptionJP": "通常攻撃と重擊ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+            "DescriptionCN": "施放元素战技后的8秒内，普通攻击和重击造成的伤害提升25%。",
+            "DescriptionJP": "元素スキル発動後、通常攻撃と重撃ダメージ+25%、継続時間8秒。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Martial Artist's Red Flower",
+            "CNname": "武人的红花",
+            "JAname": "武人の赤い花",
+            "DescriptionEN": "This particular kind of red flower was the only thing that could alleviate the Martial Artist's pain.",
+            "DescriptionCN": "唯独此种红花能让武人暂时忘却痛苦。",
+            "DescriptionJP": "武芸を習う者は花を好まないが、この痛みを麻痺させる赤い花だけは別だ。",
+            "imageurl": "images/artifact/10006-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Martial Artist's Feather Accessory",
+            "CNname": "武人的羽饰",
+            "JAname": "武人の羽飾り",
+            "DescriptionEN": "A common bird feather. Experts use it to practice strength control, while rookies use it to make fans.",
+            "DescriptionCN": "随处可见的鸟类落毛，高手用来练习力道，新手则用来制成扇子。",
+            "DescriptionJP": "どこにもある鳥の羽根、熟練者はそれを鍛錬に使い、初心者はそれを扇子の素材に使う。",
+            "imageurl": "images/artifact/10006-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Martial Artist's Water Hourglass",
+            "CNname": "武人的水漏",
+            "JAname": "武人の水時計",
+            "DescriptionEN": "A tool to keep track of time in endurance training. It is more accurate and reliable than a regular hourglass.",
+            "DescriptionCN": "进行耐力锻炼时计时的小道具，比沙漏的流转更加稳定。",
+            "DescriptionJP": "忍耐力を鍛える時、時間を計るために使う小道具。砂時計より安定している。",
+            "imageurl": "images/artifact/10006-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Martial Artist's Wine Cup",
+            "CNname": "武人的酒杯",
+            "JAname": "武人の酒器",
+            "DescriptionEN": "A rather exquisite wine cup used in pre-combat rituals.",
+            "DescriptionCN": "稍微有些精致的酒杯，是仅在武人上场前使用的仪式器具。",
+            "DescriptionJP": "繊細な作りをした金属の杯、武人が出陣する前に使う儀式の道具でしかない。",
+            "imageurl": "images/artifact/10006-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Martial Artist's Bandana",
+            "CNname": "武人的头巾",
+            "JAname": "武人のバンダナ",
+            "DescriptionEN": "The first lesson as an apprentice: Vigor, Strength, Will. These words are written on the bandana so you'll never forget them.",
+            "DescriptionCN": "入门第一件事，精气神。绑上头巾，随时提醒自己勿忘这三字。",
+            "DescriptionJP": "武人としての基本は精·気·神。バンダナをつけて、この三文字を忘れないようにする。",
+            "imageurl": "images/artifact/10006-dress.png",
+            "maxLevel": 5
+        }
+    }
+}

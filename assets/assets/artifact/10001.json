@@ -1,0 +1,75 @@
+{
+    "id": "10001",
+    "ENname": "Resolution of Sojourner",
+    "CNname": "行者之心",
+    "JAname": "旅人の心",
+    "imageurl": "images/artifact/10001.png",
+    "level": [
+        3,
+        4
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "Increases Charged Attack CRIT Rate by 30%.",
+            "DescriptionCN": "重击的暴击率提升30%。",
+            "DescriptionJP": "重撃の会心率+30%。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Heart of Comradeship",
+            "CNname": "故人之心",
+            "JAname": "故人の心",
+            "DescriptionEN": "A small cerulean flower with somebody's ribbon pinned to the stem.",
+            "DescriptionCN": "玉蓝色的小花，花茎上扎着谁人的丝带。",
+            "DescriptionJP": "藍色の小花、花茎に誰かのリボンがついている。",
+            "imageurl": "images/artifact/10001-bracer.png",
+            "maxLevel": 5
+        },
+        "necklace": {
+            "ENname": "Feather of Homecoming",
+            "CNname": "归乡之羽",
+            "JAname": "帰郷の羽",
+            "DescriptionEN": "A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon.",
+            "DescriptionCN": "蓝色的箭羽，其上凝结着旅人消逝远去的眷恋。",
+            "DescriptionJP": "青い矢羽、その中に旅人の消えていった眷恋が宿っている。",
+            "imageurl": "images/artifact/10001-necklace.png",
+            "maxLevel": 5
+        },
+        "shoes": {
+            "ENname": "Sundial of the Sojourner",
+            "CNname": "逐光之石",
+            "JAname": "逐光の石",
+            "DescriptionEN": "A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky.",
+            "DescriptionCN": "饱经沧桑的时晷，永远在静默地记录着日月循环。",
+            "DescriptionJP": "世の移り変わりを経験してきた日時計、永遠に静かに時の循環を記録している。",
+            "imageurl": "images/artifact/10001-shoes.png",
+            "maxLevel": 5
+        },
+        "ring": {
+            "ENname": "Goblet of the Sojourner",
+            "CNname": "异国之盏",
+            "JAname": "異国の杯",
+            "DescriptionEN": "A plain porcelain goblet that was once brimming with joyous brews.",
+            "DescriptionCN": "朴素的白瓷酒杯，曾经盈满了欢愉的酒水。",
+            "DescriptionJP": "素朴な白い磁器の酒盃、かつては歓喜のお酒に満ちていた。",
+            "imageurl": "images/artifact/10001-ring.png",
+            "maxLevel": 5
+        },
+        "dress": {
+            "ENname": "Crown of Parting",
+            "CNname": "感别之冠",
+            "JAname": "別離の冠",
+            "DescriptionEN": "A reed coronet that emanates the spring breeze.",
+            "DescriptionCN": "散发着春风气息的柳冠。",
+            "DescriptionJP": "春の気配が漂う柳の冠。",
+            "imageurl": "images/artifact/10001-dress.png",
+            "maxLevel": 5
+        }
+    }
+}
