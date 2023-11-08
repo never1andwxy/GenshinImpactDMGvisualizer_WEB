@@ -12,7 +12,7 @@
         11,
         23
     ],
-    "release": 1696194000,
+    "release": 1697554800,
     "leveldata": [
         {
             "level": "1",
@@ -1384,7 +1384,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1463,7 +1463,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1542,7 +1542,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1621,7 +1621,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1700,7 +1700,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1779,7 +1779,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1858,7 +1858,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -1937,7 +1937,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2016,7 +2016,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2095,7 +2095,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2174,7 +2174,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2253,7 +2253,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2332,7 +2332,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2411,7 +2411,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2490,7 +2490,7 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "強化リペルパンチダメージ|{param1:F1P}通常攻撃ダメージ",
+                        "強化リペルブローのダメージ|{param1:F1P}通常攻撃ダメージ",
                         "HP消費|{param2:F1P}HP上限",
                         "継続時間|{param3:F1}秒",
                         "クールタイム|{param4:F1}秒",
@@ -2540,7 +2540,7 @@
             "imageurl": "images/talent/10000086-3.png",
             "DescriptionEN": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo DMG in a frontal area.  Arkhe: Ousia After Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned Cryo DMG.  There are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.",
             "DescriptionCN": "驱动拳套，打出凝聚寒霜的直拳，持续以冰锥冲击前方区域，造成多次冰元素范围伤害。  始基力：荒性 冰锥冲击结束后，将在敌人的位置降下流涌之刃，造成具有荒性的冰元素伤害。  总有一些事情，就算是梅洛彼得堡的公爵也会感到无可奈何——例如繁冗的文书工作，琐细的监管职责，或是…小小的友人们在自己拳套上偷偷贴一堆难撕的可爱贴纸的执着。",
-            "DescriptionJP": "グローブを駆動させ、凍てつくストレートパンチを繰り出す。氷柱で前方の敵に攻撃を与え続け、その後複数回の氷元素範囲ダメージを与える。  アルケー：ウーシア 氷柱による攻撃が終了した後、敵の位置に迸発の刃を召喚し、ウーシアを帯びた氷元素ダメージを与える。  メロピデ要塞の公爵でさえ、どうしようもないことがある——煩わしい文書の仕事、細かい管理の責務、あるいは…どうしても自分のグローブに、剥がしにくく可愛らしいステッカーを貼ろうとする小さな友人たちの執着心だ。",
+            "DescriptionJP": "ナックルを駆動させ、凍てつくストレートパンチを繰り出す。氷柱で前方の敵に攻撃を与え続け、複数回の氷元素範囲ダメージを与える。  アルケー：ウーシア 氷柱による攻撃が終了した後、敵の位置に迸発の刃を召喚し、ウーシアを帯びた氷元素ダメージを与える。  メロピデ要塞の公爵でさえ、どうしようもないことがある——煩わしい文書の仕事、細かい管理の責務、あるいは…どうしても自分のナックルに、剥がしにくく可愛らしいステッカーを貼ろうとする小さな友人たちの執着心だ。",
             "cooldown": 15,
             "cost": 60,
             "type": "combat",
@@ -3792,7 +3792,7 @@
             "imageurl": "images/constellation/10000086-c1.png",
             "DescriptionEN": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this: When Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.  Additionally, Rebuke: Vaulting Fist will obtain the following enhancement: ·The DMG Bonus gained will be further increased to 200%. ·When it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.  You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
             "DescriptionCN": "固有天赋「公理终有辩诉之日」的「恩典之诫」转变为： 莱欧斯利的生命值低于60%，或在冰牙突驰的寒烈的惩裁状态持续期间，斥逐拳的第五段攻击命中时，将获得「恩典之诫」，每2.5秒至多获得一次「恩典之诫」效果。  此外，惩戒·凌跃拳获得以下强化： ·造成的伤害提升进一步提升至200%； ·命中时，若处于寒烈的惩裁状态下，该状态的持续时间延长4秒，在一次寒烈的惩裁状态持续期间，至多通过这种方式延长一次。  需要解锁固有天赋「公理终有辩诉之日」。",
-            "DescriptionJP": "固有天賦「やがて公義は弁ぜらる」の「恩典の戒め」は以下のように変化する。 リオセスリのHPが60%未満、またはアイスファング·ラッシュによる烈霜の懲戒状態を継続中に、リペルブローの5段目が命中すると「恩典の戒め」を獲得する。「恩典の戒め」は2.5秒毎に1回のみ獲得可能。  また、誅罰·ヴォールティングアッパーは以下のように強化される。 ·与えるダメージがさらに200%まで増加する。 ·命中した時に烈霜の懲戒状態だった場合、烈霜の懲戒状態が4秒延長される。烈霜の懲戒状態中、この方法による継続時間の延長は1回のみ。  固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
+            "DescriptionJP": "固有天賦「やがて公義は弁ぜらる」の「恩典の戒め」は以下のように変化する。 リオセスリのHPが60%未満、またはアイスファング·ラッシュによる烈霜の懲戒状態を継続中に、リペルブローの5段目が命中すると「恩典の戒め」を獲得する。「恩典の戒め」は2.5秒毎に1回のみ獲得可能。  また、誅罰·ヴォールティングアッパーは以下のように強化される。 ·ダメージアップ効果が200%になる。 ·命中した時に烈霜の懲戒状態だった場合、烈霜の懲戒状態が4秒延長される。烈霜の懲戒状態中、この方法による継続時間の延長は1回のみ。  固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
         },
         {
             "level": 2,
@@ -3820,9 +3820,9 @@
             "CNname": "予贞苦者以拯赎",
             "JAname": "苦に喘ぐ者に救いを",
             "imageurl": "images/constellation/10000086-c4.png",
-            "DescriptionEN": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\" Addditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
+            "DescriptionEN": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\" Additionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
             "DescriptionCN": "惩戒·凌跃拳为莱欧斯利恢复生命值的回复量提升为50%生命值上限，需要解锁固有天赋「公理终有辩诉之日」。 此外，莱欧斯利受到治疗时，若此次治疗回复量溢出，将根据莱欧斯利是否处于当前场上产生不同的效果：处于当前场上时，莱欧斯利的攻击速度提升20%，持续4秒；处于队伍后台时，队伍中所有自己的角色攻击速度提升10%，持续6秒。上述这两种攻击速度提升效果无法叠加。",
-            "DescriptionJP": "誅罰·ヴォールティングアッパーの回復量が、リオセスリのHP上限の50%までアップする。固有天賦「やがて公義は弁ぜらる」を解放する必要がある。 さらに、リオセスリが治療効果を受けた時、回復量がHPを超えた場合、リオセスリがフィールド上にいるかによって異なる効果を発動する。リオセスリがフィールド上にいる場合、リオセスリの攻撃速度+20%、継続時間4秒。待機中の場合、チーム全員の攻撃速度+10%、継続時間6秒。この2種類の攻撃速度アップ効果は重ね掛けできない。"
+            "DescriptionJP": "誅罰·ヴォールティングアッパーの回復量が、リオセスリのHP上限の50%までアップする。固有天賦「やがて公義は弁ぜらる」を解放する必要がある。 さらに、リオセスリが治療効果を受けた時、それがHP上限を超える回復だった場合、リオセスリがフィールド上にいるかによって異なる効果を発動する。リオセスリがフィールド上にいる場合、リオセスリの攻撃速度+20%、継続時間4秒。待機中の場合、チーム内の自身キャラクター全員の攻撃速度+10%、継続時間6秒。この2種類の攻撃速度アップ効果は重ね掛けできない。"
         },
         {
             "level": 5,
@@ -3842,7 +3842,7 @@
             "imageurl": "images/constellation/10000086-c6.png",
             "DescriptionEN": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
             "DescriptionCN": "惩戒·凌跃拳的暴击率提升10%，暴击伤害提升80%，并能够额外生成冰锥，造成原本100%的冰元素伤害，通过这种方式造成的伤害视为重击伤害。 需要解锁固有天赋「公理终有辩诉之日」。",
-            "DescriptionJP": "誅罰·ヴォールティングアッパーの会心率+10%、会心ダメージ+80%。また、発動時に氷柱を生成し、ヴォールティングアッパー100%分の氷元素ダメージを与える。このダメージは重撃ダメージと見なされる。 固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
+            "DescriptionJP": "誅罰·ヴォールティングアッパーの会心率+10%、会心ダメージ+80%。また、発動時に氷柱を生成し、誅罰·ヴォールティングアッパー100%分の氷元素ダメージを与える。このダメージは重撃ダメージと見なされる。 固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
         }
     ]
 }

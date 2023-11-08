@@ -1993,12 +1993,48 @@
             "order": 999
         },
         {
+            "id": "11304",
+            "ENname": "Dark Iron Sword",
+            "CNname": "暗铁剑",
+            "JAname": "暗鉄剣",
+            "imageurl": "images/weapon/11304.png",
+            "rarity": 3,
+            "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
             "JAname": "船渠剣",
             "imageurl": "images/weapon/11427.png",
             "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11428",
+            "ENname": "Sword of Narzissenkreuz",
+            "CNname": "水仙十字之剑",
+            "JAname": "水仙十字の剣",
+            "imageurl": "images/weapon/11428.png",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11513",
+            "ENname": "Splendor of Still Waters",
+            "CNname": "静水流涌之辉",
+            "JAname": "静水流転の輝き",
+            "imageurl": "images/weapon/11513.png",
+            "rarity": 5,
             "type": "sword",
             "spoiler": true,
             "supported": false,
@@ -2060,7 +2096,7 @@
             "imageurl": "images/weapon/14514.png",
             "rarity": 5,
             "type": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },

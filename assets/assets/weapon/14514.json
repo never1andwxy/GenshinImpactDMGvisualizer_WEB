@@ -108,11 +108,11 @@
             "id": "114514",
             "name": "Aeon Wave",
             "upgrade": {
-                "0": "HP is increased by 16%. When current HP increases or decreases, Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 8 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-                "1": "HP is increased by 20%. When current HP increases or decreases, Charged Attack DMG will be increased by 18% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 9 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-                "2": "HP is increased by 24%. When current HP increases or decreases, Charged Attack DMG will be increased by 22% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 10 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-                "3": "HP is increased by 28%. When current HP increases or decreases, Charged Attack DMG will be increased by 26% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 11 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-                "4": "HP is increased by 32%. When current HP increases or decreases, Charged Attack DMG will be increased by 30% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 12 Energy will be restored. This Energy restoration effect can be triggered once every 12s."
+                "0": "HP is increased by 16%. When current HP increases or decreases, Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 8 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "1": "HP is increased by 20%. When current HP increases or decreases, Charged Attack DMG will be increased by 18% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 9 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "2": "HP is increased by 24%. When current HP increases or decreases, Charged Attack DMG will be increased by 22% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 10 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "3": "HP is increased by 28%. When current HP increases or decreases, Charged Attack DMG will be increased by 26% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 11 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+                "4": "HP is increased by 32%. When current HP increases or decreases, Charged Attack DMG will be increased by 30% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 12 Energy will be restored. This Energy restoration effect can be triggered once every 12s."
             }
         },
         "chs": {
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "114514",
-            "name": "万世の大波",
+            "name": "万世の激浪",
             "upgrade": {
                 "0": "HP上限+16%。現在のHPが増える、または減る時、重撃ダメージ+14%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを8ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
                 "1": "HP上限+20%。現在のHPが増える、または減る時、重撃ダメージ+18%。継続時間4秒、最大3層まで。0.3秒毎に1回のみ発動可能。3層まで重ねた時、または3層の継続時間がリセットされた時、元素エネルギーを9ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ。",
