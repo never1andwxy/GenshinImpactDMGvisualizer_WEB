@@ -418,10 +418,28 @@
             "id": "15032",
             "ENname": "Golden Troupe",
             "CNname": "黄金剧团",
-            "JAname": "黄金劇団JP0B",
+            "JAname": "黄金劇団",
             "imageurl": "images/artifact/15032.png",
             "spoiler": false,
             "order": 95
+        },
+        {
+            "id": "15033",
+            "ENname": "Song of Days Past",
+            "CNname": "昔时之歌",
+            "JAname": "在りし日の歌",
+            "imageurl": "images/artifact/15033.png",
+            "spoiler": false,
+            "order": 96
+        },
+        {
+            "id": "15034",
+            "ENname": "Nighttime Whispers in the Echoing Woods",
+            "CNname": "回声之林夜话",
+            "JAname": "残響の森で囁かれる夜話",
+            "imageurl": "images/artifact/15034.png",
+            "spoiler": false,
+            "order": 97
         }
     ]
 }

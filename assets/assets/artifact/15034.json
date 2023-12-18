@@ -1,0 +1,75 @@
+{
+    "id": "15034",
+    "ENname": "Nighttime Whispers in the Echoing Woods",
+    "CNname": "回声之林夜话",
+    "JAname": "残響の森で囁かれる夜話",
+    "imageurl": "images/artifact/15034.png",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.",
+            "DescriptionCN": "施放元素战技后的10秒内，岩元素伤害加成提升20%；若处于结晶反应产生的护盾庇护下，上述效果提高150%，进一步提高的效果将在失去结晶护盾庇护的1秒后移除。",
+            "DescriptionJP": "元素スキルを発動した後の10秒間、岩元素ダメージ+20%。結晶反応で生成されたシールド状態にある時、上記強化効果の効果量+150%。追加された効果量は、結晶反応で生成されたシールド状態の効果が終了した1秒後にクリアされる。"
+        }
+    },
+    "suit": {
+        "bracer": {
+            "ENname": "Selfless Floral Accessory",
+            "CNname": "无私的妆饰花",
+            "JAname": "無私の花飾り",
+            "DescriptionEN": "A brooch that the witch in the tale wore. As with the other ornaments she loved, this was characterized by butterfly-like shapes.",
+            "DescriptionCN": "故事中的女巫所佩戴的胸花，与她所喜爱的其他装饰一样，用蝴蝶的造型作为点缀。",
+            "DescriptionJP": "物語の中で巫女がつけていた花飾り。彼女が愛する他の装飾品と同じように、蝶の形があしらわれている。",
+            "imageurl": "images/artifact/15034-bracer.png",
+            "maxLevel": 17
+        },
+        "necklace": {
+            "ENname": "Honest Quill",
+            "CNname": "诚恳的蘸水笔",
+            "JAname": "誠実なつけペン",
+            "DescriptionEN": "The witch in the tale used this dip pen. Its silken smooth writing is not even worth discussing amongst its various advantages.",
+            "DescriptionCN": "故事中的女巫所使用的蘸水笔，流畅顺滑在它所有的优点中最不值得一提。",
+            "DescriptionJP": "物語の中で巫女が使っていたつけペン。その滑らかな書き心地は、数ある美点の中でも特筆すべき箇所としては取るに足りない部分である。",
+            "imageurl": "images/artifact/15034-necklace.png",
+            "maxLevel": 17
+        },
+        "shoes": {
+            "ENname": "Faithful Hourglass",
+            "CNname": "忠实的砂时计",
+            "JAname": "忠実な砂時計",
+            "DescriptionEN": "A sand timepiece that the witch relied on in her story. Legend has it that if you recite the wrong incantation over it, time will suddenly flow exceptionally quickly.",
+            "DescriptionCN": "故事中的女巫所仰仗的砂时计，据说对它念出错误的咒语，时间的流逝就会格外迅速。",
+            "DescriptionJP": "物語の中で巫女が頼りにしていた砂時計。それに対して間違った呪文を唱えると、時間の流れが急に速くなるらしい。",
+            "imageurl": "images/artifact/15034-shoes.png",
+            "maxLevel": 17
+        },
+        "ring": {
+            "ENname": "Magnanimous Ink Bottle",
+            "CNname": "慷慨的墨水瓶",
+            "JAname": "寛容なインク壺",
+            "DescriptionEN": "An ink bottle utilized by the witch in the story. It possesses a strange enchantment no less powerful than the one cast upon the dip pen.",
+            "DescriptionCN": "故事中的女巫所借助的墨水瓶，有着不逊于蘸水笔的神奇魔法。",
+            "DescriptionJP": "物語の中で巫女が使っていたインク壺。つけペンに引けを取らない不思議な魔法を有している。",
+            "imageurl": "images/artifact/15034-ring.png",
+            "maxLevel": 17
+        },
+        "dress": {
+            "ENname": "Compassionate Ladies' Hat",
+            "CNname": "慈爱的淑女帽",
+            "JAname": "慈愛の淑女ハット",
+            "DescriptionEN": "The favored lady's hat of the witch in the story. She loved this piece of headwear for its weave of solemnity and playfulness.",
+            "DescriptionCN": "故事中的女巫所爱用的淑女帽，沉稳又不失俏皮的设计令她格外中意。",
+            "DescriptionJP": "物語の中で巫女が愛用していた淑女ハット。彼女は特に、落ち着いていながら遊び心のあるデザインに惹かれたようだ。",
+            "imageurl": "images/artifact/15034-dress.png",
+            "maxLevel": 17
+        }
+    }
+}

@@ -829,6 +829,18 @@
             "order": 999
         },
         {
+            "id": "12512",
+            "ENname": "Verdict",
+            "CNname": "裁断",
+            "JAname": "裁断",
+            "imageurl": "images/weapon/12512.png",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": false,
+            "supported": true,
+            "order": 999
+        },
+        {
             "id": "13101",
             "ENname": "Beginner's Protector",
             "CNname": "新手长枪",

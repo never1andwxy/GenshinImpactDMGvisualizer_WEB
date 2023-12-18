@@ -1,0 +1,141 @@
+{
+    "id": "12512",
+    "ENname": "Verdict",
+    "CNname": "裁断",
+    "JAname": "裁断",
+    "imageurl": "images/weapon/12512.png",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical": 0.048
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical": 0.055776
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical": 0.065424
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical": 0.07511999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical": 0.084816
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical": 0.09451200000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical": 0.104208
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical": 0.11390400000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 260.561099,
+            "critical": 0.12360000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical": 0.133296
+        },
+        {
+            "level": "50",
+            "base_attack": 341.43233799999996,
+            "critical": 0.142992
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical": 0.15268800000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 423.40185399999996,
+            "critical": 0.162384
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical": 0.17208
+        },
+        {
+            "level": "70",
+            "base_attack": 506.22211,
+            "critical": 0.181728
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical": 0.191424
+        },
+        {
+            "level": "80",
+            "base_attack": 589.850505,
+            "critical": 0.20112000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical": 0.21081600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 674.3345459999999,
+            "critical": 0.220512
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "112512",
+            "name": "Many Oaths of Dawn and Dusk",
+            "upgrade": {
+                "0": "Increases ATK by 20%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "1": "Increases ATK by 25%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "2": "Increases ATK by 30%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 27%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "3": "Increases ATK by 35%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "4": "Increases ATK by 40%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 36%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+            }
+        },
+        "chs": {
+            "id": "112512",
+            "name": "诸多朝与暮的誓约",
+            "upgrade": {
+                "0": "攻击力提升20%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升18%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
+                "1": "攻击力提升25%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升22.5%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
+                "2": "攻击力提升30%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升27%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
+                "3": "攻击力提升35%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升31.5%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
+                "4": "攻击力提升40%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升36%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+            }
+        },
+        "jp": {
+            "id": "112512",
+            "name": "千の夜の誓約",
+            "upgrade": {
+                "0": "攻撃力+20%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+18%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
+                "1": "攻撃力+25%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+22.5%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
+                "2": "攻撃力+30%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+27%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
+                "3": "攻撃力+35%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+31.5%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
+                "4": "攻撃力+40%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+36%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。"
+            }
+        }
+    }
+}

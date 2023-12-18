@@ -1175,6 +1175,20 @@
             "spoiler": false,
             "supported": true,
             "order": 31
+        },
+        {
+            "id": "10000091",
+            "ENname": "Navia",
+            "CNname": "娜维娅",
+            "JAname": "ナヴィア",
+            "imageurl": "images/character/10000091.png",
+            "imagelargeurl": "images/character/10000091-large.png",
+            "rarity": 5,
+            "element": "geo",
+            "weapon": "claymore",
+            "spoiler": false,
+            "supported": true,
+            "order": 32
         }
     ]
 }
