@@ -102257,7 +102257,7 @@ p=A.as(e0.y)
 o=A.cA(e1)
 p=p.a
 p===$&&A.e()
-e.push(A.cg(a8,A.q(a8,new A.ag(B.n1,A.w(A.a([A.q(a8,A.t(A.a([A.q(a8,A.d(s+" Made by "+q+" ver "+p.c9(o)+"3.3",a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8),A.q(a8,A.t(A.a([A.cf(B.tk,A.x(204,255,255,255),a8,a8,25),A.q(a8,A.d('"'+A.b("title")+" "+A.b("Genshin")+'"',a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,25,a8,a8,B.E,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8),A.q(a8,A.t(A.a([A.cf(B.tl,A.x(204,255,255,255),a8,a8,18),A.q(a8,A.d(A.b("https://genshincalc.yunlu18.net/"),a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,B.E,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.y,B.d),a8),B.k,a8,a8,new A.ar(d8.ax.ax,a8,a8,d9,r,a8,a8,B.w),a8,90,a8,a8,a8,a8,a8,660),a8,a8,420,a8,700,a8))
+e.push(A.cg(a8,A.q(a8,new A.ag(B.n1,A.w(A.a([A.q(a8,A.t(A.a([A.q(a8,A.d(s+" Made by "+q+" ver "+p.c9(o)+"3.4",a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8),A.q(a8,A.t(A.a([A.cf(B.tk,A.x(204,255,255,255),a8,a8,25),A.q(a8,A.d('"'+A.b("title")+" "+A.b("Genshin")+'"',a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,25,a8,a8,B.E,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8),A.q(a8,A.t(A.a([A.cf(B.tl,A.x(204,255,255,255),a8,a8,18),A.q(a8,A.d(A.b("https://genshincalc.yunlu18.net/"),a8,a8,a8,a8,a8,a8,a8,A.j(a8,a8,A.x(204,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,12,a8,a8,B.E,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8,a8,a8),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.h,B.d),B.k,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8)],a3),B.e,B.y,B.d),a8),B.k,a8,a8,new A.ar(d8.ax.ax,a8,a8,d9,r,a8,a8,B.w),a8,90,a8,a8,a8,a8,a8,660),a8,a8,420,a8,700,a8))
 e.push(A.cg(a8,A.q(a8,a8,B.k,a8,a8,new A.ar(a8,A.cs(a8,B.R,B.ay,new A.aK("images/enka.png"),a8),a8,a8,a8,a8,a8,B.w),a8,70,a8,a8,a8,a8,a8,300),a8,a8,720,a8,710,a8))
 r=A.bo(new A.am(10,10))
 e.push(A.cg(a8,A.q(a8,a8,B.k,a8,a8,new A.ar(a8,A.cs(new A.mr(A.x(a2,255,255,255),B.ji),B.d2,B.ay,new A.aK("images/dong.png"),a8),a8,r,a8,a8,a8,B.w),a8,30,a8,a8,a8,a8,a8,30),a8,a8,1010,a8,735,a8))
@@ -106011,7 +106011,7 @@ case 7:s=10
 return A.Q(A.hp(),$async$$0)
 case 10:n=b
 s=11
-return A.Q(n.k0("String","adstatus","3.3"),$async$$0)
+return A.Q(n.k0("String","adstatus","3.4"),$async$$0)
 case 11:$.Sn=!1
 f=k.a2(t.q)
 f.toString
@@ -106241,7 +106241,7 @@ case 7:s=10
 return A.Q(A.hp(),$async$$0)
 case 10:n=b
 s=11
-return A.Q(n.k0("String","adstatus","3.3"),$async$$0)
+return A.Q(n.k0("String","adstatus","3.4"),$async$$0)
 case 11:$.Sn=!1
 f=k.a2(t.q)
 f.toString
@@ -106409,7 +106409,7 @@ m=A.cA(a)
 h=h.a
 h===$&&A.e()
 l=t.p
-n=A.vK(r.ax.f,j,2,B.c,A.dl(A.bv(A.t(A.a([q,p,A.q(j,A.dl(A.bv(A.d("ver "+h.c9(m)+"3.3",j,j,j,j,j,j,j,A.j(j,j,A.v(a).ax.b,j,j,j,j,j,j,j,j,15,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j,j),B.D),j,j),B.k,j,j,new A.ar(o,j,j,n,j,j,j,B.w),j,j,j,j,j,j,j,120)],l),B.e,B.h,B.d),B.D),j,j))
+n=A.vK(r.ax.f,j,2,B.c,A.dl(A.bv(A.t(A.a([q,p,A.q(j,A.dl(A.bv(A.d("ver "+h.c9(m)+"3.4",j,j,j,j,j,j,j,A.j(j,j,A.v(a).ax.b,j,j,j,j,j,j,j,j,15,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j,j),B.D),j,j),B.k,j,j,new A.ar(o,j,j,n,j,j,j,B.w),j,j,j,j,j,j,j,120)],l),B.e,B.h,B.d),B.D),j,j))
 o=i.e
 m=A.a([A.bcu(B.bT),A.bcu(B.bz)],t.Op)
 h=$.bmW()
@@ -111981,7 +111981,7 @@ q=A.f(b,b,10)
 o=A.b(e9)
 o=A.D(B.fk,A.C(A.d(A.b(e9),b,b,b,b,b,b,b,b,b,b,b,b),o,!1),new A.aMn(g3),$.b9s,B.as)
 f=A.f(b,b,10)
-g1=A.a([p,new A.eP(3,b)],g1)
+g1=A.a([p,new A.eP(5,b)],g1)
 i.push(A.G(B.bd,A.a([l,m,n,g0,g2,s,r,q,o,f,A.q(B.q,A.eF(g3.Q,A.ex(b,b,b,new A.A(5,5,5,5),b,b,b,b,!0,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,!1,b,b,b,A.b(a)+":",b,b,b,b,b,b,b,b,b,b,b,b,b),g1,B.bG,new A.aMo(g3),A.j(b,b,b,b,b,b,b,b,b,b,b,15,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),B.aW),B.k,b,b,b,b,50,b,b,b,b,b,100)],f8),B.aJ,10,0))
 g1=A.b(f0)
 g1=A.D(B.ba,A.C(A.d(A.b(f0),b,b,b,b,b,b,b,b,b,b,b,b),g1,!1),new A.aMp(g3),$.pl,B.z)
@@ -113108,7 +113108,7 @@ l=B.a9.i3(0,A.lb(A.l6(m.e).c.a.h(0,"charset")).cM(0,m.w),null)
 if(o.b===200){p=J.aE(n)
 $.d_().c2(B.aw,J.ac(J.ac(p.h(n,"data"),"attributes"),"version"),null,null)
 $.b8O=J.ac(J.ac(p.h(n,"data"),"attributes"),"version")
-if(A.T("3.3")<A.T($.b8O))$.b8o=!0
+if(A.T("3.4")<A.T($.b8O))$.b8o=!0
 else $.b8o=!1
 if(A.b("Star")==="\u661f\u7ea7"){p=J.aE(l)
 $.vl=J.ac(J.ac(p.h(l,"data"),"attributes"),"emergencycn")
@@ -113134,7 +113134,7 @@ n=J
 s=2
 return A.Q(A.hp(),$async$Ca)
 case 2:p=o.ce(n.ac(b.a,"adstatus"))
-if("3.3"===(p==null?"999":p))$.Sn=!1
+if("3.4"===(p==null?"999":p))$.Sn=!1
 q.U(new A.aVg())
 return A.M(null,r)}})
 return A.N($async$Ca,r)},
@@ -127520,7 +127520,7 @@ $.bwN=A.H(t.da,A.aj("aF<aB>"))
 $.TM=A.H(t.N,t.wL)
 $.ta=A.H(t.N,t.zR)
 $.Sn=!0
-$.b8O="3.3"
+$.b8O="3.4"
 $.b2w=0
 $.ai_=0
 $.ahZ=0
