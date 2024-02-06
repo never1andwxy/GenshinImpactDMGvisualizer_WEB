@@ -32063,7 +32063,7 @@ a4=$.rK?15:0
 a5=o.a
 a5=a5.gP(a5)==="15512"?12+m*4:0
 a6=o.a
-a6=a6.gP(a6)==="14514"?(12+m*4)*$.nB:0
+a6=a6.gP(a6)==="14514"?(10+m*4)*$.nB:0
 a7=o.a
 a7=a7.gP(a7)==="14513"?(10.5+m*3.5)*$.hP:0
 b7=o.a
@@ -103092,7 +103092,7 @@ if(p==="14514"){p=A.c_(p)
 o=A.cA(c8)
 p=p.a
 p===$&&A.e()
-s.push(r.v(B.co,p.c9(o),B.f.i((12+q.CW*4)*$.nB)))}p=q.ay
+s.push(r.v(B.co,p.c9(o),B.f.i((10+q.CW*4)*$.nB)))}p=q.ay
 if(p==="14513"){p=A.c_(p)
 o=A.cA(c8)
 p=p.a
@@ -103126,7 +103126,7 @@ s.push(r.E(B.ak,p>60?60:p))}if(q.ay==="15304")s.push(r.E(B.ah,30+q.CW*6))
 if($.n==="10000034"&&$.ai6)s.push(r.E(B.b6,15))
 if($.rK)s.push(r.E(B.aV,15))
 if(q.ay==="15512")s.push(r.E(B.X,12+q.CW*4))
-if(q.ay==="14514")s.push(r.E(B.co,(12+q.CW*4)*$.nB))
+if(q.ay==="14514")s.push(r.E(B.co,(10+q.CW*4)*$.nB))
 if(q.ay==="14513")s.push(r.E(B.x,(10.5+q.CW*3.5)*$.hP+0))
 if(q.ay==="14426")s.push(r.E(B.x,(4.5+q.CW*1.5)*$.iY+0))
 if($.n==="10000091"&&$.h8)s.push(r.E(B.am,40))
@@ -109339,7 +109339,7 @@ if($.cT){l=new A.h()
 l.j(18,e3)}else l=b3
 if($.ez){k=new A.h()
 k.j(25,e3)}else k=b3
-r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,b9,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}q=A.b(d1)
+r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,d0,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}q=A.b(d1)
 o=$.bP
 n=new A.h()
 n.j(o,b5)
@@ -109359,7 +109359,7 @@ if($.cT){l=new A.h()
 l.j(18,e3)}else l=b3
 if($.ez){k=new A.h()
 k.j(25,e3)}else k=b3
-r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,b9,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}q=A.b(d2)
+r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,d0,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}q=A.b(d2)
 o=$.bM
 n=new A.h()
 n.j(o,b5)
@@ -109379,7 +109379,7 @@ if($.cT){l=new A.h()
 l.j(18,e3)}else l=b3
 if($.ez){k=new A.h()
 k.j(25,e3)}else k=b3
-r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,b9,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}r=A.aT(r,new A.A(0,0,0,0),!1,new A.A(0,0,0,0),p)
+r.push(A.w(A.a([s.t(B.z,q+":("+o+"%)",A.a([n,l,k],m),[],e6,d0,2*$.ad/100),A.f(b3,10,b3)],h4),B.e,B.h,B.d))}r=A.aT(r,new A.A(0,0,0,0),!1,new A.A(0,0,0,0),p)
 q=A.b("Spiritbreath Thorn/Surging Blade DMG")
 p=$.zX
 o=new A.h()
