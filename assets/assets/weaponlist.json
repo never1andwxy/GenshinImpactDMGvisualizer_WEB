@@ -829,18 +829,6 @@
             "order": 999
         },
         {
-            "id": "12512",
-            "ENname": "Verdict",
-            "CNname": "裁断",
-            "JAname": "裁断",
-            "imageurl": "images/weapon/12512.png",
-            "rarity": 5,
-            "type": "claymore",
-            "spoiler": false,
-            "supported": true,
-            "order": 999
-        },
-        {
             "id": "13101",
             "ENname": "Beginner's Protector",
             "CNname": "新手长枪",
@@ -2005,18 +1993,6 @@
             "order": 999
         },
         {
-            "id": "11304",
-            "ENname": "Dark Iron Sword",
-            "CNname": "暗铁剑",
-            "JAname": "暗鉄剣",
-            "imageurl": "images/weapon/11304.png",
-            "rarity": 3,
-            "type": "sword",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
@@ -2024,7 +2000,7 @@
             "imageurl": "images/weapon/11427.png",
             "rarity": 4,
             "type": "sword",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2036,19 +2012,43 @@
             "imageurl": "images/weapon/11428.png",
             "rarity": 4,
             "type": "sword",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
         {
             "id": "11513",
-            "ENname": "Splendor of Still Waters",
+            "ENname": "Splendor of Tranquil Waters",
             "CNname": "静水流涌之辉",
             "JAname": "静水流転の輝き",
             "imageurl": "images/weapon/11513.png",
             "rarity": 5,
             "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11514",
+            "ENname": "Uraku Misugiri",
+            "CNname": "有乐御簾切",
+            "JAname": "有楽御簾切",
+            "imageurl": "images/weapon/11514.png",
+            "rarity": 5,
+            "type": "sword",
             "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12426",
+            "ENname": "\"Ultimate Overlord's Mega Magic Sword\"",
+            "CNname": "「究极霸王超级魔剑」",
+            "JAname": "「スーパーアルティメット覇王魔剣」",
+            "imageurl": "images/weapon/12426.png",
+            "rarity": 4,
+            "type": "claymore",
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2060,8 +2060,20 @@
             "imageurl": "images/weapon/12427.png",
             "rarity": 4,
             "type": "claymore",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12512",
+            "ENname": "Verdict",
+            "CNname": "裁断",
+            "JAname": "裁断",
+            "imageurl": "images/weapon/12512.png",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": false,
+            "supported": true,
             "order": 999
         },
         {
@@ -2106,6 +2118,18 @@
             "CNname": "万世流涌大典",
             "JAname": "久遠流転の大典",
             "imageurl": "images/weapon/14514.png",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14515",
+            "ENname": "Crane's Echoing Call",
+            "CNname": "鹤鸣余音",
+            "JAname": "鶴鳴の余韻",
+            "imageurl": "images/weapon/14515.png",
             "rarity": 5,
             "type": "catalyst",
             "spoiler": false,
