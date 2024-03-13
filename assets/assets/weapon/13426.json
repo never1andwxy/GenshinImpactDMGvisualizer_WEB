@@ -1,0 +1,141 @@
+{
+    "id": "13426",
+    "ENname": "Dialogues of the Desert Sages",
+    "CNname": "沙中伟贤的对答",
+    "JAname": "砂中の賢者達の問答",
+    "imageurl": "images/weapon/13426.png",
+    "type": "pole",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.401,
+            "hp_percent": 0.09
+        },
+        {
+            "level": "5",
+            "base_attack": 56.393330000000006,
+            "hp_percent": 0.10457999999999999
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494300000002,
+            "hp_percent": 0.12267
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655600000001,
+            "hp_percent": 0.14085
+        },
+        {
+            "level": "20",
+            "base_attack": 108.92816900000001,
+            "hp_percent": 0.15902999999999998
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978200000002,
+            "hp_percent": 0.17721
+        },
+        {
+            "level": "30",
+            "base_attack": 143.908994,
+            "hp_percent": 0.19538999999999998
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060700000002,
+            "hp_percent": 0.21357
+        },
+        {
+            "level": "40",
+            "base_attack": 204.83222,
+            "hp_percent": 0.23175
+        },
+        {
+            "level": "45",
+            "base_attack": 196.443833,
+            "hp_percent": 0.24993
+        },
+        {
+            "level": "50",
+            "base_attack": 265.85544600000003,
+            "hp_percent": 0.26811
+        },
+        {
+            "level": "55",
+            "base_attack": 231.467059,
+            "hp_percent": 0.28629
+        },
+        {
+            "level": "60",
+            "base_attack": 326.77867200000003,
+            "hp_percent": 0.30446999999999996
+        },
+        {
+            "level": "65",
+            "base_attack": 266.447884,
+            "hp_percent": 0.32265
+        },
+        {
+            "level": "70",
+            "base_attack": 387.659497,
+            "hp_percent": 0.34074
+        },
+        {
+            "level": "75",
+            "base_attack": 301.47111,
+            "hp_percent": 0.35891999999999996
+        },
+        {
+            "level": "80",
+            "base_attack": 448.682723,
+            "hp_percent": 0.37710000000000005
+        },
+        {
+            "level": "85",
+            "base_attack": 336.49433600000003,
+            "hp_percent": 0.39528
+        },
+        {
+            "level": "90",
+            "base_attack": 509.60595900000004,
+            "hp_percent": 0.41346
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": "113426",
+            "name": "Principle of Equilibrium",
+            "upgrade": {
+                "0": "When the wielder performs healing, restore 8 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+                "1": "When the wielder performs healing, restore 10 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+                "2": "When the wielder performs healing, restore 12 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+                "3": "When the wielder performs healing, restore 14 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+                "4": "When the wielder performs healing, restore 16 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field."
+            }
+        },
+        "chs": {
+            "id": "113426",
+            "name": "均衡的原理",
+            "upgrade": {
+                "0": "进行治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "1": "进行治疗时，恢复10点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "2": "进行治疗时，恢复12点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "3": "进行治疗时，恢复14点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+                "4": "进行治疗时，恢复16点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。"
+            }
+        },
+        "jp": {
+            "id": "113426",
+            "name": "均衡の原理",
+            "upgrade": {
+                "0": "治療を行う時、元素エネルギーを8ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "1": "治療を行う時、元素エネルギーを10ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "2": "治療を行う時、元素エネルギーを12ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "3": "治療を行う時、元素エネルギーを14ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+                "4": "治療を行う時、元素エネルギーを16ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}

@@ -1186,7 +1186,7 @@
             "rarity": 4,
             "element": "fire",
             "weapon": "pole",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1203,20 +1203,6 @@
             "spoiler": false,
             "supported": true,
             "order": 32
-        },
-        {
-            "id": "10000094",
-            "ENname": "Chiori",
-            "CNname": "千织",
-            "JAname": "千織",
-            "imageurl": "images/character/10000094.png",
-            "imagelargeurl": "images/character/10000094-large.webp",
-            "rarity": 5,
-            "element": "rock",
-            "weapon": "sword",
-            "spoiler": false,
-            "supported": true,
-            "order": 33
         },
         {
             "id": "10000092",
@@ -1245,6 +1231,20 @@
             "spoiler": false,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "10000094",
+            "ENname": "Chiori",
+            "CNname": "千织",
+            "JAname": "千織",
+            "imageurl": "images/character/10000094.png",
+            "imagelargeurl": "images/character/10000094-large.webp",
+            "rarity": 5,
+            "element": "rock",
+            "weapon": "sword",
+            "spoiler": false,
+            "supported": true,
+            "order": 33
         }
     ]
 }

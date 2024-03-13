@@ -2029,18 +2029,6 @@
             "order": 999
         },
         {
-            "id": "11514",
-            "ENname": "Uraku Misugiri",
-            "CNname": "有乐御簾切",
-            "JAname": "有楽御簾切",
-            "imageurl": "images/weapon/11514.png",
-            "rarity": 5,
-            "type": "sword",
-            "spoiler": true,
-            "supported": false,
-            "order": 999
-        },
-        {
             "id": "12426",
             "ENname": "\"Ultimate Overlord's Mega Magic Sword\"",
             "CNname": "「究极霸王超级魔剑」",
@@ -2084,7 +2072,7 @@
             "imageurl": "images/weapon/13427.png",
             "rarity": 4,
             "type": "pole",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2096,7 +2084,7 @@
             "imageurl": "images/weapon/14426.png",
             "rarity": 4,
             "type": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2108,7 +2096,7 @@
             "imageurl": "images/weapon/14513.png",
             "rarity": 5,
             "type": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2144,7 +2132,31 @@
             "imageurl": "images/weapon/15427.png",
             "rarity": 4,
             "type": "bow",
-            "spoiler": true,
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11514",
+            "ENname": "Uraku Misugiri",
+            "CNname": "有乐御簾切",
+            "JAname": "有楽御簾切",
+            "imageurl": "images/weapon/11514.png",
+            "rarity": 5,
+            "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "13426",
+            "ENname": "Dialogues of the Desert Sages",
+            "CNname": "沙中伟贤的对答",
+            "JAname": "砂中の賢者達の問答",
+            "imageurl": "images/weapon/13426.png",
+            "rarity": 4,
+            "type": "pole",
+            "spoiler": false,
             "supported": false,
             "order": 999
         }
